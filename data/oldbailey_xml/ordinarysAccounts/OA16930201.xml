@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA16930201">
+            <interp inst="OA16930201" type="uri" value="ordinarysAccounts/OA16930201"/>
+            <interp inst="OA16930201" type="date" value="16930201"/>
+            <xptr type="pageFacsimile" doc="OA169302010001"/>
+            <p>A True ACCOUNT of the BEHAVIOUR, CONFESSION, AND Last Dying Speech, OF <rs id="OA16930201-occupation-1" type="occupation">Capt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA16930201n2-1 OA16930201-occupation-1"/>. <persName id="OA16930201n2-1">
+                  <interp inst="OA16930201n2-1" type="gender" value="male"/>
+                  <interp inst="OA16930201n2-1" type="surname" value="WHITNEY"/>
+                  <interp inst="OA16930201n2-1" type="given" value="JAMES"/>James Whitney</persName>, Who was Executed on Wednesday the 1st. of February, 1692. at the <placeName id="OA16930201-geo-1">
+                  <join result="persNamePlace" targOrder="Y" targets="OA16930201n2-1 OA16930201-geo-1"/>
+                  <placeName id="OA16930201-geo-2">
+                     <interp inst="OA16930201-geo-2" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA16930201n2-1 OA16930201-geo-2"/>Portes-block</placeName> in West-Smith-field</placeName>: being Condemned at the Sessions last past, for Robbing on the High-Way, &amp;c.</p>
+            <p>IT is not unknown to the World, that <rs id="OA16930201-occupation-2" type="occupation">Captain</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA16930201n2-1 OA16930201-occupation-2"/> Whitney was Carryed to <placeName id="OA16930201-geo-3">
+                  <interp inst="OA16930201-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA16930201n2-1 OA16930201-geo-3"/>Tyburn</placeName> last Friday, in Order to be Executed there, with several other Highway-Men; but was Respited, and brought back to <placeName id="OA16930201-geo-4">
+                  <interp inst="OA16930201-geo-4" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA16930201n2-1 OA16930201-geo-4"/>Newgate</placeName>, and there Remained till this Day, there being a fresh Warrant brought by Mr. Sheriff, for his Execution: He was carryed in a Cart to the above said place, in the way to which he Demeaned himself with the Decency and Modesty, as becomes a Man under such Circumstances. When he came to the Gibbet, he desired that he might have a convenient time to prepare himself for Death, and it was granted him. Then he knelled down, and the Ordinary Prayed with him, and another Minister, in their own Prayers, and afterwards in the Prayers of the Church, to which he was very Attentive, and much Affected. Then he desired that a Penitential Psalm should be Sung, which being ended, he was Advised by the Ordinary, to warn the Spectators to live in the Fear of God, that they might not Provoke his Justice to cut them off by such an untimely end. Being ask'd what Impressions he felt in his Heart, from the Spirit of Grace and Comfort. He said, that he had Divine Support, and hoped that his Peace was made with God. He was advised not to Murmur at the Righteousness of God, in bringing him to this Condign Punishment. He said, that he submitted to the Will of God; because his Sins had been great, aad that if he had not been reserved for this shameful Death, he had never minded God, nor hir Duty to him. But now he hopes in the Mercy of God, and infinite Merits of Christ, for Eternal Salvation.</p>
+            <p>Then he desired the Ministers to sing another Psalm, and to pray with him again, which they did; and he was much affected, and wept. He rehearsed the Creek, and professed he dyed in the Protestant Faith; and that he had hindred many from being Robbed, and several Mischiefs in Robbing. Then he desired the People to pray for him, and behaved himself with a very Composed and Devout Frame. Afterward he was tyed up to the Gibbet, and was very Penitent to the last. His Cap being pulled over his Face, he prayed a little time to, and for himself; and after having given the Sign, the Cart drew away, and he was committed to the Mercy of God Almighty.</p>
+            <p>
+               <persName id="OA16930201n5-1">
+                  <interp inst="OA16930201n5-1" type="gender" value="male"/>
+                  <interp inst="OA16930201n5-1" type="surname" value="SMITH"/>
+                  <interp inst="OA16930201n5-1" type="given" value="SAMUEL"/>Samuel Smith</persName>, <rs id="OA16930201-occupation-3" type="occupation">Ordinary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA16930201n5-1 OA16930201-occupation-3"/>.</p>
+            <p>Dated this 1st. of February, 1692.</p>
+            <p>ADVERTISEMENT.</p>
+            <p>WHereas there formerly have been, and still are, several False Accounts in Print, in Relation to the Condemned Prisoners; and particularly, this very Session, as to <persName id="OA16930201n8-1">
+                  <interp inst="OA16930201n8-1" type="gender" value="male"/>
+                  <interp inst="OA16930201n8-1" type="surname" value="WHITNEY"/>
+                  <interp inst="OA16930201n8-1" type="given" value="JAMES"/>Captain James Whitney</persName>, which is utterly false: The Ordinary thinks it necessary to acquaint the World (to prevent the like for the future) that no true Account can be given of the Condemned Prisoners Behaviour, Confession, and Last dying Speeches, which is not Attested under his own Hand.</p>
+            <p>LONDON: Printed for L. Curtiss, at Sir Edmundbury Godfrey's Hed, near Fleet Bridge, 1692.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

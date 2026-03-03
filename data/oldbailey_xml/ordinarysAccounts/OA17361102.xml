@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17361102">
+            <interp inst="OA17361102" type="uri" value="ordinarysAccounts/OA17361102"/>
+            <interp inst="OA17361102" type="date" value="17361102"/>
+            <xptr type="pageFacsimile" doc="OA173611020001"/>
+            <p>THE ORDINARY of NEWGATE, His ACCOUNT of the Behaviour, Confession, and Dying Words, OF THE MALEFACTORS, Who was EXECUTED at TYBURN,  the Second of this Instant </p>
+            <p>BEING THE  EXECUTION in the MAYORALTY OF THE  <rs id="OA17361102-occupation-1" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n3-1 OA17361102-occupation-1"/> 
+               <persName id="OA17361102n3-1">
+                  <interp inst="OA17361102n3-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n3-1" type="surname" value="WILLIAMS"/>
+                  <interp inst="OA17361102n3-1" type="given" value="JOHN"/>JOHN WILLIAMS</persName>, </p>
+            <p>Number VI. For the said year.</p>
+            <p>LONDON:</p>
+            <p>Printed and Sold by <persName id="OA17361102n6-1">
+                  <interp inst="OA17361102n6-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n6-1" type="surname" value="APPLEBEE"/>
+                  <interp inst="OA17361102n6-1" type="given" value="JOHN"/>JOHN APPLEBEE</persName>, in <placeName id="OA17361102-geo-1">
+                  <interp inst="OA17361102-geo-1" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17361102n6-1 OA17361102-geo-1"/>
+                  <placeName id="OA17361102-geo-2">
+                     <interp inst="OA17361102-geo-2" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17361102n6-1 OA17361102-geo-2"/>Bolt-Court</placeName>, near the <placeName id="OA17361102-geo-3">
+                     <interp inst="OA17361102-geo-3" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17361102n6-1 OA17361102-geo-3"/>Leg-Tavern</placeName>, Fleet-street</placeName>. M,DCC,XXXVI.</p>
+            <p>(Price Six-pence.)</p>
+            <xptr type="pageFacsimile" doc="OA173611020002"/>
+            <p>ADVERTISEMENTS.</p>
+            <p>This Day is publish'd, In Two Volumes in Octavo, Price fourteen Shillings.</p>
+            <p>SELECT TRIALS at the Sessions-House in the Old-Bailey, for Murders, Robberies, Rapes, Sodomy, Coining, Frauds, and other Offences, from the Year 1720 to the present Time; chiefly transcrib'd from Notes taken in Court, with genuine Accounts of the Lives, Behaviour, Confessions and Dying Speeches of the most eminent Convicts. These Trials, &amp;c. are not to be met with in any other Collection.</p>
+            <p>These two Volumes contain the Trials of Hawkins and Sympson for robbing the Bristol Mail, with an Account of all their Robberies; of Spiggot the famous Highwayman that bore 350 lb. Weight on his Breast; of Butler, Barton, Fox, Hawes, Wright, Colthouse, Drury, Warwick, Yates, Armstrong, Beck, Edwards, and many others, all famous Highwaymen, and Street-Robbers; of <persName id="OA17361102n11-1">
+                  <interp inst="OA17361102n11-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-1" type="surname" value="GREY"/>
+                  <interp inst="OA17361102n11-1" type="given" value="ARTHUR"/>Arthur Grey</persName> the famous <rs id="OA17361102-occupation-2" type="occupation">Footman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n11-1 OA17361102-occupation-2"/> for Burglary, with an Intent to ravish Mrs. Murray; of Dr Krauft, Pritchard, Simmonds, Cook, Ellis, and many others for Rapes, all very entertaining; of Capt. Stanley, for the Murder of his Whore; of Brinsdon, Crony, Nichols, Mac-Gennis, Lutterell, the famous Nanny Butler, Vaughan and Cholmly (two Constables) <persName id="OA17361102n11-3">
+                  <interp inst="OA17361102n11-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-3" type="surname" value="SNOW"/>
+                  <interp inst="OA17361102n11-3" type="given" value="FORSTER"/>Forster Snow</persName>, and many others for Murder; also Major Oneby, for the Murder of Mr. Gower, with his Life; of Vezey and Hallam, for the Murder of their Wives; of <persName id="OA17361102n11-14">
+                  <interp inst="OA17361102n11-14" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-14" type="surname" value="Savage"/>
+                  <interp inst="OA17361102n11-14" type="given" value="Ricard"/>Ricard Savage</persName>, <rs id="OA17361102-occupation-3" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n11-14 OA17361102-occupation-3"/>; for Murder, <persName id="OA17361102n11-4">
+                  <interp inst="OA17361102n11-4" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-4" type="surname" value="STRAFFORD"/>
+                  <interp inst="OA17361102n11-4" type="given" value="EDWARD"/>Edward Strafford</persName>, <rs id="OA17361102-occupation-4" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n11-4 OA17361102-occupation-4"/>; and many others; of <persName id="OA17361102n11-5">
+                  <interp inst="OA17361102n11-5" type="gender" value="female"/>
+                  <interp inst="OA17361102n11-5" type="surname" value="SALISBURY"/>
+                  <interp inst="OA17361102n11-5" type="given" value="SALLY"/>Sally Salisbury</persName>, for an Attempt to stab the Hon. J- F-, Esq; of <persName id="OA17361102n11-6">
+                  <interp inst="OA17361102n11-6" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-6" type="surname" value="BURTON"/>
+                  <interp inst="OA17361102n11-6" type="given" value="CHARLES"/>Sir Charles Burton</persName>, <rs id="OA17361102-occupation-5" type="occupation">Bart</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n11-6 OA17361102-occupation-5"/>, for Felony; of Duffus, <persName id="OA17361102n11-7">
+                  <interp inst="OA17361102n11-7" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-7" type="surname" value="LAWRENCE"/>
+                  <interp inst="OA17361102n11-7" type="given" value="GABRIEL"/>Gabriel Lawrence</persName>, and a great many others for Sodomy, shewing all the Tricks and Methods used by the Mollies; of Squire Day alias Davenport for a Cheat, and several others for Bilking their Lodgings; of two German Counts for forging a Bank Note; of <persName id="OA17361102n11-9">
+                  <interp inst="OA17361102n11-9" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-9" type="surname" value="WILD"/>
+                  <interp inst="OA17361102n11-9" type="given" value="JOHNATHAN"/>Johnathan Wild</persName> for several Felonies, with several Particulars of his Life, never before published; of Mrs. Gregory, for marrying Squire Cockerl, uder pretence of being a great Fortune; of the infamous <persName id="OA17361102n11-10">
+                  <interp inst="OA17361102n11-10" type="gender" value="female"/>
+                  <interp inst="OA17361102n11-10" type="surname" value="HAYS"/>
+                  <interp inst="OA17361102n11-10" type="given" value="CATHERINE"/>Catherine Hays</persName>, who murder'd her Husband, and lay with another Man the same Night; of Mrs. Sherman, for giving Poison to Mr. Chevet; of Vevers the Bricklayer, on all his Indictments; of <persName id="OA17361102n11-11">
+                  <interp inst="OA17361102n11-11" type="gender" value="female"/>
+                  <interp inst="OA17361102n11-11" type="surname" value="HENDRON"/>
+                  <interp inst="OA17361102n11-11" type="given" value="MARY"/>Mary Hendron</persName>, for marrying Miss Morris to an Irishman against her Consent; of blind Cowper and Harpham, and others for Coining; of Russel for a Misdemeanour, for endeavouring to carry away Mrs. Benson; of <persName id="OA17361102n11-12">
+                  <interp inst="OA17361102n11-12" type="gender" value="male"/>
+                  <interp inst="OA17361102n11-12" type="surname" value="HALES"/>
+                  <interp inst="OA17361102n11-12" type="given" value="WILLIAM"/>William Hales</persName>, <rs id="OA17361102-occupation-6" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n11-12 OA17361102-occupation-6"/>; and Parson Kinnersley for Forgery; of Atkinson for the Murder of his Mother at Charing-Cross; with a great Number of diverting Tryals of Whores for robbing those that pick'd them up; and several other remarkable ones, for the Highway, Rapes, Murder, Burglaries, &amp;c.</p>
+            <p>Both Volumes containing upwards of Five hundred Trials; among which are upwards of seventy Times for Murder, near Sixty of Whores for privately stealing, uwards of one Hundred for the Highway, about Thirty for Rapes; the rest being for Frauds Forgery, Burglary, Sodomy Bigamy, Shop-listing, Riots Misdemeanors, Receiving Stollen Goods Single Felonies &amp;c. &amp;c. &amp;c.</p>
+            <p>Sold by I. APPLEBEE, in Bolt-Court  Fleet-Street.</p>
+            <p>N. B. These Trials are not only very necessary for all Lawyers, Justices of the Peace, Clerks of the Indictments, and other Persons concern'd in Prosecutions, &amp;c. but are very useful and entertaining to the Generality of Readers and every Number contains more in Quantity, and is cheaper than any thing ever publish'd this Way.</p>
+            <p>These Trials, which make-26 Numbers, were Published once a Fortnight; and such Persons as want any Numbers to compleat their Setts, are desired to send for them very speedily, or it will be impossible ever to complete them.</p>
+            <p>This Day is Published, Price 5 s.</p>
+            <p>EVERY Man his own Lawyer: Or, a Summary of the Laws of England in a New and Instructive Method, under the following Heads, viz.</p>
+            <p>I. Of Actions and Remedies, Writs, Process, Arrests and Bail.</p>
+            <p>II. Of Courts, Attornies and Solicitors therein, Juries, Witnesses, Trials, Executions, &amp;c.</p>
+            <p>III. Of Estates and Property in Lands and Goods, and how acquired, Ancestors, Heirs, Executors and Administrators.</p>
+            <p>IV. Of the Laws relating to Marriage, Bastardy, Infants, Ideots, Lunaticks.</p>
+            <p>V. Of the Liberty of the Subject, Magna Charta, the Habeas Corpus Act, and other Statutes.</p>
+            <p>VI. Of the king and his Prerogative, the Queen, Peers, Judges, Sheriffs, Coroners, Justices of the Peace, Constables, &amp;c.</p>
+            <p>VII. Of Publick Offences, Treason, Murder Felony, Burglary, Robbery, Rape, Sodomy, Forgery, Perjury, &amp;c. And their Punishment.</p>
+            <p>All of them so plainly treated of, that all Manner of Persons may be particularly acquainted with our L A W S and S T A T U T E S, concerning Civil and Criminal Affairs, and know how to defend themselves, and their Estates and Fortunes; in all Cases whatsoever.</p>
+            <p>Printed for J. Hazard, against Stationers-Hall, near Ludgate.</p>
+            <p>Where may be had,</p>
+            <p>1. The Law, of Tithes, the second Edition, pr. 5 s.</p>
+            <p>2. A Tithing Table, shewing by way of Analysis, of what Things Tythes are, or are not due, either by Common-Law, Custom, or prescription, price 1 s.</p>
+            <p>Both the above by <persName id="OA17361102n30-1">
+                  <interp inst="OA17361102n30-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n30-1" type="surname" value="BOHUN"/>
+                  <interp inst="OA17361102n30-1" type="given" value="WILLIAM"/>William Bohun</persName>, of the <placeName id="OA17361102-geo-4">
+                  <interp inst="OA17361102-geo-4" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17361102n30-1 OA17361102-geo-4"/>Middle-Temple</placeName>, <rs id="OA17361102-occupation-7" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n30-1 OA17361102-occupation-7"/>;</p>
+            <xptr type="pageFacsimile" doc="OA173611020003"/>
+            <p>THE ORDINARY of NEWGATE, His ACCOUNT of the Behaviour, Confession, &amp;c.</p>
+            <p>AT the King's Commission of Oyer and Terminer and Goal-delivery of Newgate, held before the Right Hon. <persName id="OA17361102n32-1">
+                  <interp inst="OA17361102n32-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n32-1" type="surname" value="WILLIAMS"/>
+                  <interp inst="OA17361102n32-1" type="given" value="JOHN"/>Sir John Williams</persName>, <rs id="OA17361102-occupation-8" type="occupation">Knt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n32-1 OA17361102-occupation-8"/>. <rs id="OA17361102-occupation-9" type="occupation">Lord-Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n32-1 OA17361102-occupation-9"/>, of the <placeName id="OA17361102-geo-5">
+                  <interp inst="OA17361102-geo-5" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17361102n32-1 OA17361102-geo-5"/>City of London</placeName>; the Right Hon. the Lord Hardwicke; the Hon. Mr. Justice Denton; the Worshipful Mr. Serjeant Urlin, Deputy Recorder of the City of London, and others of his Majesty's Justices of Oyer and Terminer for the City of London, and Justices of Goal-delivery of Newgate, for the said City and County of Middlesex, at Justice-Hall, in the <placeName id="OA17361102-geo-6">
+                  <interp inst="OA17361102-geo-6" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n32-1 n33-1 n33-2 n33-3 n41-5 OA17361102-geo-6"/>Old Bailey</placeName>, on Wednesday, Thursday, and Friday, the 13th, 14th, and 15th of October, in the Tenth Year of his Majesty's Reign.</p>
+            <p>Two Men, viz. <persName id="OA17361102n33-1">
+                  <interp inst="OA17361102n33-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n33-1" type="surname" value="RINE"/>
+                  <interp inst="OA17361102n33-1" type="given" value="WILLIAM"/>William Rine</persName> and <persName id="OA17361102n33-2">
+                  <interp inst="OA17361102n33-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n33-2" type="surname" value="MORGAN"/>
+                  <interp inst="OA17361102n33-2" type="given" value="SAMUEL"/>Samuel Morgan</persName>; and one Woman, viz. <persName id="OA17361102n33-3">
+                  <interp inst="OA17361102n33-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n33-3" type="surname" value="Rempton"/>
+                  <interp inst="OA17361102n33-3" type="given" value="Mary"/>Mary Rempton</persName>; alias Campton; were by the Jury found guilty of capital Crimes, and received Sentence of Death.</p>
+            <p>On Friday Morning, the 15th of October, being the last Day of Sessions, <persName id="OA17361102n34-1">
+                  <interp inst="OA17361102n34-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n34-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n34-1" type="given" value="DANIEL"/>Daniel Malden</persName>, who of late had made his Escape out of <placeName id="OA17361102-geo-7">
+                  <interp inst="OA17361102-geo-7" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17361102n34-1 OA17361102-geo-7"/>Newgate</placeName> twice, while under Sentence of Death, was called down before the Court, and it was intimated to him that his former Judgment must be executed upon  He had nothing to say for himself, but that it was his first Fa, he never was before a Court before, and that he had not stole of robb'd any during the Time after he made his two last Escapes; in Consideration whereof he begg'd for  for that he was desir'd to apply else-where, their Business being to pro</p>
+            <xptr type="pageFacsimile" doc="OA173611020004"/>
+            <p>nounce Judgment. For Security he was kept in the old Condemn'd Hole, and being under Sentence of Death with the rest, I commonly visited him once a Day in that dismal Place.</p>
+            <p>While under Sentence, they were exhorted seriously to think upon the Evil of heir Ways and Doings and to turn then Feet unto God's Testimonies. I represented unto them what an evil thing it was to depart from God, as is clear from 2 Chron. v. 2. The Lord is with you while ye be with him; and if ye seek him he shall be found of you;  if ye forsake him, be will for sake you. And Jer. vi 8. Be it  instructed, O Jerusalem, least my Soul depart from thee; lest I make the desote inhabited. When it  follows, that they who  God Sencerity, God will be found of them; he will be a present Help in time of need unto them; he will be their exceeding great Reward  will bless them with Grace here, and Glory preplaing hereafter.</p>
+            <p>And 2dly, Hence it's observable,  they who depart from, or forsake  God will forsake them, i e. he  them  God will deprive  of the favourable Presence, of  Light of  Countenance, which  Life; and all the Plea thereof, And 2dly, It's to be  that such desperately wicked and evil-disposed People, not only  Judgments from Heaven upon themselves, but also upon the Land wherein they live. From these and such like Considerations I exhorted them seriously to reflect upon their preceding Life, how they had dishonoured God, ruin'd their own Souls, and gone headlong in the Paths of Death, in the Way to Hell. Misery, and Destruction and therefore  it was high time for them to away out of that spiritual Lethargy, that Sleep of Death, wherein they had been so long detain'd, that Christ might give them light to repent of all their Sins, more especially that crying Guil which had brought upon them such miserable Calamities and Misfortunes, to which they were then most justly subjected. I advised them, in Imitation of the King and People of , incessantly to cry unto God  and Night, that he, out his ab Mercy and Compassion, might,  take Pity upon them for the Lord Sake. They were instructed in  Necessity of confessing their Sins;  taking Shame and Confusion Face to themselves, since whosoe  aleth his Sins shall not prosper  be that confesseth and for alleth  shall find Mercy. And lastly they  advised to approach God in the bless Sacrament of the Lord's, last Supper wherein they might have the Pardon of their Sins confirmed, and the glorious Hopes of eternal Life deeply routed in their Breasts.</p>
+            <p>When they had these, and many like Exhortations, all of them behav'd</p>
+            <xptr type="pageFacsimile" doc="OA173611020005"/>
+            <p>well, with apparent Devotion and Submission. Rine and Morgan, were most of the time they were under Sentence, very sick and indispos'd; yet for the most part they attended constantly at Devotion, and were attentive to Prayers and Exhortations.</p>
+            <p>
+               <persName id="OA17361102n40-1">
+                  <interp inst="OA17361102n40-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n40-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n40-1" type="given" value="DANIEL"/>Daniel Malden</persName> having been a dangerous Person to keep in a Gaol, as having twice broke out before, was stapled down in the old Condemn'd-Hole, which, since his last Elopement, was repair'd and made stronger than before; and there having his Hands and Feet chain'd, with an Under-keeper attending him Day and Night, I daily prayed for and instructed him: He seem'd at first desirous of Religious Duties, and behaved indifferently well; but because he had not every thing to his Mind, he turn'd peevish and obstinate in his Temper; and as I was going up one time to visit him, he was singing aloud, and very merily; I represented to him how unseasonable such Mirth was, considering his desperate Circumstances: He did not seem much concern'd at that time; but further exhorting him to Patience, Submission, and Resignation to the Will of God, the next time I visited him he was very desirous of Prayers and Instructions, and appear'd very humble, , and submissive.</p>
+            <p>Upon Thursday the 28th of October, the Report was made to the Queen's most Excellent Majesty in Council, of the four Malefactors, viz. <persName id="OA17361102n41-1">
+                  <interp inst="OA17361102n41-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n41-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n41-1" type="given" value="DANIEL"/>Daniel Malden</persName>, <persName id="OA17361102n41-2">
+                  <interp inst="OA17361102n41-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n41-2" type="surname" value="RINE"/>
+                  <interp inst="OA17361102n41-2" type="given" value="WILLIAM"/>William Rine</persName>, <persName id="OA17361102n41-3">
+                  <interp inst="OA17361102n41-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n41-3" type="surname" value="MORGAN"/>
+                  <interp inst="OA17361102n41-3" type="given" value="SAMUEL"/>Samuel Morgan</persName>, and <persName id="OA17361102n41-4">
+                  <interp inst="OA17361102n41-4" type="gender" value="female"/>
+                  <interp inst="OA17361102n41-4" type="surname" value="KEMPTON"/>
+                  <interp inst="OA17361102n41-4" type="given" value="MARY"/>Mary Kempton</persName>, alias <persName id="OA17361102n41-5">
+                  <interp inst="OA17361102n41-5" type="gender" value="female"/>
+                  <interp inst="OA17361102n41-5" type="surname" value="CAMPTON"/>
+                  <interp inst="OA17361102n41-5" type="given" value="MARY"/>Campton</persName>, lying in the Old Condemn'd-Hole, and in the Cells of Newgate, under Sentence of Death, when all of them were appointed for Execution.</p>
+            <p>
+               <persName id="OA17361102n42-1">
+                  <interp inst="OA17361102n42-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n42-1" type="given" value="DANIEL"/>Daniel Malden</persName>, alias <persName id="OA17361102n42-11">
+                  <interp inst="OA17361102n42-11" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-11" type="surname" value="MORGAN"/>
+                  <interp inst="OA17361102n42-11" type="given" value="DANIEL"/>Morgan</persName>, otherwise <persName id="OA17361102n42-12">
+                  <interp inst="OA17361102n42-12" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-12" type="surname" value="SMITH"/>
+                  <interp inst="OA17361102n42-12" type="given" value="DANIEL"/>Smith</persName>, and <persName id="OA17361102n42-13">
+                  <interp inst="OA17361102n42-13" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-13" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n42-13" type="given" value="MARY"/>Mary</persName> his <rs id="OA17361102-occupation-10" type="occupation">Wife</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n42-13 n89-1 n116-1 OA17361102-occupation-10"/>; <persName id="OA17361102n42-2">
+                  <interp inst="OA17361102n42-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-2" type="surname" value="HOLBURT"/>
+                  <interp inst="OA17361102n42-2" type="given" value="JOHN"/>John Holburt</persName> and <persName id="OA17361102n42-14">
+                  <interp inst="OA17361102n42-14" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-14" type="surname" value="HOLBURT"/>
+                  <interp inst="OA17361102n42-14" type="given" value="ANN"/>Ann</persName> his <rs id="OA17361102-occupation-11" type="occupation">Wife</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n42-14 OA17361102-occupation-11"/>, were indicted for breaking and ening the House of <persName id="OA17361102n42-3">
+                  <interp inst="OA17361102n42-3" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-3" type="surname" value="HENSHAW"/>
+                  <interp inst="OA17361102n42-3" type="given" value="MARY"/>Mary Henshaw</persName>, and stealing seven Pair of Sheets, the Goods of <persName id="OA17361102n42-4">
+                  <interp inst="OA17361102n42-4" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-4" type="surname" value="WHITE"/>
+                  <interp inst="OA17361102n42-4" type="given" value="JOHN"/>John White</persName>; eight Aprons, the Goods of <persName id="OA17361102n42-5">
+                  <interp inst="OA17361102n42-5" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-5" type="surname" value="BISHOP"/>
+                  <interp inst="OA17361102n42-5" type="given" value="SARAH"/>Sarah Bishop</persName>; three cheque Aprons, the Goods of <persName id="OA17361102n42-6">
+                  <interp inst="OA17361102n42-6" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-6" type="surname" value="HILDER"/>
+                  <interp inst="OA17361102n42-6" type="given" value="SARAH"/>Sarah Hilder</persName>; three cheque Aprons, the Goods of <persName id="OA17361102n42-7">
+                  <interp inst="OA17361102n42-7" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-7" type="surname" value="SEAL"/>
+                  <interp inst="OA17361102n42-7" type="given" value="ANN"/>Ann Seal</persName>; and one Shirt, the Goods of <persName id="OA17361102n42-8">
+                  <interp inst="OA17361102n42-8" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-8" type="surname" value="CLARK"/>
+                  <interp inst="OA17361102n42-8" type="given" value="THOMAS"/>Thomas Clark</persName>, February 29, and <persName id="OA17361102n42-9">
+                  <interp inst="OA17361102n42-9" type="gender" value="female"/>
+                  <interp inst="OA17361102n42-9" type="surname" value="GRAY"/>
+                  <interp inst="OA17361102n42-9" type="given" value="MARY"/>Mary Gray</persName>, for receiving a Shirt, the Goods of <persName id="OA17361102n42-10">
+                  <interp inst="OA17361102n42-10" type="gender" value="male"/>
+                  <interp inst="OA17361102n42-10" type="surname" value="CLARK"/>
+                  <interp inst="OA17361102n42-10" type="given" value="THOMAS"/>Thomas Clark</persName>, knowing it to be stolen, March the first.</p>
+            <p>
+               <persName id="OA17361102n43-1">
+                  <interp inst="OA17361102n43-1" type="gender" value="female"/>
+                  <interp inst="OA17361102n43-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n43-1" type="given" value="MARY"/>Mary Malden</persName>, <persName id="OA17361102n43-2">
+                  <interp inst="OA17361102n43-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n43-2" type="surname" value="HOLBERT"/>
+                  <interp inst="OA17361102n43-2" type="given" value="JOHN"/>John Holbert</persName>, <persName id="OA17361102n43-3">
+                  <interp inst="OA17361102n43-3" type="gender" value="female"/>
+                  <interp inst="OA17361102n43-3" type="surname" value="HOLBERT"/>
+                  <interp inst="OA17361102n43-3" type="given" value="ANN"/>Ann Holbert</persName>, and <persName id="OA17361102n43-4">
+                  <interp inst="OA17361102n43-4" type="gender" value="female"/>
+                  <interp inst="OA17361102n43-4" type="surname" value="GRAY"/>
+                  <interp inst="OA17361102n43-4" type="given" value="MARY"/>Mary Gray</persName>, acquitted <persName id="OA17361102n43-5">
+                  <interp inst="OA17361102n43-5" type="gender" value="male"/>
+                  <interp inst="OA17361102n43-5" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n43-5" type="given" value="DANIEL"/>Daniel Malden</persName>, guilty. Death.</p>
+            <p>N. B. <persName id="OA17361102n44-1">
+                  <interp inst="OA17361102n44-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n44-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n44-1" type="given" value="DANIEL"/>Daniel Malden</persName> was try'd at the Sessions holden at the <placeName id="OA17361102-geo-8">
+                  <interp inst="OA17361102-geo-8" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n44-1 n42-11 n42-12 OA17361102-geo-8"/>Old-Bailey</placeName>, on Wednesday the 5th of May, and on the 6th, 7th, 8th, 10th and 11th of the said May last, convicted, sentenc'd, and included in the dead Warrant with Ward, Tarlton, Freeman, and <persName id="OA17361102n44-2">
+                  <interp inst="OA17361102n44-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n44-2" type="surname" value="OWEN"/>
+                  <interp inst="OA17361102n44-2" type="given" value="FRANCIS"/>Francis Owen</persName>, who were executed on Monday the 24th of May last; but finding Means to escape on Sunday Night, and Monday Morning, the 23d and 24th of the said Month, the Morning of the Day of Execution, he was re-taken about <placeName id="OA17361102-geo-9">
+                  <interp inst="OA17361102-geo-9" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n44-1 n42-11 n42-12 OA17361102-geo-9"/>Rag-Fair</placeName> two or three Days after; he was at the next Sessions call'd down to his former Judgment, but before the Day of Execution, escaping from the condemn'd Hold, he was re-taken at <placeName id="OA17361102-geo-10">
+                  <interp inst="OA17361102-geo-10" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n44-1 n42-11 n42-12 OA17361102-geo-10"/>Canterbury</placeName> sometime before the last Sessions, brought up to Town, and appointed to suffer with the other three, who were under Sentence, agreeable to the Judgment past upon him.</p>
+            <p>1. <persName id="OA17361102n45-1">
+                  <interp inst="OA17361102n45-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n45-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n45-1" type="given" value="DANIEL"/>Daniel Malden</persName>, 23 Years of Age, of honest Parents in the County of <placeName id="OA17361102-geo-11">
+                  <interp inst="OA17361102-geo-11" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n45-1 n42-11 n42-12 OA17361102-geo-11"/>Suffolk</placeName>, who educated him at School, to read English, and endeavour'd to have him instructed in the Christian Religion; but having been a perverse. Boy he scarce minded any Thing, either of Learning or Christianity, but had almost forgot all. When of Age, he was put to a <rs id="OA17361102-occupation-12" type="occupation">Sail-Maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n45-1 n42-11 n42-12 OA17361102-occupation-12"/>, to which Trade he serv'd for some Time, but meeting with  Company, he was easily led aside, and seldom follow'd the Employment he was bred to; for falling in with several Women of no good Character, to whose Company he was too much addicted; they put his Mind off all settled Business, which was the occasion of his leading a wandering, inconstant Life. He <rs id="OA17361102-occupation-13" type="occupation">serv'd in some of his Majesty's Ships</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n45-1 n42-11 n42-12 OA17361102-occupation-13"/>, and at other Times in Merchant-Men, and had been at <placeName id="OA17361102-geo-12">
+                  <interp inst="OA17361102-geo-12" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n45-1 n42-11 n42-12 OA17361102-geo-12"/>Guinea</placeName>, in the <placeName id="OA17361102-geo-13">
+                  <interp inst="OA17361102-geo-13" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n45-1 n42-11 n42-12 OA17361102-geo-13"/>West-Indies</placeName>; at <placeName id="OA17361102-geo-14">
+                  <interp inst="OA17361102-geo-14" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n45-1 n42-11 n42-12 OA17361102-geo-14"/>Gibralter</placeName>, in the Mediterranean; <placeName id="OA17361102-geo-15">
+                  <interp inst="OA17361102-geo-15" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n45-1 n42-11 n42-12 OA17361102-geo-15"/>Portugal</placeName>, and at many Places. When at Home, he serv'd Gentlemen and People of Note in Station of a <rs id="OA17361102-occupation-14" type="occupation">Jockey</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n45-1 n42-11 n42-12 OA17361102-occupation-14"/>, and rode Racer for them in several Places of the Country, and was honest in his Dealings, as he gave out. He own'd his carrying away the wet Linnen from <persName id="OA17361102n45-2">
+                  <interp inst="OA17361102n45-2" type="gender" value="female"/>
+                  <interp inst="OA17361102n45-2" type="surname" value="Henshaw"/>
+                  <interp inst="OA17361102n45-2" type="given" value="Mary"/>Mary Henshaw</persName>'s House, a <rs id="OA17361102-occupation-15" type="occupation">Washerwoman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n45-2 OA17361102-occupation-15"/>, but that he only receiv'd them from another, who took them and delivered them to him, and that he carried them all off; yet he confess'd to the Justice and others, that he was equally concern</p>
+            <xptr type="pageFacsimile" doc="OA173611020006"/>
+            <p>ed with the other Man, in breaking open the Woman's House, and stealing the Goods; neither did he vindicate himself in that Affair, but acknowledg'd the Justice of his Sentence; only he alledg'd what is not very probable, that he was not guilty of any Theft or Robbery before. He behav'd indifferently well, and seem'd penitent. He was very sick, and miserably poor, and did not appear so profoundly vicious, as many others of his Stamp.</p>
+            <p>One of the two Jockeys who took him up at <placeName id="OA17361102-geo-16">
+                  <interp inst="OA17361102-geo-16" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n45-1 n42-11 n42-12 OA17361102-geo-16"/>Canterbury</placeName>, had the Assurance to come to see him in the Hole, he said very little to him, only, That he would not have done so to him, or any Body, and the Reward they expected, there being none for them, and he was very glad they were justly disappointed of.</p>
+            <p>For the most part he behav'd well, but was buoy'd up with Hopes of a Reprieve, which made him too indifferent in the Concerns of his Soul; but when he saw there was no Hopes of Life, being included in the dead Warrant, he became extremely serious and devout. He was ignorant of Religion, that having been least in his Thoughts, but was always attentive to Prayers and Exhortations. He believ'd in Christ our only Saviour; repented of all his Sins, and died in Peace with all Men.</p>
+            <p>
+               <persName id="OA17361102n49-1">
+                  <interp inst="OA17361102n49-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n49-1" type="surname" value="RINE"/>
+                  <interp inst="OA17361102n49-1" type="given" value="WILLIAM"/>William Rine</persName>, was indicted for assaulting <persName id="OA17361102n49-2">
+                  <interp inst="OA17361102n49-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n49-2" type="surname" value="Serjeant"/>
+                  <interp inst="OA17361102n49-2" type="given" value="Charles"/>Charles Serjeant</persName> on the King's Highway, putting him in Fear, and taking from him a Hat value 10 s. a Silver Stock-Clasp, value 4 s. a Barragon-Coat, value 20 s. a Dimity Waistcoat, value 10 s. a Barragon Pair of Breeches, value 10 s. a Pair of Silver Knee-Buckles, value 5 s. a Pair of Silver Shoe-Buckles, value 10 s. a Silver Spoon, value 10 s. a Pair of Gold Sleeve-Butons, value 30 s. a Pair of Steel Snuffers, value 2 s. a Gold Ring, value 10 s. five Keys, value 12 d a Knife, value 12 d. a Whip, value 10 s. and four Guineas and a half in Money, September 22.</p>
+            <p>2. <persName id="OA17361102n50-1">
+                  <interp inst="OA17361102n50-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n50-1" type="surname" value="RINE"/>
+                  <interp inst="OA17361102n50-1" type="given" value="WILLIAM"/>William Rine</persName>, 36 Years of Age, of honest Parents, in the Province of <placeName id="OA17361102-geo-17">
+                  <interp inst="OA17361102-geo-17" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 OA17361102-geo-17"/>
+                  <placeName id="OA17361102-geo-18">
+                     <interp inst="OA17361102-geo-18" type="type" value="county"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n50-1 OA17361102-geo-18"/>Munster</placeName>, in the Kingdom of Ireland</placeName>, who gave him indifferent good Education, in Reading, Writing, and what was proper to fit him for Business, and had him instructed in their Way of Religion. He was not put to a Trade, but <rs id="OA17361102-occupation-16" type="occupation">did Country-Work</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n50-1 OA17361102-occupation-16"/>, and liv'd honestly at Home in his younger Years. He took on with the Irish Officers, and went to France, when longing to see Foreign Parts, and there he serv'd in one of the <rs id="OA17361102-occupation-17" type="occupation">Irish French Regiments</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n50-1 OA17361102-occupation-17"/> for the Space of ten Years, and was in the late War upon the Rhine, at the Siege of <placeName id="OA17361102-geo-19">
+                  <interp inst="OA17361102-geo-19" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 OA17361102-geo-19"/>Fort Keil</placeName> and <placeName id="OA17361102-geo-20">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 OA17361102-geo-20"/>Philipsburg</placeName>; but as that sort of People are ready to engage in the King of France's Service, so they are equally ready to desert upon every Occasion and Pretence; so that in the last short War, almost the one half of them went off, and came over to <placeName id="OA17361102-geo-21">
+                  <interp inst="OA17361102-geo-21" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 OA17361102-geo-21"/>England</placeName>. Among the rest Rine made his way for <placeName id="OA17361102-geo-22">
+                  <interp inst="OA17361102-geo-22" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 OA17361102-geo-22"/>London</placeName>, where, being of no Trade, he found it hard to live; but that sometimes he said he did Labouring work, sometimes idling away his Time, and about <placeName id="OA17361102-geo-23">
+                  <interp inst="OA17361102-geo-23" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 OA17361102-geo-23"/>Drury-Lane</placeName>, there he ell into bad Company of some of his own Countrymen, and having no way to subsist, they easily persuaded him to go on the Highway, and see what they could purchase by Robbery. Rine, being of a thievish, wicked Disposition, readily concur'd with this desperate Proposal, and with <persName id="OA17361102n50-2">
+                  <interp inst="OA17361102n50-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n50-2" type="surname" value="FINNEGAR"/>
+                  <interp inst="OA17361102n50-2" type="given" value="BENJAMIN"/>Benjamin Finnegar</persName>, and <persName id="OA17361102n50-3">
+                  <interp inst="OA17361102n50-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n50-3" type="surname" value="DARBY"/>
+                  <interp inst="OA17361102n50-3" type="given" value="BRYAN"/>Bryan Darby</persName>, assaulted and robbed two Men in the Fields at <placeName id="OA17361102-geo-24">
+                  <interp inst="OA17361102-geo-24" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 n50-2 n50-3 OA17361102-geo-24"/>Islington</placeName>, and another Man by <placeName id="OA17361102-geo-25">
+                  <interp inst="OA17361102-geo-25" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-1 n50-2 n50-3 OA17361102-geo-25"/>Hampstead</placeName>, of Coffee and Tea, and all his wearing Apparel; and on the 22d of September, they assaulted and robbed Mr. <persName id="OA17361102n50-4">
+                  <interp inst="OA17361102n50-4" type="gender" value="male"/>
+                  <interp inst="OA17361102n50-4" type="surname" value="Serjeant"/>
+                  <interp inst="OA17361102n50-4" type="given" value="Charles"/>Charles Serjeant</persName> of <placeName id="OA17361102-geo-26">
+                  <interp inst="OA17361102-geo-26" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-4 OA17361102-geo-26"/>Uxbridge</placeName>, of all the Things mention'd in the Indictment. This having been a most barbarous and cruel Robbery, the Account of the same, as given upon Evidents by Mr. Serjeant himself, and some others, is to the following Effect. On the 22d of September Mr. Serjeant was riding Home from <placeName id="OA17361102-geo-27">
+                  <interp inst="OA17361102-geo-27" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-4 OA17361102-geo-27"/>London</placeName> to <placeName id="OA17361102-geo-28">
+                  <interp inst="OA17361102-geo-28" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-4 OA17361102-geo-28"/>Uxbridge</placeName>, at a pretty swift Pace, the three Robbers stopp'd him, and dismounted him, they led him to a Field a little out of the way, they threaten'd to kill him if he spoke a Word; then they robb'd him of four Guineas and  half, stript him stark naked as he was been, leaving him nothing but his Wig: Rine tied a Handkerchief about his Mouth, with two had Knots on the Nap of his Neck, then they  his Arms to a Tree with his own Bridle; and in this Posture, enduring the Extremity of cold, he continued from 7, when they robb'd him,</p>
+            <xptr type="pageFacsimile" doc="OA173611020007"/>
+            <p>to 9 at Night, when he with Difficulty got his Hands loose, and went to a Publick-House in this pitiful, starving Condition: Rine put on his Breeches before his Face, and coming to Town, and offering to sell Mr. Serjeant's Whip, with his Name upon it, he was taken up upon Suspicion, and found out to be the Thief who committed the Robbery, having most of the Things upon him. All this he confess'd, neither did he deny it before the Justice, but sign'd his Confession; only he endeavour'd to extenuate his Crime, alledging that the Evidence was not right in some minute Points, but upon the main, he could not deny the Truth of every Thing. He was very sick at first, and could not speak much, but recovering pretty well, he appear'd very obstinate in his Temper, and somewhat vindictive. In his Profession of Religion, he said he was a <rs id="OA17361102-occupation-18" type="occupation">Roman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n50-1 OA17361102-occupation-18"/>. He attended always, excepting two or three Times, in Time of Devotion and Exhortations, and seem'd attentive. On Sunday last Mr. Serjeant, who keeps the <placeName id="OA17361102-geo-29">
+                  <interp inst="OA17361102-geo-29" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n50-4 OA17361102-geo-29"/>
+                  <placeName id="OA17361102-geo-30">
+                     <interp inst="OA17361102-geo-30" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n50-4 OA17361102-geo-30"/>Crown-Inn</placeName> at Uxbridge</placeName>, that was robb'd by this Malefactor, (and one Ryley not yet taken) with two or three Gentlemen more, came to the Press Yard to ask him some Questions; particularly, one Gentleman asked him if he did not rob him by Bays Water; he said, He did not. And likewise at the same Time said, nothing troubled him more, that he should be so wicked as to swear against two innocent Persons before the Justice; for he did acknowledge that he never saw them in his Life. He was asked how he could do such a Thing? He said, it was thro' the Instigation of a Debtor on the Common-Side; but would not name his Name. He hop'd for Salvation through Christ, and forgave every Body.</p>
+            <p>
+               <persName id="OA17361102n52-1">
+                  <interp inst="OA17361102n52-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n52-1" type="surname" value="MORGAN"/>
+                  <interp inst="OA17361102n52-1" type="given" value="SAMUEL"/>Samuel Morgan</persName>, was indicted for assaulting <persName id="OA17361102n52-2">
+                  <interp inst="OA17361102n52-2" type="gender" value="female"/>
+                  <interp inst="OA17361102n52-2" type="surname" value="PULLWASH"/>
+                  <interp inst="OA17361102n52-2" type="given" value="ELIZABETH"/>Elizabeth Pullwash</persName>, in a certain open Field near the King's Highway, putting her in Fear, and taking from her a Holland Gown, value 8 s. a Pair of Stays, value 3 s. a Callimancoe quilted Coat, value 17 s. a Bermudas Hat, value 7 s. a Cambrick Mob, value 2 s. 6 d. a Dimity Petticoat, value 3 s. a Flannel Petticoat, value 1 s. a Pair of Damask Shoes, value 2 s. 6 d. a Pair of Silver Buckles, value 7 s. a Gold Ring, value 8 s. a Cambrick Handkerchief, value 2 s. 6 d. a Muslin ditto, value 1 s. a Linnen Apron, value 1 s and 9. d. Half-penny in Money, August the 1st.</p>
+            <p>3. <persName id="OA17361102n53-1">
+                  <interp inst="OA17361102n53-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n53-1" type="surname" value="MORGAN"/>
+                  <interp inst="OA17361102n53-1" type="given" value="SAMUEL"/>Samuel Morgan</persName>, 35 Years of Age, of honest, mean Parents in <placeName id="OA17361102-geo-31">
+                  <interp inst="OA17361102-geo-31" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 OA17361102-geo-31"/>Somersetshire</placeName>, who educated him at School, to read English, and instruc- him in Christian Principles. When of Age, he was bred to a <rs id="OA17361102-occupation-19" type="occupation">Clothier</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n53-1 OA17361102-occupation-19"/>, which Trade he follow'd in his younger Years, while he liv'd in the Country; but wearying of settled Business, he listed in the <rs id="OA17361102-occupation-20" type="occupation">second Regiment of Guards</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n53-1 OA17361102-occupation-20"/>, in which he serv'd ten Years, to the liking of his Officers and Fellow-Soldiers: He fell into a Quarrel, and was wounded in both the Hands, so that one of them was night cut off; then his Colonel was so good, as to get him to be an Out-Pensioner in <placeName id="OA17361102-geo-32">
+                  <interp inst="OA17361102-geo-32" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 OA17361102-geo-32"/>Chelsea-<placeName id="OA17361102-geo-33">
+                     <interp inst="OA17361102-geo-33" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n53-1 OA17361102-geo-33"/>Hospital</placeName>
+               </placeName>: After his leaving the Regiment, he lived in his own Country for some Time honestly, following the Business of a <rs id="OA17361102-occupation-21" type="occupation">Clothier</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n53-1 OA17361102-occupation-21"/>, and <rs id="OA17361102-occupation-22" type="occupation">Country-work</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n53-1 OA17361102-occupation-22"/>; but not long ago returning to <placeName id="OA17361102-geo-34">
+                  <interp inst="OA17361102-geo-34" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 OA17361102-geo-34"/>London</placeName>, he hired a Mare at <placeName id="OA17361102-geo-35">
+                  <interp inst="OA17361102-geo-35" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 OA17361102-geo-35"/>
+                  <placeName id="OA17361102-geo-36">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n53-1 OA17361102-geo-36"/>Hatchbury</placeName> in Wiltshire</placeName>, leaving in Place of it a lame Horse half dead; the Owner of the Mare being a poor Countryman, sent Word to Town to enquire what he did with his Mare? He said, he left it at the Inn to be taken Home by the Hatchbury Waggoner; but he either could not, or would not tell the Name of the Inn he went to. He denied his being accustomed to cheat People of Horses. Which he came to Town, he had no Business, and was very poor, and while we was waiting to get into some Way, by Interest of his Friends and Acquaintances, he was was sent to <placeName id="OA17361102-geo-37">
+                  <interp inst="OA17361102-geo-37" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 OA17361102-geo-37"/>Clerkenwell-<placeName id="OA17361102-geo-38">
+                     <interp inst="OA17361102-geo-38" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n53-1 OA17361102-geo-38"/>Bridewell</placeName>
+               </placeName>, upon his quarrelling with, and abusing a Woman; being bail'd out thence, before he was out of the Officers Hands, <persName id="OA17361102n53-2">
+                  <interp inst="OA17361102n53-2" type="gender" value="female"/>
+                  <interp inst="OA17361102n53-2" type="surname" value="PULLWASH"/>
+                  <interp inst="OA17361102n53-2" type="given" value="ELIZABETH"/>Elizabeth Pullwash</persName>, who had been robb'd and abus'd in a desperate Manner, at the Time of <placeName id="OA17361102-geo-39">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 n53-2 OA17361102-geo-39"/>Tottenham-Court-Fair</placeName>, came in and swore to his Face, that he was the very Man who robb'd and abus'd her in such a barbarous Manner. He, with two others, on a Tuesday, in the beginning of August last, about Ten or Eleven o'Clock at Night, attack'd <persName id="OA17361102n53-3">
+                  <interp inst="OA17361102n53-3" type="gender" value="female"/>
+                  <interp inst="OA17361102n53-3" type="surname" value="PULLWASH"/>
+                  <interp inst="OA17361102n53-3" type="given" value="ELIZABETH"/>Elizabeth Pullwash</persName> coming from</p>
+            <xptr type="pageFacsimile" doc="OA173611020008"/>
+            <p>
+               <placeName id="OA17361102-geo-40">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n53-1 n53-2 OA17361102-geo-40"/>Tottenham-Court-Fair</placeName>; the other two robb'd a Man, at a little Distance, while Morgan robb'd and stript Pullwash, left scarce any Thing upon her, bound her down, they threaten'd to shoot or kill them with Pistols or Daggers, being provided with such Weapons, if they cry'd out, or made the least Resistance, and Morgan was the most resolute and outragious of the three; then he ravish'd her with Difficulty, one of them snap'd a Pistol at her Breast twice, she begg'd hand for her Life upon her Knees, he bound her Leg behind her, and after Twelve at Night, having tied both the Feet and Hands of the Man and Woman with Cords, they threw them into a Ditch, where, about Four in the Morning, being Wednesday, a labouring Man going by to his Work, heard the Man crying out aloud, Murder, Murder; he went and reliev'd them out of this miserable Condition, lying upon their Backs, having their Heads and Faces upward, which enabled them to breath; the Woman he took Home, and his Wife put her in their own Bed, having nothing on but her Shift and Stockings, all bedaub'd with weltering in Dirt and Nastiness, so that they thought she should have died, having recover'd her Senses, and Health with very great Difficulty <persName id="OA17361102n54-1">
+                  <interp inst="OA17361102n54-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n54-1" type="surname" value="Morgan"/>
+                  <interp inst="OA17361102n54-1" type="given" value="Samuel"/>Samuel Morgan</persName> own'd his being at <placeName id="OA17361102-geo-41">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n54-1 OA17361102-geo-41"/>Tottenham-Court-Fair</placeName>; but denied the Robbery, and barbarous, Usage of the Woman, as she swore against him: I endeavour'd to persuade him, by many Arguments taken from Scripture and Reason to make a full and free Confession of his Sins: He confess'd his having been at <placeName id="OA17361102-geo-42">
+                  <interp inst="OA17361102-geo-42" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n54-1 OA17361102-geo-42"/>Tottenham-Court-Fair</placeName>, but was not willing to acknowledge his using the Woman in so barbarous a Manner, or that he was guilty of any other Robberies. He was miserably poor, naked, and dispirited. He behaved well, was attentive to Prayers and Exhortations, but being very sick and weak, he could give but a slender Account of himself. He kept bad Company both of Men and Women, which made him liable to too many of these Vices, such as Drinking, Cursing, and Swearing, &amp;c. which those abandon'd, unfortunate Creatures are ready to commit. He declar'd his Faith in Christ, as Son of God; and only Saviour of Sinners; that he sincerely repented of all the Sins of his Life; and forgave all Men, as he hop'd for Forgiveness from God.</p>
+            <p>At the Place of EXECUTION.</p>
+            <p>THE Morning of their Execution, I read Prayers to them, they all appear'd to be serious and devout. <persName id="OA17361102n56-1">
+                  <interp inst="OA17361102n56-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n56-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n56-1" type="given" value="DANIEL"/>Daniel Malden</persName>, about Six o'Clock in the Morning, he was taken out of the Old-Condemn'd-Hole, and was carried into the Press-Yard, where he was put into one of the Cells. After I had done praying by them, they were all put into one Cart, between Nine and Ten o'Clock in the Morning, and <persName id="OA17361102n56-2">
+                  <interp inst="OA17361102n56-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n56-2" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n56-2" type="given" value="DANIEL"/>Daniel Malden</persName> pull'd off his Jockey's Cap, and cry'd out to some Persons, whom he saw standing it the Lodge Door, to God Almighty to Bless them, and hop'd that they would Pray for his poor Soul. He appear'd to be pretty hearty, had no more to add to his former Confessions, and was as attentive and concern'd, as the Disorders, Noise, and Confusions of the Mob, who threw abundance of Dirt, and other Things, would permit him. <persName id="OA17361102n56-3">
+                  <interp inst="OA17361102n56-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n56-3" type="surname" value="MORGAN"/>
+                  <interp inst="OA17361102n56-3" type="given" value="SAMUEL"/>Samuel Morgan</persName> adher'd to what he said before, and forgave all Men, hoping God would have Mercy upon his poor Soul <persName id="OA17361102n56-6">
+                  <interp inst="OA17361102n56-6" type="gender" value="male"/>
+                  <interp inst="OA17361102n56-6" type="surname" value="Rine"/>
+                  <interp inst="OA17361102n56-6" type="given" value="William"/>William Rine</persName> died a <rs id="OA17361102-occupation-23" type="occupation">Roman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n56-6 OA17361102-occupation-23"/>; and only said, that the Information he gave, (which is mention'd before) against two Men, <persName id="OA17361102n56-4">
+                  <interp inst="OA17361102n56-4" type="gender" value="male"/>
+                  <interp inst="OA17361102n56-4" type="surname" value="FINNEGAR"/>
+                  <interp inst="OA17361102n56-4" type="given" value="BENJAMIN"/>Benjamin Finnegar</persName>, and <persName id="OA17361102n56-5">
+                  <interp inst="OA17361102n56-5" type="gender" value="male"/>
+                  <interp inst="OA17361102n56-5" type="surname" value="DARBY"/>
+                  <interp inst="OA17361102n56-5" type="given" value="BRYAN"/>Bryan Darby</persName>, was false, he having never seen any such Persons, and been put upon that Accusation by a Man, whom upon no Account be would name. He express'd his Hoped or Mercy from God. They went off the Stage crying out, God have Mercy upon our poor Souls, and Lord Jesus receive my Spirit.</p>
+            <p>N. B. <persName id="OA17361102n57-1">
+                  <interp inst="OA17361102n57-1" type="gender" value="female"/>
+                  <interp inst="OA17361102n57-1" type="surname" value="COMPTON"/>
+                  <interp inst="OA17361102n57-1" type="given" value="MARY"/>Mary Compton</persName>, alias <persName id="OA17361102n57-3">
+                  <interp inst="OA17361102n57-3" type="gender" value="female"/>
+                  <interp inst="OA17361102n57-3" type="surname" value="KEMPTON"/>
+                  <interp inst="OA17361102n57-3" type="given" value="MARY"/>Kempton</persName>, though included in the dead Warrant with the other three, for stealing several Things of Value from Mrs. <persName id="OA17361102n57-4">
+                  <interp inst="OA17361102n57-4" type="gender" value="female"/>
+                  <interp inst="OA17361102n57-4" type="surname" value="Knelme"/>
+                  <interp inst="OA17361102n57-4" type="given" value="Eleanor"/>Eleanor Knelme</persName>, out of the Dwelling-house of <persName id="OA17361102n57-2">
+                  <interp inst="OA17361102n57-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n57-2" type="surname" value="GREEN"/>
+                  <interp inst="OA17361102n57-2" type="given" value="WILLIAM"/>William Green</persName>, Sept. 16, had her Majesty's most gracious Reprieve for a Month, was sent to Newgate, on Monday Morning last, being the Day before the Execution.</p>
+            <p>This is all Account given by Me,</p>
+            <p>
+               <persName id="OA17361102n59-1">
+                  <interp inst="OA17361102n59-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n59-1" type="surname" value="GUTHRIE"/>
+                  <interp inst="OA17361102n59-1" type="given" value="JAMES"/>JAMES GUTHRIE</persName>,</p>
+            <p>
+               <rs id="OA17361102-occupation-24" type="occupation">Ordinary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n59-1 OA17361102-occupation-24"/> and <rs id="OA17361102-occupation-25" type="occupation">Chaplain</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n59-1 OA17361102-occupation-25"/> of <placeName id="OA17361102-geo-43">
+                  <interp inst="OA17361102-geo-43" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n59-1 OA17361102-geo-43"/>Newgate</placeName>.</p>
+            <xptr type="pageFacsimile" doc="OA173611020009"/>
+            <p>APPENDIX.</p>
+            <p>
+               <persName id="OA17361102n62-1">
+                  <interp inst="OA17361102n62-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n62-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n62-1" type="given" value="DANIEL"/>DANIEL MALDEN</persName>, 23 Years of Age, born near <placeName id="OA17361102-geo-44">
+                  <interp inst="OA17361102-geo-44" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-44"/>
+                  <placeName id="OA17361102-geo-45">
+                     <interp inst="OA17361102-geo-45" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-45"/>Ipswich</placeName> in the County of Suffolk</placeName>, of honest Parents, who gave him a good Education; when he was of Age he was bound Apprentice to one Mr. Scarlet, a <rs id="OA17361102-occupation-26" type="occupation">Sail-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n62-1 n42-11 n42-12 OA17361102-occupation-26"/>, at <placeName id="OA17361102-geo-46">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-46"/>Lynn</placeName>, with whom he lived about a Year and a half, then he left him, and went <rs id="OA17361102-occupation-27" type="occupation">to Sea</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n62-1 n42-11 n42-12 OA17361102-occupation-27"/> on board his Majesty's Ship the Greyhound, commanded by <rs id="OA17361102-occupation-28" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n62-2 OA17361102-occupation-28"/> 
+               <persName id="OA17361102n62-2">
+                  <interp inst="OA17361102n62-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n62-2" type="surname" value="Peyton"/>
+                  <interp inst="OA17361102n62-2" type="given" value="Yelverton"/>Yelverton Peyton</persName>, on board of which Ship he continued two Years in the <placeName id="OA17361102-geo-47">
+                  <interp inst="OA17361102-geo-47" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n62-2 OA17361102-geo-47"/>Virginia</placeName> Station, and came Home in her.</p>
+            <p>After she was paid off he enter'd himself on board his Majesty's Ship Shoreham, commanded by Captain Storey, station'd at <placeName id="OA17361102-geo-48">
+                  <interp inst="OA17361102-geo-48" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-48"/>Newfoundland</placeName>, on board of which he continued one Year and a half, and came Home in her likewise.</p>
+            <p>When this Ship was paid off, he enter'd on board the Tartar, <rs id="OA17361102-occupation-29" type="occupation">Captain</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n64-1 OA17361102-occupation-29"/> 
+               <persName id="OA17361102n64-1">
+                  <interp inst="OA17361102n64-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n64-1" type="surname" value="PEIRCE"/>
+                  <interp inst="OA17361102n64-1" type="given" value="EDWARD"/>Edward Peirce</persName>, stationed at <placeName id="OA17361102-geo-49">
+                  <interp inst="OA17361102-geo-49" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n64-1 OA17361102-geo-49"/>
+                  <placeName id="OA17361102-geo-50">
+                     <interp inst="OA17361102-geo-50" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 n64-1 OA17361102-geo-50"/>New-York</placeName> in New-England</placeName>, he continued in this Ship two Years and a half, and came Home with her.</p>
+            <p>After she was paid off, he entered himself on board the Bonetta Snow, Capt. Hogg Commander, belonging to the Royal-African Company, and failed in her to <placeName id="OA17361102-geo-51">
+                  <interp inst="OA17361102-geo-51" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-51"/>Guinea</placeName>, from thence to <placeName id="OA17361102-geo-52">
+                  <interp inst="OA17361102-geo-52" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-52"/>Lisbon</placeName>, and from <placeName id="OA17361102-geo-53">
+                  <interp inst="OA17361102-geo-53" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-53"/>Lisbon</placeName>, to <placeName id="OA17361102-geo-54">
+                  <interp inst="OA17361102-geo-54" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-54"/>England</placeName>, where he stay'd about two Months, and then he entered himself on board the Dispatch Sloop, <rs id="OA17361102-occupation-30" type="occupation">Capt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n65-3 OA17361102-occupation-30"/>. <persName id="OA17361102n65-3">
+                  <interp inst="OA17361102n65-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n65-3" type="surname" value="Gearish"/>
+                  <interp inst="OA17361102n65-3" type="given" value="Thomas"/>Thomas Gearish</persName> Commander, belonging to the said Company, and went in her to <placeName id="OA17361102-geo-55">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n65-3 OA17361102-geo-55"/>Cape Coast</placeName> and <placeName id="OA17361102-geo-56">
+                  <interp inst="OA17361102-geo-56" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n65-3 OA17361102-geo-56"/>
+                  <placeName id="OA17361102-geo-57">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 n65-3 OA17361102-geo-57"/>Whidah</placeName>, on the Coast of Guinea</placeName>, from thence to <placeName id="OA17361102-geo-58">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n65-3 OA17361102-geo-58"/>St. Ama</placeName>, an Island inhabited by the Portuguese, and from thence to <placeName id="OA17361102-geo-59">
+                  <interp inst="OA17361102-geo-59" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n65-3 OA17361102-geo-59"/>England</placeName>, where he arrived the 17th of November last, from which Time he <rs id="OA17361102-occupation-31" type="occupation">followed the French Trade</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n62-1 n42-11 n42-12 OA17361102-occupation-31"/>, on board the Sparrow Yatch, <persName id="OA17361102n65-2">
+                  <interp inst="OA17361102n65-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n65-2" type="surname" value="SUTTON"/>
+                  <interp inst="OA17361102n65-2" type="given" value="EDWARD"/>Edward Sutton</persName>, <rs id="OA17361102-occupation-32" type="occupation">Commander</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n65-2 OA17361102-occupation-32"/>.</p>
+            <p>As to the Charge against him for being concerned with <persName id="OA17361102n66-1">
+                  <interp inst="OA17361102n66-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n66-1" type="surname" value="PAGE"/>
+                  <interp inst="OA17361102n66-1" type="given" value="THOMAS"/>Thomas Page</persName> and <persName id="OA17361102n66-2">
+                  <interp inst="OA17361102n66-2" type="gender" value="female"/>
+                  <interp inst="OA17361102n66-2" type="surname" value="EVANS"/>
+                  <interp inst="OA17361102n66-2" type="given" value="ANN"/>Ann Evans</persName> (who were both transported) in stealing a silver Mug out of the House of <persName id="OA17361102n66-3">
+                  <interp inst="OA17361102n66-3" type="gender" value="male"/>
+                  <interp inst="OA17361102n66-3" type="surname" value="SILVESTER"/>
+                  <interp inst="OA17361102n66-3" type="given" value="JOSEPH"/>Joseph Silvester</persName>, he declar'd he was not concerned in the Fact, and that he knew nothing at all of it.</p>
+            <p>He acknowledged himself guilty of the Fact of which he was convicted, and for which he was to suffer, but said he did not enter the House himself, though he received the Linnen in the Yard, and that using Sutton's, the Prize-Fighter's House at <placeName id="OA17361102-geo-60">
+                  <interp inst="OA17361102-geo-60" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-60"/>Islington</placeName>, he was suspected to be concerned in this Robbery. Sutton's House was searched for this Linnen, and his (Malden's) Wife being there, they took one of the Aprons upon her; upon this she was carried before a Magistrate, who committed her to <placeName id="OA17361102-geo-61">
+                  <interp inst="OA17361102-geo-61" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n42-13 n89-1 n116-1 OA17361102-geo-61"/>New-Prison</placeName>. Then the <placeName id="OA17361102-geo-62">
+                  <interp inst="OA17361102-geo-62" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-62"/>
+                  <placeName id="OA17361102-geo-63">
+                     <interp inst="OA17361102-geo-63" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-63"/>Magpye Alehouse</placeName> at Islington</placeName> was searched, where he happened to be at the same Time. The People who came to search, told him his Wife, was then before a Justice, and desired to speak with him, he went with them to the Justice, in order to see his Wife, and was committed to <placeName id="OA17361102-geo-64">
+                  <interp inst="OA17361102-geo-64" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 OA17361102-geo-64"/>New-Prison</placeName> also.</p>
+            <p>The following is an Information of the abovesaid Malefactor, taken before <persName id="OA17361102n68-1">
+                  <interp inst="OA17361102n68-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n68-1" type="surname" value="FARMER"/>
+                  <interp inst="OA17361102n68-1" type="given" value="RICHARD"/>Richard Farmer</persName>, <rs id="OA17361102-occupation-33" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n68-1 OA17361102-occupation-33"/>; one of his Majesty's <rs id="OA17361102-occupation-34" type="occupation">Justices of the Peace</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n68-1 OA17361102-occupation-34"/> for the County of <placeName id="OA17361102-geo-65">
+                  <interp inst="OA17361102-geo-65" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n68-1 OA17361102-geo-65"/>Middlesex</placeName>, the 13th Day of April, 1736.</p>
+            <p>WHO saith, That some Time in the Month of June last, he, in Company with one <persName id="OA17361102n69-1">
+                  <interp inst="OA17361102n69-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n69-1" type="surname" value="HOLBURT"/>
+                  <interp inst="OA17361102n69-1" type="given" value="JOHN"/>John Holburt</persName>, commonly known by the Name of Country-Jack, in <placeName id="OA17361102-geo-66">
+                  <interp inst="OA17361102-geo-66" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-66"/>
+                  <placeName id="OA17361102-geo-67">
+                     <interp inst="OA17361102-geo-67" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-67"/>Well-street</placeName>, near the <placeName id="OA17361102-geo-68">
+                     <interp inst="OA17361102-geo-68" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-68"/>Glass-house</placeName>, in the Parish of St. Mary, White-chapel</placeName>, did stop and rob a Person, who keeps a Sale-shop in Chick-lane, of five Shillings and Sixpence in Money; that after they had taken his Money, they stripped him of all his Cloaths, which Cloaths Holburt pawn'd in his own Name to one Williams, in <placeName id="OA17361102-geo-69">
+                  <interp inst="OA17361102-geo-69" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n69-1 OA17361102-geo-69"/>
+                  <placeName id="OA17361102-geo-70">
+                     <interp inst="OA17361102-geo-70" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n69-1 OA17361102-geo-70"/>Kent-street</placeName>, Southwark</placeName>, for three Shillings and Sixpence. That on the 9th of December last, about 12 o'Clock at Night he, in Company with the said Holburt, broke open a Cellar Door, belonging to a Dwelling-House, known by the Name of the <placeName id="OA17361102-geo-71">
+                  <interp inst="OA17361102-geo-71" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-71"/>
+                  <placeName id="OA17361102-geo-72">
+                     <interp inst="OA17361102-geo-72" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-72"/>Jolly Sailor</placeName>, in Ratcliff-Highway</placeName>, where they took and carried away two Brass Pots, one dozen of Pewter Plates, two Brass Candlesticks, two speckled Shirts, a Pair of Sheets, and a Woman's Hat; the Brass Pots and the Pewter Plates they sold</p>
+            <xptr type="pageFacsimile" doc="OA173611020010"/>
+            <p>to a Broker in <placeName id="OA17361102-geo-73">
+                  <interp inst="OA17361102-geo-73" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-73"/>Southwark</placeName> for 17 s. and 6 d. That a little before Christmas, he and the aforesaid Holburt, about Two o'Clock in the Morning, broke open a Cellar-door belonging to the Dwelling-House of one <persName id="OA17361102n70-1">
+                  <interp inst="OA17361102n70-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n70-1" type="surname" value="WILLIAMS"/>
+                  <interp inst="OA17361102n70-1" type="given" value="EDWARD"/>Edward Williams</persName>, of <placeName id="OA17361102-geo-74">
+                  <interp inst="OA17361102-geo-74" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 n70-1 OA17361102-geo-74"/>St. John, Wapping</placeName>, and took from thence one Brass Pot, one Sauce Pan, two Brass Cocks, and two Case-Bottles of Rum.</p>
+            <p>That just after this Robbery (they seldom standing still for want of Business) they broke open another Cellar Door, belonging to <persName id="OA17361102n71-1">
+                  <interp inst="OA17361102n71-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n71-1" type="surname" value="UNWIN"/>
+                  <interp inst="OA17361102n71-1" type="given" value="SAMUEL"/>Samuel Unwin</persName>, of <placeName id="OA17361102-geo-75">
+                  <interp inst="OA17361102-geo-75" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 n71-1 OA17361102-geo-75"/>Well-street</placeName>, aforesaid, and took from thence one large Pot, one Kettle, and some Pewter, which they sold to a Broker in the Borough of <placeName id="OA17361102-geo-76">
+                  <interp inst="OA17361102-geo-76" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 OA17361102-geo-76"/>Southwark</placeName> for 11 Shillings.</p>
+            <p>That after this Robbery, they admitted into their Company one <persName id="OA17361102n72-1">
+                  <interp inst="OA17361102n72-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n72-1" type="surname" value="GREY"/>
+                  <interp inst="OA17361102n72-1" type="given" value="THOMAS"/>Thomas Grey</persName>; and that one Morning about Two o'Clock, they three broke open a Cellar Door, and enter'd the House, known by the Sign of the <placeName id="OA17361102-geo-77">
+                  <interp inst="OA17361102-geo-77" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 n72-1 OA17361102-geo-77"/>
+                  <placeName id="OA17361102-geo-78">
+                     <interp inst="OA17361102-geo-78" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n62-1 n42-11 n42-12 n69-1 n72-1 OA17361102-geo-78"/>Elephant and Castle</placeName> in Kent street</placeName>, and took from thence 3 s. 8 d. in Money, a Cane, and a Bottle of Gin.</p>
+            <p>That after this, he, in Company with Holburt and <persName id="OA17361102n73-1">
+                  <interp inst="OA17361102n73-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n73-1" type="surname" value="GEORGE"/>
+                  <interp inst="OA17361102n73-1" type="given" value="THOMAS"/>Thomas George</persName>, at <placeName id="OA17361102-geo-79">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n62-1 n42-11 n42-12 n69-1 n73-1 OA17361102-geo-79"/>Kingsland</placeName>, about One o'Clock in the Morning, did break open the Window Shutters belonging to a House adjoining to the Hospital, and entered the said House: That they took from thence four Harrateen Curtains, half a Dozen of China Cups, eight Knives, and Forks, four China Plates, and sundry other Things which he cannot recollect. That the Curtains, Knives and Forks, were sold to one Lawrence, in Fleet-lane, by Holburt's Doxy, for one Pound and one Shilling.</p>
+            <p>A genuine Account of the two surprising Escapes of <persName id="OA17361102n74-1">
+                  <interp inst="OA17361102n74-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n74-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n74-1" type="given" value="DANIEL"/>Daniel Malden</persName>, taken from his own Mouth (while under Condemnation) in the Old Condemn'd-Hole in <placeName id="OA17361102-geo-80">
+                  <interp inst="OA17361102-geo-80" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-80"/>Newgate</placeName>, Oct. 21, 1736.</p>
+            <p>MY first Escape from one of the new Cells, the very Morning I was to have been executed, which was Monday the 24th of May last. <persName id="OA17361102n75-1">
+                  <interp inst="OA17361102n75-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n75-1" type="surname" value="WARD"/>
+                  <interp inst="OA17361102n75-1" type="given" value="GEORGE"/>George Ward</persName>, who was lately executed, having been confined in the same Cell, he informed me that a certain Plank in the Floor was loose, I found it out; and on Sunday Night between 10 and 11 I began to work; I rais'd up this Plank with the Foot of a Stool that was in the Cell, then I made a Hole in the ar'd Work big enough for my Body to go through, and I dropt into a lower Cell, out of which one Butler, a former Convict, had made his Escape. The Bar of the Window of this Cell still, remained cut as Butler had left it, and out of this Window I got, with all my Irons upon me, into the Press-Yard; I had got my Candle with me not knowing what Occasion I might have for a Light, but when I was got into the Press-Yard, <persName id="OA17361102n75-2">
+                  <interp inst="OA17361102n75-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n75-2" type="surname" value="WARD"/>
+                  <interp inst="OA17361102n75-2" type="given" value="GEORGE"/>George Ward</persName> call'd to me, and desired I would give him the Candle, he let down a Bit a Twine, and drew it up; then looking about me and seeing all Things quiet, I pulled off my Shoes and went softly up into the Chapel, and observing a small Breach in the Wall I enlarg'd it, and pulled the Wall down, and got into the Penthouse from the Ceiling; then I made my Way through the Penthouse, and got upon the Roof of the House, so pulling out one Side all the Way I went for Foot-hold, and another that I might take hold of the Laths in Case I should slip; I got upon the Top of the Cells by the Ordinary's House, having made my Way from the Top of the Chapel upon the Roofs of the Houses, and all round the Chimnies of the Cells over the Ordinary's House, to the next, which had been a Pastry Cook's, but was now empty. I was just going to take out a Sky-Light on the Top, of the Ordinary's House, thinking to get in there, when I observed there was no Foot-hold in the Inside; so I went from thence, not caring to venture in there, to the empty House, there I found one of the Garret Windows down, and I got in at that Window, and went down three Pair of Stairs into the Kitchen; then I put my Shoes on (which I had made Shift to carry in my Hand all the Way I came) and with Rags and Pieces of my Jacket, I wrapp'd my Irons close to my Legs, as if I had been gouty or lame; then I got out of the Kitchen Window one Pair of Stairs, into Phnix Court, and from thence I went through the Streets to <placeName id="OA17361102-geo-81">
+                  <interp inst="OA17361102-geo-81" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-81"/>Nightingale-lane</placeName>, I walk'd quite through the City, and pass'd the Watch several Times, this was about three o'Clock in the Morning.</p>
+            <xptr type="pageFacsimile" doc="OA173611020011"/>
+            <p>When I was hous'd in <placeName id="OA17361102-geo-82">
+                  <interp inst="OA17361102-geo-82" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-82"/>Nightingale-lane</placeName> as soon as I could (about six in the Morning) I sent for a Smith, who knock'd off my Fetters and took them away with him for his Pains; then I got a Man to go for a young Woman, with whom I kept Company, and that Fellow betray'd me; he however had done my Message to the young Woman, for she came, and was very much surpriz'd to see me, but while she was getting me some Breakfast I heard a Noise in the Yard, which alarm'd me, so my Irons being off, I made the best of my Way from this House to Mrs. Newman's, at the <placeName id="OA17361102-geo-83">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-83"/>
+                  <placeName id="OA17361102-geo-84">
+                     <interp inst="OA17361102-geo-84" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-84"/>Black-Boy</placeName> at Millbank</placeName>, there I was kept private and lock'd up four Days alone, and no Soul but myself. On Thursday Night following I ventur'd out about 11 o'Clock, and heard People were in Pursuit of me, so I went to Mrs. Franklin's at one o'Clock the same Night, and lay down upon a Chest in her Room, and when she got up I lay down upon her Bed. Before I rested myself I sent a Shoemaker with a Letter to my Wife in <placeName id="OA17361102-geo-85">
+                  <interp inst="OA17361102-geo-85" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n42-13 n89-1 n116-1 OA17361102-geo-85"/>Kent street</placeName>, desiring to speak with her, and I gave him likewise two Letters to carry to Gentlemen in the City, but instead of doing this, he came directly to Newgate, and betray'd me to the Keepers, and in about an Hour and a half, I perceived the House was beset; I hid myself behind the Shutters in the Yard, and my Wife was drinking Tea in the House; the Keepers seeing her, cry'd, Madam, your humble Servant, where is your Spouse? I heard them, and knowing I was not safe where I was hid, I came out and endeavoured to get over a Wall, some of them espy'd me, and cry'd out, Here he is, upon which they immediately laid hold of me, carried me back to <placeName id="OA17361102-geo-86">
+                  <interp inst="OA17361102-geo-86" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-86"/>Newgate</placeName>, put me into the Old Condemn'd Hole, as the strongest Place, and stapl'd me down to the Floor.</p>
+            <p>The Second ESCAPE.</p>
+            <p>BEING thus confined again, I resolved to attempt a Second Escape. A Man who was confin'd on the Stairs in the Old Condemn'd Hole, convey'd a Knife to me, on Sunday Night, June the 6th, between 10 and 11 o'Clock, I began to saw the Staple, to which I was fasten'd, in two; I work'd through it with much Difficulty, and with one of my Irons I wrench'd it open, and got loose; then I took down (with the Assistance of my Knife) a Stone in the Front of the Seat of the Vault which is in the Corner of the Condemn'd Hole; when I had got the Stone down, I found there was a Row of strong Iron Bars under the Seat, through which I could not get, so I was obliged to work under these Bars, and open a Passage below them; to do this I had no Tool but my old Knife, and in doing this Part of the Work, my Nails were torn off the Ends of my Fingers, and my Hands were in a dreadful miserable Condition; at last I open'd a Hole just big enough for me to squeeze through, and in I went, Head foremost, but one of my Legs (my Irons being on) stuck very fast in the Hole, and by this Leg I hung in the Inside of the Vault, with my Head downwards, Half an Hour or more; I thought I should have been stifl'd in this sad Position, and was just going to call out for Help, when turning myself up, I happen'd to reach the Bars, I took fast hold of one of them with one Hand, and with the other I disengag'd my Leg, and got it out of the Hole.</p>
+            <p>Having clear'd myself I considered I had above thirty Foot to drop, therefore to break the Fall, I fastened a Piece of Blanket I had about me, to one of the Bars, and lower'd myself down by it, but it happened to break, and down I fell into a Hole under a Vault below Stairs; into this Hole I fell with some Violence, my Fetters causing me to fall very heavy, and here I stuck fast a considerable Time. While I was here in this Condition, Mr. Alstone came to the Vault to do his Occasions, which he did all over my Face into my Mouth, and almost poison'd me. I found the Hole I had dropp'd into was a Funnel, very narrow and streight; I had torn my Flesh in a terrible Manner by the Fall, but was forc'd to tear myself much worse in squeezing through this narrow Funnel; I verily thought I should have perish'd here, for when I had forc'd myself into it, I stuck fast, and could not stir either backward or forward for more than Half an Hour; but at last, what with squeezing my Body, tearing my Flesh off my Bones, and the Weight of my Irons, which helped me a little here, I</p>
+            <xptr type="pageFacsimile" doc="OA173611020012"/>
+            <p>work'd myself through, and found the End of this Funnel opened into the Common-Sewer; I was then in a sad nasty Pickle, and as well as I could I clean'd myself in the Sewer; my Shirt and my Breeches were torn to Pieces, but I wash'd them in the muddy Water, and walk'd through the Sewer as far as I could, my Irons were very heavy upon me, and now incommoned the very much. While I was in these Circumstances, several of the Runners of Newgate were let into the Common-Sewer to look for me, and here I had been taken again, had I not found a hallow Place in the Side of the Brick-work, into which I crowded myself, and they pass'd by me twice while I stood in that : here I continued forty-eight Hours, then I went on till I came under the old Privy ( House-of-Office) in -Hospital, and here a  Quantity of the Brick-work fell in upon me, a Tun Weight I believe there might be, which beat  quite down to the Ground, and buried me underneath; but I recovered myself, and got out through the Seat of this Necessary-House, which is against the Pump in <placeName id="OA17361102-geo-87">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-87"/>Town-Ditch</placeName> by <placeName id="OA17361102-geo-88">
+                  <interp inst="OA17361102-geo-88" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-88"/>Christ's-Hospital</placeName>, and hid myself behind an Engine in the same Place over-against the Pump, for I was all over Nastiness, Filth, soil, and Mud. My Concern was now, how to hide my Irons, and remembering I had a Needle and some Thread in my Pocket, I pull'd off my two Flannel Waistcoats, and stitch'd them together like Trowsers, and drawing up my Irons, I made Shirt to hide them within my Trowsers.</p>
+            <p>In this Place I  till about 9 or 10 at Night, and then I found a Piece of an old Spade, with which I drew a Nail of a Lock on the Door of the House-of-Office, and so opened the Door and got out into the Yard, a Woman seeing me there, asked me how I got there? I told her I came in at the other Gate. She said she believed I had hid myself above Stairs all Day. I told her. No, I had not, that I was very sick and lame and was but just come through; I was a little afraid of her, but a Gentlewoman happening to look out at a Window, said, Why don't you open the Gate to let the poor Man go out? Upon which she opened the Door, and I went out into <placeName id="OA17361102-geo-89">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-89"/>Little-Britain</placeName>, there I happened to see a Coachman, with whom I was acquainted, he had just then set down a Fare in the Stone-Yard by Town-Ditch, and he asked me if I would stay a Minute and drink, the Footman brought out a full Copper Pot of Beer, and we drank together; I told him I would give him 18 d if he would carry me to - (a particular Place) he did as I desired him, and when I was there, a Man was sent for unknown to me, to knock my Fetters off, which he did, and he likewise had them for his Labour.</p>
+            <p>The Night following I got away for <placeName id="OA17361102-geo-90">
+                  <interp inst="OA17361102-geo-90" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-90"/>Endfield</placeName>, having bought a Suit of Cloaths in <placeName id="OA17361102-geo-91">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-91"/>Rag-Fair</placeName>, which cost 45 s and which Money was collected for me by some of my Acquaintance, in and about Rosemary-lane; so being equipp'd in a Scarlet Coat and Waistcoat with Gold Buttons, a strip'd Cotton Pair of Breeches, and a Plain Hat and Wig, away I went for <placeName id="OA17361102-geo-92">
+                  <interp inst="OA17361102-geo-92" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-92"/>Endfield</placeName>.</p>
+            <p>From <placeName id="OA17361102-geo-93">
+                  <interp inst="OA17361102-geo-93" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-93"/>Endfield</placeName> I took Post Horses for <placeName id="OA17361102-geo-94">
+                  <interp inst="OA17361102-geo-94" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-94"/>Yarmouth</placeName> to my Friends there; at <placeName id="OA17361102-geo-95">
+                  <interp inst="OA17361102-geo-95" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-95"/>Yarmouth</placeName> I fell dangerously sick, and continued so a Month, every Body thought I should have dy'd; but I recover'd, and as soon as I grew a little well and hearty, I went to <placeName id="OA17361102-geo-96">
+                  <interp inst="OA17361102-geo-96" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-96"/>
+                  <placeName id="OA17361102-geo-97">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-97"/>Flushing</placeName> in Holland</placeName>, there I stay'd some Time, but being uneasy without my Wife, I return'd to <placeName id="OA17361102-geo-98">
+                  <interp inst="OA17361102-geo-98" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-98"/>England</placeName> to fetch her over.</p>
+            <p>While I was at <placeName id="OA17361102-geo-99">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-99"/>Flushing</placeName>, I saw two Merchants that live at oxton, drinking together it the <placeName id="OA17361102-geo-100">
+                  <interp inst="OA17361102-geo-100" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-100"/>Sign of the Three Dutch Skaters</placeName>, I went into the House to them, and while I was there in came Turpin and Rowden, I drank with them, and they persuaded me to enter into Foreign Service, but I refused, telling them, I did not care to serve any other Nation than my own.</p>
+            <p>From <placeName id="OA17361102-geo-101">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-101"/>Flushing</placeName> I came to <placeName id="OA17361102-geo-102">
+                  <interp inst="OA17361102-geo-102" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-102"/>England</placeName> to fetch my Wife; I came first to <placeName id="OA17361102-geo-103">
+                  <interp inst="OA17361102-geo-103" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-103"/>Yarmouth</placeName>, from <placeName id="OA17361102-geo-104">
+                  <interp inst="OA17361102-geo-104" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-104"/>Yarmouth</placeName> to <placeName id="OA17361102-geo-105">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-105"/>Beccles</placeName>, and there I took Post Horses for <placeName id="OA17361102-geo-106">
+                  <interp inst="OA17361102-geo-106" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-106"/>St. Edmonds-Bury</placeName>; from thence I went to <placeName id="OA17361102-geo-107">
+                  <interp inst="OA17361102-geo-107" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-107"/>New-market</placeName>, to <placeName id="OA17361102-geo-108">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-108"/>Bishop Stratford</placeName>, and so to the <placeName id="OA17361102-geo-109">
+                  <interp inst="OA17361102-geo-109" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-109"/>
+                  <placeName id="OA17361102-geo-110">
+                     <interp inst="OA17361102-geo-110" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-110"/>Plow</placeName> at Bow by Stratford</placeName>, bringing with me two Hares and three Rabits to make Presents of to two Gentlemen. From <placeName id="OA17361102-geo-111">
+                  <interp inst="OA17361102-geo-111" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-111"/>Bow</placeName> I came to the <placeName id="OA17361102-geo-112">
+                  <interp inst="OA17361102-geo-112" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-112"/>Sign of the Marigold</placeName>, over-against <placeName id="OA17361102-geo-113">
+                  <interp inst="OA17361102-geo-113" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-113"/>
+                  <placeName id="OA17361102-geo-114">
+                     <interp inst="OA17361102-geo-114" type="type" value="parish"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-114"/>St. Mary Maglen's <placeName id="OA17361102-geo-115">
+                        <interp inst="OA17361102-geo-115" type="type" value="site"/>
+                        <join result="persNamePlace" targOrder="Y"
+                              targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-115"/>Church</placeName>
+                  </placeName>, Southwark</placeName>; and from thence I sent a young Man for my last Wife in <placeName id="OA17361102-geo-116">
+                  <interp inst="OA17361102-geo-116" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n42-13 n89-1 n116-1 OA17361102-geo-116"/>Kent-street</placeName>, and bid him tell her that a Mate of a Ship wanted to speak with her at a Publick House, this was about Bartholomew-Tide; when she came,</p>
+            <xptr type="pageFacsimile" doc="OA173611020013"/>
+            <p>to her very great Surprize she found me drinking in a little Box, by my self; she came in a Coach, in a very poor and miserable Condition; I asked her what was become of her Things? She said she had been in great Want while I had been gone, and had had no Friend in the World to relieve her, or help her; and that she had been obliged to sell some of her Cloaths, and pawn the rest. I sent for the Persons she owed Money to, and I paid them.</p>
+            <p>After we had been here some time, we consulted what to do, I desired her to go away directly, or as soon as possible, either to Bristol or Liverpool, for I was resolv'd to go to Guinea, and I would have her go to either of those Places, that she might be ready to go with me. She desired first to see her Father, whom she had not seen for 12 Years, and who was Gardiner to - Sawbridge, Esq; at a Place call'd Wye, near Canterbury. I agreed to go with her, and accordingly we went together to <placeName id="OA17361102-geo-117">
+                  <interp inst="OA17361102-geo-117" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-117"/>Deptford</placeName>, directly; from thence we cross'd the Water and went to <placeName id="OA17361102-geo-118">
+                  <interp inst="OA17361102-geo-118" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-118"/>Bow</placeName>, and so to <placeName id="OA17361102-geo-119">
+                  <interp inst="OA17361102-geo-119" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-119"/>
+                  <placeName id="OA17361102-geo-120">
+                     <interp inst="OA17361102-geo-120" type="type" value="parish"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-120"/>Barking</placeName> in Essex</placeName>; there we took Water and went to a Place call'd <placeName id="OA17361102-geo-121">
+                  <interp inst="OA17361102-geo-121" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-121"/>
+                  <placeName id="OA17361102-geo-122">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-122"/>Newington</placeName>, by Gravesend</placeName>; here we lay all Night, and got to <placeName id="OA17361102-geo-123">
+                  <interp inst="OA17361102-geo-123" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-123"/>Canterbury</placeName> the Day following. We were very much tired, and not caring where we lodged (so we could but get any Place to rest our selves in) we went to the <placeName id="OA17361102-geo-124">
+                  <interp inst="OA17361102-geo-124" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-124"/>Sign of the Three-Half-Moons</placeName>, and there was our first Habitation at <placeName id="OA17361102-geo-125">
+                  <interp inst="OA17361102-geo-125" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-125"/>Canterbury</placeName>.</p>
+            <p>Now Money began to fall short; my Wife and I therefore agreed to go to Work; and in about a Week's time we got <rs id="OA17361102-occupation-35" type="occupation">Employment in the Hop Grounds</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-occupation-35"/>, from one Mr. Firmow, a Brewer there, and fell into a very pretty Way of getting our Bread. I appear'd here pretty well rigg'd, in a Fustian Frock, with Silver Buttons; but the Money which I had brought with me, and which I had got from Friends, being gone before I had got into this Business, I was obliged to demolish my Frock, and make my Wife sell the Buttons for 8 s. 6 d.</p>
+            <p>When I was settled in this Employment, I sent a Letter to my Wife's Father, at Esquire Sawbridge's, and he came to see us. I was sitting on a Bench at the Door, and he came up and asked me if I could tell him where he might find one <persName id="OA17361102n89-1">
+                  <interp inst="OA17361102n89-1" type="gender" value="female"/>
+                  <interp inst="OA17361102n89-1" type="surname" value="CLIFF"/>
+                  <interp inst="OA17361102n89-1" type="given" value="MARY"/>Mary Cliff</persName>: I did not know him, nor he me; but this being my <rs id="OA17361102-occupation-36" type="occupation">Wife</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n42-13 n89-1 n116-1 OA17361102-occupation-36"/>'s Maiden Name, I told him where she was. When they met they both burst into Tears: I asked him to go up Stairs into our Lodging, and there he treated us with a Bowl of Punch; and after that we went to the <placeName id="OA17361102-geo-126">
+                  <interp inst="OA17361102-geo-126" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-126"/>Rose and Crown</placeName> by the Market, and drank with him again before he took Horse to go home. He asked me to come down to Esquire Sawbridge's, and stay a Week with him there: I cannot say whether he knew me or not, for I went by the Name of Smith: tho' I believe he did, because at parting he cry'd like a Child, and said to us, Whatever you do keep yourselves honest: Whatever you do, be sure to know your own. And directing himself to my Wife, he said, Molly, Your Mother always work'd hard for her Living; if you are like her you'll always be careful to know your own, she always did. I gave him a Snuff-Box, which I had before given my Wife, and he was to keep it for our Sakes; he gave us 5 s. and promised my Wife a Gold Ring of her Mother's; and if we would come to live with him, he would do something for us; thus we parted.</p>
+            <p>While we were at <placeName id="OA17361102-geo-127">
+                  <interp inst="OA17361102-geo-127" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-127"/>Canterbury</placeName>, my Wife was always uneasy about me, and was eternally telling me, that I was just in the Condition of a Bird amonst Bird-lime Twigs, and that I should certainly be discover'd: So I took up a Resolution of going to her Father, or else to Deal or Dover, but something or other prevented me when I was in the Mind; and sometimes I declared to her that I would not go at all, but would stay where I was, tho' I was made uneasy several Times, and on many Occasions.</p>
+            <p>Once in particular, there being a Puppet-Shew in the Town, I must needs go and see it; and I was observed by the Fellow who beat the Drum about the Town for the Shew: This Fellow knew me, and said to my Landlady's Son where I lodg'd, That Man you saw with the Jockey's Cap over his Face, broke twice out of <placeName id="OA17361102-geo-128">
+                  <interp inst="OA17361102-geo-128" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-128"/>Newgate</placeName>. When the Boy came home, he told</p>
+            <xptr type="pageFacsimile" doc="OA173611020014"/>
+            <p>me what the Drummer had said concerning me. I was very angry with the Boy, and said it was false; but next Day, as I was sitting on a Bench at the Door where I lodg'd, the Drummer came by with his Drum again; I call'd him to me, and asked him how he could report such a Thing of me, he denied that he had ever said any thing like it: I call'd the Boy, and he affirmed what he had told me was true. However, I gave him a Pint of Beer, and bid him at the same time take care what he said, for I assured him I had never been in a Gaol in my Life. I acquainted my Wife with what had pass'd between this Drummer and the Boy, and I and she was very uneasy, and would have had me to have changed by Quarters, for fear I should be blown; but I would not consent. After this, I lay several Nights in my Cloaths, that I might be ready to get off, if I should be surpriz'd in the Night, and was always upon the Watch, thinking the Drummer would sometime or other certainly betray me.</p>
+            <p>After this, the Running Horses on Barham Downs were sent for to Bridge Hill, to one <persName id="OA17361102n93-1">
+                  <interp inst="OA17361102n93-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n93-1" type="surname" value="Hosier"/>
+                  <interp inst="OA17361102n93-1" type="given" value="Peter"/>Peter Hosier</persName>'s, and he desired me, knowing I was a <rs id="OA17361102-occupation-37" type="occupation">Jockey</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n74-1 n42-11 n42-12 OA17361102-occupation-37"/>, to ride my Lord Portmore's Horse, if the Groom should not come before the Races began. I undertook it, and went accordingly; but just as the Horse was brought out of the Stable, the Groom came so ride him himself, Then Peter, Mr. Hughes's Man, the Horse-courser, asked me to go and drink with him; I went into a Booth upon the Downs and staid a little while with him, and then went home.</p>
+            <p>Some time after this, he (Peter) came to see me at my Lodgings at <placeName id="OA17361102-geo-129">
+                  <interp inst="OA17361102-geo-129" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n93-1 OA17361102-geo-129"/>Canterbury</placeName>, and knowing I had made my Escape, and how it was with me, at parting, he told me, he heartily wish'd me well; but going from Canterbury, he met with one <persName id="OA17361102n94-1">
+                  <interp inst="OA17361102n94-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n94-1" type="surname" value="HOPKINS"/>
+                  <interp inst="OA17361102n94-1" type="given" value="DANIEL"/>Daniel Hopkins</persName>, and Jack that formerly liv'd with Mr. Perry at the New-Gaol in Southwark; they all dined together, and while they were at Dinner, says Peter, Who do you think I have  and drank with? They asked him who, he told them he had been with me, and informed them where I liv'd, and what Cloaths I wore.</p>
+            <p>In about a Week after this, I was beset by this Jack, that formerly liv'd with Mr. Perry, and <persName id="OA17361102n95-1">
+                  <interp inst="OA17361102n95-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n95-1" type="surname" value="HOPKINS"/>
+                  <interp inst="OA17361102n95-1" type="given" value="DANIEL"/>Daniel Hopkins</persName>; it was on a Saturday Night after I came from Work. I had desired my Wife to boil me a piece of Salt Fish for Supper; she did so, and after Supper I was undressing, my Cloaths all unbutton'd, in order to go to Bed; but one Mr. Poison's Man Jack came in and asked me to go and drink a Pint of Beer with him; he said he came on purpose to smoak a Pipe with me; I thank'd him civilly, and told</p>
+            <xptr type="pageFacsimile" doc="OA173611020015"/>
+            <p>him I was tired and wanted to go to Bed, he told me he would not keep me above a Quarter of an Hour, so I agreed to go and drink with him; he said he must go and fetch his Friend, and I sat waiting for his Return.</p>
+            <p>When he came back, he brought Mr. Perry's Man Jack, and <persName id="OA17361102n97-1">
+                  <interp inst="OA17361102n97-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n97-1" type="surname" value="HOPKINS"/>
+                  <interp inst="OA17361102n97-1" type="given" value="DANIEL"/>Daniel Hopkins</persName>, and another Man, with him, we drank pretty heartily, and talked about the Races and running Horses; they asked me if I did not know such and such Jockeys, and Jack pulled out two Handkerchiefs, and told me he bought them for a Girl; he asked me what they were worth, I bought them, says he, of Jack Wllee; I asked him what he gave for them; he swore he gave 7 s. for them; if you gave 5 s. says I, it is enough for them, they are only Spittlefields Goods, they are not India well, says he, if I had given 17 s. for them, I should not have cared, for they are for a Girl I Love, at Sittingburn; I told him it was nothing to me what he gave for them; Where there's Love, said I, there's Good Will; so we talked and drank heartily till Jack seemed sadly suddl'd and would go Home; I thought it was pity to let him go by himself, and so suddl'd as he was, so I gave a Cork Cutter (who came from London, and happened to be by at this Time) a Pot of Beer to see him Home, thinking he was in Liquor, but he only shammed it all the while, for about an Hour afterward he came in again with a Constable, and charged the Constable with some of us, but he was at a Loss to know who in particular, there being two or three of us in Company, but at last it fell upon me, I was the Person he said, and told the Constable my Name was <persName id="OA17361102n97-2">
+                  <interp inst="OA17361102n97-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n97-2" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n97-2" type="given" value="DANIEL"/>Daniel Malden</persName>, and that there was 200 l. Reward for taking me, which was false. Upon this I was carried before Justice Jacobs of Canterbury that very Night, and he asked Jack, if he had ever seen me before; he said, No; then the Justice asked him; how he knew me to be the Man? he told him, he knew me by the Description People gave of me; Hughes's Peter, and young Jack, had describ'd me to him, so he took me on Suspicion.</p>
+            <p>
+               <persName id="OA17361102n98-1">
+                  <interp inst="OA17361102n98-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n98-1" type="surname" value="HOPKINS"/>
+                  <interp inst="OA17361102n98-1" type="given" value="DANIEL"/>Daniel Hopkins</persName> swore what the Boy did he would stand to and justify; then I was committed to <placeName id="OA17361102-geo-130">
+                  <interp inst="OA17361102-geo-130" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n98-1 OA17361102-geo-130"/>Westgate Jail</placeName>, and the next Morning my Wife went to <placeName id="OA17361102-geo-131">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n42-13 n89-1 n116-1 OA17361102-geo-131"/>Bridgehill</placeName> to see for two Men that were Jockeys, and she met Hopkins and Jack upon the Road; how could you be such Rogues and Villains, said she, to do this? Oh! said they, we did this out of Spite, for Jack one Day when a Soldier was to be whipp'd, got her (Malden's Wife) up in a Room, and wanted to be very rude with her, but she call'd him Rogue, and would not let him; upon which he declared he would be even with her, and he told her now she met him, that he was even with her, and he had done it out of Spite.</p>
+            <p>On Monday the 13th of September, the Magistrate, who committed me to Goal at <placeName id="OA17361102-geo-132">
+                  <interp inst="OA17361102-geo-132" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-132"/>Canterbury</placeName>, sent a Letter to a Gentleman belonging to Newgate, informing him, that he had one in Cu</p>
+            <xptr type="pageFacsimile" doc="OA173611020016"/>
+            <p>stody, whom he believ'd was the same Person that escap'd from thence some Time ago. The Gentleman upon receiving this Notice, sent down a Horse and Man, that he might be satisfy'd whether it was so, or not. I was found to be the same Person who was to have been executed, and the News was carry'd to Newgate; upon this Mr. Akerman was sent down with two more Persons, to fetch me up; but while he was coming, I had like to have given them the Slip. For a certain Person having given me a Saw, about a Foot and a half long, with a Set of double Teeth in the middle of the Blade; a Spike, such as is used in splicing Ropes; a Piece of an old Sword, jagg'd and notch'd, and an old Knife, which he had of a young Man, a Stay-Maker, who was confin'd in the same Goal for an Assault! the Report, that these Things were given me by my Wife, is utterly false; she was only privy to my Design, and expected that I should have work'd myself out, the next Sunday Morning, after my Confinement; but it was not to be. Sleep that very Morning so overcame me, that I had no Power to make use of that Opportunity; so I was carry'd to Church; my Wife sitting on my Right Hand, and my Keeper on my Left, in the same Pew: The People all the while standing up, and staring at me; but I fell asleep here, and slept the greatest Part of the Time. When the Service was over, I was carry'd back to Goal.</p>
+            <p>I had not yet been hand cuff'd and had only a single Fetter upon me, but five Gentlemen coming to see me and a Parson with them, as I sat in a two arm'd Chair by the Fire Side, one of them perceived the End of the Saw sticking out of my Pocket, they condoled with me under my Misfortunes, and said, what a sad Thing it was I should be so confin'd, taking no Notice to me of what they saw, but before they left the Goal they told the Keepers what they had seen he came and searched me, and so I lost all my Tools and Implements, I had hid them behind a Board in the Room where I was confin'd, and if I had been wife eough to have let them  there till I had an Opportunity to have used them, they would never have been discover'd, and had I not slept away my Time on Sunday Morning, I might have been some Miles from Canterbury instead of going to Church there.</p>
+            <p>If I had minded my Business, and what I should have been about, I had now been at Liberty; but when my Intentions was thus discover'd, I was presently hand-cuff'd and put into the Round-Tower, but the Keepers apprehending this Tower not strong enough to hold me, mov'd me into another Part of the Goal, till the Round-Tower was made stronger and fitter for my Reception.</p>
+            <xptr type="pageFacsimile" doc="OA173611020017"/>
+            <p>When Mr. Ackerman came to see me, I told him, He had like to have  upon a Canterbury Story, but he secured me effectually, and brought me in my Way to <placeName id="OA17361102-geo-133">
+                  <interp inst="OA17361102-geo-133" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-133"/>London</placeName>, to the <placeName id="OA17361102-geo-134">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-134"/>
+                  <placeName id="OA17361102-geo-135">
+                     <interp inst="OA17361102-geo-135" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-135"/>Black-Bull</placeName> at Shooters-Hill</placeName> (kept by one Mr. Paul) on Sunday September 26, about 11 o'Clock in the Forenoon; here I staid and dined, and about 3 o'Clock in the Afternoon I set out from thence, guarded by about thirty or forty Horsemen, the Roads all the Way to <placeName id="OA17361102-geo-136">
+                  <interp inst="OA17361102-geo-136" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-136"/>London</placeName>, being lined with Spectators.</p>
+            <p>Thus was I taken and brought to <placeName id="OA17361102-geo-137">
+                  <interp inst="OA17361102-geo-137" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-137"/>London</placeName> hand-cuff'd, and my Legs chain'd under the Horse's Belly; I got to <placeName id="OA17361102-geo-138">
+                  <interp inst="OA17361102-geo-138" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-138"/>Newgate</placeName> that Sunday Evening, about five o'Clock, and rid quite up into the Lodge, where I was taken off my Horse, then was convey'd up to the Old Condemn'd-Hole, hand-cuff'd and chain'd down to the Floor.</p>
+            <p>And now having given this Account of myself, it is proper I should declare that my Wife was always utterly averse to my Way of Life, and would never consent to any Proposals I made to her in my Way. She had  a <rs id="OA17361102-occupation-38" type="occupation">Servant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n42-13 n89-1 n116-1 OA17361102-occupation-38"/> to Mr. Cole, the Engraver in <placeName id="OA17361102-geo-139">
+                  <interp inst="OA17361102-geo-139" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n42-13 n89-1 n116-1 OA17361102-geo-139"/>Holbourn</placeName>, a whole Year, but having staid out one Night late, with a young Man that then courted her, she was turned away, and went to live (till she could get a Place) at a Washer-Woman's in <placeName id="OA17361102-geo-140">
+                  <interp inst="OA17361102-geo-140" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n42-13 n89-1 n116-1 OA17361102-geo-140"/>Whitechapel</placeName>, for having disobliged her Friends, she could not go to them.</p>
+            <p>Here it was I became acquainted with her; I had been at Sea, and in the Passage Home I met a Ship going out, in which was the Husband of the Woman of the House where my Wife lodged, he desired me to carry a Message to her; when I went with this Message to the Woman, I saw this young Woman, who is now my Wife, at the Washing-Tub, among some other Women; I liked my Girl, and came to see her again next Day, and staid with her till Evening, and from that Time I went every Day to her, and desired her to take a Room to herself, but she told me she had ed herself to live with a Player in man's-Fields; I insisted upon her lodging by herself, and the Old Woman spoke to me, and told me, she hoped I had no Design to draw the Girl away; no, no, said I, I only intend to make her my Wife. She was to have gone to her Place on Thursday, but I prevented her, and on the Monday Night she and I took a Walk towards <placeName id="OA17361102-geo-141">
+                  <interp inst="OA17361102-geo-141" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-141"/>Whitechapel-<placeName id="OA17361102-geo-142">
+                     <interp inst="OA17361102-geo-142" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-142"/>Church</placeName>
+               </placeName>; as we went along I ask'd her to have me, though I was under some Concern (as she perceived) when I asked her the Question, for I had left a Woman in <placeName id="OA17361102-geo-143">
+                  <interp inst="OA17361102-geo-143" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-143"/>Maryland</placeName>, that I had a very great Value for, and had another that I kept Company with here at Home; but though she observed I was under some Confusion when I asked her whether she would have me, yet she answered, Aye, aye, I'll have you; so on Tuesday Morning I went to her, and asked her if she had not forgot what she had said last</p>
+            <xptr type="pageFacsimile" doc="OA173611020018"/>
+            <p>Night, she told me she had not, and that she would go with me, and away we came together, and went round about the Town to -Bridge, and at the Corner  the Bridge I stood still to consider a little; I was concerned about the other two Women, and she seeing me in this Consternation, told me, if I thought, I could not be happy in her, I had better de before I came to the Fleet, and that I need not have her now against my Inclination.</p>
+            <p>I stood pausing still, and she told me, if I would go back now, she would come again To-morrow with me. At last I said I was resolved to go on now I was come so far, so I carried her to the <placeName id="OA17361102-geo-144">
+                  <interp inst="OA17361102-geo-144" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-144"/>
+                  <placeName id="OA17361102-geo-145">
+                     <interp inst="OA17361102-geo-145" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 n42-13 n89-1 n116-1 OA17361102-geo-145"/>West-Country-Barge</placeName> in Fleet-Lane</placeName>, there a Man soon ply'd us, with a Do you want a Parson? I told him yes, so up Stairs we went, the Parson came, and were married.</p>
+            <p>While we were in the House, an old Woman asked me, what I intended to do with that young likely Creature? Why, says I, I will go to Sea, and leave my Powers with her to maintain her till I come back.</p>
+            <p>My marrying this Woman provoked the other to the last Degree, though I seldom lived with her before I married this Wife, above two or three Days in a Month, for I generally lodged at the <placeName id="OA17361102-geo-146">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-146"/>
+                  <placeName id="OA17361102-geo-147">
+                     <interp inst="OA17361102-geo-147" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n74-1 n42-11 n42-12 OA17361102-geo-147"/>Ship</placeName> in Rag-Fair</placeName>, and not with her.</p>
+            <p>I must confess I have not used this very well, for I have frequently in my Cups, declared I married her out of a Bawdy-House, and have beat and abused her, even when she has been with Child, in a sad Manner, for which I am now sorry, but she has forgiven me.</p>
+            <p>The following is an exact Copy of a LETTER, left by <persName id="OA17361102n112-1">
+                  <interp inst="OA17361102n112-1" type="gender" value="male"/>
+                  <interp inst="OA17361102n112-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n112-1" type="given" value="DANIEL"/>Daniel Malden</persName>, for Mrs. Miller, in <placeName id="OA17361102-geo-148">
+                  <interp inst="OA17361102-geo-148" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n114-1 OA17361102-geo-148"/>
+                  <placeName id="OA17361102-geo-149">
+                     <interp inst="OA17361102-geo-149" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n114-1 OA17361102-geo-149"/>Brocksford-Street</placeName>, near Ipswich</placeName>.</p>
+            <p>Friday 1736.</p>
+            <p>My Dowty to All Frends, Mrs. <persName id="OA17361102n114-1">
+                  <interp inst="OA17361102n114-1" type="gender" value="female"/>
+                  <interp inst="OA17361102n114-1" type="surname" value="Miller"/>
+                  <interp inst="OA17361102n114-1" type="given" value="Eliz"/>Eliz. Miller</persName>, at <placeName id="OA17361102-geo-150">
+                  <interp inst="OA17361102-geo-150" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17361102n114-1 OA17361102-geo-150"/>
+                  <placeName id="OA17361102-geo-151">
+                     <interp inst="OA17361102-geo-151" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n114-1 OA17361102-geo-151"/>Brocksford-Strete</placeName>, in the County of Suffoke, near <placeName id="OA17361102-geo-152">
+                     <interp inst="OA17361102-geo-152" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17361102n114-1 OA17361102-geo-152"/>Ebsebship</placeName>
+               </placeName>.</p>
+            <p>Mrs. MILLER,</p>
+            <p>I Dsr you would take care of my <rs id="OA17361102-occupation-39" type="occupation">Wife</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17361102n116-1 OA17361102-occupation-39"/>, <persName id="OA17361102n116-1">
+                  <interp inst="OA17361102n116-1" type="gender" value="female"/>
+                  <interp inst="OA17361102n116-1" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n116-1" type="given" value="MARE"/>Mare Malden</persName>, as I  a dying Man, <persName id="OA17361102n116-2">
+                  <interp inst="OA17361102n116-2" type="gender" value="male"/>
+                  <interp inst="OA17361102n116-2" type="surname" value="MALDEN"/>
+                  <interp inst="OA17361102n116-2" type="given" value="DANIEL"/>Daniel Malden</persName>. I desi you</p>
+            <xptr type="pageFacsimile" doc="OA173611020019"/>
+            <p>would let hur have what was left me, and not rong hur of anne-thing which was left me. My Dewty to all Friends, living in Brocksford-Strete, in the County of Suffoke, near Ebships.</p>
+            <p>My Dewty to my Father and Mother, and Respets to my Ant Jouns, and Cozens Couts, and nt Miller, and I desire you would take Care of my dear and loving Wife for my Sake.</p>
+            <p>Dere Frends, onst more I pray you for my dear and lawfull Wife, has gone thro' a Sea of truble for me, who now lyes in a pore and deplorabel Condishon, and must have been starfed, had it not been for shee whom I love as my Life, as I ought to do, I knowin she returns the same to me. No more, but hoping she will remane your dutifull Dater tel Deth.</p>
+            <p>Two or three Days before he dy'd he was in a great Agony as he lay on the Floor, and starting up (as suddenly as he could for his Irons) he flew into a violent Passion, and declared, That before he would die on a Tree, he would dash his Brains out against the Staple, which fasten'd him to the Floor.</p>
+            <p>Which accordingly he did his Endeavour on Sunday Night last, but was happily prevented by one of the Persons, whom was set as a Watch over him.</p>
+            <p>FINIS.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

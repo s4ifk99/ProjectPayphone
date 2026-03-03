@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17470729">
+            <interp inst="OA17470729" type="uri" value="ordinarysAccounts/OA17470729"/>
+            <interp inst="OA17470729" type="date" value="17470729"/>
+            <xptr type="pageFacsimile" doc="OA174707290001"/>
+            <p>
+               THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, &amp; Dying Words of the TWO MALEFACTORS Who were executed at TYBURN On Wednesday the 29th of JULY, 1747.</p>
+            <p>BEING THE Third EXECUTION in the MAYORALTY OF THE Right Honble <persName id="OA17470729n2-1">
+                  <interp inst="OA17470729n2-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n2-1" type="surname" value="Benn"/>
+                  <interp inst="OA17470729n2-1" type="given" value="William"/>William Benn</persName>, <rs id="OA17470729-occupation-1" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n2-1 OA17470729-occupation-1"/>; <rs id="OA17470729-occupation-2" type="occupation">LORD-MAYOR</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n2-1 OA17470729-occupation-2"/> of the <placeName id="OA17470729-geo-1">
+                  <interp inst="OA17470729-geo-1" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17470729n2-1 OA17470729-geo-1"/>CITY of LONDON</placeName>.</p>
+            <p>NUMBER III. For the said YEAR.</p>
+            <p>LONDON:</p>
+            <p>Printed for, and sold by T. PARKER, in Jewin-street, and C. CORBETT, over-against St. Dunstan's Church, in Fleet-street.</p>
+            <p>M.DCC.XLVII.</p>
+            <p>[Price Six-pence.]</p>
+            <xptr type="pageFacsimile" doc="OA174707290002"/>
+            <p>
+            
+         </p>
+            <p>THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, &amp;c.</p>
+            <p>BY Virtue of the King's Commission of the Peace, OYER, and TERMINER, and Goal-delivery of Newgate, held before the Right Honourable 
+               
+                   
+                  <persName id="OA17470729n10-1">
+                  <interp inst="OA17470729n10-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-1" type="surname" value="BENN"/>
+                  <interp inst="OA17470729n10-1" type="given" value="WILLIAM"/>WILLIAM BENN</persName>
+               , <rs id="OA17470729-occupation-3" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n10-1 OA17470729-occupation-3"/>; <rs id="OA17470729-occupation-4" type="occupation">Lord-Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n10-1 OA17470729-occupation-4"/> of the <placeName id="OA17470729-geo-2">
+                  <interp inst="OA17470729-geo-2" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17470729n10-1 OA17470729-geo-2"/>City of London</placeName>; the Honourable <rs id="OA17470729-occupation-5" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n10-2 OA17470729-occupation-5"/>. 
+                   
+                  <persName id="OA17470729n10-2">
+                  <interp inst="OA17470729n10-2" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-2" type="surname" value="ABNEY"/>
+                  <interp inst="OA17470729n10-2" type="given" value="THOMAS"/>THOMAS ABNEY</persName>
+               , Mr. Justice DENNISON, and Mr. Baron CLARK, 
+                   
+                  <persName id="OA17470729n10-3">
+                  <interp inst="OA17470729n10-3" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-3" type="surname" value="STRACEY"/>
+                  <interp inst="OA17470729n10-3" type="given" value="JOHN"/>JOHN STRACEY</persName>
+               , <rs id="OA17470729-occupation-6" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n10-3 OA17470729-occupation-6"/>; <rs id="OA17470729-occupation-7" type="occupation">Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n10-3 OA17470729-occupation-7"/>, and others of his Majesty's Justices of OYER, and TERMINER, for the City of London, and Justices of Goal-delivery of Newgate, holden for the said City, and County of Middlesex, at Justice-Hall in the <placeName id="OA17470729-geo-3">
+                  <interp inst="OA17470729-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n10-1 n10-2 n10-3 n10-4 n10-5 n10-6 n10-7 n10-8 OA17470729-geo-3"/>Old Bailey</placeName>, on Thursday the 4th and Friday the 5th of June in the 20th Year of his Majesty's Reign; <persName id="OA17470729n10-4">
+                  <interp inst="OA17470729n10-4" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-4" type="surname" value="RYLEY"/>
+                  <interp inst="OA17470729n10-4" type="given" value="JOHN"/>JOHN RYLEY</persName>, <persName id="OA17470729n10-5">
+                  <interp inst="OA17470729n10-5" type="gender" value="female"/>
+                  <interp inst="OA17470729n10-5" type="surname" value="DENNIS"/>
+                  <interp inst="OA17470729n10-5" type="given" value="ELIZABETH"/>ELIZABETH DENNIS</persName>, <persName id="OA17470729n10-6">
+                  <interp inst="OA17470729n10-6" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-6" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n10-6" type="given" value="JOHN"/>JOHN COOK</persName>, <persName id="OA17470729n10-7">
+                  <interp inst="OA17470729n10-7" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-7" type="surname" value="ASHCROFT"/>
+                  <interp inst="OA17470729n10-7" type="given" value="RICHARD"/>RICHARD ASHCROFT</persName>, and <persName id="OA17470729n10-8">
+                  <interp inst="OA17470729n10-8" type="gender" value="male"/>
+                  <interp inst="OA17470729n10-8" type="surname" value="HURLOCK"/>
+                  <interp inst="OA17470729n10-8" type="given" value="SAMUEL"/>SAMUEL HURLOCK</persName>, were capitally convicted, and received Sentence of Death accordingly.</p>
+            <p>And by Virtue of the King's Commission of the Peace, OYER, and TERMINER, and Goal-delivery of Newgate, held before the Right Honourable 
+               
+                   
+                  <persName id="OA17470729n11-1">
+                  <interp inst="OA17470729n11-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n11-1" type="surname" value="BENN"/>
+                  <interp inst="OA17470729n11-1" type="given" value="WILLIAM"/>WILLIAM BENN</persName>
+               , <rs id="OA17470729-occupation-8" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-1 OA17470729-occupation-8"/>; the Right Honourable <rs id="OA17470729-occupation-9" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-2 OA17470729-occupation-9"/> 
+                   
+                  <persName id="OA17470729n11-2">
+                  <interp inst="OA17470729n11-2" type="gender" value="male"/>
+                  <interp inst="OA17470729n11-2" type="surname" value="PARKER"/>
+                  <interp inst="OA17470729n11-2" type="given" value="THOMAS"/>THOMAS PARKER</persName>
+               . <rs id="OA17470729-occupation-10" type="occupation">Lord Chief Baron of his Majesty's Court of Exchequer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-2 OA17470729-occupation-10"/>; the Honourable <rs id="OA17470729-occupation-11" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-3 OA17470729-occupation-11"/> 
+                   
+                  <persName id="OA17470729n11-3">
+                  <interp inst="OA17470729n11-3" type="gender" value="male"/>
+                  <interp inst="OA17470729n11-3" type="surname" value="FOSTER"/>
+                  <interp inst="OA17470729n11-3" type="given" value="MICHAEL"/>MICHAEL FOSTER</persName>
+               , one of the <rs id="OA17470729-occupation-12" type="occupation">Justices of his Majesty's Court of King's Bench</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-3 OA17470729-occupation-12"/>, the Honourable <rs id="OA17470729-occupation-13" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-4 OA17470729-occupation-13"/> 
+                   
+                  <persName id="OA17470729n11-4">
+                  <interp inst="OA17470729n11-4" type="gender" value="male"/>
+                  <interp inst="OA17470729n11-4" type="surname" value="BURNET"/>
+                  <interp inst="OA17470729n11-4" type="given" value="THOMAS"/>THOMAS BURNET</persName>
+               , one of the <rs id="OA17470729-occupation-14" type="occupation">Justices of his Majesty's Court of Common-Pleas</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-4 OA17470729-occupation-14"/>, 
+                   
+                  <persName id="OA17470729n11-5">
+                  <interp inst="OA17470729n11-5" type="gender" value="male"/>
+                  <interp inst="OA17470729n11-5" type="surname" value="STRACEY"/>
+                  <interp inst="OA17470729n11-5" type="given" value="JOHN"/>JOHN STRACEY</persName>
+               , <rs id="OA17470729-occupation-15" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-5 OA17470729-occupation-15"/>; <rs id="OA17470729-occupation-16" type="occupation">Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n11-5 OA17470729-occupation-16"/>, and others of his Majesty's Justices of OYER, and TERMINER, for the City of London, and Justices of Goal-delivery</p>
+            <xptr type="pageFacsimile" doc="OA174707290003"/>
+            <p>of Newgate, holden for the said City, and County of Middlesex, at Justice-Hall in the <placeName id="OA17470729-geo-4">
+                  <interp inst="OA17470729-geo-4" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n11-1 n11-2 n11-3 n11-4 n11-5 n11-6 OA17470729-geo-4"/>Old Bailey</placeName>, on Wednesday the 15th, and Thursday the 16th of July, in the 21st Year of his Majesty's Reign; <persName id="OA17470729n11-6">
+                  <interp inst="OA17470729n11-6" type="gender" value="male"/>
+                  <interp inst="OA17470729n11-6" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n11-6" type="given" value="JOHN"/>JOHN Cook</persName>, was capitally convicted, and received Sentence of Death accordingly.</p>
+            <p>Since the Conviction of the five first mentioned, their Behaviour has been, as became People in their unhappy Situation. Their Attendance at Chappel was as often as they were able, for all of them have been greatly hinder'd by extreme Illness and Weakness, except Ryley whose Sickness was slight, and of no more than two Days Continuance, and he attended constantly.</p>
+            <p>Cook, was convicted only last Sessions; whenever I saw him, his Appearance was decent, tho' to the last he conceived Hopes of saving his Life.</p>
+            <p>On Wednesday the 22d Instant, the Report of the six Malefactors, was made by Mr. Recorder to his Majesty, when he was pleased to order the five following for Execution, viz. <persName id="OA17470729n14-1">
+                  <interp inst="OA17470729n14-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n14-1" type="surname" value="ASHCROFT"/>
+                  <interp inst="OA17470729n14-1" type="given" value="RICHARD"/>Richard Ashcroft</persName> and <persName id="OA17470729n14-2">
+                  <interp inst="OA17470729n14-2" type="gender" value="male"/>
+                  <interp inst="OA17470729n14-2" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n14-2" type="given" value="JOHN"/>John Cook</persName>, on Wednesday the 29th Instant; <persName id="OA17470729n14-3">
+                  <interp inst="OA17470729n14-3" type="gender" value="male"/>
+                  <interp inst="OA17470729n14-3" type="surname" value="RYLEY"/>
+                  <interp inst="OA17470729n14-3" type="given" value="JOHN"/>John Ryley</persName>, <persName id="OA17470729n14-4">
+                  <interp inst="OA17470729n14-4" type="gender" value="female"/>
+                  <interp inst="OA17470729n14-4" type="surname" value="DENNISS"/>
+                  <interp inst="OA17470729n14-4" type="given" value="ELIZABETH"/>Elizabeth Denniss</persName> and <persName id="OA17470729n14-5">
+                  <interp inst="OA17470729n14-5" type="gender" value="male"/>
+                  <interp inst="OA17470729n14-5" type="surname" value="HURLOCK"/>
+                  <interp inst="OA17470729n14-5" type="given" value="SAMUEL"/>Samuel Hurlock</persName>, on Friday the 31st Instant.</p>
+            <p>1. 
+                
+               <persName id="OA17470729n15-1" type="defendantName">
+                  <interp inst="OA17470729n15-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n15-1" type="age" value="44"/>
+                  <interp inst="OA17470729n15-1" type="surname" value="ASHCROFT"/>
+                  <interp inst="OA17470729n15-1" type="given" value="RICHARD"/>RICHARD ASHCROFT</persName>
+            , was Indicted for unlawfully and 
+               feloniously together with other Persons to the Number of 30, unknown, assembling, and gathering themselves together at <placeName id="OA17470729-geo-5">
+                  <interp inst="OA17470729-geo-5" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17470729n15-1 OA17470729-geo-5"/>
+                  <placeName id="OA17470729-geo-6">
+                     <interp inst="OA17470729-geo-6" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17470729n15-1 OA17470729-geo-6"/>East-Bourne</placeName> in the County of Sussex</placeName>, on the 14th of September last, being armed with Fire Arms, and other offensive Weapons, in order to be aiding, and assisting in the running and the carrying away uncustomed Goods liable to pay Duties, which have never been paid or secured
+            . And,</p>
+            <p>For unlawfully, notoriously, and feloniously making an Assault and a Fray, upon 
+                
+               <persName id="OA17470729n16-1" type="victimName">
+                  <interp inst="OA17470729n16-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n16-1" type="surname" value="Mortimer"/>
+                  <interp inst="OA17470729n16-1" type="given" value="Thomas"/>Thomas Mortimer</persName>
+            , 
+                
+               <persName id="OA17470729n16-2" type="victimName">
+                  <interp inst="OA17470729n16-2" type="gender" value="male"/>
+                  <interp inst="OA17470729n16-2" type="surname" value="Hust"/>
+                  <interp inst="OA17470729n16-2" type="given" value="Thomas"/>Thomas Hust</persName>
+            , 
+                
+               <persName id="OA17470729n16-3" type="victimName">
+                  <interp inst="OA17470729n16-3" type="gender" value="male"/>
+                  <interp inst="OA17470729n16-3" type="surname" value="Smith"/>
+                  <interp inst="OA17470729n16-3" type="given" value="Thomas"/>Thomas Smith</persName>
+            , 
+                
+               <persName id="OA17470729n16-4" type="victimName">
+                  <interp inst="OA17470729n16-4" type="gender" value="male"/>
+                  <interp inst="OA17470729n16-4" type="surname" value="Sympson"/>
+                  <interp inst="OA17470729n16-4" type="given" value="Joseph"/>Joseph Sympson</persName>
+            , and 
+                
+               <persName id="OA17470729n16-5" type="victimName">
+                  <interp inst="OA17470729n16-5" type="gender" value="male"/>
+                  <interp inst="OA17470729n16-5" type="surname" value="Fletcher"/>
+                  <interp inst="OA17470729n16-5" type="given" value="Thomas"/>Thomas Fletcher</persName>
+            , being <rs id="OA17470729-occupation-17" type="occupation">Officers of our Lord the King, of the Customs</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n16-1 n16-2 n16-3 n16-4 n16-5 OA17470729-occupation-17"/>, and the due Execution of the said several respective Officers, in the due seizing, and securing several Parcels of uncustomed Goods and Goods liable to pay Duties. And,</p>
+            <p>For unlawfully, notoriously, and feloniously obstructing, opposing, and resisting the said several Officers, in the due Execution of their said several respective Offices. And,</p>
+            <p>For unlawfully, riotously, and feloniously assembling and gathering together, in order to be aiding and assisting in running and carrying away uncustomed Goods, and Goods being lyable to pay Duties, which have not been paid, or secured, against the Statute. And,</p>
+            <p>For unlawfully, forcibly, and feloniously hindering, obstructing, assaulting, and resisting the said several Officers of his Majesty's Customs, in the due Execution of their said several respective Offices in the due seizing and securing several Parcels of uncustomed Goods, and Goods liable to pay Duties, which have not been paid, or secured against the Statute.</p>
+            <p>2. 
+                
+               <persName id="OA17470729n20-1" type="defendantName">
+                  <interp inst="OA17470729n20-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-1" type="age" value="28"/>
+                  <interp inst="OA17470729n20-1" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n20-1" type="given" value="JOHN"/>JOHN COOK</persName>
+            , was indicted 
+               together with 
+                     <persName id="OA17470729n20-2">
+                  <interp inst="OA17470729n20-2" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-2" type="surname" value="Mapesden"/>
+                  <interp inst="OA17470729n20-2" type="given" value="Robert"/>Robert Mapesden</persName>, otherwise 
+                     <persName id="OA17470729n20-3">
+                  <interp inst="OA17470729n20-3" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-3" type="surname" value="Maplesden"/>
+                  <interp inst="OA17470729n20-3" type="given" value="Robert"/>Robert Maplesden</persName>, otherwise 
+                     <persName id="OA17470729n20-4">
+                  <interp inst="OA17470729n20-4" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-4" type="surname" value="Mapeston"/>
+                  <interp inst="OA17470729n20-4" type="given" value="Robert"/>Robert Mapeston</persName>, otherwise  
+                     <persName id="OA17470729n20-5">
+                  <interp inst="OA17470729n20-5" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-5" type="surname" value="Mapleston"/>
+                  <interp inst="OA17470729n20-5" type="given" value="Robert"/>Robert Mapleston</persName>
+                  ; 
+                     
+                     </p>
+            <xptr type="pageFacsimile" doc="OA174707290004"/>
+            <p>
+                     <persName id="OA17470729n20-6">
+                  <interp inst="OA17470729n20-6" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-6" type="surname" value="Fuller"/>
+                  <interp inst="OA17470729n20-6" type="given" value="Thomas"/>Thomas Fuller</persName>
+                  , 
+                      
+                     <persName id="OA17470729n20-7">
+                  <interp inst="OA17470729n20-7" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-7" type="surname" value="Bunce"/>
+                  <interp inst="OA17470729n20-7" type="given" value="Daniel"/>Daniel Bunce</persName>
+                  , otherwise Great Daniel, and 
+                      
+                     <persName id="OA17470729n20-8">
+                  <interp inst="OA17470729n20-8" type="gender" value="male"/>
+                  <interp inst="OA17470729n20-8" type="surname" value="Bunce"/>
+                  <interp inst="OA17470729n20-8" type="given" value="Robert"/>Robert Bunce</persName>
+                  , otherwise Halfcoat Robin, not yet taken; for unlawfully, and feloniously assembling themselves together, on the 11th of February last, at the Parish of <placeName id="OA17470729-geo-7">
+                  <interp inst="OA17470729-geo-7" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n20-1 n20-2 n20-3 n20-4 n20-5 n20-6 n20-7 n20-8 OA17470729-geo-7"/>
+                  <placeName id="OA17470729-geo-8">
+                     <interp inst="OA17470729-geo-8" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17470729n20-1 n20-2 n20-3 n20-4 n20-5 n20-6 n20-7 n20-8 OA17470729-geo-8"/>Folkstone</placeName>, in the County of Kent</placeName>, being then and there armed with, and carrying Fire Arms, and other offensive Weapons, in order to be aiding and assisting in the clandestine running, landing, and carrying away uncustomed Goods, and Goods liable to pay Duties, which had not been pay'd or secured, against the Statute
+            .</p>
+            <p>
+            
+                
+               <persName id="OA17470729n21-1" type="defendantName">
+                  <interp inst="OA17470729n21-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n21-1" type="age" value="44"/>
+                  <interp inst="OA17470729n21-1" type="surname" value="ASHCROFT"/>
+                  <interp inst="OA17470729n21-1" type="given" value="RICHARD"/>RICHARD ASHCROFT</persName>
+            , aged about 44 Years, was born at <placeName id="OA17470729-geo-9">
+                  <interp inst="OA17470729-geo-9" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17470729n21-1 OA17470729-geo-9"/>
+                  <placeName id="OA17470729-geo-10">
+                     <interp inst="OA17470729-geo-10" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17470729n21-1 OA17470729-geo-10"/>Lewes</placeName> in Sussex</placeName>. From his Infancy he was bred to follow the Plow, and other Parts of <rs id="OA17470729-occupation-18" type="occupation">Husbandry</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n21-1 OA17470729-occupation-18"/>, as his Father had done before him, so that his Education you may imagine was not much.</p>
+            <p>At length he took to the Trade of <rs id="OA17470729-occupation-19" type="occupation">Fishing</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n21-1 OA17470729-occupation-19"/>, for some Years past, he says, at Bishopstone, in the said County, where he lived ever since he was married, and left his Father; his Neighbours have given him the Character of a quiet harmless Man; till (unhappily for him) he was met in <placeName id="OA17470729-geo-11">
+                  <interp inst="OA17470729-geo-11" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n21-1 OA17470729-geo-11"/>South-Lane</placeName>, and known, being in Company with a dissolute and notorious Gang of Smugglers, who are become the Terror of many of the Inhabitants of the Country, and so of late he became a little troublesome himself.</p>
+            <p>He had a Wife and seven Children, when he was apprehended and brought to <placeName id="OA17470729-geo-12">
+                  <interp inst="OA17470729-geo-12" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n21-1 OA17470729-geo-12"/>Newgate</placeName>; but since his Conviction his Wife died in Child-bearing, and the seven poor helpless Orphans left without any Provision, but what the Laws of the Land may oblige their native Parish to make for their Subsistance.</p>
+            <p>His being seen with People armed contrary to Act of Parliament, (tho' he carried no manner of offensive Weapon himself) was plainly proved against him at his Trial; of which he confesseth himself very sensible, and much laments the unlucky and fatal Day, not only that he was seen, but that he should ever be in such Company. He persists in it to the Uttermost that he never had any Interest, or Advantage among the Smugglers.</p>
+            <p>But as his Employment of Fishing led him down to the Sea-side, he was often in their Company and drank with them, but protests, that by this Means, and this alone it came to pass, that he was ever among them, at the Time of his being with them, when sworn against, for which he suffers; he says particularly, he went that Day to <placeName id="OA17470729-geo-13">
+                  <interp inst="OA17470729-geo-13" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n21-1 OA17470729-geo-13"/>East-Bourne</placeName>, to see a Friend or Relation that lived there.</p>
+            <xptr type="pageFacsimile" doc="OA174707290005"/>
+            <p>While he was there, a Gang of Smugglers had landed prohibited Goods, and as he was going home, he met them conveying them away upon Horses, one of which by their Permission he rode, when the Officers met the Company with their Cargo in <placeName id="OA17470729-geo-14">
+                  <interp inst="OA17470729-geo-14" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n21-1 OA17470729-geo-14"/>South-Lane</placeName>. He knew indeed, he owns, that they were about illicit Business, but had not the least Notion of an Act, or Proclamation, which might touch or affect him for being in such Company. However the Sentence upon the Fact proved against him, of being in Company with three or more, who carried Arms,contrary to express Law, he confesses to be just, and gives himself up to this Fate with all the Patience and Resignation which a Man of his mean Apprehension, and in such Circumstances, may be supposed to be Master of.</p>
+            <p>He says further that Reason sufficient he has to be grieved, and heartily to lament the evil Ways of his past Life, such as prophane Cursing and Swearing, and not keeping the Sabbath according to the Commandment. For which, and all Offences of his Life, he is in all Appearance sincere in his Repentance, rejoices to rely on the Merits of our Saviour Jesus Christ for Remission and Salvation, and leaves this World in Charity with all Men.</p>
+            <p>
+            
+                
+               <persName id="OA17470729n28-1" type="defendantName">
+                  <interp inst="OA17470729n28-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n28-1" type="age" value="28"/>
+                  <interp inst="OA17470729n28-1" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n28-1" type="given" value="JOHN"/>JOHN COOK</persName>
+            , aged about 28 Years, was born at <placeName id="OA17470729-geo-15">
+                  <interp inst="OA17470729-geo-15" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n28-1 OA17470729-geo-15"/>
+                  <placeName id="OA17470729-geo-16">
+                     <interp inst="OA17470729-geo-16" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17470729n28-1 OA17470729-geo-16"/>Hastings</placeName> in Sussex</placeName>, of Parents very low in the World, who, having a large Family, 'twas not in their Power to give him any Education, nor had he ever the Happiness or Advantage of good Instructions to prevent falling into evil Ways. His Ignorance of Letters, he therefore pretty much laments, and says, had he known better, his Case perhaps had never been thus desperate. His Father was a daily Labourer in <rs id="OA17470729-occupation-20" type="occupation">Husbandry</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n28-1 OA17470729-occupation-20"/>, which Method of procuring a Livelihood, the Son, of whom we are speaking, followed for many Years, till he became acquainted with the Hawkhurst Gang, who are now pretty famous by the Terror they spread in their Country. How long he has been a Companion of such evil Doers, he does not chuse to say; but 'tis very probable, and from Circumstances very observable in this Account of his Behaviour among them, it may be gathered, without any Injustice done him, that he has been for some Years past conversant in such Practices, as are of great Discouragement to the fair Trader, if not to the great Loss of the Revenue. For,</p>
+            <xptr type="pageFacsimile" doc="OA174707290006"/>
+            <p>When in private I had some Talk with him about that daring Impudence, and Defiance of the Laws, to which, for a long Time past, they have been known to be accustomed; he answered, he was sensible to what a prodigious Height of Insolence they were grown; so that it was dangerous for any one, Stranger or Neighbour, if not one of their own Stamp, to come near the Places where they resorted together. They were scarce to be restrained by any Ties of Society, but those of their own Illegitimate, or to be persuaded to have any Regard to Men, or Things, but would have every thing their own way, unless he interposed to prevent Disorders, which he frequently did. Especially if an Officer has at any time fallen into their Hands, his Treatment was sure to be very barbarous; such as threatening with Pistols, and other offensive Weapons, being put in Fear of his Life, if not made away with. He says further, he has frequently prevented a deal of Mischief that would otherwise have been done, and was the chief Instrument of saving the Lives of several Officers: And not only so, but when some of his Companions had laid a Scheme, in order to send Over-Sea some Officers, that they might be made Galley-Slaves, he prevented by discoveringtheir Plots. All which Circumstances, as they shew him not to be altogether so wicked as some of his Company, so they make him appear a Man of Power in, if not a principal Man of the Gang.</p>
+            <p>Till he was told the Warrant to order his Execution was come down, he entertain'd great Hopes of Mercy, thinking what the Person (who is, or was an Officer) admitted by the Court to speak in his behalf, when upon his Trial, had given in Evidence, and upon Oath, wou'd have had some Weight towards mitigating the Rigout of his Sentence. But, were Circumstances ever so favourable, as I observed to him, the notorious Riots and Disorders which have been committed, seem to leave very little Room for Mercy to be extended to any Smuggler; especially such as have been advertised in the publick Papers, as common Disturbers of the Peace of their Country. And as for himself, I told him, I did not see how he cou'd expect it; since Facts were so plainly proved against him, viz. that he was in Company with a Number of People with Fire-Arms, contrary to Act of Parliament, himself also bearing Arms, and joining in the very Act of Smuggling. He seems sensibly affected at the Approach of his latter End, repents of having been guilty of the Facts for which he suffers, and of all other Breaches of the Laws of God, whereby he has provoked him to Wrath. He declares heartily to forgive all the World, and humbly begs of God, that his Faith in, and Reliance on the Merits of Jesus Christ, may obtain for him Pardon of his Sins, and Life Everlasting.</p>
+            <p>I found, by what passed between us, since their Conviction, especially Cook, that Men, who follow this unlawful Practice of Smuggling, have long been under a strong Prepossesion, that the Crime for which they were condemned was not so heinous in the Sight of God, as the Punishment was severe by the Laws of Men; and I am afraid, not only the unhappy Criminals themselves, but many well-meaning though unthinking Men labour under this fatal Mistake. The common People of England in general fancy that there is nothing in it, but cheating the King of a small Part of his Revenue; and that there is no Harm done to the Community in general, or to the Properties of particular Persons: They think they have a Right to shurt, as much as possible, paying any Duty for their Goods, and what they get by their Dexterity in that Manner is honest Gain, to be enjoyed as the Fruits of their Industry and Labour; but a little Consideration will teach them to think otherways, and convince them, that Smuggling is in itself a Crime of worse Consequence to Society, and more hurtful to particular Persons, than many other Crimes which Custom has taught them to look upon with greater Abhorrence.</p>
+            <xptr type="pageFacsimile" doc="OA174707290007"/>
+            <p>The Prejudice done the Society, and the Damage received by Individuals, next to the express Declaration of the divine Will, are the best Marks by which we can judge of the Degree of Immorality in any Action whatever;and if we judge of their Crime of Smuggling by this Criterion, we shall find it a Sin of deep Dye, and to deserve the Resentment of every Man, who pretends to any Share of moral Honesty.</p>
+            <p>In the first Place, the fair Trader is injured in his Property by their kind of illicit Trade: He pays honestly the Duties and Taxes charged upon his Commodity at his Entry, which in some Cases amounts to near as much as the prime Cost of his Goods at the first Market; this he must charge upon the Consumer, with a living Profit for his Risk, Trouble and Out-lay of his Money; but the Smuggler, who buys his Goods at the same Market, and perhaps at a lower Price, as he chuses the worst Sort upon running them, is able to undersell the fair Dealer at least one Third, and for that Reason is, by the greedy Retailer, preferred, though the Commodity he deals in is worse in Quality. Is not this robbing the honest Merchant of his real Profit, and forcing him either to sell below what his Goods cost, or leave off a Branch of Trade, to which, perhaps, he has served an Apprenticeship, and built extraordinary Hopes upon, of being a Support to him or his Family I appeal to every thinking Man, if there is any material Difference betwixt ruining a Man by robbing him on the Highway, and this Method of beggaring him and his Family by Smuggling? If there is any Difference in Point of Immorality, it must he on the Side of Smuggling, as the Evil attending it is more universal, and reaches further. Few Men carry their All in their Pocket; and not one Man in a Thousand is ruined, by what is taken from him by the Highwayman; But there is not a Ship of Goods run upon our Coast but injures Hundreds; perhaps not immediately, but in Process of Time it certainly has that Effect. Not only the Parts adjacent, and the Dealers near the Smuggling Port suffer by this Means, but the most distant Corners of the Kingdom is affected by it in a few Weeks, in proportion as it lowers the Price of the Commodity, and diminishes the publick Revenue. But it is this lowering the Price which is the great Temptation; the Cheapness of the Smuggler's Goods tempts the Retailer to prefer him to the fair Trader, from a mistaken Notion, that it is his particular Interest to buy as cheap as he can, and consequently he encourages, conceals, and connives at all the Villianies of this Set of People. But if such a Retailer would give himself Time to think, I believe he might easily persuade himself, that he is robbing Peter to pay Paul; that what he gets upon one Article, he loses on another.</p>
+            <xptr type="pageFacsimile" doc="OA174707290008"/>
+            <p>It is evident, Taxes must be paid to support the Expences of the Government; and that every Subject, as he enjoys the Benefit of Government, is obliged to contribute his Proportion to that Expence. It is likewise evident, that if the Duties laid upon one Commodity does not answer the Sum charged upon it, that the Deficiency must be charged upon some other. Thus: Suppose the Duties charged upon Teas, Brandy, &amp;c. falls short 100,000 l. of the Sum alloted tobe raised upon these Commodities, is it not evident, that this 100,000 l. must be charged upon Soap, Candles, Leather, Sand, or some other Branch? Suppose then a Dealer, by dealing with the Smuggler, saves about half the Duty payable to the King, or, which is the same Thing, buys it so much cheaper from him than he would from the fair Trader, and that his Gains upon this Article amounts to ten or twenty Pounds a Year, I mean his illicit Gains, or the Difference between the trading Price and smuggling Price; now, as it is evident, that every twenty Pound gained this way lessens the Revenue forty Pounds, he or somebody else must replace this Sum in the Treasury, by a Tax upon another Commodity; from whence it is as clear as the Sun, that instead of gaining twenty Pound by his smuggling Dealer, he really loses twenty Pound upon the Ballance. I own, he may not chuse to deal so largely in these other Articles, as to bring it to this Ballance, but some of his Neighbours may. And as much Money as they pay towards making up this Deficiency, occasioned by the Smuggler; just so much People, rob out of the Pocket of his Neighbour.</p>
+            <p>If I was to charge several People, who make no scruple, for the Lucre of Profit, to buy Goods which they know to be run, with as foul a Crime as Robbery, or even that of cheating their Neighbour, they would be apt to treat me with some Severity, and think I much injured their Reputation: Yet, upon seriously considering the Circumstance attending this Practice, they must at last own, they deserve no better Character than that of a Highwayman and Cheat.</p>
+            <p>Thus it is plain, that Smuggling is a Crime of the most dangerous Nature, both against the Community and private Persons, and as such subject to the Divine Displeasure, as much as any other Felony. It is not only a Sin as destructive to Society, and contrary to human Laws enacted for the Peace, Protection, and Subsistance of the State, but is a Sin against the literal Precepts, as well as the Meaning and Intent of Christianity: We are commanded Obedience to Government for Conscience sake; we are commanded to pay Tribute to whom Tribute is due. Our Saviour gave that Answer to the Jews, tho' that People had as much Reason as any People on Earth, to look upon the Romans as Tyrants, and having no Right to that Tribute, but what they founded upon the superior Force of their Arms; but how much stronger is the Christian Obligation, to pay towards the Support of a Government established? Not by Force or Fraud, but by the Consent of a free People, and conducted by all the Arts of prudent Policy conducting to their Happiness, both in their Religious and Civil Capacities.</p>
+            <xptr type="pageFacsimile" doc="OA174707290009"/>
+            <p>If we consider ourselves as several Members united in one Society for our mutual Peace and Protection, we must conclude it the highest Piece of Injustice in us to refuse or evade by Forceor Fraud to pay our Contingent of the Expence incurr'd for such valuable Purposes, as the securing our Religion and Liberties.</p>
+            <p>If the Government was to make any Infringement upon the Properties of Individuals, or aim at a lessening the Freedom of the Constitution, how would the Smuggler and his Friends rail and exaggerate the mighty Grievance? Yet at the same Time grudge to pay their Quota, and take all Means in their Power by Deceit or Violence to cheat the Government of what enables them to preserve Order and Peace in the Community.</p>
+            <p>I have hitherto had my Eye only on one Branch of Smuggling, viz: The Running of prohibited Goods from Abroad, which is chiefly carried on from the Coast of France, to Kent, Sussex, and the Neighbouring Countries round about, and from Holland to some Parts of Yorkshire; but there is another not less pernicious to the Commonwealth, viz. Running of unwrought Wool from England to France. The Damage done the industrious Clothier in all Parts of the Kingdom, is too glaring to need any Exaggeration. If we only consider what a Number of Hands are employ'd in Manufacturing a Ship-load of Wool, who must all starve when that Wool is exported to our Rivals in Trade, and Enemies to our Interest. This Trade employs the Poor among the French, strengthens their Hands, encreases their Treasure, and enables them to vye with us at foreign Markets in our Staple Commodities. A few Mercenary Masters of Sheep-Walks may gain by this pernicious Trade, but how many Thousands, nay, Millions of Poor have Reason to Curse the Ill-gotten Wealth; and what a prodigious Increase does this Article alone make in all the Parish Rates in the Cloathing Counties of England: Not only the Industrious Poor fit Idle and Starve, but they become a Burthen to the wretched Remainder, and the Contagion spreads like a Plague, and infects with Poverty the whole Island. These Considerations alone are sufficient to awaken the Conscience of the Guilty in this Way, and to hinder us from affording them an unseasonable Compassion; but their yet remains some other Circumstances to blacken the Blackness of their Crime. These are the Manner in which they go about to execute their Smuggling Purposes.</p>
+            <xptr type="pageFacsimile" doc="OA174707290010"/>
+            <p>They go in Companies together, arm'd with all Manner of offensive Weapons, and escorted by the most profligate Wretches they can pick up: They employ none in their Service but Fellows who have given Instances that their Consciences are Proof against all Checks of Morality, Religion or Law, and whose Courage is equal to the most daring Attempts upon the Peace of the Society. By these Men Perjury amongst others is look'd upon as a venal Transgression, beneath the Conscience of a Gentleman Smuggler to be troubled with. Murder, Rapes and Robberies are with them but as frequent, as they conduce to their Interest. TheirCharacter, their Cruelty and Numbers has given them another Source of Encouragement, and a new Set of Allies. For Numbers of the Country People who perhaps abhor their Practice, from the Dread they have justly conceived of their Power, find themselves obliged, tho' against their Wills, to connive at or conceal, and even to assist them, and when they are not willing, they are compell'd to lend their Aid. For when a Smuggling Vessel touches on the Coast, those concerned or their Associates meet at a Place of Rendezvous, and press all the Horses they meet with for their Service, which they sometimes return, and sometimes not, just as their Business requires, and the Owners dare not complain for fear of having their Throats cut, or their Houses set on Fire: Not only single Houses, but whole Villages and trading Boroughs are kept in this slavish Dependence upon them, out of real Apprehension of Danger, without any Regard to Profit in dealing with them. As to the Custom-House Officers, they are a People they have declared open War against, and treat them as Enemies wherever they meet them, with a Cruelty of which the Turks or Algerines would be ashamed of, that is, such Officers as are not in their Pay. There are numerous Instances might be given of their Barbarity, but I shall confine myself to one or two very remarkable, in which Cook one of these unhappy Criminals was concern'd, and happen'd in December 1744. The Commissioners of the Customs being informed that two noted Smugglers, Chiefs of a Gang who infested the Coast, were skulking at a House in Shoreham in Sussex, they granted a Warrant to Messeurs Quaff, Bolton, Jones, and James, four of his Majesty's Officers of the Customs, to go in search of them. The Officers found them according to the Information, seiz'd them and committed them to Goal. But the rest of the Gang, of which Cook was one, being informed of the Disaster of their Friends, convened in a Body the Monday following, and in open Day Light enter'd the Town with Hangers drawn, arm'd with Pistols and Blunderbusses; they fired several Shot to intimidate the Neighbourhood, and went to a House where the Officers were Drinking; dragg'd them out, tied three of them Neck and Heels, (the fourth named Quaff making his Escape as they got out of the House) and carried off in Triumph to <placeName id="OA17470729-geo-17">
+                  <interp inst="OA17470729-geo-17" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n20-1 OA17470729-geo-17"/>
+                  <placeName id="OA17470729-geo-18">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17470729n20-1 OA17470729-geo-18"/>Hawkhurst</placeName> in Kent</placeName>, treating them all the Way with the utmost Scurrility, and promising to broil them alive. However, upon a Council held among them, they let Mr. Jones go, after they had carried him about five Miles from Shoreham, telling him, they had nothing to object to him, but advised him not to be over busy in troubling them or their Brethren, least he might one Day meet the Fate reserved for his two Companions. They carried the unfortunate Mr. Bolton and James, to a Wood near Hawkhurst, stripped them Naked, tyed them to two different Trees near one another, and whipped them in the most barbarous Manner, till the unhappy Men begg'd</p>
+            <xptr type="pageFacsimile" doc="OA174707290011"/>
+            <p>they would knock them on the Head to put them out of their Miseries; but these barbarous Wretches told them, it was time enough to think of Death when they had gone through all their Exercise that they had for them to suffer before they would permit them to go to the D - l. They then kindled a Fire between the two Trees, which almost scorch'd them to Death, and continued them in this Agony for some Hours, till the Wretches were wearied with torturing them; they then releas'd them from the Trees, and carried them quite speechless and almost dead, on Board one of their Ships, from whence they never return'd.</p>
+            <p>The Smugglers about Hawkhurst are so numerous, that upon founding a Horn they can assemble four or five hundred desperate Fellows; they are reckoned the most flagitious Crew of all that Set of People. Some Time ago a Gang of them met another belonging to Folkstone at Wingham-Street in East Kent, and robb'd them of their Horses, and broke open several Houses in the Country, call'd for what Drink they pleas'd at the Inns, and threatening to Shoot or Murder such as had the Impudence to ask any Money for their Liquor.</p>
+            <p>In March 1745, one Taylor, an Officer many Years in the Service of the Customs, returning home from Ramesgate in Kent, was met in a narrow Lane by a Gang of Smugglers who had nothing with them to be seized, nor did he molest them, but they knowing him by his Vigilance and faithful Discharge of his Duty, without the least Provocation shot him dead. These are Facts that have come to the Knowledge of the Publick, and there are many more in different Parts of the Kingdom, which are either forgot or stifled by the powerful Influence of of these Outlaws; but these are sufficient to fill the Breast of every honest Subject with a just Abhorrence of their Crime, and incite him to do every Thing in his Power to crush the Disturbers of the Publick Peace.</p>
+            <p>They are not only Robbers and Plunderers, but they exhaust the Nation of its Specie, and send it Abroad faster than it can be supply'd by the Ballance of a fair Trade, which is one great Reason for the Scarcity of Money among the poorer Sort of People. They not only supply our Enemies with our Money, and what is worse with our Wool, but they furnish them with Intelligence, and help them to destroy our Shipping, and to avoid our Ships of War and Privateers. A Fleet of Merchant men are no sooner ready to Sail, either Outward or Homeward, but these Miscreants give immediate Information to their Correspondents in Dunkirk, of their Rout and the Strength of their Convoy, by which Means the French know where to lie in wait for them, and when any of our Ships go out upon a Cruize, as we are not over and above good in keeping a Secret, these Miscreants informs our Enemies and warns them to avoid such Stations.</p>
+            <xptr type="pageFacsimile" doc="OA174707290012"/>
+            <p>I have not said so much on the Subject of Smuggling, in order to exaggerate the many Crimes of these two unhappy Criminals, or to lessen thatCompassion which Humanity raises in our Breast for the Miserable, though by their own Demerit: No, what I have said has been in no ways pointed at them in particular, but I thought it my Duty to explain to the Reader the Nature of Smuggling in general, to create in them a just Aversion to the Crime itself, and to incite them to give over dealing with encouraging or protecting them; since I am sensible, that if these Men had not the Countenance of some of a superior Rank, the Evil could never grow to such a Height.</p>
+            <p>I know the Avarice of the Retailer; the Villainy of some of the Officers of the Customs, tempted by large Bribes, and spurred on with small Wages and starving Families, are great Sources of the Encouragement Smuggling meets with in this Age; but I am of Opinion, these would not be sufficient to support their audacious Attempts in the Face of the Civil Magistrate, if some others did not connive at and help them out at dead Pinches. There are Numbers of Prosecutions commenced against Smugglers, but I believe the Number of Noli Prosequt's have been almost equal, especially if we add into their Numbers Processes compounded for, where the Composition has been forgot to be called for. Some Men of Rank must be concerned in these kind of Transactions; and I am afraid this is the Sheet-Anchor of the Smuggling Scheme, which if once removed, would soon dwindle into nothing. That there are such Connivance, is the common Voice of the People. That it is highly criminal and detrimental to the Publick, I think must be the Sentiment of every Man of Sense; and I hope the Removal of that Reproach from the Quality of the Smuggling Counties, is the sincere Wish of every honest Man, who has the Interest of his Country in any Measure at Heart.</p>
+            <p>At the PLACE of EXECUTION.</p>
+            <p>BETWEEN Seven and Eight in the Morning, 
+                
+               <persName id="OA17470729n47-1" type="defendantName">
+                  <interp inst="OA17470729n47-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n47-1" type="age" value="44"/>
+                  <interp inst="OA17470729n47-1" type="surname" value="Ashcroft"/>
+                  <interp inst="OA17470729n47-1" type="given" value="Richard"/>Richard Ashcroft</persName>
+             and 
+                
+               <persName id="OA17470729n47-2" type="defendantName">
+                  <interp inst="OA17470729n47-2" type="gender" value="male"/>
+                  <interp inst="OA17470729n47-2" type="age" value="28"/>
+                  <interp inst="OA17470729n47-2" type="surname" value="Cook"/>
+                  <interp inst="OA17470729n47-2" type="given" value="John"/>John Cook</persName>
+             went in a Cart from Newgate to the Place of Execution, attended by a Company of Soldiers, commanded by Lord Manners, where they behaved with Decency, were very attentive, and joined in Prayer. When I was about to leave them, after having recommended their Souls to Him, whose Care, Christian Charity engages to hope, they will be, Cook begged that the Lord's-Prayer might be repeated, to testify his Forgiveness of others, as he hoped Forgiveness, in which Act of Devotion Ashcroft concurred; and both wished they had been earlier acquainted with that and other Parts of Devotional Service.</p>
+            <p>This is all the Account given by me, 
+                
+               <persName id="OA17470729n48-1">
+                  <interp inst="OA17470729n48-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n48-1" type="surname" value="TAYLOR"/>
+                  <interp inst="OA17470729n48-1" type="given" value="JOHN"/>JOHN TAYLOR</persName>
+            , <rs id="OA17470729-occupation-21" type="occupation">Ordinary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n48-1 OA17470729-occupation-21"/> of <placeName id="OA17470729-geo-19">
+                  <interp inst="OA17470729-geo-19" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n48-1 OA17470729-geo-19"/>Newgate</placeName>.</p>
+            <xptr type="pageFacsimile" doc="OA174707290013"/>
+            <p>
+            The following ACCOUNT being brought to the Printer's by a Gentleman, a Friend to <persName id="OA17470729n49-1">
+                  <interp inst="OA17470729n49-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n49-1" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n49-1" type="given" value="JOHN"/>JOHN COOK</persName>, I have given him Leave to have it inserted, tho' it contains, in a great Measure, the Account I have already given, as I would by no Means stifle any Information the Public may receive.</p>
+            <p>The Dying Words and Confession of <persName id="OA17470729n50-1">
+                  <interp inst="OA17470729n50-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n50-1" type="surname" value="COOK"/>
+                  <interp inst="OA17470729n50-1" type="given" value="JOHN"/>JOHN COOK</persName>, of <placeName id="OA17470729-geo-20">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n50-1 OA17470729-geo-20"/>Hawkhurst</placeName>, Smuggler, who was executed at <placeName id="OA17470729-geo-21">
+                  <interp inst="OA17470729-geo-21" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n50-1 OA17470729-geo-21"/>Tyburn</placeName>, on Wednesday the 29th Day of July 1747; written by a Gentleman, who was with him the Night before his Execution.</p>
+            <p>THIS unhappy Person (with whom I lately became acquainted, and for whom I could not help conceiving a kind of Friendship, as he was of an open generous Nature, tho' very ignorant) told me he was born at <placeName id="OA17470729-geo-22">
+                  <interp inst="OA17470729-geo-22" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n50-1 OA17470729-geo-22"/>
+                  <placeName id="OA17470729-geo-23">
+                     <interp inst="OA17470729-geo-23" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17470729n50-1 OA17470729-geo-23"/>Hastings</placeName> in Sussex</placeName>, of poor but honest Parents. That he was employ'd for several Years as a <rs id="OA17470729-occupation-22" type="occupation">Labourer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17470729n50-1 OA17470729-occupation-22"/>, in helping to lade and unlade Vessels at that Port, and about other laborious Work in that Town and the Country thereabouts, till getting acquainted with the Smugglers, and they finding him a Person for their Turn (as he was of a resolute undaunted Spirit) he took on with one G - of Hawkhurst, and became his Head Servant, and was by him employ'd in landing and carrying of Tea and other Goods, in doing which they often had Re-encounters with the Officers of the Customs and the soldiers who assisted them: In many of which Re-encounters they beat and wounded the Officers and Soldiers, and would have murder'd them had not he interposed several Times in their behalf. In particular, he says, his Master cut a Soldier terribly with his Hanger near Bourne in Sussex, and farther Mischief would have followed but for him, and also, that he got something to dress the Man's Wounds as well as he could.</p>
+            <p>This he hoped would have been of Service to him at his Trial. He also says, that when Curtis and 
+                
+               <persName id="OA17470729n52-1">
+                  <interp inst="OA17470729n52-1" type="gender" value="male"/>
+                  <interp inst="OA17470729n52-1" type="surname" value="Gray"/>
+                  <interp inst="OA17470729n52-1" type="given" value="Arthur"/>Arthur Gray</persName>
+             had taken Bolton, Jones, and one Club James, at <placeName id="OA17470729-geo-24">
+                  <interp inst="OA17470729-geo-24" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n52-1 OA17470729-geo-24"/>Shoreham</placeName>, and brought them to <placeName id="OA17470729-geo-25">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n52-1 OA17470729-geo-25"/>Hawkhurst</placeName>, his Master and Family being in Bed, his Master and Mistress both ran down almost Naked (being joyful that Club was taken) and that he got down as soon as he could, and verily believes he sav'd Club from being murder'd, his Master having a Blunderbuss in his Hand, which he was fearful in his Passion he might discharge at Club James, but by his interceeding he onl</p>
+            <xptr type="pageFacsimile" doc="OA174707290014"/>
+            <p>thrust it against his (Club's) Face as hard as he could, and his Mistress burnt Club's Face with the Candle, being very angry with him, as he had left the Gang.</p>
+            <p>He says, this Mistress of his is the Wife of a Man who lives in the Neighbourhood of Hawkhurst, and who left her Husband to live with G -</p>
+            <p>He says also, that he has been sent by his Master to rob all the Fish-Ponds round for several Miles, that he had several Men to assist him, who were some way dependant on his Master, and that they used to carry their Fire-Arms with them, to be ready to destroy any Person who should oppose or hinder them, or whom they should suspect to be a Spy upon them.</p>
+            <p>He says, that his Master by this Means had such vast Quantity of Fish brought him as well as Fowls, Hares, Venison, &amp;c. that it was often impossible to eat it before it stunk.</p>
+            <p>He says, he has been concerned in a prodigious Number of those Expeditions, but that he never hurt any Body in them, any otherwise than by stealing their Fish and Fowls, which he hopes those he has injured will pardon, as he must now make Attonement for all his Misdemeanors with his Life.</p>
+            <p>He farther told me, that two or three Years ago, upon the coming out of some new Act, his Master and Mistress altered their Way of Tradeing, and told him, that it must be carried on for the future in his (Cook's) Name; and accordingly his Master affected not to act, but the Money to be sent over was always given him by his Mistress, and the Money he received at London or elsewhere he was ordered to pay to her.</p>
+            <p>He says also, that his Master and one of Hawkhurst bought up all the Wooll they could lay their Hands on last Winter, and would have sent great Quantities to France last Spring, but the Soldiers upon the Coast were so watchful that they hindered them, so that several Waggon Loads were brought to Hawkhurst, and laid up: He says, however, that they did get some off, for which they received a large Quantity of rich Lace, Silk, Cambricks, and other Goods, in which his Master has of late traded most.</p>
+            <xptr type="pageFacsimile" doc="OA174707290015"/>
+            <p>He most humbly begs Pardon of every body he has beat and abused (which he says are very many) and declares it was by his Master's Orders, who always told him he might do any thing without Fear, as he had such an Interest among the great Men, that if he should have the ill Luck to be taken in any Broil, he would answer for getting him cleared. And in this last Affair, for which he was sworn against his Master, obliged him to go. It seems, the Men of Folkstone were concerned with those of Hawkhurst in a Smuggling Vessel, which landed in the Isle of Thanet, and where the Goods were most part lost: But the Folkstoners, by being more Industrious, or having better Intelligence, saved their Part of the said Goods. The Hawkhurst Men thereupon insisted, that they should bear Part of their Loss, which was refused; upon which Mess. G. T. and Curtis sent a Posse fromHawkhurst to make Reprizals upon the Folkstoners, which they did, by taking several of their Horses: This enraged the Folkstone Men so much, that they swore against Cook and others upon the late Act. Cook declares, that he loved his Master as his Life, and had ventured for him farther than any other of his Servants, in particular at <placeName id="OA17470729-geo-26">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17470729n20-1 OA17470729-geo-26"/>
+                  <placeName id="OA17470729-geo-27">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17470729n20-1 OA17470729-geo-27"/>Lee-Green</placeName> near Eltham</placeName>, where he was wounded, and yet saved his Goods when the Rest run away. But (he spoke it with Tears) his Master and Mistress have deserted him; notwithstanding they always assured him of the Interest they were making for him, and that there was no doubt of his being saved for Transportation at worst, upon which his Master assured him he would soon have him again, as it was easy for him to prevent his being Transported.</p>
+            <p>But now all Hopes are at an End! He cannot see nor hear any thing of his Master or Mistress, they have left him to fall a Sacrifice to their wicked Contrivances; What can he do! but bitterly exclaim against their barbarous and ungrateful Conduct, and forewarn all young Men from being seduced to serve others in such unlawful Practices, which must end in utter Confussion and irremidable Distress.</p>
+            <p>He prays God Almighty to pardon the Errors of his Life, which has been one continued Scene of Wickedness and Folly, and would, if it were in his Power, become a new Man: But all Hope is lost!</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

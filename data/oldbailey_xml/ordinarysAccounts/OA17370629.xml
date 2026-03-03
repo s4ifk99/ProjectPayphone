@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17370629">
+            <interp inst="OA17370629" type="uri" value="ordinarysAccounts/OA17370629"/>
+            <interp inst="OA17370629" type="date" value="17370629"/>
+            <xptr type="pageFacsimile" doc="OA173706290001"/>
+            <p>THE ORDINARY of NEWGATE, His ACCOUNT of the Behaviour, Confession, and Dying Words, OF THE MALEFACTORS, Who were Executed at TYBURN, On Wednesday the 29th of June.</p>
+            <p>BEING THE SECOND EXECUTION in the MAYORALTY OF THE Rt. Hon. <persName id="OA17370629n3-1">
+                  <interp inst="OA17370629n3-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n3-1" type="surname" value="THOMPSON"/>
+                  <interp inst="OA17370629n3-1" type="given" value="JOHN"/>Sir JOHN THOMPSON</persName>, <rs id="OA17370629-occupation-1" type="occupation">Knt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n3-1 OA17370629-occupation-1"/>.</p>
+            <p>Number II. For the said Year.</p>
+            <p>LONDON:</p>
+            <p>Printed and Sold by <persName id="OA17370629n6-1">
+                  <interp inst="OA17370629n6-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n6-1" type="surname" value="APPLEBEE"/>
+                  <interp inst="OA17370629n6-1" type="given" value="JOHN"/>JOHN APPLEBEE</persName>, in <placeName id="OA17370629-geo-1">
+                  <interp inst="OA17370629-geo-1" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17370629n3-1 OA17370629-geo-1"/>Bolt-Court</placeName>, near the <placeName id="OA17370629-geo-2">
+                  <interp inst="OA17370629-geo-2" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17370629n3-1 OA17370629-geo-2"/>
+                  <placeName id="OA17370629-geo-3">
+                     <interp inst="OA17370629-geo-3" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17370629n3-1 OA17370629-geo-3"/>Leg-Tavern</placeName>, Fleet-street</placeName>. M,DCC,XXXVII.</p>
+            <p>(Price Six-pence.)</p>
+            <xptr type="pageFacsimile" doc="OA173706290002"/>
+            <p>THE ORDINARY of NEWGATE, His ACCOUNT of the Behaviour, Confession, &amp;c.</p>
+            <p>AT the King's Commission of Oyer and Terminer, and Goal-Delivery of Newgate, held (before the Right Hon. <persName id="OA17370629n9-1">
+                  <interp inst="OA17370629n9-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n9-1" type="surname" value="THOMPSON"/>
+                  <interp inst="OA17370629n9-1" type="given" value="JOHN"/>Sir John Thompson</persName>, <rs id="OA17370629-occupation-2" type="occupation">Knt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n9-1 OA17370629-occupation-2"/>. <rs id="OA17370629-occupation-3" type="occupation">Lord-Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n9-1 OA17370629-occupation-3"/> of the <placeName id="OA17370629-geo-4">
+                  <interp inst="OA17370629-geo-4" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17370629n9-1 OA17370629-geo-4"/>City of London</placeName>, the Hon. Mr. Justice Denton, the Hon. Mr. Baron Fortescue, the Worshipful Mr. Serjeant Urlin, Deputy Recorder of the City of London; and others his Majesty's Justices of Oyer and Terminer for the City of London, and Justices of Goal-Delivery of Newgate, holden for the said City and County of Middlesex) at Justice Hall in the <placeName id="OA17370629-geo-5">
+                  <interp inst="OA17370629-geo-5" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n9-1 n10-1 n10-2 n10-3 n10-4 n10-5 n10-6 n10-7 n10-8 OA17370629-geo-5"/>Old-Bailey</placeName>, on Wednesday, Thursday, Friday and Saturday, the 20th, 21st, 22d, and 23d of April, 1737, in the Eleventh Year of his Majesty's Reign.</p>
+            <p>Five Men, viz. <persName id="OA17370629n10-1">
+                  <interp inst="OA17370629n10-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n10-1" type="surname" value="ADEY"/>
+                  <interp inst="OA17370629n10-1" type="given" value="JONATHAN"/>Jonathan Adey</persName>, <persName id="OA17370629n10-8">
+                  <interp inst="OA17370629n10-8" type="gender" value="male"/>
+                  <interp inst="OA17370629n10-8" type="surname" value="Boswarway"/>
+                  <interp inst="OA17370629n10-8" type="given" value="Henry"/>Henry Boswarway</persName>, <persName id="OA17370629n10-2">
+                  <interp inst="OA17370629n10-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n10-2" type="surname" value="MORETON"/>
+                  <interp inst="OA17370629n10-2" type="given" value="SAMUEL"/>Samuel Moreton</persName>, <persName id="OA17370629n10-3">
+                  <interp inst="OA17370629n10-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n10-3" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n10-3" type="given" value="RICHARD"/>Richard Harper</persName>, and <persName id="OA17370629n10-4">
+                  <interp inst="OA17370629n10-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n10-4" type="surname" value="KELLY"/>
+                  <interp inst="OA17370629n10-4" type="given" value="JAMES"/>James Kelly</persName>; and three Women, viz. <persName id="OA17370629n10-5">
+                  <interp inst="OA17370629n10-5" type="gender" value="female"/>
+                  <interp inst="OA17370629n10-5" type="surname" value="FELTON"/>
+                  <interp inst="OA17370629n10-5" type="given" value="DOROTHY"/>Dorothy Felton</persName>, <persName id="OA17370629n10-6">
+                  <interp inst="OA17370629n10-6" type="gender" value="female"/>
+                  <interp inst="OA17370629n10-6" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n10-6" type="given" value="ANN"/>Ann Mudd</persName>, and <persName id="OA17370629n10-7">
+                  <interp inst="OA17370629n10-7" type="gender" value="female"/>
+                  <interp inst="OA17370629n10-7" type="surname" value="BROWN"/>
+                  <interp inst="OA17370629n10-7" type="given" value="MARY"/>Mary Brown</persName>, were by the Jury convicted of capital Crimes, and received Sentence of Death.</p>
+            <p>N. B. <persName id="OA17370629n11-1">
+                  <interp inst="OA17370629n11-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n11-1" type="surname" value="BROWN"/>
+                  <interp inst="OA17370629n11-1" type="given" value="MARY"/>Mary Brown</persName>, in June Sessions, 1736, was indicted by the Name of <persName id="OA17370629n11-2">
+                  <interp inst="OA17370629n11-2" type="gender" value="female"/>
+                  <interp inst="OA17370629n11-2" type="surname" value="WHITE"/>
+                  <interp inst="OA17370629n11-2" type="given" value="MARY"/>Mary White</persName>, and convicted for Transportation. And this April Sessions being capitally convicted, she pleaded her Belly, and a Jury of Matrons being impannel'd, they found her with quick Child.</p>
+            <p>And at the King's Commission of Oyer and Terminer and Goal Delivery of Newgate, held before the Right Hon. <persName id="OA17370629n12-1">
+                  <interp inst="OA17370629n12-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n12-1" type="surname" value="THOMPSON"/>
+                  <interp inst="OA17370629n12-1" type="given" value="JOHN"/>Sir John Thompson</persName>, <rs id="OA17370629-occupation-4" type="occupation">Knt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n12-1 OA17370629-occupation-4"/>. <rs id="OA17370629-occupation-5" type="occupation">Lord Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n12-1 OA17370629-occupation-5"/> of the <placeName id="OA17370629-geo-6">
+                  <interp inst="OA17370629-geo-6" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17370629n12-1 OA17370629-geo-6"/>City of London</placeName>; the Hon. Mr. Justice Probyn, the Hon. Mr. Baron Thompson, the Worshipful Mr. Serjeant Urlin; and other his Majesty's Justices of Oyer and Terminer for the City of London, and Justices of Goal Delivery of Newgate for the County of Middlesex, held at Justice-Hall in the <placeName id="OA17370629-geo-7">
+                  <interp inst="OA17370629-geo-7" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n12-1 n13-1 n13-2 n13-3 n13-4 OA17370629-geo-7"/>Old Bailey</placeName>, on Thursday, Friday, and Saturday, the 26th, 27th, and 28th of May 1737, An the eleventh Year of his Majesty's Reign.</p>
+            <xptr type="pageFacsimile" doc="OA173706290003"/>
+            <p>Four Men, viz. <persName id="OA17370629n13-1">
+                  <interp inst="OA17370629n13-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n13-1" type="surname" value="SMITH"/>
+                  <interp inst="OA17370629n13-1" type="given" value="JOHN"/>John Smith</persName>, alias <persName id="OA17370629n13-4">
+                  <interp inst="OA17370629n13-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n13-4" type="surname" value="SIMMS"/>
+                  <interp inst="OA17370629n13-4" type="given" value="JOHN"/>Simms</persName>, <persName id="OA17370629n13-2">
+                  <interp inst="OA17370629n13-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n13-2" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n13-2" type="given" value="RICHARD"/>Richard Sampson</persName>, Joh Simmonds, and <persName id="OA17370629n13-3">
+                  <interp inst="OA17370629n13-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n13-3" type="surname" value="ROGERS"/>
+                  <interp inst="OA17370629n13-3" type="given" value="CHARLES"/>Charles Rogers</persName>, were by the Jury found guilty of Capital Crimes, and received Sentence of Death accordingly.</p>
+            <p>While under Sentence, They were taught, That the Benefits Christ hath purchased for us are such as will undoubtedly make the Soul happy; one of which Benefits is, Eternal Life; but to these we can have no Claim or Title until we perform the Conditions required by the Gospel, which in general are, An hearty and honest Endeavour to fulfill the whole Will of God, a fervent Desire, that the same Mind may be in us, which was in Christ Jesus, who was sent into the World to make the clearest Revelation of those Things, wherein our Happiness both here and hereafter consisted. For though some Principles seem to be innate, and to be engraven on the Mind; yet without this Revelation by Jesus Christ our Knowledge would have been very imperfect- for Life and Immortality, and the Forgiveness of our Sins by Christ, are brought to Light, only by the Gospel. By this Revelation the eternal Beauty of Vertue and Holiness is set in a clear Light. By this we are taught, that the wise Creator of our Beings has implanted a Principle within us, which will ever approve of our Actions when they are consistent with Vertue, and will always condemn us, when we engage in Courses of Vice.</p>
+            <p>St. Paul saith, Rom. ii. 15. Mens Consciences do in these Things accuse or excuse them; they tell them, whether they have done what they have done in these Particulars, or not. Christ having brought greater Light into the World, never meant to extinguish that lesser Light, which God had set up in their Souls; Therefore we ought not to venture on any of those Acts, which meer natural Conscience convinceth us to be sinful. Whence we observ'd to them, That it is just Matter of Sadness, to see some who profess much Religion, living in such Sins, as a meer Heathen would abhor; and that it ought to be laid as a Foundation, That no Relation or Opinion can be of God, which allows Men in any Wickedness. The Sum of their Duty I shew'd them, to be briefly comprehended in this, Tit. ii. 12 That we should live soberly, righteously, and godly in this present World; soberly, containing our duty to our selves; righteously, our duty to our Neighbour; and godly, our duty to God, &amp;c.</p>
+            <p>Three of them having been convicted of that most horrible of all Crimes, Murther, I represented to them the Heinousness of this very great Sin; as it appear'd from the first Act of this kind ever was committed, Abel's Blood cried from the Earth, as God tells Cain, Gen. iv. 10. yea the Guilt of this Sin is so great, that it leaves a stain upon the Land where it is committed, such as cannot be wiped out but by the Blood of the Murderer, Deut. xix. 12, 13. tho' in other Cases, flying to the Altar secured a Man, yet here was no city of Refuge allow'd, Exod. xxi. 14. Thou shalt take him from my altar, that he may die. And it's observable, that there are only two Precepts mention'd, as given to Noah after the Flood, one, not to eat blood, to excite in us an abhorrence of this Sin, Gen. ix. 4. the other, for the Punishment of it, Gen. ix. 6. He that sheddeth man's blood, by man shall his blood</p>
+            <xptr type="pageFacsimile" doc="OA173706290004"/>
+            <p>be shed; and the Reason is added, For in the image of God made he man; whence we see, that this Sin is not only an irreparable Injury to our Brother, but 'tis putting even the highest Contempt on, and doing despite to God himself; for it is the defacing of his image, which he stamped upon Man. <persName id="OA17370629n17-1">
+                  <interp inst="OA17370629n17-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n17-1" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n17-1" type="given" value="ANN"/>Ann Mudd</persName> having been guilty of the Crime of murthering her own Husband <persName id="OA17370629n17-2">
+                  <interp inst="OA17370629n17-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n17-2" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n17-2" type="given" value="THOMAS"/>Thomas Mudd</persName>, it was represented to her, that her Crime was greater than that of other Murtherers, as having been committed in one sense upon her self, the Man and Wife being in Scripture consider'd as one Flesh. Her Crime being so horrid and unnatural, she was exhorted to humble herself before God, and to beg that Sense of her Sin, that broken Heart, and that contrite Spirit, which God will not despise.</p>
+            <p>While these and many other Instructions were given, all of them attended in Chapel, and were apparently very devout, serious and attentive. <persName id="OA17370629n18-1">
+                  <interp inst="OA17370629n18-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n18-1" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n18-1" type="given" value="ANN"/>Ann Mudd</persName> was very senseless and ignorant, and so stupid, the most moving Representation of her Crime, or of her Condition, could not affect her.</p>
+            <p>
+               <persName id="OA17370629n19-1">
+                  <interp inst="OA17370629n19-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n19-1" type="surname" value="ADEY"/>
+                  <interp inst="OA17370629n19-1" type="given" value="JONATHAN"/>Jonathan Adey</persName> was most of the Time sick, weak and infirm, complaining of Pains and Fevers, yet, excepting once or twice, he came constantly to Chapel.</p>
+            <p>
+               <persName id="OA17370629n20-1">
+                  <interp inst="OA17370629n20-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n20-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n20-1" type="given" value="RICHARD"/>Richard Harper</persName> had a Fever, and could not for some Time attend publick Devotion, but both in publick, and in the Cell privately, he behav'd decently, and like a true Penitent, expressing an earnest Desire to join in Prayer, and giving an attentive Ear to Instructions and Exhortations. Those of them who could read, particularly <persName id="OA17370629n20-2">
+                  <interp inst="OA17370629n20-2" type="gender" value="female"/>
+                  <interp inst="OA17370629n20-2" type="surname" value="FELTON"/>
+                  <interp inst="OA17370629n20-2" type="given" value="DOROTHY"/>Dorothy Felton</persName>, and <persName id="OA17370629n20-3">
+                  <interp inst="OA17370629n20-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n20-3" type="surname" value="MORETON"/>
+                  <interp inst="OA17370629n20-3" type="given" value="SAMUEL"/>Samuel Moreton</persName>, were careful and regular in making Responses; as also, <persName id="OA17370629n20-4">
+                  <interp inst="OA17370629n20-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n20-4" type="surname" value="SAMSON"/>
+                  <interp inst="OA17370629n20-4" type="given" value="RICHARD"/>Richard Samson</persName>, <persName id="OA17370629n20-5">
+                  <interp inst="OA17370629n20-5" type="gender" value="male"/>
+                  <interp inst="OA17370629n20-5" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n20-5" type="given" value="JOHN"/>John Simmonds</persName>, and <persName id="OA17370629n20-6">
+                  <interp inst="OA17370629n20-6" type="gender" value="male"/>
+                  <interp inst="OA17370629n20-6" type="surname" value="SMITH"/>
+                  <interp inst="OA17370629n20-6" type="given" value="JOHN"/>John Smith</persName>. <persName id="OA17370629n20-7">
+                  <interp inst="OA17370629n20-7" type="gender" value="male"/>
+                  <interp inst="OA17370629n20-7" type="surname" value="ROGERS"/>
+                  <interp inst="OA17370629n20-7" type="given" value="CHARLES"/>Charles Rogers</persName> was very ignorant, and had been a wicked Youth; but he was attentive to Prayers and Exhortations, and seem'd desirous of good Instructions. <persName id="OA17370629n20-8">
+                  <interp inst="OA17370629n20-8" type="gender" value="female"/>
+                  <interp inst="OA17370629n20-8" type="surname" value="FELTON"/>
+                  <interp inst="OA17370629n20-8" type="given" value="DOROTHY"/>Dorothy Felton</persName> grew very sick and infirm, but yet upon all Occasions behav'd with abundance of Christian Resignation.</p>
+            <p>Upon Friday the 24th of June, Report was made to His Majesty in Council of the Eleven Malefactors under Sentence of Death, lying in the Cells of Newgate; when, <persName id="OA17370629n21-1">
+                  <interp inst="OA17370629n21-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n21-1" type="surname" value="ADEY"/>
+                  <interp inst="OA17370629n21-1" type="given" value="JONATHAN"/>Jonathan Adey</persName>, for stealing a Linnen Handkerchief, value 2 d. a canvas Bag, value 1 d. a Portugal Piece of Gold, value 3 l. 12 s. one dit. value 36 s. 16 Guineas, three half Guineas, and 3 l. 5 s. 6 d. in Money, the Property of <persName id="OA17370629n21-2">
+                  <interp inst="OA17370629n21-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n21-2" type="surname" value="HONE"/>
+                  <interp inst="OA17370629n21-2" type="given" value="ISAAC"/>Isaac Hone</persName>, in his House, in the Parish of <placeName id="OA17370629-geo-8">
+                  <interp inst="OA17370629-geo-8" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n21-1 n21-2 OA17370629-geo-8"/>St. Dunstan's</placeName> in the West, February 16.</p>
+            <p>
+               <persName id="OA17370629n22-1">
+                  <interp inst="OA17370629n22-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n22-1" type="surname" value="MORETON"/>
+                  <interp inst="OA17370629n22-1" type="given" value="SAMUEL"/>Samuel Moreton</persName>, for privately stealing a Silver Watch, value 3 l. a Silver Seal value 10 s. and a Brass ditto value 2 d. from the Person of <persName id="OA17370629n22-2">
+                  <interp inst="OA17370629n22-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n22-2" type="surname" value="VAUS"/>
+                  <interp inst="OA17370629n22-2" type="given" value="JOHN"/>John Vaus</persName>, March 27. And</p>
+            <p>
+               <persName id="OA17370629n23-1">
+                  <interp inst="OA17370629n23-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-1" type="surname" value="SMITH"/>
+                  <interp inst="OA17370629n23-1" type="given" value="JOHN"/>John Smith</persName>, alias <persName id="OA17370629n23-10">
+                  <interp inst="OA17370629n23-10" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-10" type="surname" value="SIMMS"/>
+                  <interp inst="OA17370629n23-10" type="given" value="JOHN"/>Simms</persName>, for stealing five Pieces of Gold, value 3 l. 12 s. each, eight Pieces of Gold, value 36 s. each, two Moidores, one piece of Gold, value 18 s. three Pieces of Gold, value 13 s. 6 d. each, 121 Guineas, 16 half Guineas, and 2 l. 10 s. in Money, the Goods of <persName id="OA17370629n23-11">
+                  <interp inst="OA17370629n23-11" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-11" type="surname" value="WIGHT"/>
+                  <interp inst="OA17370629n23-11" type="given" value="JOHN"/>John</persName> and <persName id="OA17370629n23-2">
+                  <interp inst="OA17370629n23-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-2" type="surname" value="WIGHT"/>
+                  <interp inst="OA17370629n23-2" type="given" value="JOSEPH"/>Joseph Wight</persName>, in their Dwelling-house, April 17. Receiv'd His Majesty's most gracious Reprieve for Transportation. The remaining eight, viz. <persName id="OA17370629n23-3">
+                  <interp inst="OA17370629n23-3" type="gender" value="female"/>
+                  <interp inst="OA17370629n23-3" type="surname" value="FELTON"/>
+                  <interp inst="OA17370629n23-3" type="given" value="DOROTHY"/>Dorothy Felton</persName>, <persName id="OA17370629n23-4">
+                  <interp inst="OA17370629n23-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-4" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n23-4" type="given" value="RICHARD"/>Richard Harper</persName>, <persName id="OA17370629n23-5">
+                  <interp inst="OA17370629n23-5" type="gender" value="female"/>
+                  <interp inst="OA17370629n23-5" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n23-5" type="given" value="ANN"/>Ann Mudd</persName>, <persName id="OA17370629n23-12">
+                  <interp inst="OA17370629n23-12" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-12" type="surname" value="Boswarway"/>
+                  <interp inst="OA17370629n23-12" type="given" value="Henry"/>Henry Boswarway</persName>, <persName id="OA17370629n23-6">
+                  <interp inst="OA17370629n23-6" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-6" type="surname" value="KELLY"/>
+                  <interp inst="OA17370629n23-6" type="given" value="JAMES"/>James Kelly</persName>, <persName id="OA17370629n23-7">
+                  <interp inst="OA17370629n23-7" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-7" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n23-7" type="given" value="RICHARD"/>Richard Sampson</persName>, <persName id="OA17370629n23-8">
+                  <interp inst="OA17370629n23-8" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-8" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n23-8" type="given" value="JOHN"/>John Simmonds</persName>, and <persName id="OA17370629n23-9">
+                  <interp inst="OA17370629n23-9" type="gender" value="male"/>
+                  <interp inst="OA17370629n23-9" type="surname" value="ROGERS"/>
+                  <interp inst="OA17370629n23-9" type="given" value="CHARLES"/>Charles Rogers</persName>, were order'd for Execution.</p>
+            <xptr type="pageFacsimile" doc="OA173706290005"/>
+            <p>
+               <persName id="OA17370629n24-1">
+                  <interp inst="OA17370629n24-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n24-1" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n24-1" type="given" value="ANN"/>Ann Mudd</persName>, of <placeName id="OA17370629-geo-9">
+                  <interp inst="OA17370629-geo-9" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17370629n24-1 OA17370629-geo-9"/>St. James's Westminster</placeName>, was indicted, for that she not having the Fear of God before her Eyes, &amp;c. on <persName id="OA17370629n24-2">
+                  <interp inst="OA17370629n24-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n24-2" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n24-2" type="given" value="THOMAS"/>Thomas Mudd</persName> her Husband, feloniously, treasonably and willfully, did make an Assault, and with a certain Knife value 1 d. which she held in her Right Hand, him the said Thomas, in and upon the right Part of the Back, near the Back-Bone, did strike and stab, giving him one mortal Wound of the Breadth of one Inch, and the Depth of 3 Inches, of which mortal Wound he instantly died, February 23.</p>
+            <p>She was a 2d Time indicted on the Coroner's Inquest for the said Murther.</p>
+            <p>She was a 3d Time indicted for that she not having God before her Eyes, &amp;c. in the Fury of her Mind, on <persName id="OA17370629n26-1">
+                  <interp inst="OA17370629n26-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n26-1" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n26-1" type="given" value="THOMAS"/>Thomas Mudd</persName> her Husband, did make an Assault, and with a certain Knife, value 1 d. held in her Right Hand, the said Thomas, in and upon the right Part of the Back, near the Back-bone, he not having any Weapon drawn, nor having first stricken, did strike and stab, giving him with the said Knife, one mortal Wound of the Breadth of one Inch, and of the Depth of 3 Inches, of which he instantly died, February 23.</p>
+            <p>1. <persName id="OA17370629n27-1">
+                  <interp inst="OA17370629n27-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n27-1" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n27-1" type="given" value="ANN"/>Ann Mudd</persName>, 22 Years of Age, of honest but mean Parents, had no Education, and knew nothing of Religion; she was a very ignorant stupid Creature, and had no more Sense of Vertue or of her Duty than a Brute, she said she never had been within a Church, and that none of her Family had ever shown her the Example of attending the publick Worship of God in Church or Chapel, (a shameful Thing to a Christian Country!) She was of a Savage, barbarous Temper. When she was of Age, her Friends put her out to a <rs id="OA17370629-occupation-6" type="occupation">Butcher</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n27-1 OA17370629-occupation-6"/> in <placeName id="OA17370629-geo-10">
+                  <interp inst="OA17370629-geo-10" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n27-1 OA17370629-geo-10"/>Carnaby-Market</placeName>, to which Business she serv'd an Apprenticeship of seven Years honestly, and when she was out of her Time, she liv'd by killing of Beasts, in which way of Trade she was very expert, understanding it better than her unfortunate Husband, who was likewise of the same Employment, and belonging to <placeName id="OA17370629-geo-11">
+                  <interp inst="OA17370629-geo-11" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n27-1 OA17370629-geo-11"/>Carnaby-Market</placeName>, where he <rs id="OA17370629-occupation-7" type="occupation">serv'd the Butchers</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n26-1 OA17370629-occupation-7"/>, and carried Loads. This Woman being of the same Business, and in the same Market, he married her about 2 or 3 Years ago, and they livid together pretty peaceable for some Time. He was of a calm Disposition, tho' sometimes huffed, and would patiently bear the Abuses of his insolent brutish Spouse. On the 23d of February last, <persName id="OA17370629n27-3">
+                  <interp inst="OA17370629n27-3" type="gender" value="female"/>
+                  <interp inst="OA17370629n27-3" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n27-3" type="given" value="ANN"/>Ann Mudd</persName> being at her Mother's, who lives in a Cellar in <placeName id="OA17370629-geo-12">
+                  <interp inst="OA17370629-geo-12" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n27-1 n27-4 OA17370629-geo-12"/>Carnaby-Market</placeName>, the Mother call'd in <persName id="OA17370629n27-4">
+                  <interp inst="OA17370629n27-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n27-4" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n27-4" type="given" value="THOMAS"/>Thomas Mudd</persName> her Son-in-law, and before he came to the Bottom of the Stairs, Ann his <rs id="OA17370629-occupation-8" type="occupation">Wife</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n27-1 OA17370629-occupation-8"/> struck him 2 or 3 Slaps on the Face, which he was so far from resenting, that he endeavour'd to kiss her; she struggled with him, and both of them fell upon the Floor; then he rising up went towards the Stairs, and she took a Knife, which a little before she had laid upon a Cupboard, and stabb'd him in the Back, as was mention'd in the Trial: He died in 3 or 4 Minutes, and only said, Mother, I am wounded, Mother, I am wounded! This was all fully prov'd upon the Trial, and she had nothing to say in her Defence. I represented to her the Heinousness of her Crime, but she excused her self, by saying she did not intend to kill him. She wept most bitterly, but she was such a silly, ignorant, stupid Creature, that it was almost impossible to effect any Reformation upon her. Upon Tuesday the 3d of May, her Brother came to visit her, but she abus'd him, calling him Scoundrel Black-guard Dog, murthering Dog, and many other Names. During her Confinement she used to sing obscene Songs, and talked very indecently: For this I reproved her sharply, showing the great Danger her Soul was in of everlasting Damnation; she behav'd after this with more seeming Decency than formerly, but never could be brought to any Knowledge of Religion, and she forgot every Thing that was told her in Publick or Private; she was one of the most sottish, wicked, stupid Creatures that ever I saw under the like Misfortunes.</p>
+            <p>
+               <persName id="OA17370629n28-1">
+                  <interp inst="OA17370629n28-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n28-1" type="surname" value="BOSWORWAY"/>
+                  <interp inst="OA17370629n28-1" type="given" value="HENRY"/>Henry Bosworway</persName>, of <placeName id="OA17370629-geo-13">
+                  <interp inst="OA17370629-geo-13" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n28-1 OA17370629-geo-13"/>St. James's, Clerkenwell</placeName>, was indicted, for that he not having God before his Eyes, &amp;c. on <persName id="OA17370629n28-2">
+                  <interp inst="OA17370629n28-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n28-2" type="surname" value="MOORE"/>
+                  <interp inst="OA17370629n28-2" type="given" value="JOHN"/>John Moore</persName>, did make an Assault, and with a certain Hammer made of Iron and Wood, value 1 s. and which he held in his left Hand, on the Fore-head of the said Moore did strike, giving him on the Fore-head as aforesaid, a mortal Stroke, which broke his Skull, March 24, of which mortal Stroke he languished, and languishly lived from the</p>
+            <xptr type="pageFacsimile" doc="OA173706290006"/>
+            <p>said 24th of March, to the 10th of April, and then and there died.</p>
+            <p>He was a second Time indicted on the Coroner's Inquest for the said Murder.</p>
+            <p>2. <persName id="OA17370629n31-1">
+                  <interp inst="OA17370629n31-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n31-1" type="surname" value="BOSWORWAY"/>
+                  <interp inst="OA17370629n31-1" type="given" value="HENRY"/>Henry Bosworway</persName>, 27 Years of Age, of honest Parents in Town, who gave him good Education at School, and instructed him in religious Principles: When he was of Age, he was put out <rs id="OA17370629-occupation-9" type="occupation">Apprentice to a Sawyer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n31-1 OA17370629-occupation-9"/>, and serv'd his Time faithfully and honestly. He afterwards followed his Business, married a Wife, and got a Sufficiency to maintain himself and Family. He had not been so wicked in his Life as many such notorious Malefactors; he had not altogether neglected Religious Duties, but had liv'd pretty regularly: The Business he was bred to being very hard Work, prov'd Occasion of his drinking sometimes to very great Excess, and then he was very quarrelsome, tho' at other Times of a peaceable Disposition. The Deceased <persName id="OA17370629n31-2">
+                  <interp inst="OA17370629n31-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n31-2" type="surname" value="Moore"/>
+                  <interp inst="OA17370629n31-2" type="given" value="John"/>John Moore</persName>, who was kill'd and murder'd by him, was a Man of a quiet, inoffensive Disposition, but Bosworway when he committed that mischievous Action was drunk, and he said he knew not what he was doing; he own'd he had been drinking a part of a Crown's worth of Beer, at an Ale-house at <placeName id="OA17370629-geo-14">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n31-1 OA17370629-geo-14"/>Hockley in the Hole</placeName>, and coming back to his Work, he could not stand to do any Thing, upon which he went to this Cabinet-maker's in the Neighbourhood, where he lay down to sleep; when he awaked he was very troublesome to the Workmen, particularly to the Deceased; he and the other Workmen bid him go about his Business, as having nothing to do there; he struck the Deceased on the Breast, and provok'd him to fight: The Deceased hit him gently with the flat side of a Saw upon the Back; then Bosworway took up with his left Hand a weighty Hammer, and struck him on the Fore-head, and broke a large Hole in his Skull, so that he lost his Senses for 6 or 8 Minutes, when he recovered he said, the Prisoner had got his Blood. Bosworway could not deny this, only he alledged, that he met with Provocation, by being dragg'd thro' the Room, and awak'd out of his Sleep in a Fright, tho' the contrary appears by the Evidence. The Deceased languish'd for 17 or 18 Days in a miserable Condition, never having fully recover'd his Senses, for his Brains was seen thro' the Wound, and then he died. Bosworway only endeavour'd to extenuate his Guilt. I represented to him the Barbarity and Cruelty of the Act: He had nothing farther to say in his Vindication, but cried and wept bitterly, and own'd his heinous Sins, and that he suffer'd deservedly. Tho' he had not been so irregular as many others, yet he lamented that he had been so much addicted to the Sin of Drunkenness. He behav'd well under his Misfortunes, was Penitent for the many Sins of his Life, and hoped for Salvation thro' the Mercy of God in Christ; dying in Peace with all the World.</p>
+            <p>
+               <persName id="OA17370629n32-1">
+                  <interp inst="OA17370629n32-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n32-1" type="surname" value="KELLY"/>
+                  <interp inst="OA17370629n32-1" type="given" value="JAMES"/>James Kelly</persName>, was indicted for that he not having God before his Eyes, &amp;c. at <placeName id="OA17370629-geo-15">
+                  <interp inst="OA17370629-geo-15" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n32-1 n32-2 OA17370629-geo-15"/>
+                  <placeName id="OA17370629-geo-16">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n32-1 n32-2 OA17370629-geo-16"/>Rounce</placeName> in Newfoundland</placeName>, in Parts beyond the Seas, on <persName id="OA17370629n32-2">
+                  <interp inst="OA17370629n32-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n32-2" type="surname" value="LEVERMORE"/>
+                  <interp inst="OA17370629n32-2" type="given" value="ROBERT"/>Robert Levermore</persName>, did make an Assault, and with both his Hands fixed about the Neck of the said Levermore, did choak and strangle him, of which choaking and strangling he died, February the 18th, in the 8th Year of his Majesty's Reign.</p>
+            <p>3. <persName id="OA17370629n33-1">
+                  <interp inst="OA17370629n33-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n33-1" type="surname" value="KELLY"/>
+                  <interp inst="OA17370629n33-1" type="given" value="JAMES"/>James Kelly</persName>, 36 Years of Age, born of mean Parents at <placeName id="OA17370629-geo-17">
+                  <interp inst="OA17370629-geo-17" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n33-1 OA17370629-geo-17"/>
+                  <placeName id="OA17370629-geo-18">
+                     <interp inst="OA17370629-geo-18" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n33-1 OA17370629-geo-18"/>Waterford</placeName> in Ireland</placeName>, who gave him little or no Education: When of Age, was not put to a Trade, but did Labouring and Country Work, and was employed in fishing upon the Coast; but the Business he followed most when at Home, was that of a <rs id="OA17370629-occupation-10" type="occupation">Miller</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n33-1 OA17370629-occupation-10"/>; he married a Wife, and liv'd in an honest tho' low Way at Home, but thinking to mend his Fortune, he engag'd to serve some Merchants of London in <placeName id="OA17370629-geo-19">
+                  <interp inst="OA17370629-geo-19" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n33-1 OA17370629-geo-19"/>Newfoundland</placeName>. He went there, and <rs id="OA17370629-occupation-11" type="occupation">carried on their Fishery</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n33-1 OA17370629-occupation-11"/> for some Time, and then he intended to have come Home to visit his Wife, Children, and Relations, if he had not been taken up for the Murther for which he died. <persName id="OA17370629n33-2">
+                  <interp inst="OA17370629n33-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n33-2" type="surname" value="LEVERMORE"/>
+                  <interp inst="OA17370629n33-2" type="given" value="ROBERT"/>Robert Levermore</persName> 
+               <rs id="OA17370629-occupation-12" type="occupation">serv'd a Merchant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n33-2 OA17370629-occupation-12"/>, and had a little Habitation near the Harbour of <placeName id="OA17370629-geo-20">
+                  <interp inst="OA17370629-geo-20" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n33-2 n33-1 n33-4 n34-2 n34-3 OA17370629-geo-20"/>
+                  <placeName id="OA17370629-geo-21">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n33-2 n33-1 n33-4 n34-2 n34-3 n151-2 OA17370629-geo-21"/>Raunce</placeName> in Newfoundland</placeName>, as Kelly had at a Place call'd <placeName id="OA17370629-geo-22">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n33-1 OA17370629-geo-22"/>Formuge</placeName> not far from thence; Kelly and one <persName id="OA17370629n33-4">
+                  <interp inst="OA17370629n33-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n33-4" type="surname" value="Fitzgerald"/>
+                  <interp inst="OA17370629n33-4" type="given" value="William"/>William Fitzgerald</persName> being Countrymen, and of the same Business, and acquaintted together, and of a very villainous and cruel Disposition; as they were sailing along the Coast about their Affairs, agreed to make a Visit to that poor Man <persName id="OA17370629n33-3">
+                  <interp inst="OA17370629n33-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n33-3" type="surname" value="LEVERMORE"/>
+                  <interp inst="OA17370629n33-3" type="given" value="ROBERT"/>Robert Levermore</persName>, who had a little House near by, when they came to him they call'd for a Bottle of Rum, and paid for</p>
+            <xptr type="pageFacsimile" doc="OA173706290007"/>
+            <p>it, and they made him drink the greatest Part of it, then seeing him fuddl'd, they thought upon executing their wicked Intent to murther him, supposing him richer in Money than he really was; they held him by the Neck till they strangl'd him. Kelly look'd after the Body till Fitzgerald riffled the House, at Night they carried him to the Stage-head and threw the Body into the Sea; next Day it was found, and according to the Custom of the Place, the People were called together to touch the Corps, imagining by that Means they might discover the Murtherer Kelly and <persName id="OA17370629n34-1">
+                  <interp inst="OA17370629n34-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n34-1" type="surname" value="FITZGERALD"/>
+                  <interp inst="OA17370629n34-1" type="given" value="WILLIAM"/>William Fitzgerald</persName> the Murtherers, conscious of their Guilt, absented and fled into the Woods, where they travelled one hundred Leagues, Fitzgerald was kill'd in the Woods, and 5 or 6 Weeks after, Kelly being upon the Coast was taken up, and was almost starv'd to Death (as he said) in a nasty Gaol, being glad to eat raw Fish full of Maggots; a Gentleman he said offered him his Freedom, upon Condition of engaging to be his Bond-Servant for Life; but Kelly rejected this Offer, and after enduring very great Misery and Distress, he was at last sent Home to <placeName id="OA17370629-geo-23">
+                  <interp inst="OA17370629-geo-23" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n34-1 OA17370629-geo-23"/>England</placeName> to be tried for his Life, where being convicted of the Murder as above, he suffer'd accordingly. At first he denied his knowing any Thing of this Murder, but when the Dead Warrant came down, and there was no Hopes of Life, he own'd that he was present at the Murder, and drew one End of the Rope, with which they strangl'd Levermore. But he said, that <persName id="OA17370629n34-2">
+                  <interp inst="OA17370629n34-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n34-2" type="surname" value="FITZGERALD"/>
+                  <interp inst="OA17370629n34-2" type="given" value="NICHOLAS"/>Nicholas Fitzgerald</persName> and <persName id="OA17370629n34-3">
+                  <interp inst="OA17370629n34-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n34-3" type="surname" value="JOYCE"/>
+                  <interp inst="OA17370629n34-3" type="given" value="ROBERT"/>Robert Joyce</persName>, the two Witnesses against him, had a greater Hand in the Murther than he, and that they forc'd him to assist in that execrable Fact, by threat'ning to dispatch him in the same Manner. Kelly, (though of the <rs id="OA17370629-occupation-13" type="occupation">Romish Communion</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n33-1 OA17370629-occupation-13"/>) behav'd well under his Misfortunes, and was attentive to Prayers and Exhortations, at which he constantly attended, expressing a deep Sorrow for the many Sins of his Life, especially the grievous Sin of Murder. He hop'd for Salvation thro' the Mercy of God in Christ our only Saviour; repented of all his Sins, and was in Peace with all Men.</p>
+            <p>
+               <persName id="OA17370629n35-1">
+                  <interp inst="OA17370629n35-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n35-1" type="given" value="RICHARD"/>Richard Sampson</persName>, and <persName id="OA17370629n35-2">
+                  <interp inst="OA17370629n35-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-2" type="surname" value="NUGENT"/>
+                  <interp inst="OA17370629n35-2" type="given" value="JOHN"/>John Nugent</persName>, otherwise <persName id="OA17370629n35-7">
+                  <interp inst="OA17370629n35-7" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-7" type="surname" value="TIPPING"/>
+                  <interp inst="OA17370629n35-7" type="given" value="JOHN"/>Tipping</persName>, of <placeName id="OA17370629-geo-24">
+                  <interp inst="OA17370629-geo-24" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n35-1 n35-2 n35-7 OA17370629-geo-24"/>St. George the Martyr</placeName>, were indicted (together with <persName id="OA17370629n35-3">
+                  <interp inst="OA17370629n35-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-3" type="surname" value="WILLIAMSON"/>
+                  <interp inst="OA17370629n35-3" type="given" value="JOHN"/>John Williamson</persName>, alias Scotch Jack, <persName id="OA17370629n35-4">
+                  <interp inst="OA17370629n35-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-4" type="surname" value="WHEATLEY"/>
+                  <interp inst="OA17370629n35-4" type="given" value="RICHARD"/>Richard Wheatley</persName>, and <persName id="OA17370629n35-5">
+                  <interp inst="OA17370629n35-5" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-5" type="surname" value="HILLIARD"/>
+                  <interp inst="OA17370629n35-5" type="given" value="WILLIAM"/>William Hilliard</persName>, not taken) for assaulting the <rs id="OA17370629-occupation-14" type="occupation">Rev</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n35-6 OA17370629-occupation-14"/>. Mr. <persName id="OA17370629n35-6">
+                  <interp inst="OA17370629n35-6" type="gender" value="male"/>
+                  <interp inst="OA17370629n35-6" type="surname" value="GOUGH"/>
+                  <interp inst="OA17370629n35-6" type="given" value="STRICKLAND"/>Strickland Gough</persName>, putting him in Fear, &amp;c. and taking from him a Hat, value 6 s. May 14.</p>
+            <p>4. <persName id="OA17370629n36-1">
+                  <interp inst="OA17370629n36-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n36-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n36-1" type="given" value="RICHARD"/>Richard Sampson</persName>, 22 Years of Age, of honest Parents, who gave him good Education at School to fit him for Business, and instructed him in Christian Principles. When of Age, he was put to a <rs id="OA17370629-occupation-15" type="occupation">Coach-Painter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n36-1 OA17370629-occupation-15"/>, but afterwards he chose rather to be a <rs id="OA17370629-occupation-16" type="occupation">Coach-wheel-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n36-1 OA17370629-occupation-16"/>, to which he was bound Apprentice; but he not liking Confinement, at the End of four Years he left his Master, and it cost a good deal of Money to get his Master's Discharge: He then took up with the worst of Company; and his Friends were afraid of his falling into Disgrace; therefore they thought upon sending him to Sea, he went a <rs id="OA17370629-occupation-17" type="occupation">Soldier</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n36-1 OA17370629-occupation-17"/> to St. Christopher's, being recommended to a Friend there, who would have taken Care of him and gotten him into good Business, but he would follow no Direction or Advice: He went from thence to <placeName id="OA17370629-geo-25">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n36-1 OA17370629-geo-25"/>Antegoa</placeName>, and from thence came back to <placeName id="OA17370629-geo-26">
+                  <interp inst="OA17370629-geo-26" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n36-1 OA17370629-geo-26"/>England</placeName>, to be a Plague to his Friends, from whom he had receiv'd first and last some Hundreds of Pounds. He <rs id="OA17370629-occupation-18" type="occupation">serv'd after this in Men of War</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n36-1 OA17370629-occupation-18"/>, and Merchant-men, and had been in many Parts of the World. When at home, he spent all his Money, and whatever he could extort from his Friends, with the vilest Company, having been four Times in <placeName id="OA17370629-geo-27">
+                  <interp inst="OA17370629-geo-27" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n36-1 OA17370629-geo-27"/>St. Thomas's Hospital</placeName>, in consequence of his Debaucheries. He was an idle lazy Lad, and fit for nothing but Mischief. He behav'd indifferently well under Sentence, and did not speak very honourably of some of his Relations, because they did not supply him to his Mind, and was of a daring obstinate Temper: He had committed abundance of Robberies: He declared his Faith in Christ; that he was penitent for his Sins; and died in Peace with all the World.</p>
+            <p>
+               <persName id="OA17370629n37-1">
+                  <interp inst="OA17370629n37-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n37-1" type="surname" value="ROGERS"/>
+                  <interp inst="OA17370629n37-1" type="given" value="CHARLES"/>Charles Rogers</persName>, of <placeName id="OA17370629-geo-28">
+                  <interp inst="OA17370629-geo-28" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n37-1 OA17370629-geo-28"/>St. Mary, White-chappel</placeName>, was indicted for assaulting <persName id="OA17370629n37-2">
+                  <interp inst="OA17370629n37-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n37-2" type="surname" value="BASSENDINE"/>
+                  <interp inst="OA17370629n37-2" type="given" value="WILLIAM"/>William Bassendine</persName>, on the King's Highway, putting him in Fear, and taking from him a Ring with a blue Stone, value 2 d. a Handkerchief, value 2 d. a Guinea, and 14 d. in Money, April 20.</p>
+            <xptr type="pageFacsimile" doc="OA173706290008"/>
+            <p>5. <persName id="OA17370629n38-1">
+                  <interp inst="OA17370629n38-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n38-1" type="surname" value="ROGERS"/>
+                  <interp inst="OA17370629n38-1" type="given" value="CHARLES"/>Charles Rogers</persName>, 22 Years of Age, of mean Parents, who were not capable to give him any Education, and was not put to any Trade. When capable, he did Country, <rs id="OA17370629-occupation-19" type="occupation">Labouring-work</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n38-1 OA17370629-occupation-19"/>, and work'd in the Fields in Hay and Harvest-time; at other Times he went on Errands, and carried Links at Night; sometimes he wrought in Barges and heav'd Coals. This was the Account he gave of his way of Life. He never went to Church, and was grosly ignorant of Religion. I endeavour'd what I could to instruct, and he was very attentive, and by what he heard in Publick and Private, he attain'd a little more Knowledge. As to the Fact he died for, he at first denied it, alledging that the Prosecutor mistook the Man; but when he saw there was no hopes of Life, he confess'd the robbing of Mr. Bassendine, and that he held the Pistol to his Breast, as sworn against him, and that he had been a most profligate Wretch, and had been acquainted with all the Gangs of Thieves at that end of the Town, and had been employed in nothing but Mischief. He behav'd well in Chapel, and profess'd a sincere Penitence for all the Sins of his Life; that he believed in Christ his only Saviour, and died in Peace with all the World.</p>
+            <p>6. <persName id="OA17370629n39-1">
+                  <interp inst="OA17370629n39-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n39-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n39-1" type="given" value="RICHARD"/>Richard Harper</persName> was indicted for breaking the House of <persName id="OA17370629n39-2">
+                  <interp inst="OA17370629n39-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n39-2" type="surname" value="HOLYOKE"/>
+                  <interp inst="OA17370629n39-2" type="given" value="WILLIAM"/>William Holyoke</persName>, in the Parish of <placeName id="OA17370629-geo-29">
+                  <interp inst="OA17370629-geo-29" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 n39-2 OA17370629-geo-29"/>St. Bride's</placeName>, about the Hour of Three in the Night, and stealing 250 Guineas, one five Moidore-Piece, one five Guinea-Piece, &amp;c. April 18.</p>
+            <p>He was about 23 Years of Age, and was born of honest Parents, who gave him what Education their Circumstances would allow, and instructed him in the Principles of Christianity. At a proper Time, they put him Apprentice to Mr. Holyoke, at the <placeName id="OA17370629-geo-30">
+                  <interp inst="OA17370629-geo-30" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 n39-2 OA17370629-geo-30"/>
+                  <placeName id="OA17370629-geo-31">
+                     <interp inst="OA17370629-geo-31" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n39-1 n39-2 OA17370629-geo-31"/>
+                     <placeName id="OA17370629-geo-32">
+                        <interp inst="OA17370629-geo-32" type="type" value="site"/>
+                        <join result="persNamePlace" targOrder="Y"
+                              targets="OA17370629n39-1 n39-2 OA17370629-geo-32"/>Cheshire-Cheese</placeName>, in Wine-Office-Court</placeName>, Fleet-Street</placeName>. Mr. Holyoke <rs id="OA17370629-occupation-20" type="occupation">keeps a Publick House</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n39-2 OA17370629-occupation-20"/>, and this unfortunate Lad behaved for five Years and upwards in a very orderly Manner, and to the Satisfaction not only of his Master, but of all that frequented the House; he was entrusted by his Master, and was approv'd of, and respected by him as a faithful <rs id="OA17370629-occupation-21" type="occupation">Servant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n39-1 OA17370629-occupation-21"/>. His Carriage and Behaviour was so modest and obliging, that all who knew him were moved with Pity and Concern, when they heard of this criminal Fact. He had serv'd Mr. Holyoke 9 Years, and his Conduct was irreproachable 'till within half a Year of the Expiration of his Time: Then he unfortunately got acquainted with a loose young Creature, (a Regard for whom he seem'd to maintain to the last*) by Means of a young Fellow of no extraordinary Character. He first brought him acquainted with this Woman, and his shameful End is in a great Measure owing to his Contracting this unhappy Acquaintance, by which he was drawn into unreasonable and vicious Expences; the Consequence of which was,-Advice from his dear Companion and intimate Friend, to rob his Master, which ('twas represented to him) would be no difficult Thing as he so perfectly knew the House. His Attachment to these Wretches, strengthned the Temptation, and he resolved to make the Attempt, in which he was fortunately discover'd**, else he had got a Booty of 800 or 900 l. He had left Mr. Holyoke's Service some Time, and with his Comrade had been at <placeName id="OA17370629-geo-33">
+                  <interp inst="OA17370629-geo-33" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 OA17370629-geo-33"/>Sunderland</placeName>, for Pleasure and Curiosity, he having never before been out of <placeName id="OA17370629-geo-34">
+                  <interp inst="OA17370629-geo-34" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 OA17370629-geo-34"/>London</placeName>; after his Return to Town, he got into Business, but still kept acquainted with his destructive Friends; and all the Night before he committed the Fact, he was at a Publick House a little Way from the Town, and coming from thence with the Effects of much Liquor in his Head, and little Money in his Pockets, he resolved to follow the Advice that had been given him, and to rob his Master. And accordingly, knowing the House perfectly well and where the Booty lay, he put his Design into Execution the following Night, and by wrenching out a Bar of the Cellar Window, he got into the House, and seiz'd the desired Prey; but loitering about the House 'till between 6 and 7 in the Morning, his Escape was prevented by the People of the House, who finding the Cellar-Window broke, and the Box of Money missing, immediately search</p>
+            <p>* See his Letters in the Appendix.</p>
+            <p>** See his Trial Sessions Book, No. IV. Part II. p. 107.</p>
+            <xptr type="pageFacsimile" doc="OA173706290009"/>
+            <p>ed the House very carefully, and after some Time, Harper was found in one of the Chimnies. He confess'd the Crime before the Magistrate, and he has since acknowledged, that he had twice convey'd himself privately into the House, and had open'd a Drawer in the Bar, and had taken out, one Time 30 s. and the other 20 s. He seem'd to be sensible of his Crime, in wronging a Master, who (he said) had always been very kind to him, and who had disswaded him from bad company, and particularly from maintaining any Intimacy with this Woman.</p>
+            <p>He behaved well under his Confinement, was very penitent, very frequently wept bitterly. At the Request of some particular Persons, I asked him, if he had ever given Money to the Watchmen, to allow him to go in and out of his Master's House in the Night Time, while he lived in <placeName id="OA17370629-geo-35">
+                  <interp inst="OA17370629-geo-35" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 OA17370629-geo-35"/>Leadenhall-street</placeName>; and he declared, he never gave a Farthing to them, or any one else on such an Account. He was very much indisposed, a great Part of the Time he lay in the Cell, but was pretty well recover'd before he was executed. He was not of an abandon'd vicious Disposition, tho' seduced by bad Company. He declared his Faith in Christ, was sorrowful for his Sins, and dy'd in Peace with all the World.</p>
+            <p>Harper informed me, that after he had left Mr. Holyoke's Service, he went to live at the <placeName id="OA17370629-geo-36">
+                  <interp inst="OA17370629-geo-36" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 OA17370629-geo-36"/>
+                  <placeName id="OA17370629-geo-37">
+                     <interp inst="OA17370629-geo-37" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n39-1 OA17370629-geo-37"/>Cock and Fountain</placeName> near the Mewse, in <placeName id="OA17370629-geo-38">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n39-1 OA17370629-geo-38"/>Whitefryars</placeName>, Fleetstreet</placeName>; and from thence he went to the <placeName id="OA17370629-geo-39">
+                  <interp inst="OA17370629-geo-39" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n39-1 OA17370629-geo-39"/>
+                  <placeName id="OA17370629-geo-40">
+                     <interp inst="OA17370629-geo-40" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17370629n39-1 OA17370629-geo-40"/>Bull-Head</placeName>, in Leadenhall-street</placeName>; this Service he left on Friday the 22d of April, unknown to his Master, and on the Monday following, he committed the Fact for which he suffer'd.</p>
+            <p>
+               <persName id="OA17370629n45-1">
+                  <interp inst="OA17370629n45-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n45-1" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n45-1" type="given" value="JOHN"/>John Simmonds</persName>, of <placeName id="OA17370629-geo-41">
+                  <interp inst="OA17370629-geo-41" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n45-1 OA17370629-geo-41"/>St. John Wapping</placeName>, was indicted, for that he, after the 24th of June, 1726, viz. on the 7th of February, in the 10th Year of His Majesty's Reign, feloniously, and falsely made and caused to be made, a certain forged and counterfeit Writing, call'd a Promissory Note, in the Words following:</p>
+            <p>Aug. 28, 1736.</p>
+            <p>I Promise to pay to <persName id="OA17370629n47-1">
+                  <interp inst="OA17370629n47-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n47-1" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n47-1" type="given" value="JOHN"/>John Simmonds</persName>, or Order, the Sum of Five Pounds, four Months after Date, for Value received,</p>
+            <p>Per <persName id="OA17370629n48-1">
+                  <interp inst="OA17370629n48-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n48-1" type="surname" value="LANGLEY"/>
+                  <interp inst="OA17370629n48-1" type="given" value="THOMAS"/>THOMAS LANGLEY</persName>.</p>
+            <p>By Reason of which false and counterfeit Writing, <persName id="OA17370629n49-1">
+                  <interp inst="OA17370629n49-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n49-1" type="surname" value="MANNING"/>
+                  <interp inst="OA17370629n49-1" type="given" value="ROBERT"/>Robert Manning</persName> was deceiv'd, and defrauded of the said Sum of Five Pounds. And farther, the said Simmonds on the 7th of February last, the said counterfeit Writing, feloniously did publish and utter, knowing it to be false, forged and counterfeit.</p>
+            <p>7. <persName id="OA17370629n50-1">
+                  <interp inst="OA17370629n50-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n50-1" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n50-1" type="given" value="JOHN"/>John Simmonds</persName>, 25 Years of Age, his Father was a <rs id="OA17370629-occupation-22" type="occupation">Cooper</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n50-1 OA17370629-occupation-22"/>, and work'd for some Time in the Victualling-Office, in the Reign of Queen Ann, and then was sent to <placeName id="OA17370629-geo-42">
+                  <interp inst="OA17370629-geo-42" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n50-1 OA17370629-geo-42"/>Lisbon</placeName>, to take Care of Casks belonging to the Navy. In that Place it happen'd, that the unfortunate <persName id="OA17370629n50-2">
+                  <interp inst="OA17370629n50-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n50-2" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n50-2" type="given" value="JOHN"/>John Simmonds</persName> was born; when he was about Five Years of Age, he came Home with his Parents, who were honest, sober People, and educated him at School, to fit him for Business, and instructed him in Christian Principles. When of Age, he was bound Apprentice to his Father, who wrought in the <placeName id="OA17370629-geo-43">
+                  <interp inst="OA17370629-geo-43" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n50-1 OA17370629-geo-43"/>Victualling-Office</placeName>, and serv'd out his Time, and then he wrought in the same Place with his Father, and did very well, while he continu'd in this Business. Some Years ago the Father died, and then John was not so careful, as he had been, but associated himself with wicked Company, which brought him to Ruin. Pretending the Business in the Office was not so good, as in Time of War, he left it, and serv'd a Master in <placeName id="OA17370629-geo-44">
+                  <interp inst="OA17370629-geo-44" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n50-1 OA17370629-geo-44"/>Rosemary-lane</placeName>, with whom he run in Debt about Three Pounds. About that Time he marrried a young Woman, nigh <placeName id="OA17370629-geo-45">
+                  <interp inst="OA17370629-geo-45" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n50-1 OA17370629-geo-45"/>Bromley, by Bow</placeName>, and being ambitious of setting up Business upon his own Account, he was not able to manage it, but broke, and lost his Credit; his Master demanded his Debt several Times, and being hard upon him, he counterfeited the Note in the Name of one Langley, and offer'd it to his Master, who accepted it; but when the Time of Payment was elaps'd, the Master began to inquire into the Matter, and found it a Forgery, Simmonds first alledging that Langley was gone into Northamptonshire, and then by his Direction, Mr. Manning went to a Gentleman of the same Name in Town, but he knew nothing of the Affair: Upon this, he was taken up, and upon Trial, was found Guilty. Simmonds's great Misfortune on this Occasion, was, that about the same Time, a threatning Letter was sent to his Master Mr. Manning, who suspect</p>
+            <xptr type="pageFacsimile" doc="OA173706290010"/>
+            <p>ed his old Servant Simmonds to be the Writer of it, and indicted him a second Time for the same; and although he was acquitted of this 2d Indictment, yet the presumptive Proof was so strong against him, that the Generality of People think he wrote the Letter; this, it is thought, made Matters go worse with him, than otherwise they would have done. He was not so wicked as many of these unhappy Creatures, and was pretty regular in the preceeding Part of his Life. He frequented the Church, and was a good Husband, only he aim'd at living a little above his Degree, which was the Occasion of his falling in Debt, and this made his Life uneasy. He would not positively confess his writing the threatening Letter, nor could not deny it, and was obstinate in refusing to acknowledge any Thing of it. On Saturday last, when the Dead-Warrant came to <placeName id="OA17370629-geo-46">
+                  <interp inst="OA17370629-geo-46" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n50-1 OA17370629-geo-46"/>Newgate</placeName>, in Time of Morning Prayers in Chapel, he fell into a most violent Convulsion Fit, which put a Stop to the Worship, and he being a lusty, strong young Man, all the rest of the unfortunate Prisoners were scarce able to hold him down, yet in a short Time he recover'd, and continued in a good State of Health, the rest of his remaining Moments. He declar'd his Faith in Christ our only Saviour; that he sincerely repented of the manifold Wickednesses and Sins of his Life; and forgave all Injuries as he expected Forgiveness from God.</p>
+            <p>At the PLACE of EXECUTION.</p>
+            <p>BETWEEN Six and Seven in the Morning, I attended them in the Chapel, where they all appeared very Devout; after Prayers were over, Sampson desired that Simmonds might be in the Cart with him, which was comply'd with; about 10 o'Clock they were brought to Tyburn in the following Manner, (viz.) First, <persName id="OA17370629n53-1">
+                  <interp inst="OA17370629n53-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n53-1" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n53-1" type="given" value="ANN"/>Ann Mudd</persName>, for the Murder of her Husband, in the Sledge; Sampson and Simmonds, in the first Cart; Harper for Breaking the House of Mr. Holyoke, and Bosworway for Murder, in the second Cart; and Rogers and Kelley, in the third Cart; when they came to the Place of Execution, they were all put into one Cart; Sampson desired that Simmonds and he might be tied up to the Tree together, both of them having taken their Shoes off. Just before the Cart drew away, Simmonds kiss'd a Gentleman twice (who was in the Cart with him) and desir'd him to give one to his Mother, and the other to his dear and loving Wife, whom he had lately married, unknown to her Parents, and is Daughter to a worthy Person of Bow. <persName id="OA17370629n53-2">
+                  <interp inst="OA17370629n53-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n53-2" type="surname" value="ROGERS"/>
+                  <interp inst="OA17370629n53-2" type="given" value="CHARLES"/>Charles Rogers</persName> only said, he hoped God would have Mercy on him, and pardon his Sins for Christ's Sake, and receive his Soul into his everlasting Rest. <persName id="OA17370629n53-3">
+                  <interp inst="OA17370629n53-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n53-3" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n53-3" type="given" value="RICHARD"/>Richard Sampson</persName> hoped, that the World would not reflect upon his Parents or Relations, who had done what was in their Power to reclaim him, and had been most careful in giving him a good Education. After Prayers were ended, <persName id="OA17370629n53-4">
+                  <interp inst="OA17370629n53-4" type="gender" value="female"/>
+                  <interp inst="OA17370629n53-4" type="surname" value="MUDD"/>
+                  <interp inst="OA17370629n53-4" type="given" value="ANN"/>Ann Mudd</persName> was taken out of the Cart, and carried to the Stake, and in a very short Time was burnt. The Rest had nothing to add to their former Confessions. All of them hoped God would have Mercy upon their poor Souls, and they went off the Stage calling out to God to have Mercy upon them, and that the Lord Jesus would receive their Spirits.</p>
+            <p>This is all the Account given by me,</p>
+            <p>
+               <persName id="OA17370629n55-1">
+                  <interp inst="OA17370629n55-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n55-1" type="surname" value="GUTHRIE"/>
+                  <interp inst="OA17370629n55-1" type="given" value="JAMES"/>JAMES GUTHRIE</persName>,</p>
+            <p>
+               <rs id="OA17370629-occupation-23" type="occupation">Ordinary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n55-1 OA17370629-occupation-23"/> of <placeName id="OA17370629-geo-47">
+                  <interp inst="OA17370629-geo-47" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n55-1 OA17370629-geo-47"/>Newgate</placeName>.</p>
+            <p>APPENDIX.</p>
+            <p>IT is a melancholy Observation, that notwithstanding such frequent Examples are made of Offenders; nevertheless so many fall by the Hand of publick Justice, and are punish'd for their Vices, in the Loss of their Lives, yet such is the Prevalence of evil Custom, and so strong the Force of wicked Habits, that the most shocking Instances of Distress and Anguish, are not sufficient to deter from Courses, which must necessarily conclude in Horror and Destruction.</p>
+            <p>Too many Proofs of the Depravity and Degeneracy of human Nature, are generally given in these Accounts; and though the fatal</p>
+            <xptr type="pageFacsimile" doc="OA173706290011"/>
+            <p>rocks are so plainly pointed out, on which Multitudes of unfortunate, thoughtless Creatures have been ship-wreck'd, yet such is the Condition of a Mind in Love with, and enur'd to Vice, that even the most firm Expectation of Shame and Ruin, is not attended with any good Effect.</p>
+            <p>'Tis worth remarking, that when these inconsiderate Wretches have brought themselves to a fatal Necessity of reaping the Fruit of their vicious Labour, their greatest Concern is to extenuate their Guilt; and even in their dying Minutes, they too frequently endeavour by solemn Asseverations and mean Prevarications, to perswade the World that they are innocent, or not so shamefully wicked as has been imagined.</p>
+            <p>The following Papers contain something to this Purpose, and in many of them is pictured the Distress and Horror of Mind that attends a Wretch about to suffer for having acted contrary to the eternal Laws of Vertue and right Reason.</p>
+            <p>Copy of a PAPER wrote by Desire of <persName id="OA17370629n63-1">
+                  <interp inst="OA17370629n63-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n63-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n63-1" type="given" value="RICHARD"/>Richard Harper</persName>, and found in his Cell.</p>
+            <p>' I Am now in some fue howers to end my ' Life, and am not many Minutes longer ' to behold the Lite! - Oh! that I had taken the good Admonishons of my Frends! ' then I had not bin in this unhape Condishon, ' and 'tis a miserabel Stat indede. I wish every ' on wold be as sensible of it as my self, before ' it be to late. 'Tis impossibel for me to discrribe the horrours which I have felt since ' my Condemnashon and since my Confinment in this Plase. They are suffishent to ' move my gretest Eneme to pitte me. I hope ' that young Man who first brought me acquanted with that Creture, will tak Warning ' by my fatal Deth and live a more sober Life ' than he has done, if he dus not, he will sune ' find the ill Consequences, and so will likwiss ' that vile young Woman, to whom I ow my ' furst neglecting my Duty both to God and ' Man. I ask Pardon of my dere and anshent Father and Mother, who are so unhape ' as to have so unworthy a Child; they brout ' me up with all the Tenderness and Car imaginable, and taute me better, therfor I hop ' none will be so ill-natur'd as to reflc on them, ' for my fatal End. I desire likewise that my ' Master and Mistres would forgive me the Injures wich I have done them, as I freely forgive them that hav injur'd me, I hav no ' other Satisfacshon to make, therefor hop God ' and they will accep of my Repentance and ' Sorro.</p>
+            <p>
+               <persName id="OA17370629n65-1">
+                  <interp inst="OA17370629n65-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n65-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n65-1" type="given" value="RICHARD"/>RICHARD HARPER</persName>.</p>
+            <p>Cells of Nugat.</p>
+            <p>Copy of a LETTER sent to Mr. Holyoke, June 28.</p>
+            <p>Worthrey Sir,</p>
+            <p>WITH humbel Submishon I have maid vould to trubel you with my last dying Wordes. I hop you will have Compashon and forgive me, as I hope God will forgive you and me for all our Sines. The Fackt that I dy for I must one, that I am rally gilty off, and justly desarve to dy for, by the Lawes of God and Man, but I hop that God will forgive my Sines that I have committed in this World, as I have humbely confest to him, and hop for Salvasion from him for so duing, thrue Jesus Christ my only Sauer. Therefor dere Sir I bege for Gods Sack that you will not mack any Refeckons on Mrs. Miares and her Sun and Dater, nor non of that Family for my unhape delings for they ar no wayes exocery to ane of them: Tharfor dere Sir, dont refleck nor think of them, for they ar enocent of them, I humbly bege tharfor dere Sir, that you will be so gude to be sume wass assisten in taking Car of my Body according to your Promes, in so duing I hop God will bless you for it. So all from your dying Sarvent.</p>
+            <p>
+               <persName id="OA17370629n70-1">
+                  <interp inst="OA17370629n70-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n70-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n70-1" type="given" value="RICHARD"/>RICHARD HARPER</persName>.</p>
+            <p>From the dismal Cells of Newgate, June 28 1737.</p>
+            <xptr type="pageFacsimile" doc="OA173706290012"/>
+            <p>Copy of his LETTER after Sentence to his Uncle and Aunt.</p>
+            <p>Dere and loving Unckel and Ant.</p>
+            <p>Dere loving Ant.</p>
+            <p>' THIS is my kind Loue and Duty to you, for all the Faveres and Loue to me sines ' my sad Destress, in hop that God will ' bless you for so duing, you having bin the only Support of me sines I have bin in Confinment. I have ben unfortenatly fallen into ' this, throu my one folly and none elles, for ' no body wass conceren'd with me, tharfor I ' humbely bege for God's Sack that you will ' not refleck on Ann Miares, hir Mother, nor ' any of that Famely, for as I hop for Salvasion in Christ my Sauer they noe nothing of ' the Matter, nor never did, ' tell it was all ' over, tharfor I bege for God's Sack, that ' non of you wold say any Thing of it concerening of me, and then I shall dy in Charete ' with Men. I freely forgue every body, as I ' hop God will forgue me. So no more, but ' my kind loue to my Unckel and you, and ' my Loue to my Cusens in Hop that you will ' pray for my Souel in the next World, for I 'am not long to live in this. Lickwiss my ' kind Loue and Duty to my Father and Mother, and hop that you will not lement, but ' pray for me. So all from your dying Kinsman tell Deth</p>
+            <p>
+               <persName id="OA17370629n76-1">
+                  <interp inst="OA17370629n76-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n76-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n76-1" type="given" value="RICHARD"/>RICHARD HARPER</persName>.</p>
+            <p>Copy of a Letter sent to. -</p>
+            <p>Wothrey Sir</p>
+            <p>With humbel Submision I humbely crav the Faver of you, that out of your grat Goodness you'll be so good to grant me the Faver to lete your Sarvent <persName id="OA17370629n79-1">
+                  <interp inst="OA17370629n79-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n79-1" type="surname" value="Miares"/>
+                  <interp inst="OA17370629n79-1" type="given" value="Charles"/>Charles Miares</persName> go a Long with me in the Cart to the Plas of execushon, for I have something to say to him and humbely bege the Faver of you for God's Sack not to reflecte on him, or his Mother, or his Sister, for I will ashuare you that they due not noe any thing of the Mater concerening of me, but are very enocent of the Mater: therefore dere Sir I bege that you will not reflecte on the young man one my Account. I bege for God's Sack that you will lete Charles good a Long with me to the Tree, In so duing I shall be hyly obliged to you and ever pray.</p>
+            <p>from the Cell in Nugat June 28 1737.</p>
+            <p>
+               <persName id="OA17370629n81-1">
+                  <interp inst="OA17370629n81-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n81-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n81-1" type="given" value="RICHARD"/>Richard Harper</persName>.</p>
+            <p>On Monday Evening, his Father came to the Door of the Press-yard, and call'd out to his Son, in the Cell, desiring him to lay aside all Thoughts of this World, and to employ his few remaining unspent Minutes in preparing for another. He advised him to pray servently to God for Mercy, and told him, he would come the next Day to take a last Farewel of him: Which he did, according to his Promise, and they embraced each other very affectionately, and their Parting was in so sorrowful and tender a Manner, that the Grief was communicated to the Spectators, and every Eye flow'd with Tears.</p>
+            <p>This was dictated by me, in the Cells, two Days before my Execution. <persName id="OA17370629n83-1">
+                  <interp inst="OA17370629n83-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n83-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n83-1" type="given" value="RICHARD"/>Richard Harper</persName>. Good People.</p>
+            <p>The Fact I dye for I acknowledge I am Guilty of, which is the first Misdemeanor I ever committed in my Life to deserve Death. 'Twas keeping too much Company that caused me to be guilty of this Action. I was put <rs id="OA17370629-occupation-24" type="occupation">Apprentice to a Patten-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n83-1 OA17370629-occupation-24"/> and served him 5 Years very faithfully, but the 2 last Years of my Time, I was very much addicted to Company, and used to lye out of my Masters House several Nights together. I frequented Night-Houses, Play-houses and other Places where I met bad Company, and the Leaders on to my Ruin; which exposed me to those Expences which I was not able to bear, and to supply which, I determined to rob my Master. Before I put my Design in Execution I pawn'd all my Cloaths, and every thing else I had of any Value, and not knowing any other Way to come at any Money, I committed this Fact for which I deservedly suffer. But I desire my Relations not to reflect on my Companions, for had it not been my own Inclination to have done it, no body could have perswaded me to it, and I</p>
+            <xptr type="pageFacsimile" doc="OA173706290013"/>
+            <p>would not have my Master think that any of them perswaded me to it.</p>
+            <p>I freely forgive my Master (for prosecuting me) and every Body else in this World, hoping for Forgiveness my self in the Next.</p>
+            <p>Good People. You that know my Parents, I beg you'd not reflect on them for they were always very tender over me, and gave me a good Education and good Councel, and did as much as lay in their Power for me, they being but in a Middling Station of Life.</p>
+            <p>And let all take Warning by my ignominious Death, not to addict themselves to too much Company, nor engage in such Courses as shall lay them under Temptations to wrong others. So I conclude, hoping the Lord Jesus will have Mercy on my Soul, a wicked Sinner.</p>
+            <p>
+               <persName id="OA17370629n89-1">
+                  <interp inst="OA17370629n89-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n89-1" type="surname" value="HARPER"/>
+                  <interp inst="OA17370629n89-1" type="given" value="RICHARD"/>Richard Harper</persName>.</p>
+            <p>The Evening before the Day of Execution a Reprieve for three Weeks came down for <persName id="OA17370629n90-1">
+                  <interp inst="OA17370629n90-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n90-1" type="surname" value="CALDWELL"/>
+                  <interp inst="OA17370629n90-1" type="given" value="DOROTHY"/>Dorothy Caldwell</persName>, who had till that Time given up all hopes of Life; a certain Person in whose Intercession she had confided, having disappointed her Expectations, she wrote him the following Letter.</p>
+            <p>My Dere,</p>
+            <p>' I Hope you wont un do what you have ' done. I thought you wold have interseded furder for me, but - since you say nay, ' I trust in God to raise me a Friend - baughken Dry. - God bless you,</p>
+            <p>Your unfortunate Wife tell Deth, and that wont be long, <persName id="OA17370629n93-1">
+                  <interp inst="OA17370629n93-1" type="gender" value="female"/>
+                  <interp inst="OA17370629n93-1" type="surname" value="CALDWELL"/>
+                  <interp inst="OA17370629n93-1" type="given" value="DOROTHY"/>Dorothy Caldwell</persName>.</p>
+            <p>My dere,</p>
+            <p>' I thank you for being so good - so good ' as your Work. -but Baughken hille.</p>
+            <p>A Copy of a LETTER sent by <persName id="OA17370629n96-1">
+                  <interp inst="OA17370629n96-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n96-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n96-1" type="given" value="RICHARD"/>Richard Sampson</persName> to a Relation, before his Execution.</p>
+            <p>Dear Sir,</p>
+            <p>' I Am very well satisfy'd by a Friend, that ' I shall assuredly be executed, and I humbly implore your Goodness to make ' Intercession for me with some Pr - y Co - ll-r, ' that he may speak for me when the Report ' is made. If you are not able to go your self, ' get some Gentleman to make some Interest ' with the Re - rd - r, to make a favourable Report; and desire him to remember, ' that the Prosecutor recommended me to my ' L - d M - r after I was cast. And I would ' desire you to go to my Prosecutor and desire ' him to stir in this Affair for me, or if you ' will get any Gentleman else to go to him, I ' will send a Letter by him. I beg you'll get ' some Interest in my Lord L - st - r, or ' in the Duke of D &#8211; rs - t; in both if ' you can, or in any body else that's in his ' Majesty's Favour. I conclude with my ' Duty to you and my Aunt, begging you'll ' not let my Life be lost, for the Sake of a little Trouble.</p>
+            <p>Your unhappy Kinsman</p>
+            <p>
+               <persName id="OA17370629n100-1">
+                  <interp inst="OA17370629n100-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n100-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n100-1" type="given" value="RICHARD"/>RICHARD SAMPSON</persName>.</p>
+            <p>' Pray excuse my Writing, for I am in a ' great Consternation and in much Trouble, ' beside bad Conveniencies to write with.</p>
+            <p>Sampson's Letter to his Grandfather.</p>
+            <p>SIR,</p>
+            <p>' I return you many Thanks for your kind ' Favours, particularly for that Care you have ' promised to take of my poor Carcass after I ' am dead. If you had not taken upon you ' to bury me, the Surgeons would have had my ' Body, tho' I have a particular Acquaintance ' who hath promised me to take Care and cut ' me down. I wish I could see you or my ' Aunt before I die: It would be a great Satisfaction to me, and if you'll let me see my ' Sister, I shall take it as a Favour. I design ' to make no Confession at all; only I intend ' to deliver a Paper (which I have written) at ' the Place of Execution, and (if you please) ' you may have a Copy of it before. I wish ' you'd be so kind as to buy me a Book, proper for one in my Condition. I should be</p>
+            <xptr type="pageFacsimile" doc="OA173706290014"/>
+            <p>' glad to hear from you, as often as you can, ' possibly, for my Time in this World, will ' be but short.</p>
+            <p>Your unhappy and miserable Grandson,</p>
+            <p>
+               <persName id="OA17370629n107-1">
+                  <interp inst="OA17370629n107-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n107-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n107-1" type="given" value="RICHARD"/>Richard Sampson</persName>.</p>
+            <p>Newgate Cells, June 7, 1737.</p>
+            <p>Pray my Duty to my Aunt: the same to you, and my Love to Phoebe.</p>
+            <p>To Mr. R - d S - n at the corner of G - t K - y Street H - n G - n London.</p>
+            <p>SIR,</p>
+            <p>I Desire that you'll give the Printer a Copy of this Paper.</p>
+            <p>I AM Executed for robbing Mr. <persName id="OA17370629n113-1">
+                  <interp inst="OA17370629n113-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n113-1" type="surname" value="GOUGH"/>
+                  <interp inst="OA17370629n113-1" type="given" value="STRICKLAND"/>Strickland Gough</persName>, which I think is a very hard Sentence, for I did not rob him of his Hat, but my Prosecutor was positive to me, and the two Evidences swore against me because they would have the Reward. * Bevin swore that I told him that I had the Hat, and that I threw it over the Rails; but I hope God will have no Mercy on my Soul if I ever told him or any Body else that I had the Hat, or toucht it in my Life. I confess I knocked him down, and I believe he lost his Hat when I struck him into the Kennel; I would not have struck him at all by my Consent, but they said 'twas the best way to knock him down; so Scotch Jack struck him first and run away, I being next, struck him into the Kennell, and he calling out, they all run away but <persName id="OA17370629n113-2">
+                  <interp inst="OA17370629n113-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n113-2" type="surname" value="HILLIER"/>
+                  <interp inst="OA17370629n113-2" type="given" value="WILLIAM"/>William Hillier</persName>, and left us two; so we did not rob him of any Thing, but made off undiscover'd.</p>
+            <p>I beg every Body that knows me, not to reflect upon my Relations, who were always very kind to me, and gave me good Counsel.</p>
+            <p>I think it needless to say any more, or to give any Account of my Parentage and Education, as a great many do; for those that know me, know my Family, and those that do know me, it would be of no Signification to them; for if you wanted a great deal, I could give you a long History, but in my Opinion, this is enough to satisfy a Parcel of Rabble. So conclude, hoping to obtain Mercy from the Lord Jesus, who have been a wicked Sinner.</p>
+            <p>
+               <persName id="OA17370629n116-1">
+                  <interp inst="OA17370629n116-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n116-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n116-1" type="given" value="RICHARD"/>RICHARD SAMPSON</persName>.</p>
+            <p>
+               <persName id="OA17370629n117-1">
+                  <interp inst="OA17370629n117-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n117-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n117-1" type="given" value="RICHARD"/>RICHARD SAMPSON</persName>'s first PAPER, which he intended to deliver at the Place of Execution.</p>
+            <p>Good People.</p>
+            <p>' I Am come to this Place of Death, and as ' this is my last Speech, I am willing to give ' the World a little Satisfaction by my own ' Hand-writing. I was condemned for knocking down Mr. <persName id="OA17370629n119-1">
+                  <interp inst="OA17370629n119-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n119-1" type="surname" value="GOUGH"/>
+                  <interp inst="OA17370629n119-1" type="given" value="STRICKLAND"/>Strickland Gough</persName>, and robbing ' him of his Hat. I declare I had not the ' Hat, and I forgive the Evidence against me. ' This is all I have to say, only I think some ' certain Persons have been very unkind to me ' while I was under Sentence. They did not ' send me a Book, that I might save my Soul, ' nor a Candle to read by. If I could have ' given them 10 or 20 Guineas, they would I ' suppose have got me Transported, but, &amp;c. ' - I must die. I could reflect more upon ' them, but my Paper is short, and I don't ' care to give the Printer too much Trouble ' I conclude, forgiving every Person on the ' Face of the Earth, hoping God will forgive ' me, and receive the Soul of a miserable Sinner.</p>
+            <p>
+               <persName id="OA17370629n120-1">
+                  <interp inst="OA17370629n120-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n120-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n120-1" type="given" value="RICHARD"/>RICHARD SAMPSON</persName>.</p>
+            <p>* There was no such Person as Bevin swore against him upon the Trial. Sadler, an Accomplice in the Fact deposed, that Sampson told him, he had thrown the Hat over some Rails in <placeName id="OA17370629-geo-48">
+                  <interp inst="OA17370629-geo-48" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n120-1 OA17370629-geo-48"/>Gloucester-street</placeName> to Invent his being discover'd. See Sessions Book No. V.</p>
+            <xptr type="pageFacsimile" doc="OA173706290015"/>
+            <p>The following PAPER Sampson wrote for his own Use during his Confinement after Condemnation.</p>
+            <p>O Eternal and ever living God! thou first breathedst into Man the Breath of Life; when thou takest away that Breath he dieth, and he turns again to his Dust. Look with Compassion on me, thy poor dying Creature; I am drawing near the Gates of Death, and the House appointed for all Living: but what is infinitely more terrible, I must soon appear before thy Judgment Bar. Lord! my own Heart condemns me, and thou art infinitely greater than my Heart, and knowest all Things. The Sins that I know and remember fill me with Horror, but Lord, there are Multitudes of others which I observed not at the Time I committed them, or which I have since carelesly forgotten: these are all present to thee; thou settest my Iniquities before thee, and my secret Sins in the Light of thy Countenance. Lord! to what a Mountainous Height must the Provocations of so many Years, (and committed every Minute) arise! How shall one so ungodly stand in thy Judgment, or such a Sinner in the Congregation of thy Saints! But to add yet to my Terror, my very Repentance I fear, will not abide the Trial. My frequent Relapses heretofore, have sufficiently evidenced the Insincerity of my Resolutions; and Lord what can secure me from thy Displeasure, when even my present Dislike of my former Crimes is rather the Effect of my terrifying Danger, than the Consequence of a real Change in me. I know, O Lord, thou art not mocked, nor wilt thou accept of any Thing that is not perfectly sincere. When I consider this, Fearfulness and Trembling cometh upon me, and a horrible Dread overwhelmeth me. My Flesh trembleth for Fear of thee, and I am afraid of thy Judgements. My Spirit is overwhelmed within me, my Heart within me is desolate, One Depth calleth unto another; the Depth of my Misery calleth upon the Depth of thy Mercy: Lord! Lord save me or I perish eternally. O thou! thou, who willest not that any should perish, but that all should come to Repentance, bring me I beseech thee, tho' thus late, to a sincere Repentance, such as thou wilt accept, thou who knowest the Heart and triest the Reins. O create in me a clean Heart, and renew a right Spirit within me. Lord one Day with thee is as a thousand Years; to thee Nothing is impossible; O let thy powerful Spirit work in me, - even in this my last Day, - whatever thou seest wanting in me, to sit me for an Object of thy Mercy and Acceptance. Give me a perfect and an intire Hatred of my Sins, and enable me to present thee with the Sacrifice of a truly broken Heart, and a contrite Spirit, which thou hast promised, thou wilt not despise. O make me capable of receiving the Benefit of that Attonement, which thy dear Son, by the most excellent Oblation of himself, has made for repenting, returning Sinners. He is the Propitiation for our Sins; He was wounded for our Transgressions; he was bruised for our Iniquities; the Chastisement of our Peace was upon him, O that by his Stripes I might be healed. Lord let the Cry of his Blood drown the Clamour of my Sins: I am indeed a Child of Wrath, but he is the Son of thy Love; O! for his Sake spare me.</p>
+            <p>Lord spare me thy Creature, and let his most precious Blood redeem me: Lord be not angry with me for ever. In my Saviour's Wounds I take Sanctuary, let not thy Vengeance drive me forth from this City of Refuge. My Soul hangeth upon him, O let me not perish with a Saviour, - with a crucify'd Jesus in my Arms; but, By his Agony and bloody Sweat; By his Cross and Passion, by all that he suffer'd for Sinners Good Lord deliver me. Deliver me from the Wages of my Sins, - from thy Wrath and from that everlasting Damnation, which I have too frequently and horridly call'd down on my Head. Hear me in this the Time of my Tribulation, and in the Hour of Death deliver my Soul. Do not repay my former Neglect of thy gracious Calls to Mercy, by refusing to answer me in my sore Distress. Lord there is one Step yet between me and Death, O let not my Sun set in thy Wrath, but seal my</p>
+            <xptr type="pageFacsimile" doc="OA173706290016"/>
+            <p>Parden before I go hence and be seen  more,  loving Kindness is better than Life, O let me have but some well grounded Hope of that, and I will lay me down in Peace; I will then gladly resign this mortal Life. Lord thou knowest all my Desire and my Groaning is not hid from thee. Deal with me according to thy Mercy, and according to the Multitude of thy tender Mercies blot out all my Transgressions. Thy Mercy will be sweet to my Soul; 'twill take away the Sting of Death and the Guilt of my Sins, and then I shall walk thro' the Valley of the Shadow of Death, and shall fear no Evil; then I shall awake and shall be satisfy'd with the beatifick Vision of thy Glory. Grant this thou merciful God, for the Sake of him who dyed for Sinners even Jesus Christ. Amen.</p>
+            <p>
+               <persName id="OA17370629n126-1">
+                  <interp inst="OA17370629n126-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n126-1" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17370629n126-1" type="given" value="RICHARD"/>Richard Sampson</persName>, scripsit.</p>
+            <p>The exact Copy of a Letter sent by Bosworway to his Friend, from his Cell in Newgate.</p>
+            <p>Mr. Fauster,</p>
+            <p>Sir. I have writ to you in Return of Thanks for all Favors that have been done for me by you, in delivring my Petison and going about my Affare, which has bin a grate dele of Truble to you and lose of Time, and I hope God will bless you for it, as for those hard harted Men who swore against me, I heartily forgive them, and wish they may never come to this unhappe Stasion that I am in. For what I die for, I am innocent off, any Wayes willfully, therefore I hope God will have Mercy on my Soul, for I had never any Malis or Spite against the Man that is dead in my Life, but they swore against me for the Sake of the Reward * of 40 l. which is the Prise of Blood, as Judas did by his Master Christ. In him I hop to be sav'd.</p>
+            <p>I am in hope that no body will reflec on my Wife nor none of my Relasions, for they  not in Faut, nor cant help what I have done. I desire you'll go to Mr. Poregar and put him in mind, for he has promised to get a coch and som help to save my Body from the Surgeons, and I hope the rest of my Fellow-Sarvents will be ther to assist. My Mother lives in Red- Yard near Clerkenwell Green, Richard Wards Chandeler's Shop. If you'll be so good to get Mr. Lewis and Mr. Panner, and Mr. Lyeh at Pole's Wharf to be something toward a Coc with Mr. Prgar. So no more from you dying Friend.</p>
+            <p>
+               <persName id="OA17370629n131-1">
+                  <interp inst="OA17370629n131-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n131-1" type="surname" value="BOSWORWAY"/>
+                  <interp inst="OA17370629n131-1" type="given" value="HENRY"/>Henry Bosworway</persName>.</p>
+            <p>Cells in <placeName id="OA17370629-geo-49">
+                  <interp inst="OA17370629-geo-49" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n131-1 OA17370629-geo-49"/>Newgate</placeName>, June 26, 1737.</p>
+            <p>Copy of another LETTER from Bosworway to one of his Masters.</p>
+            <p>Worthy Sir,</p>
+            <p>' With humbel Submission I have made  ' to trouble you in hope you will not  ' amis, but consider my languishing Condition ' and my hard Fate to lose my life for such ' unhapy Thing, for had I done that  ' Accident wilfuly, I should have thought that ' nothing but Deth had been gude enough for ' me, nor that nether, but as I did not, I ho ' God will have Mercy on my Soul, as I was ' not guilty of willfull murder, nor any thing ' relating to it. therfor dere Sir, I humble  ' of you for God's Sake to have some Compassion on me, and help to save my life, as it ' lyes in your Power so to do, if you will be so ' good for Christ's Sake, for I am innocent of ' willfuly duing the murder, and so they all ' know who swore against me. I humbly  ' you'll give a Petition to the D - of N - t ' and get him to speak for me to save my  ' for 'tis not my own life only, but it will be ' tho Death of my Mother likewise. Pray  ' Sir have some compassion on me for Christ's ' Sak, and I hope God will bless you </p>
+            <p>* The Witnesses upon his Trial behaved with the greatest Decency, and seem'd to be altogether unprejudiced Persons. The Malefactors Assertion with Regard to the 40 l. is untrue, for there is no Reward at all, in such Cases.</p>
+            <xptr type="pageFacsimile" doc="OA173706290017"/>
+            <p>' doing I beg you'll get them to set their ' Hands to it that  against me, for I hope ' they will not deny me that, if they will not ' for me they will for you.</p>
+            <p>All from your unfortunate Servant.</p>
+            <p>
+               <persName id="OA17370629n138-1">
+                  <interp inst="OA17370629n138-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n138-1" type="surname" value="BOSWORWAY"/>
+                  <interp inst="OA17370629n138-1" type="given" value="HENRY"/>Henry Bosworway</persName>.</p>
+            <p>From the dismal Cells in <placeName id="OA17370629-geo-50">
+                  <interp inst="OA17370629-geo-50" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n138-1 OA17370629-geo-50"/>Newgate</placeName>, May 30, 1737.</p>
+            <p>To my Master Mr. <persName id="OA17370629n140-1">
+                  <interp inst="OA17370629n140-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n140-1" type="surname" value="Goons"/>
+                  <interp inst="OA17370629n140-1" type="given" value="William"/>William Goons</persName>.</p>
+            <p>Copy of a Paper which (he said) he wrote himself intending to read it at the Place of Execution.</p>
+            <p>Written in the dismal Cells of <placeName id="OA17370629-geo-51">
+                  <interp inst="OA17370629-geo-51" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n148-1 OA17370629-geo-51"/>Newgate</placeName>.</p>
+            <p>Good People,</p>
+            <p>I Am willing to make some short Speech before I deport this World that the World may be satisfied, I think it very hard I should dye for a Thing I did not do willfully, but my receiving of gross Usage from the Deceased, caused me to strike him with the hammer, which unluckily happed to be his Death by hitting him on the Forehead, but as I hope for Salvation, I did not do it with an Intent to murder him, but being in Liquor and in a great Passion, took up the first thing as I could lay my Hand upon, which unfortunately happned to be the framing hammer: So I would have every Person to govern their Passion and beware of Drunkenness, which is the Forerunner of all Evil and Sin, for if I had not been drunk, this unhappy Accident had not happned, which is he Occasion of the Death of two People. It was said, it might be brought in as Manslaughter; it was found Wilful Murder, and the Evidence Montgomery, swore that the Deceased said, when he received the Blow. That the Rogue has got my Life. I think the Deceased did not lay any such Words, for he said upon his Death-bed that he freely forgive me.</p>
+            <p>Which is all I have to say concerning the Deceased.</p>
+            <p>Now as to my  and Education, I shall give you , which is as follows, viz.</p>
+            <p>My father dying when I was young, left me with a very indulgent Mother, who took Care to put me <rs id="OA17370629-occupation-25" type="occupation">Apprentice to a Sawyer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17370629n148-1 OA17370629-occupation-25"/>, with whom I serv'd very faithful, till at last he , and then I workt for my self, and always behaved my self very sober and honest, and I never wronged any Person of the Value of a Half-penny in my Life; but this unhappy Accident is the Occasion of the misfortunate End I am come to, and I freely forgive every Body in this World, as I hope Forgiveness in the next, and I forgive the Evidence particular, I beg every Body that knows me, not to reflect upon my Relations, especially my poor Mother, who has always been very tender over me. So conclude this my last Speech, hoping the Lord Jesus will have Mercy upon my poor Soul a miserable Sinner.</p>
+            <p>
+               <persName id="OA17370629n148-1">
+                  <interp inst="OA17370629n148-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n148-1" type="surname" value="BOSWORWAY"/>
+                  <interp inst="OA17370629n148-1" type="given" value="HENRY"/>HENRY BOSWORWAY</persName>.</p>
+            <p>A just Copy of KELLY'S Paper, with Relation to the Murder of <persName id="OA17370629n149-1">
+                  <interp inst="OA17370629n149-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n149-1" type="surname" value="LEVERMORE"/>
+                  <interp inst="OA17370629n149-1" type="given" value="ROBERT"/>Robert Levermore</persName> in <placeName id="OA17370629-geo-52">
+                  <interp inst="OA17370629-geo-52" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17370629n149-1 n151-2 OA17370629-geo-52"/>Newfoundland</placeName>.</p>
+            <p>Gud Christan Pepal.</p>
+            <p>THeare the dying Wurds of me <persName id="OA17370629n151-1">
+                  <interp inst="OA17370629n151-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n151-1" type="surname" value="KELLY"/>
+                  <interp inst="OA17370629n151-1" type="given" value="JAMES"/>James Kelly</persName>. The Murder that I now dy, for was comitted by <persName id="OA17370629n151-2">
+                  <interp inst="OA17370629n151-2" type="gender" value="male"/>
+                  <interp inst="OA17370629n151-2" type="surname" value="FICHGARELL"/>
+                  <interp inst="OA17370629n151-2" type="given" value="WILLIAM"/>William Fichgarell</persName>, who is ded in neu fond Land, and 2 more they dide the Murder. They two, and <persName id="OA17370629n151-3">
+                  <interp inst="OA17370629n151-3" type="gender" value="male"/>
+                  <interp inst="OA17370629n151-3" type="surname" value="FICHGAREL"/>
+                  <interp inst="OA17370629n151-3" type="given" value="WILLIAM"/>William Fichgarel</persName> came to my House, and press'd me to go with them to drink parte of onee Botel of Rum, and I likwis whnt with them, and when it was out they sade they node whar to go and get mor at the desesed Hous, and press'd me to go with theam, tharfore, I whent, but dide not nowe that Desine nor tha did not let me nowe tell I saw the Bloo giveing, and when I heard the Bloo giveing I saw thay had got a Rope about the Desesed Neck, and <persName id="OA17370629n151-4">
+                  <interp inst="OA17370629n151-4" type="gender" value="male"/>
+                  <interp inst="OA17370629n151-4" type="surname" value="FICHGARELL"/>
+                  <interp inst="OA17370629n151-4" type="given" value="WILLIAM"/>William Fichgarell</persName> whent and feched a muscate that belonged to the Desesed, and cocked it to my Brest, and swore if I did not help to halle the Rope he wold shute me. I tharfore url'd the Rope twise, and he sade that was a nuse now I had a Hand in it. Thay mad me sware that I wold not late it be none, till 2 Yeres and thre Month was past, and then thay sade</p>
+            <xptr type="pageFacsimile" doc="OA173706290018"/>
+            <p>it would be over. Thay likwis halled down the Desesed into the Saller, and striped him, and brot his Close, and offer'd me sum of them, I had a nufe of my onee. Then thay take some bred out of a Cassk and put the Close of the Desesed into it, and put the Bred upon the Close agen in the Cassk. Then they goot both Licker and Provision, and brote awa with tham, and thay mixed sum, Licker that nite, but I said I coold not drink, for I sade I whass not whell, and I lay'd down one the Bed, and sade they mite had a Cag of Rum of onee without duing what they had done, and that thay might hav onee then if thay wou'd send for it, thay said it was pety the Desesed shude have so much, and thay shude go without. Next Mornin thay tould me thay had beried the Man, and all was saf, but thay had throne him into the Sea, of a Stage whare we yuse to lay the Fish when the Botes brote them in at the Time of Yere.</p>
+            <p>This is all from <persName id="OA17370629n153-1">
+                  <interp inst="OA17370629n153-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n153-1" type="surname" value="KELLY"/>
+                  <interp inst="OA17370629n153-1" type="given" value="JAMES"/>JAMES KELLY</persName>.</p>
+            <p>Three Letters of <persName id="OA17370629n154-1">
+                  <interp inst="OA17370629n154-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n154-1" type="surname" value="SIMMONDS"/>
+                  <interp inst="OA17370629n154-1" type="given" value="JOHN"/>JOHN SIMMONDS</persName> to his Wife after Condemnation.</p>
+            <p>My dear Soul, my Wife.</p>
+            <p>THese few Lines are but small Satisfaction to your great Trouble and Grief that you are in at this Time, but I hope in God that you will take it as patiently as you can, for your Lose will be my Gain, and as Fortune has spited us so, that I part with you so soon, and by this untimely Death, I hope God will have the more Mercy on my poor Soul, and the greates Compassion on you. My dear Wife, whom my Soul loveth, O that I must part with so dear a Companion as my be Looved Wife. But what shall I say, I must submit to the higher Powers, for he knows best what to do, and to him I recommend my Spirit, my Dear it grives me to the Heart to think I must leve you in this Disgrace by my untimely Death; but I beg my. Dear you will not reflect on me when I am dead and gone, as  you to be my only Frend I have in the World to take my Part, tho' I can't disone but this great Misfortune is chefely owing to my Folly, but God forgive me, and I hope you will, as you hope to be for given. O could I call but my Days over again, then should we be the happiest Cupple that ever met, but 'tis now in vain to talk of that, but I could heartily wish it so, tho' in vain. Therefore my Dear, do not lament, for 'tis God's Will to take me to himself, where I hope to meat you at the last Day, to our grate Joy and Comfort, to live for ever glorifying God; so I beg my Dear you would turn your Heart to God with Prayers, and he will never leave you in the greatest of Troubles. My Dear I have nothing eles to say, but God be a Husband and Guid to you so long as you live, and when he sees it so fit to call you aside, I hope for the Sake of Christ he will receve you to his heavenly Kingdom.</p>
+            <p>I hope you will not be reflected on by any body, for I lay nothing to your Charge, so I commend my Spirit to Christ, and leve you to God Almighty, and dye in Peace with all the World.</p>
+            <p>So I rest your loving Husband till cruel Death dus part.</p>
+            <p>
+               <persName id="OA17370629n159-1">
+                  <interp inst="OA17370629n159-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n159-1" type="surname" value="Slmons"/>
+                  <interp inst="OA17370629n159-1" type="given" value="John"/>John Slmons</persName>.</p>
+            <p>Another to his Wife.</p>
+            <p>My dear Soul my Wife.</p>
+            <p>This is my last I can relate to you, and I hope in God you will receive it as a token of my last and dying Love, as I am a Diegn Man, and know no other Way to ease my Mind, but by wrighten these few Lines. I hope in God to find your Heart as mine is at this Present Time. My dear, tho' we have been so unfortunate to geather in this World, I hope thrue Gods Mercy we shall enjoy everlasting hapeyness in the next. My dear, I can't disone but the greatest Part of this Misfortune has been chefely owing to my Folly, tho' I never thought I should come to this untimely End. But what shall I say, God's will be done, and I hope for the Sake of his dear Son Jesus Christ,</p>
+            <xptr type="pageFacsimile" doc="OA173706290019"/>
+            <p>he will receive my poor Soul into everlasting Joy, were I hope to meet you at the last Day, and God Almighty I hope will provide for you so long as you live. You have my Prayers to the last, I can do no more. God Almighty bless you and preserve you night and day, and go a Long with you for ever more. My dear, I hope for all that is past in our Lives, you will freely forgive me, as I do you, which is from the very bottom of my Soul, and God I hope will forgive us all our Sins as we forgive one another. My dear, turn your Heart to God with Prayrs, and he will never leve you, for his Mercy is great, and I beg, when I am ded and gone, you will lay know Reflexions on me, as I leve you the only Friend I have in the World to take my Part. For God's Sake do not lay any Charge to my Mother and Sisters, for they never did me any wrong in the World, nor owed you any ill will, but always spoke in your prays.</p>
+            <p>So God Almighty rest with you for evermore, for the Sake of Jesus Christ his only Son.</p>
+            <p>And I remain your ever loving Husband till cruel Death dus part.</p>
+            <p>
+               <persName id="OA17370629n166-1">
+                  <interp inst="OA17370629n166-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n166-1" type="surname" value="SIMONS"/>
+                  <interp inst="OA17370629n166-1" type="given" value="JOHN"/>John Simons</persName>.</p>
+            <p>I freely forgive every body upon Earth, as I hope they forgive me, and I dye in Peace with all Men, and the Lord receive my Soul.</p>
+            <p>My dear, if you ever alter your Condition again, take Care of your self, and never do it without a Prospect.</p>
+            <p>My dear, pray give my kind Love to your Father and Mother, and all Friends, and God bless them all.</p>
+            <p>The last LETTER to his Wife a little before his Death.</p>
+            <p>My dear Soul,</p>
+            <p>I Beg of all Love that when you have done what you can, and can do no more for the saving of my presous Life, and you find no hopes of it, I beg for God Almighty's Sake that you will not be in the Way on that fateal Day I must resign my Breath; for if I have the least Sight in the World or Glympse of you it, will ade such Grief to my Soul, that I shall not be able to go through the horrid Panes of Death. Therefore my Dear I beg that if that fateal Day should come, which I hope in God it will not; that you wold depart out of the Way, for the very Thoughts of you, to think I must part with one I love so dearly it will cut me to the very heart, as it dus already to be confined from you, much more when I know I must be obliged to leve you in this World, tho' I hopes to meet you in a better. My dear let not Excess of Grife overtake you for my unhappy Fate, as God has seen it so fit, I hope he will restore me in everlasting Happeyness. My dear when I am gone, I hope God will protect you Night and Day, and when he sees fit to call you after me, I hope your Soul will be happy for ever. I hope my dear you forgive all that is past in our Lives, freely from your Heart, as I do from mine. Prethee take Care and do not be led away, but serve God and all will go well.</p>
+            <p>I can say know more but I am sorrey for you to my Heart, from your unfortunate Husband</p>
+            <p>
+               <persName id="OA17370629n174-1">
+                  <interp inst="OA17370629n174-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n174-1" type="surname" value="SIMONS"/>
+                  <interp inst="OA17370629n174-1" type="given" value="JOHN"/>John Simons</persName>.</p>
+            <p>To my dear Mother and Wife. <persName id="OA17370629n175-1">
+                  <interp inst="OA17370629n175-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n175-1" type="surname" value="SIMONS"/>
+                  <interp inst="OA17370629n175-1" type="given" value="JOHN"/>John Simons</persName>.</p>
+            <p>Dear Mother and Wife,</p>
+            <p>THIS is sent to you as my last Farewell, - an eternal Adiew to a wicked and troublesome World. I never could have thought that I deserved Death, or that I ever should have suffer'd in so ignominious a Kind; but whatever Reflections a base World may make on you, you have done your Part, and whatever were my Follies of Youth, I hope God will forgive them, now I go off the Stage of Life, and satisfy for my Crimes with the last Drop of my Blood. God forgive all who have injur'd me, and send them true Repentance, as I hope he has me and all my Fellow-Sufferers; and I doubt not but God will hear the Prayers</p>
+            <xptr type="pageFacsimile" doc="OA173706290020"/>
+            <p>of a suffering Christian. I hope and beg for God's Sake, that you (my dear Mother) will not reflect at all on my dear Wife, she new nothing or what I did, altho' her pretended Frends wou'd induced her to forsake me in my last Extremity: But her Relations are and have been cruel, cruel, very cruel to me ever since my being taken up. But I am sure I never offended them, nor any one, 'till I forged this Note, which I did not doe with any other Design but only to satisfy my Creditors 'till I could have Power to pay it, which I did design. I have cased my Conscience to Almighty God, and I hope I shall receive Remission. Remember my dying Love to all Friends, and I hope I shall be the only one of the Family that dies at the Fatal Tree. Beg of my Sister Sarah, and my Brothers and Sisters never to be ambitious, but mind and be contented in that State wherein God has placed them, and God will then be a Father to them, and give them all their Wants I hope God will pardon me, and be the Comfort of you in your old Age, and be a Son and a Husband to you, far better than I could have been, and let my dear Wife, whose short liv'd Marriage has been Nothing but Sorrow not reflect on me, God I hope will assist her and you; she is innocent, and ever was a good Wife, though I am an unhappy Husband. I hope I shall be buried, - 'tis the last O you can do for me. - before, you receive this, I shall be in endless Eternity, I hope praising God, and that I shall see both you and my Wife, and Brothers and Sisters, and all my Friends in a better State.</p>
+            <p>From your once Son and Husband,</p>
+            <p>
+               <persName id="OA17370629n180-1">
+                  <interp inst="OA17370629n180-1" type="gender" value="male"/>
+                  <interp inst="OA17370629n180-1" type="surname" value="SIMONS"/>
+                  <interp inst="OA17370629n180-1" type="given" value="JOHN"/>John Simons</persName>.</p>
+            <p>June 29, 1737.</p>
+            <p>FINIS.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

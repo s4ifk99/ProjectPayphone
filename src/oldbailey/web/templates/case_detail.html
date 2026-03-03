@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}Case {{ case.case_id }} – Old Bailey{% endblock %}
+{% block breadcrumb %}
+  → <a href="{{ url_for('case_detail', case_id=case.case_id) }}">{{ case.case_id }}</a>
+{% endblock %}
+{% block content %}
+<h1>Case {{ case.case_id }}</h1>
+
+<section class="case-details">
+  <h2>Case details</h2>
+  <dl class="case-meta">
+    <dt>Date</dt><dd>{{ case.date_iso or '—' }}</dd>
+    <dt>Year</dt><dd>{{ case.year or '—' }}</dd>
+    <dt>Court</dt><dd>{{ case.court or '—' }}</dd>
+    {% for label, value in case_subtitles.items() %}
+    {% if value %}
+    <dt>{{ label }}</dt><dd>{{ value }}</dd>
+    {% endif %}
+    {% endfor %}
+  </dl>
+</section>
+
+{% if offence_slug %}
+<p class="similar-cases"><a href="{{ url_for('cases_for_offence', offence_slug=offence_slug) }}">More cases: {{ offence_display_name }}</a></p>
+{% endif %}
+
+<nav class="case-nav" aria-label="Case navigation">
+  {% if prev_case_id %}
+  <a href="{{ url_for('case_detail', case_id=prev_case_id) }}">← Previous case</a>
+  {% endif %}
+  {% if prev_case_id and next_case_id %} | {% endif %}
+  {% if next_case_id %}
+  <a href="{{ url_for('case_detail', case_id=next_case_id) }}">Next case →</a>
+  {% endif %}
+</nav>
+
+<h2>The case</h2>
+<table class="speeches-table">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Speaker</th>
+      <th>Text</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for s in speeches %}
+    <tr>
+      <td>{{ s.speech_no }}</td>
+      <td class="speaker-cell">{{ s.speaker_name or '—' }}</td>
+      <td class="speech-text">{{ s.text }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% if not speeches %}
+<p>No account for this case.</p>
+{% endif %}
+{% endblock %}

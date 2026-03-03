@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17120527">
+            <interp inst="OA17120527" type="uri" value="ordinarysAccounts/OA17120527"/>
+            <interp inst="OA17120527" type="date" value="17120527"/>
+            <xptr type="pageFacsimile" doc="OA171205270002"/>
+            <p>The Whole LIFE and Conversation, Birth, Parentage, and Educations.</p>
+            <p>
+               <persName id="OA17120527n3-1">
+                  <interp inst="OA17120527n3-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n3-1" type="surname" value="BROWNING"/>
+                  <interp inst="OA17120527n3-1" type="given" value="THOMAS"/>OF Thomas Browning</persName>, and <persName id="OA17120527n3-2">
+                  <interp inst="OA17120527n3-2" type="gender" value="male"/>
+                  <interp inst="OA17120527n3-2" type="surname" value="CLARK"/>
+                  <interp inst="OA17120527n3-2" type="given" value="JEREMIAH"/>Jeremiah Clark</persName>.</p>
+            <p>Who was Executed on Tuesday the 27th of May, at <placeName id="OA17120527-geo-1">
+                  <interp inst="OA17120527-geo-1" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n3-1 n3-2 OA17120527-geo-1"/>TYBURN</placeName>
+            </p>
+            <p>Two notorious House Brakers, with their Tryals, at the <placeName id="OA17120527-geo-2">
+                  <interp inst="OA17120527-geo-2" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n3-1 n3-2 OA17120527-geo-2"/>Old Bayly</placeName>, Behavour under Sentence of Death, and Last Dying Speeches at the Place of Execution, together with the Substance of the Condemn'd Sermon Preacht to them the Sunday before.</p>
+            <p>By <persName id="OA17120527n6-1">
+                  <interp inst="OA17120527n6-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n6-1" type="surname" value="Larrain"/>
+                  <interp inst="OA17120527n6-1" type="given" value="Paul"/>Paul Larrain</persName>, <rs id="OA17120527-occupation-1" type="occupation">Ordinaray</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17120527n6-1 OA17120527-occupation-1"/> of <placeName id="OA17120527-geo-3">
+                  <interp inst="OA17120527-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17120527n6-1 OA17120527-geo-3"/>Newgate</placeName>.</p>
+            <p>To which is added the Coppy of Verses Spoken by the Bell-Man under Newgate the Night before they Dyed, as also the Coppy of Verses Spoken to the Dying Criminals over St. Sepulkers Church Wall when going to the place of Execution.</p>
+            <p>Licensed and Entered according to Act of Parliament.</p>
+            <p>London: Printed by J. Smith, near Fleet-street. 1712.</p>
+            <xptr type="pageFacsimile" doc="OA171205270003"/>
+            <p>THE Whole Lives, and Conversation, Birth, Parentage and Educations of <persName id="OA17120527n10-1">
+                  <interp inst="OA17120527n10-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n10-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17120527n10-1" type="given" value="JEREMIAH"/>Jeremiah Clark</persName>, and <persName id="OA17120527n10-2">
+                  <interp inst="OA17120527n10-2" type="gender" value="male"/>
+                  <interp inst="OA17120527n10-2" type="surname" value="BROWNING"/>
+                  <interp inst="OA17120527n10-2" type="given" value="THOMAS"/>Thomas Browning</persName>, who was Executed at <placeName id="OA17120527-geo-4">
+                  <interp inst="OA17120527-geo-4" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n10-1 n10-2 OA17120527-geo-4"/>Tyburn</placeName>, on Tuesday the 27th. O May, 1712.</p>
+            <p>AT the Sessions held at the <placeName id="OA17120527-geo-5">
+                  <interp inst="OA17120527-geo-5" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n11-1 n11-2 OA17120527-geo-5"/>Old Baily</placeName>, on Wednesday April 30 th, and Thursday and Fryday being the 1 and 2d Days of May, their was Seven Person Condemn'd, five whereof was Repriv'd, and two was ordered to be Executed, viz <persName id="OA17120527n11-1">
+                  <interp inst="OA17120527n11-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n11-1" type="surname" value="RAWSON"/>
+                  <interp inst="OA17120527n11-1" type="given" value="THOMAS"/>Thomas Rawson</persName>, <persName id="OA17120527n11-3">
+                  <interp inst="OA17120527n11-3" type="gender" value="male"/>
+                  <interp inst="OA17120527n11-3" type="surname" value="BROWNING"/>
+                  <interp inst="OA17120527n11-3" type="given" value="THOMAS"/>alis Browning</persName>, and <persName id="OA17120527n11-2">
+                  <interp inst="OA17120527n11-2" type="gender" value="male"/>
+                  <interp inst="OA17120527n11-2" type="surname" value="CLARK"/>
+                  <interp inst="OA17120527n11-2" type="given" value="JEREMIAH"/>Jeremiah Clark</persName>.</p>
+            <p>
+               <persName id="OA17120527n12-1">
+                  <interp inst="OA17120527n12-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n12-1" type="surname" value="ROWSON"/>
+                  <interp inst="OA17120527n12-1" type="given" value="THOMAS"/>Thomas Rowson</persName> 
+               <persName id="OA17120527n12-2">
+                  <interp inst="OA17120527n12-2" type="gender" value="male"/>
+                  <interp inst="OA17120527n12-2" type="surname" value="BROWNING"/>
+                  <interp inst="OA17120527n12-2" type="given" value="THOMAS"/>alis Browning</persName>, Aged 24 Years born at <placeName id="OA17120527-geo-6">
+                  <interp inst="OA17120527-geo-6" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n12-1 n12-2 n11-1 OA17120527-geo-6"/>Cambridg</placeName>, his Father was a Butcher, who afterwards came to sel meat in Spittlefields Market, and bound this his Son Aprentice to one Mr. Will on an eminent <rs id="OA17120527-occupation-2" type="occupation">Tripe Man</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17120527n12-1 n12-2 n11-1 OA17120527-occupation-2"/> living at the corner of <placeName id="OA17120527-geo-7">
+                  <interp inst="OA17120527-geo-7" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n12-1 n12-2 n11-1 OA17120527-geo-7"/>old Street over against the <placeName id="OA17120527-geo-8">
+                     <interp inst="OA17120527-geo-8" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17120527n12-1 n12-2 n11-1 OA17120527-geo-8"/>Charter-house Garding wall</placeName>
+               </placeName> where he served six years of his time without committing any crime, other ways then what is incedent to youth not wronging his said Master and Mistris b Behaved himself indiferently to them and to all his fellow Servants, at length he grew something head strong and Proegal, and his Master indureing to admonish him, he instead of imbraceing his Honest Perswasions in observing his duty and business better, he resented his seasonable advice so ill that he went away from his said Master, who got a Warrant to retake him, upon which he was sent to New Prison, afterwards he got aquainted with ill company</p>
+            <xptr type="pageFacsimile" doc="OA171205270004"/>
+            <p>and was in the Commitment of everal Robberys wholly declining working  any good advice, but prefissed in all manner of prophane Living, being often in Prison, sometimes makeing himself an evidence  get off, and sometimes was sent for a Soler, yet returning again his old course of ing, at length <persName id="OA17120527n13-1">
+                  <interp inst="OA17120527n13-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n13-1" type="surname" value="GRATRIX"/>
+                  <interp inst="OA17120527n13-1" type="given" value="RICHARD"/>Richard Gratrix</persName> and Thomas owning, of the Parish of St. <placeName id="OA17120527-geo-9">
+                  <interp inst="OA17120527-geo-9" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n13-1 n11-1 n12-1 n12-2 OA17120527-geo-9"/>John Hacky</placeName>, were indicted for Braking the house of Mr. Hunt, on the 7 of April last in the Day e, and stealing a Silver Watch, and Plate  a Considerable Value, the goods of the  Mr. Hunt. The Evidence was a Servant id, who being in the Wash house near the window, the Prisoner came and fell into  with her, asking her divers frivolous questions; and after a while went away.</p>
+            <p>After which they came again, and only Gratrix talked with her, Browning being out of Sight, and soon after both went away:  Maid beginning to mistrust some Robbery, cry'd out, and and they were pursu'd  taken, with the goods upon Browning.  it was found open'd a Casement and  in. They were at some Distance when n, and Gratrix fir'd a Pistol at the Man</p>
+            <xptr type="pageFacsimile" doc="OA171205270005"/>
+            <p>who took him, and had Tinder, Match  Candle, Powder and Ball found upon hi Browning own'd he went into the house, a took the Goods but deny'd the Burglary  the other said he was seeking for desert Soldiers for the Marshal at the Savoy, a they pretended not to know each other; b being both known to be old Offende Browning was found guilty of the indiment, and the other left Special.</p>
+            <p>
+               <persName id="OA17120527n16-1">
+                  <interp inst="OA17120527n16-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n16-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17120527n16-1" type="given" value="JEREMIAH"/>Jeremiah Clark</persName> was aged 17 Years, born of honest Parents, his Father is a Butcher Living in Newgate Market and hath been  wild and Extravagant Youth, to the Gr of his Parents and hath been in <placeName id="OA17120527-geo-10">
+                  <interp inst="OA17120527-geo-10" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n16-1 OA17120527-geo-10"/>Newgate</placeName> several times before yet would not ta warning by it.</p>
+            <p>
+               <persName id="OA17120527n17-1">
+                  <interp inst="OA17120527n17-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n17-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17120527n17-1" type="given" value="JEREMIAH"/>Jeremiah Clark</persName> was indicted for Breaking the house of <persName id="OA17120527n17-2">
+                  <interp inst="OA17120527n17-2" type="gender" value="male"/>
+                  <interp inst="OA17120527n17-2" type="surname" value="GODWIN"/>
+                  <interp inst="OA17120527n17-2" type="given" value="HENRY"/>Henry Godwin</persName> in the day time, on the 6th of April last, and taking thence a Silver Monteth, and several other Goods to a considerable Value. The Evidence was very positive that he open'd  Sash; and he having nothing to the purpose to say for himself, was found guilty of Burglary.</p>
+            <xptr type="pageFacsimile" doc="OA171205270006"/>
+            <p>On Sunday Morning was a Sermon Precht to them n these Words. The Lord is known to execute Judg the ungodly is Trapped in the work of his own ds. Psalm the 9. verse the 10.</p>
+            <p>N which words he shewed them, that tho God often Mitigated his severity and averted his Justice with merey yet the hardened and wicked finer commonly Trapt or betrayed in the midst of his  secret Crimes, when he thinks himself most sere, and can expect in any unjust or unlawfull Method, nothing but shame attends him here and without a hearty Contrition eternal Punishment hereafter laying before them the Necessity of a sincere returning to God by fa&amp;iuml;th and Repentance to which ey give great attention; in the afternoon was precht  them this Text. Psalm 62. verse the 10. Trust  then in wrong and Robbery, give not your selves unanity and Riches set not your hearts upon them.</p>
+            <p>From which words he plainly laid open to them  great danger of invollving themselves as they had willfully done against the light of Common knowledge and moral honesty, and their own reason in  wicked ways as wrong and Robbery, for which  must whilst here seek forgiveness first of God,  also of those they had injured, and if not Cale of making Restituation they might in some sure do it by Revealing where some of their ds was, he also exhorted them to Repentance which was the only atonement for their Sins.</p>
+            <xptr type="pageFacsimile" doc="OA171205270007"/>
+            <p>The Coppy of Verses Spoken by the Bell-man under Newgate the Night before they dyed.</p>
+            <p>ALL you that in the condemned Hole do lye.</p>
+            <p>Prepare' your selves to Morow you must Dye</p>
+            <p>Senceariy pray for now the time draws near</p>
+            <p>That you before Gods Judgments must appear</p>
+            <p>Therefore whilst you have Life your Sins repent</p>
+            <p>To scape the wrath of future Punishmenr</p>
+            <p>And when St. Sepulchers great Bell doth Tole,</p>
+            <p>Sweet Jesus Christ Receive your precious Soul.</p>
+            <p>The Verses Spoken by the Bell-man o St. Sepulchers Church Wall.</p>
+            <p>UN happy Mortals going now to Death</p>
+            <p>Pray for your Souls whilst you have breath</p>
+            <p>Tis but some moments space and you must dye,</p>
+            <p>Go pray to live with Eternity.</p>
+            <p>Tis for your sins, this wicked world you leave</p>
+            <p>Then pray that Jesus Christ will you receive,</p>
+            <p>Who dyed to save each sinner from endless wo</p>
+            <p>Then pray, O pray when to the gates you go,</p>
+            <p>Of boundless mercy Christ may let you in</p>
+            <p>And save and heal you from all deadly Sin.</p>
+            <xptr type="pageFacsimile" doc="OA171205270008"/>
+            <p>The Last Dying Speech that they made at the Place of Excecution</p>
+            <p>On the 27. of May. They were both convayed to <placeName id="OA17120527-geo-11">
+                  <interp inst="OA17120527-geo-11" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n11-1 n11-2 n11-3 n12-1 OA17120527-geo-11"/>Tyburn</placeName>, rk in a Coach and Browning in a Cart who lemented much  desired the Spectaters to pray for him being come to  place of Excecution the Ordinary asisted them with his yers, and prayed with, and for them, where Browning beled himself with Tears and desired the Spectaters to pray  him over and over weeping and wringing his Hands say, he prayed them all to be warned by this his untimely , which he Rightly deserved ading he was but 24 Years of Age yet had he been a great Sinner and own'd himself ty of the Fact he was to Dye for, and many others say have slighted the Mercy of God and the Bench, and I e forgiveness of all the World, as I hope to be forgiven  God so I Dye in Charity with all people, and if my Life  been spared at this I had Resolved with Gods assistance have abounded all my Evil Copmany and wicked ways  trust in my Saviour Jesus Christ, by his Death for the ision of my Sins that I shall be lenched from hence to a essed eternity by the pious asistance of this good Man Mr. rrain, who hath been the Cheif instremnet of my Endless  God be his Reward I have Transposed and offended st Gods Laws, and the Laws of Men by drinking swearing Lewdness, Sabeth breaking and all Sins, Murder except, and I trust I Dye with a Heart taught with true and und Repentance and I am Certain tho my Sins was as Red Scarlet my Saviour will make them as White as Snow  did he again desire their prayers.</p>
+            <p>
+               <persName id="OA17120527n43-1">
+                  <interp inst="OA17120527n43-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n43-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17120527n43-1" type="given" value="JEREMIAH"/>Jeremiah Clark</persName>, desired people not to Reflect on his par for his fatal Death but did not appear so very penetent e other did, who often prayed the young Men to avoyed  Sins which had cut him off in the Prime of his Dayes  desired the Spectaters to pray for him over and over,  much that the poor penetent Browning occasioned Tears to</p>
+            <xptr type="pageFacsimile" doc="OA171205270009"/>
+            <p>fall from many People Eyes for him, then was a penetent Psalm sung and Time alowed them for there private devotion in which Lawson was very fervenr, 'tis hoped Clark was also.</p>
+            <p>In fine they was Penitent and wept bitterly, and after a penitential Psalm was sung and some time allowed them for their private Devotion, as they was calling upon God  Hymns and such like Ejaculations, as Lord have Mercy on me a Sinner. Lord Jesus suffer me not to perish Eternaly; Lord open thy Gates of Mercy to me a Sinner, so Lord Jesus I come I come. And so the Cart dr away, and they lancht into Eternity. A 'tis hope'd are happy.</p>
+            <p>This is all the Account that can be giv of these Dying Criminals.</p>
+            <p>By <persName id="OA17120527n47-1">
+                  <interp inst="OA17120527n47-1" type="gender" value="male"/>
+                  <interp inst="OA17120527n47-1" type="surname" value="Larrain"/>
+                  <interp inst="OA17120527n47-1" type="given" value="Paul"/>Paul Larrain</persName> 
+               <rs id="OA17120527-occupation-3" type="occupation">Ordinary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17120527n47-1 OA17120527-occupation-3"/> of <placeName id="OA17120527-geo-12">
+                  <interp inst="OA17120527-geo-12" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17120527n47-1 OA17120527-geo-12"/>Newgate</placeName>.</p>
+            <p>FINIS.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

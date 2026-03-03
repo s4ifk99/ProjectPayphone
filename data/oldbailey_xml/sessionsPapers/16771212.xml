@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="sessionsPaper" id="16771212">
+            <interp inst="16771212" type="collection" value="BAILEY"/>
+            <interp inst="16771212" type="year" value="1677"/>
+            <interp inst="16771212" type="uri" value="sessionsPapers/16771212"/>
+            <interp inst="16771212" type="date" value="16771212"/>
+            <xptr type="transcription" doc="16771212"/>
+   
+            <div1 type="frontMatter" id="f16771212-1">
+               <interp inst="f16771212-1" type="collection" value="BAILEY"/>
+               <interp inst="f16771212-1" type="year" value="1677"/>
+               <interp inst="f16771212-1" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="f16771212-1" type="date" value="16771212"/>
+         
+               <xptr type="pageFacsimile" doc="16771212001"/>A true NARRATIVE Of the Proceedings at the Sessions-house IN THE OLD-BAYLY, December 12, 13, 14, &amp;; 15. 1677.
+         <p>Containing The Tryal of the woman for Coyning, who is Condemn'd to be Burnt.</p>
+               <p>With an Account of the Highway-men.</p>
+               <p>ALSO The Tryals and Condemnation of several other notorious Malefactors.</p>
+               <p>And also the number of those that are Condemn'd, Burn'd in the hand, Transported, and to be Whipt.</p>
+               <p>With Permission. Ro. L'Estrange.</p>
+               <p>LONDON: Printed for D. M. 1677.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="16771212002"/>The Proceedings at the Sessions for London and Middlesex.</p>
+               <p>AMongst such a multitude of various Crimes, the story of every petty Felony with its trivial Circumstances here examined or punisht, cannot reasonably be expected to be published; such an undertaking would be no less tedious than unuseful, and in some cases unfit: but as to whatever was transacted considerable or remarkable, this Sheet dares promise you a brief, yet sufficient, Account both of the manner of Fact, and what became of the Prisoner charged therewith.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-1">
+               <interp inst="t16771212-1" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-1" type="year" value="1677"/>
+               <interp inst="t16771212-1" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-1" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-1-off2-c1" targOrder="Y"
+                     targets="t16771212-1-defend1 t16771212-1-off2 t16771212-1-verdict4"/>
+         
+               <p>The first Relation we are to make, is of a very sad and unhappy accident. A 
+               <persName id="t16771212-1-defend1" type="defendantName">
+                     <rs id="t16771212-1-deflabel1" type="occupation">Gentleman</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16771212-1-defend1 t16771212-1-deflabel1"/>
+                     <interp inst="t16771212-1-defend1" type="gender" value="male"/>
+                  </persName>
+             was indicted (according to form in such cases) for <rs id="t16771212-1-off2" type="offenceDescription">
+                     <interp inst="t16771212-1-off2" type="offenceCategory" value="kill"/>
+                     <interp inst="t16771212-1-off2" type="offenceSubcategory" value="murder"/>
+               Murder
+            </rs>; but upon Evidence the business appeared onely thus: A Burglary about four or five a clock in the morning being made, or at least attempted, and discovered by the noise, and the people crying out Thieves, the person now tried, generously came forth of his Bed with his Sword in his hand to help his<xptr type="pageFacsimile" doc="16771212003"/>Friends and seize the Robbers, but casually meets three or four 
+               <persName id="t16771212-1-victim2" type="victimName">
+                     <rs id="t16771212-1-viclabel3" type="occupation">Journymen-shoomaker</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16771212-1-victim2 t16771212-1-viclabel3"/>
+                     <interp inst="t16771212-1-victim2" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16771212-1-off2 t16771212-1-victim2"/>
+                  </persName>
+            s, who working hard by and taking the Alarm, came likewise running out with the like honest intentions: but in that hurry and passion, mutually mistaking each other for some of the Malefactors (who in truth were all escaped before) and the Gentleman demanding of the person deceased who they were? and he, under that misapprehension, roughly replying, You shall know by our Actions, or to that effect, and withal striking him; the now Prisoner concluding him one of the Thieves, unfortunately gave him a wound which occasion'd his death: So that it appearing to be done partly by Misadventure and partly se Defendendo, he was wholly <rs id="t16771212-1-verdict4" type="verdictDescription">
+                     <interp inst="t16771212-1-verdict4" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-2">
+               <interp inst="t16771212-2" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-2" type="year" value="1677"/>
+               <interp inst="t16771212-2" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-2" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-2-off5-c3" targOrder="Y"
+                     targets="t16771212-2-defend3 t16771212-2-off5 t16771212-2-verdict7"/>
+               <join result="criminalCharge" id="t16771212-2-off8-c4" targOrder="Y"
+                     targets="t16771212-2-defend4 t16771212-2-off8 t16771212-2-verdict7"/>
+               <join result="criminalCharge" id="t16771212-2-off8-c4" targOrder="Y"
+                     targets="t16771212-2-defend4 t16771212-2-off8 t16771212-2-verdict7"/>
+         
+               <p>Another 
+               <persName id="t16771212-2-defend3" type="defendantName">person<interp inst="t16771212-2-defend3" type="gender" value="male"/>
+                  </persName>
+             was arraigned for a <rs id="t16771212-2-off5" type="offenceDescription">
+                     <interp inst="t16771212-2-off5" type="offenceCategory" value="kill"/>
+                     <interp inst="t16771212-2-off5" type="offenceSubcategory" value="murder"/>
+               Murder
+            </rs> committed about three years ago neer <placeName id="t16771212-2-crimeloc6">Islington</placeName>
+                  <interp inst="t16771212-2-crimeloc6" type="placeName" value="Islington"/>
+                  <interp inst="t16771212-2-crimeloc6" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-2-off5 t16771212-2-crimeloc6"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-2-off8 t16771212-2-crimeloc6"/>, and for which his own Brother, being above a twelvemonth since Convicted of Manslaughter, and not able to read when he had pray'd the benefit of Clergy, was executed: But though this man was in his company when the fact was done, and some Circumstances seemed to lie heavie upon him, yet for want of cleer Evidence he was <rs id="t16771212-2-verdict7" type="verdictDescription">
+                     <interp inst="t16771212-2-verdict7" type="verdictCategory" value="notGuilty"/>
+               discharged
+            </rs>: As likewise were 
+               <persName id="t16771212-2-defend4" type="defendantName">two more<interp inst="t16771212-2-defend4" type="gender" value="indeterminate"/>
+                  </persName>
+             concerning <rs id="t16771212-2-off8" type="offenceDescription">
+                     <interp inst="t16771212-2-off8" type="offenceCategory" value="kill"/>
+                     <interp inst="t16771212-2-off8" type="offenceSubcategory" value="other"/>
+               killing of a 
+                     <persName id="t16771212-2-victim5" type="victimName">man<interp inst="t16771212-2-victim5" type="gender" value="male"/>
+                     </persName>
+                  
+               
+                  </rs> neer <placeName id="t16771212-2-crimeloc9">Holborn</placeName>
+                  <interp inst="t16771212-2-crimeloc9" type="placeName" value="Holborn"/>
+                  <interp inst="t16771212-2-crimeloc9" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-2-off5 t16771212-2-crimeloc9"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-2-off8 t16771212-2-crimeloc9"/>, it not appearing that he received any blow or wound from either of them that might occasion his Death.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-3">
+               <interp inst="t16771212-3" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-3" type="year" value="1677"/>
+               <interp inst="t16771212-3" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-3" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-3-off10-c6" targOrder="Y"
+                     targets="t16771212-3-defend6 t16771212-3-off10 t16771212-3-verdict12"/>
+         
+               <p>But 
+               <persName id="t16771212-3-defend6" type="defendantName">one<interp inst="t16771212-3-defend6" type="gender" value="male"/>
+                  </persName>
+             for <rs id="t16771212-3-off10" type="offenceDescription">
+                     <interp inst="t16771212-3-off10" type="offenceCategory" value="kill"/>
+                     <interp inst="t16771212-3-off10" type="offenceSubcategory" value="other"/>
+               killing his 
+                     <persName id="t16771212-3-victim7" type="victimName">Comrade<interp inst="t16771212-3-victim7" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t16771212-3-off10 t16771212-3-victim7"/>
+                     </persName>
+                  
+               
+                  </rs> by <placeName id="t16771212-3-crimeloc11">Tower hill</placeName>
+                  <interp inst="t16771212-3-crimeloc11" type="placeName" value="Tower hill"/>
+                  <interp inst="t16771212-3-crimeloc11" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-3-off10 t16771212-3-crimeloc11"/>, upon a Quarrel arising between them about<xptr type="pageFacsimile" doc="16771212004"/>a Reckoning at an Ale-house, was found guilty of <rs id="t16771212-3-verdict12" type="verdictDescription">
+                     <interp inst="t16771212-3-verdict12" type="verdictCategory" value="guilty"/>
+                     <interp inst="t16771212-3-verdict12" type="verdictSubcategory" value="manslaughter"/>
+               Manslaughter
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-4">
+               <interp inst="t16771212-4" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-4" type="year" value="1677"/>
+               <interp inst="t16771212-4" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-4" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-4-off14-c8" targOrder="Y"
+                     targets="t16771212-4-defend8 t16771212-4-off14 t16771212-4-verdict16"/>
+         
+               <p>A poor 
+               <persName id="t16771212-4-defend8" type="defendantName">
+                     <rs id="t16771212-4-deflabel13" type="occupation">Charewoman</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16771212-4-defend8 t16771212-4-deflabel13"/>
+                     <interp inst="t16771212-4-defend8" type="gender" value="female"/>
+                  </persName>
+             
+                  <rs id="t16771212-4-off14" type="offenceDescription">
+                     <interp inst="t16771212-4-off14" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-4-off14" type="offenceSubcategory" value="other"/>
+               intrusted sometimes to sweep the Hall of one of the 
+                     <persName id="t16771212-4-victim9" type="victimName">
+                        <rs id="t16771212-4-viclabel15" type="occupation">City-Companie</rs>
+                        <join result="persNameOccupation" targOrder="Y"
+                              targets="t16771212-4-victim9 t16771212-4-viclabel15"/>
+                        <interp inst="t16771212-4-victim9" type="gender" value="indeterminate"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t16771212-4-off14 t16771212-4-victim9"/>
+                     </persName>
+                  s, and scour their Pewter when need required, made hold at several times to exchange a considerable quantity thereof for Silver
+            </rs>. She very penitently confest the Fact, and had endeavour'd restitution as far as she could, <rs id="t16771212-4-verdict16" type="verdictDescription">
+                     <interp inst="t16771212-4-verdict16" type="verdictCategory" value="guilty"/>
+                     <interp inst="t16771212-4-verdict16" type="verdictSubcategory"
+                             value="withRecommendation"/>
+               begging mercy of the honourable Bench, which was afforded her
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-5">
+               <interp inst="t16771212-5" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-5" type="year" value="1677"/>
+               <interp inst="t16771212-5" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-5" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-5-off17-c10" targOrder="Y"
+                     targets="t16771212-5-defend10 t16771212-5-off17 t16771212-5-verdict18"/>
+         
+               <p>
+            
+                  <persName id="t16771212-5-defend10" type="defendantName">Another<interp inst="t16771212-5-defend10" type="gender" value="female"/>
+                  </persName>
+             
+                  <rs id="t16771212-5-off17" type="offenceDescription">
+                     <interp inst="t16771212-5-off17" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-5-off17" type="offenceSubcategory" value="theftFromPlace"/>
+               coming with three or four other Confederates to an Ale-house, some of them got up stairs, and breaking open a Chest of Drawers took away twenty Guinnies, five Rings, and several other things of value
+            </rs>. The Prisoner being proved to be one of the Company, and that she paid the Reckoning, was <rs id="t16771212-5-verdict18" type="verdictDescription">
+                     <interp inst="t16771212-5-verdict18" type="verdictCategory" value="guilty"/>
+               Convicted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-6">
+               <interp inst="t16771212-6" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-6" type="year" value="1677"/>
+               <interp inst="t16771212-6" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-6" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-6-off19-c11" targOrder="Y"
+                     targets="t16771212-6-defend11 t16771212-6-off19 t16771212-6-verdict20"/>
+         
+               <p>A 
+               <persName id="t16771212-6-defend11" type="defendantName">notorious Criminal<interp inst="t16771212-6-defend11" type="gender" value="female"/>
+                  </persName>
+             after many fair warnings and not a few Convictions, having some time since obtained the mercy of Transportation, finding, it seems, the place not to agree so well with her as that of Newgate, whereunto she had been so oft accustomed, or at least that the Customes of the Country were not fit for her Trade, Sugars and Tobacco not being so conveniently stolen, harbour'd, or put off there, as Watches, Rings, Plate, Silks, &amp;c. are here; thought fit to come back and <rs id="t16771212-6-off19" type="offenceDescription">
+                     <interp inst="t16771212-6-off19" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-6-off19" type="offenceSubcategory" value="shoplifting"/>
+               follow her old Profession of Shoplifting, being lately taken with a Scarf
+            </rs>, which she alleadged stuck to her clothes when she went out of a shop at the Exchange, though the <rs id="t16771212-6-verdict20" type="verdictDescription">
+                     <interp inst="t16771212-6-verdict20" type="verdictCategory" value="guilty"/>
+               Jury were of opinion that<xptr type="pageFacsimile" doc="16771212005"/>she stole it
+            </rs>: Which, together with her too early Return, 'tis verily believed, <rs id="t16771212-6-punish21" type="punishmentDescription">
+                     <interp inst="t16771212-6-punish21" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16771212-6-defend11 t16771212-6-punish21"/>
+               may cause her to take a surer Transportation by a turn at Tyburn; which, no doubt, will be much lamented as an untimely End, because it happen'd no sooner
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-7">
+               <interp inst="t16771212-7" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-7" type="year" value="1677"/>
+               <interp inst="t16771212-7" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-7" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-7-off22-c12" targOrder="Y"
+                     targets="t16771212-7-defend12 t16771212-7-off22 t16771212-7-verdict24"/>
+               <join result="criminalCharge" id="t16771212-7-off22-c13" targOrder="Y"
+                     targets="t16771212-7-defend13 t16771212-7-off22 t16771212-7-verdict25"/>
+         
+               <p>The next considerable, was an Indictment against a 
+               <persName id="t16771212-7-defend12" type="defendantName">man<interp inst="t16771212-7-defend12" type="gender" value="male"/>
+                  </persName>
+             and a 
+               <persName id="t16771212-7-defend13" type="defendantName">woman<interp inst="t16771212-7-defend13" type="gender" value="female"/>
+                  </persName>
+            , pretended to be intermarried, for <rs id="t16771212-7-off22" type="offenceDescription">
+                     <interp inst="t16771212-7-off22" type="offenceCategory" value="royalOffences"/>
+                     <interp inst="t16771212-7-off22" type="offenceSubcategory" value="coiningOffences"/>
+               Coyning
+            </rs>. The woman had been an old Offender, and now no less than nine or ten Indictments found against her for Felonies; being so frugal and industrious, as first to steal Plate, and afterwards make Money of it, to save the trouble of Exchange and the charge of Coynage. Yet as cunning as she was, she became accessary to her own Discovery: For upon promise of Secrecy, she tells an acquaintance that she knew some persons that had store of Cash, and were resolved to set up a private Mint; and she would order it so, that he should surprize them at work, and then get a good sum for concealment, wherein she was to go snips. He seemingly consents, but honestly imparts it to a Gentleman to whose care and office it belongs to inspect such offences. Several times she came to him, and sometimes brought him new-coyn'd Counterfeit-money to put off; but still on pretences the business was not ripe, and perhaps then somewhat distrusting him, delay'd the Discovery; so that at last having learnt that she had taken a house about <placeName id="t16771212-7-crimeloc23">Hounslow</placeName>
+                  <interp inst="t16771212-7-crimeloc23" type="placeName" value="Hounslow"/>
+                  <interp inst="t16771212-7-crimeloc23" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-7-off22 t16771212-7-crimeloc23"/> for carrying on the Intrigue, he with a Warrant and Officers went down, and found her blowing the fire in a Room<xptr type="pageFacsimile" doc="16771212006"/>where there were several sorts of Metals, divers pieces of stolen Plate, a Coyning-Press, and some other Tools, now produced in Court; but her Husband was in another Room in bed. She did not much deny the Fact, but wholly clear'd him (to whom not above a fortnight before she had been married) protesting that he was not privie to any of her actions of that kinde. The Court asking the man upon his Tryal whether he were content to part with his Wife, he, like a kind Husband, replied, I am very willing the Law should have its course: Better one than both. So that, he was <rs id="t16771212-7-verdict24" type="verdictDescription">
+                     <interp inst="t16771212-7-verdict24" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs>, and she <rs id="t16771212-7-verdict25" type="verdictDescription">
+                     <interp inst="t16771212-7-verdict25" type="verdictCategory" value="guilty"/>
+               convicted
+            </rs> of High Treason, and by Law <rs id="t16771212-7-punish26" type="punishmentDescription">
+                     <interp inst="t16771212-7-punish26" type="punishmentCategory" value="death"/>
+                     <interp inst="t16771212-7-punish26" type="punishmentSubcategory" value="burning"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16771212-7-defend13 t16771212-7-punish26"/>
+               to be Burnt
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-8">
+               <interp inst="t16771212-8" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-8" type="year" value="1677"/>
+               <interp inst="t16771212-8" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-8" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-8-off28-c14" targOrder="Y"
+                     targets="t16771212-8-defend14 t16771212-8-off28 t16771212-8-verdict30"/>
+               <join result="criminalCharge" id="t16771212-8-off29-c15" targOrder="Y"
+                     targets="t16771212-8-defend15 t16771212-8-off29 t16771212-8-verdict30"/>
+         
+               <p>The Court had much trouble given them by a 
+               <persName id="t16771212-8-defend14" type="defendantName">fellow<interp inst="t16771212-8-defend14" type="gender" value="male"/>
+                  </persName>
+             and his 
+               <persName id="t16771212-8-defend15" type="defendantName">
+                     <rs id="t16771212-8-deflabel27" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16771212-8-defend15 t16771212-8-deflabel27"/>
+                     <interp inst="t16771212-8-defend15" type="gender" value="female"/>
+                  </persName>
+            , the man being indicted for two Facts, <rs id="t16771212-8-off28" type="offenceDescription">
+                     <interp inst="t16771212-8-off28" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-8-off28" type="offenceSubcategory" value="animalTheft"/>
+               stealing of a Mare, and of Linnen
+            </rs>; the woman <rs id="t16771212-8-off29" type="offenceDescription">
+                     <interp inst="t16771212-8-off29" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-8-off29" type="offenceSubcategory" value="other"/>
+               for a Smock
+            </rs>: both refused to plead, insomuch that the terrible Sentence of Pein fort &amp; dure (or pressing) past, but not being recorded, and they on view of the Press, and Mr. Ordinary's pressing and pious Exhortations not at once to cast away their lives and their souls, submitting themselves, were admitted to Tryal, and for want of exact proof <rs id="t16771212-8-verdict30" type="verdictDescription">
+                     <interp inst="t16771212-8-verdict30" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> on both Indictments.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-9">
+               <interp inst="t16771212-9" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-9" type="year" value="1677"/>
+               <interp inst="t16771212-9" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-9" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-9-off33-c16" targOrder="Y"
+                     targets="t16771212-9-defend16 t16771212-9-off33 t16771212-9-verdict34"/>
+         
+               <p>Another remarkable thing was of a lusty 
+               <persName id="t16771212-9-defend16" type="defendantName">young wench<interp inst="t16771212-9-defend16" type="gender" value="female"/>
+                  </persName>
+            , who coming to an Office of Intelligence to inquire for a Service, was by them directed to one at <placeName id="t16771212-9-crimeloc31">Westminster</placeName>
+                  <interp inst="t16771212-9-crimeloc31" type="placeName" value="Westminster"/>
+                  <interp inst="t16771212-9-crimeloc31" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-9-off33 t16771212-9-crimeloc31"/>, and entertain'd, pretending her self to be a Quaker, on which account her 
+               <persName id="t16771212-9-victim17" type="victimName">
+                     <rs id="t16771212-9-viclabel32" type="occupation">Master</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16771212-9-victim17 t16771212-9-viclabel32"/>
+                     <interp inst="t16771212-9-victim17" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16771212-9-off33 t16771212-9-victim17"/>
+                  </persName>
+             and Mistriss the more freely<xptr type="pageFacsimile" doc="16771212007"/>trusted her; but the second day in the evening she <rs id="t16771212-9-off33" type="offenceDescription">
+                     <interp inst="t16771212-9-off33" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-9-off33" type="offenceSubcategory" value="grandLarceny"/>
+               robb'd them of several pieces of Plate, Clothes, &amp;c. above the value of Fifty pound
+            </rs>, and putting her self in mans apparel went off with the Prize, but was soon pursued and (notwithstanding her disguise) discovered, and in her masculine habit carried to Newgate; but now appeared in a female dress. Before the Justice she accused one for taking the Goods by her Invitation or consent, and afterwards denied that he knew any thing of it, and charged another; but still acknowledging 'twas done by her privity, was found <rs id="t16771212-9-verdict34" type="verdictDescription">
+                     <interp inst="t16771212-9-verdict34" type="verdictCategory" value="guilty"/>
+               guilty
+            </rs> of the Felony.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-10">
+               <interp inst="t16771212-10" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-10" type="year" value="1677"/>
+               <interp inst="t16771212-10" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-10" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-10-off37-c18" targOrder="Y"
+                     targets="t16771212-10-defend18 t16771212-10-off37 t16771212-10-verdict35"/>
+         
+               <p>
+            
+                  <persName id="t16771212-10-defend18" type="defendantName">Several persons<interp inst="t16771212-10-defend18" type="gender" value="indeterminate"/>
+                  </persName>
+             were found <rs id="t16771212-10-verdict35" type="verdictDescription">
+                     <interp inst="t16771212-10-verdict35" type="verdictCategory" value="guilty"/>
+               guilty
+            </rs> of Felony and <rs id="t16771212-10-punish36" type="punishmentDescription">
+                     <interp inst="t16771212-10-punish36" type="punishmentCategory" value="miscPunish"/>
+                     <interp inst="t16771212-10-punish36" type="punishmentSubcategory" value="branding"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16771212-10-defend18 t16771212-10-punish36"/>
+               burnt in the hand
+            </rs> for <rs id="t16771212-10-off37" type="offenceDescription">
+                     <interp inst="t16771212-10-off37" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-10-off37" type="offenceSubcategory" value="theftFromPlace"/>
+               stealing of Silver Tankards, &amp;c. out of Victualing-houses
+            </rs>: wherein there was little observable besides this, That 
+               <persName id="t16771212-10-victim19" type="victimName">people<interp inst="t16771212-10-victim19" type="gender" value="indeterminate"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16771212-10-off37 t16771212-10-victim19"/>
+                  </persName>
+             after so many Examples should be so far infatuated as to run the hazzard of forfeiting their Licenses, and losing their Plate, by exposing it in common use, meerly to gratifie their Pride, or a worse humour of Covetousness, which abateth the quantity of the Liquor, proportionably to the tempting quality of the Cups they vend it in.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-11">
+               <interp inst="t16771212-11" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-11" type="year" value="1677"/>
+               <interp inst="t16771212-11" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-11" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-11-off39-c20" targOrder="Y"
+                     targets="t16771212-11-defend20 t16771212-11-off39 t16771212-11-verdict40"/>
+         
+               <p>A 
+               <persName id="t16771212-11-defend20" type="defendantName">woman<interp inst="t16771212-11-defend20" type="gender" value="female"/>
+                  </persName>
+             in the <placeName id="t16771212-11-crimeloc38">Strand</placeName>
+                  <interp inst="t16771212-11-crimeloc38" type="placeName" value="Strand"/>
+                  <interp inst="t16771212-11-crimeloc38" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16771212-11-off39 t16771212-11-crimeloc38"/> 
+                  <rs id="t16771212-11-off39" type="offenceDescription">
+                     <interp inst="t16771212-11-off39" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-11-off39" type="offenceSubcategory" value="other"/>
+               coming to buy one pair of Silk Stockings which she paid for, fearing (it seems) she might have a hard bargain, had been so kind to her self as to take about Seven and twenty pair more privately into her Apron without the useless Ceremony of asking the price
+            </rs>; but being discovered by a By-stander, was forc'd to make <rs id="t16771212-11-verdict40" type="verdictDescription">
+                     <interp inst="t16771212-11-verdict40" type="verdictCategory" value="guilty"/>
+               legal satisfaction
+            </rs>, and <rs id="t16771212-11-punish41" type="punishmentDescription">
+                     <interp inst="t16771212-11-punish41" type="punishmentCategory" value="miscPunish"/>
+                     <interp inst="t16771212-11-punish41" type="punishmentSubcategory" value="branding"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16771212-11-defend20 t16771212-11-punish41"/>
+               take an Acquittance for the same in her hand
+            </rs>; to which Squire Ketch vouchsafed to be a Witness, and subscribe his Mark.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-12">
+               <interp inst="t16771212-12" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-12" type="year" value="1677"/>
+               <interp inst="t16771212-12" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-12" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-12-off42-c21" targOrder="Y"
+                     targets="t16771212-12-defend21 t16771212-12-off42 t16771212-12-verdict43"/>
+         
+               <p>A 
+               <persName id="t16771212-12-defend21" type="defendantName">lusty fellow<interp inst="t16771212-12-defend21" type="gender" value="male"/>
+                  </persName>
+             arraign'd for <rs id="t16771212-12-off42" type="offenceDescription">
+                     <interp inst="t16771212-12-off42" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-12-off42" type="offenceSubcategory" value="animalTheft"/>
+               stealing a Horse
+            </rs>, absolutely denied any knowledge of the business; but being suddenly ask'd what boot he had when he swapt him away, affirm'd, But five and thirty shillings, which amounting to a plain Confession, he was brought in <rs id="t16771212-12-verdict43" type="verdictDescription">
+                     <interp inst="t16771212-12-verdict43" type="verdictCategory" value="guilty"/>
+               Guilty
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-13">
+               <interp inst="t16771212-13" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-13" type="year" value="1677"/>
+               <interp inst="t16771212-13" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-13" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-13-off44-c22" targOrder="Y"
+                     targets="t16771212-13-defend22 t16771212-13-off44 t16771212-13-verdict45"/>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16771212008"/>
+            
+                  <persName id="t16771212-13-defend22" type="defendantName">Another<interp inst="t16771212-13-defend22" type="gender" value="male"/>
+                  </persName>
+             for <rs id="t16771212-13-off44" type="offenceDescription">
+                     <interp inst="t16771212-13-off44" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-13-off44" type="offenceSubcategory" value="other"/>
+               stealing of Goods
+            </rs> pleaded the general Pardon he had lately obtained for another Robbery; but the words thereof being read, and not extending to this Case, he was likewise <rs id="t16771212-13-verdict45" type="verdictDescription">
+                     <interp inst="t16771212-13-verdict45" type="verdictCategory" value="guilty"/>
+               Convicted
+            </rs>, it serving rather to aggravate than extenuate his Fact.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-14">
+               <interp inst="t16771212-14" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-14" type="year" value="1677"/>
+               <interp inst="t16771212-14" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-14" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-14-off46-c23" targOrder="Y"
+                     targets="t16771212-14-defend23 t16771212-14-off46 NOVERDICTR"/>
+               <join result="criminalCharge" id="t16771212-14-off47-c24" targOrder="Y"
+                     targets="t16771212-14-defend24 t16771212-14-off47 t16771212-14-verdict48"/>
+         
+               <p>After this a 
+               <persName id="t16771212-14-defend23" type="defendantName">woman<interp inst="t16771212-14-defend23" type="gender" value="female"/>
+                  </persName>
+             was tried for the most unnatural Crime of <rs id="t16771212-14-off46" type="offenceDescription">
+                     <interp inst="t16771212-14-off46" type="offenceCategory" value="kill"/>
+                     <interp inst="t16771212-14-off46" type="offenceSubcategory" value="infanticide"/>
+               Murdering her Bastard-child
+            </rs>, and a 
+               <persName id="t16771212-14-defend24" type="defendantName">man<interp inst="t16771212-14-defend24" type="gender" value="male"/>
+                  </persName>
+             for the prodigious Trick of <rs id="t16771212-14-off47" type="offenceDescription">
+                     <interp inst="t16771212-14-off47" type="offenceCategory" value="theft"/>
+                     <interp inst="t16771212-14-off47" type="offenceSubcategory" value="other"/>
+               killing almost Threescore Sheep onely to steal Fourscore pounds of Tallow; a piece of Villany never till within these few years practised
+            </rs>: He <rs id="t16771212-14-verdict48" type="verdictDescription">
+                     <interp inst="t16771212-14-verdict48" type="verdictCategory" value="guilty"/>
+                     <interp inst="t16771212-14-verdict48" type="verdictSubcategory" value="pleadedGuilty"/>
+               pleaded guilty
+            </rs>, and was <rs id="t16771212-14-punish49" type="punishmentDescription">
+                     <interp inst="t16771212-14-punish49" type="punishmentCategory" value="miscPunish"/>
+                     <interp inst="t16771212-14-punish49" type="punishmentSubcategory" value="branding"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16771212-14-defend24 t16771212-14-punish49"/>
+               Burnt in the hand
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16771212-15">
+               <interp inst="t16771212-15" type="collection" value="BAILEY"/>
+               <interp inst="t16771212-15" type="year" value="1677"/>
+               <interp inst="t16771212-15" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="t16771212-15" type="date" value="16771212"/>
+               <join result="criminalCharge" id="t16771212-15-off51-c25" targOrder="Y"
+                     targets="t16771212-15-defend25 t16771212-15-off51 t16771212-15-verdict54"/>
+         
+               <p>There were 
+               <persName id="t16771212-15-defend25" type="defendantName">three <rs id="t16771212-15-deflabel50" type="occupation">Bargemen</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16771212-15-defend25 t16771212-15-deflabel50"/>
+                     <interp inst="t16771212-15-defend25" type="gender" value="male"/>
+                  </persName>
+             arraigned for <rs id="t16771212-15-off51" type="offenceDescription">
+                     <interp inst="t16771212-15-off51" type="offenceCategory" value="kill"/>
+                     <interp inst="t16771212-15-off51" type="offenceSubcategory" value="murder"/>
+               Murder, drowning a 
+                     <persName id="t16771212-15-victim26" type="victimName">
+                        <rs id="t16771212-15-viclabel52" type="occupation">boy</rs>
+                        <join result="persNameOccupation" targOrder="Y"
+                              targets="t16771212-15-victim26 t16771212-15-viclabel52"/>
+                        <interp inst="t16771212-15-victim26" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t16771212-15-off51 t16771212-15-victim26"/>
+                     </persName>
+                   in a Fisher-boat on the <placeName id="t16771212-15-crimeloc53">Thames</placeName>
+                     <interp inst="t16771212-15-crimeloc53" type="placeName" value="Thames"/>
+                     <interp inst="t16771212-15-crimeloc53" type="type" value="crimeLocation"/>
+                     <join result="offencePlace" targOrder="Y"
+                           targets="t16771212-15-off51 t16771212-15-crimeloc53"/>
+               
+                  </rs>. It was endeavoured to be proved that they did it wilfully; but they alleadged, that by the violent current of the Tide they could not help it. The Jury <rs id="t16771212-15-verdict54" type="verdictDescription">
+                     <interp inst="t16771212-15-verdict54" type="verdictCategory" value="specialVerdict"/>
+               found the matter of Fact specially, and left it to Judges to determine the Crime in point of Law
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="punishmentSummary" id="s16771212-1">
+               <interp inst="s16771212-1" type="collection" value="BAILEY"/>
+               <interp inst="s16771212-1" type="year" value="1677"/>
+               <interp inst="s16771212-1" type="uri" value="sessionsPapers/16771212"/>
+               <interp inst="s16771212-1" type="date" value="16771212"/>
+         
+               <p>Several persons in custody for Robberies on the High-ways were not tried, there being no Prosecution in Middlesex against them; but are to be sent to the respective Counties where they did the Facts, to take their Tryals at the Assizes.</p>
+               <p>There were in all Five persons Condemned to die: Two men and two women (old notorious and incorrigible Thieves) to be Hang'd, and one woman to be Burnt: Four set by, before Judgement, for Transportation; Fourteen Burnt in the hand; and Six for Petty Larceny to be Whipt.</p>
+            </div1>
+   
+         </div0>
+      </body>
+   </text>
+</TEI.2>

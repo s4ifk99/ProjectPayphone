@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}Cases ({{ offence_category }}) – Old Bailey{% endblock %}
+{% block breadcrumb %}
+  → <a href="{{ url_for('cases_for_offence', offence_slug=offence_slug) }}">{{ offence_category }}</a>
+{% endblock %}
+{% block content %}
+<h1>Cases: {{ offence_category }}</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Case ID</th>
+      <th>Date</th>
+      <th>Year</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for c in cases %}
+    <tr>
+      <td>{{ c.case_id }}</td>
+      <td>{{ c.date_iso or '' }}</td>
+      <td>{{ c.year or '' }}</td>
+      <td><a href="{{ url_for('case_detail', case_id=c.case_id) }}">View</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% if not cases %}
+<p>No cases for this offence.</p>
+{% endif %}
+{% endblock %}

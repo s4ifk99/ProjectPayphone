@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17611005">
+            <interp inst="OA17611005" type="uri" value="ordinarysAccounts/OA17611005"/>
+            <interp inst="OA17611005" type="date" value="17611005"/>
+            <xptr type="pageFacsimile" doc="OA176110050001"/>
+            <p>THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words OF FOUR MALEFACTORS, VIZ.</p>
+            <p>LIEUT. <persName id="OA17611005n3-1">
+                  <interp inst="OA17611005n3-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n3-1" type="surname" value="CAMPBELL"/>
+                  <interp inst="OA17611005n3-1" type="given" value="DONALD"/>DONALD CAMPBELL</persName> AND <persName id="OA17611005n3-2">
+                  <interp inst="OA17611005n3-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n3-2" type="surname" value="GURNETT"/>
+                  <interp inst="OA17611005n3-2" type="given" value="EDWARD"/>EDWARD GURNETT</persName>, Who were Executed at <placeName id="OA17611005-geo-1">
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n3-2 OA17611005-geo-1"/>Tyburn</placeName>, on Monday October 5, 1761; The First for Forgery, the Second for Stealing Silver-Plate, out of a Dwelling-House.</p>
+            <p>AND OF <persName id="OA17611005n4-1">
+                  <interp inst="OA17611005n4-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n4-1" type="surname" value="PARROTT"/>
+                  <interp inst="OA17611005n4-1" type="given" value="RICHARD"/>RICHARD PARROTT</persName> AND <persName id="OA17611005n4-2">
+                  <interp inst="OA17611005n4-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n4-2" type="surname" value="ROWDEN"/>
+                  <interp inst="OA17611005n4-2" type="given" value="HESTER"/>HESTER ROWDEN</persName>, Who were Executed at <placeName id="OA17611005-geo-2">
+                  <interp inst="OA17611005-geo-2" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n4-2 OA17611005-geo-2"/>Tyburn</placeName>, on Monday October 26, 1761, for Murder.</p>
+            <p>BEING THE Sixth and Seventh EXECUTIONS in the MAYORALTY OF THE Rt. Hon. <persName id="OA17611005n5-1">
+                  <interp inst="OA17611005n5-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n5-1" type="surname" value="BLAKISTON"/>
+                  <interp inst="OA17611005n5-1" type="given" value="MATTHEW"/>Sir MATTHEW BLAKISTON</persName>, Knt.</p>
+            <p>
+               <rs id="OA17611005-occupation-1" type="occupation">LORD-MAYOR of the CITY of LONDON.</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n5-1 OA17611005-occupation-1"/>
+            </p>
+            <p>NUMBER IV. for the said YEAR.</p>
+            <p>LONDON:</p>
+            <p>Printed and sold by J. DIXWELL, in St. Martin's-Lane, near Charing-Cross, for the AUTHOR:</p>
+            <p>Also Sold by J. MORGAN, at the Globe in Pater-noster-Row.</p>
+            <p>[Price SIX-PENCE.]</p>
+            <xptr type="pageFacsimile" doc="OA176110050003"/>
+            <p>THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words, &amp;c.</p>
+            <p>BY virtue of the King's Commission of the peace, and Oyer and Terminer for the City of London, and at the General Sessions of Gaol Delivery of the City of London and County of Middlesex at <placeName id="OA17611005-geo-3">
+                  <interp inst="OA17611005-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n13-1 OA17611005-geo-3"/>
+                  <placeName id="OA17611005-geo-4">
+                     <interp inst="OA17611005-geo-4" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17611005n13-1 OA17611005-geo-4"/>Justice-hall</placeName> in the Old-Bailey</placeName>, before the Right Hon. <persName id="OA17611005n13-1">
+                  <interp inst="OA17611005n13-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-1" type="surname" value="BLAKISTON"/>
+                  <interp inst="OA17611005n13-1" type="given" value="MATTHEW"/>Sir Matthew Blakiston</persName>, Knt. <rs id="OA17611005-occupation-2" type="occupation">Lord-Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n13-1 OA17611005-occupation-2"/>; the Hon. <persName id="OA17611005n13-2">
+                  <interp inst="OA17611005n13-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-2" type="surname" value="NOEL"/>
+                  <interp inst="OA17611005n13-2" type="given" value="WILLIAM"/>William Noel</persName>, Esq; one of the <rs id="OA17611005-occupation-3" type="occupation">Justices of the Court of Common Pleas</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n13-2 OA17611005-occupation-3"/>; <persName id="OA17611005n13-3">
+                  <interp inst="OA17611005n13-3" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-3" type="surname" value="MORETON"/>
+                  <interp inst="OA17611005n13-3" type="given" value="WILLIAM"/>Sir William Moreton</persName>, Knt. <rs id="OA17611005-occupation-4" type="occupation">Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n13-3 OA17611005-occupation-4"/>; and <persName id="OA17611005n13-4">
+                  <interp inst="OA17611005n13-4" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-4" type="surname" value="EYRE"/>
+                  <interp inst="OA17611005n13-4" type="given" value="JAMES"/>James Eyre</persName>, Esq; <rs id="OA17611005-occupation-5" type="occupation">deputy Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n13-4 OA17611005-occupation-5"/>; and others, of his Majesty's Justices for the said City and County, on Wednesday the 16th, Thursday the 17th, Friday the 18th, Saturday the 19th, and Monday the 21st of September, in the first year of the reign of his Majesty King George the Third, <persName id="OA17611005n13-5">
+                  <interp inst="OA17611005n13-5" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-5" type="surname" value="CAMPBELL"/>
+                  <interp inst="OA17611005n13-5" type="given" value="DONALD"/>Donald Campbell</persName>, <persName id="OA17611005n13-6">
+                  <interp inst="OA17611005n13-6" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-6" type="surname" value="HEANS"/>
+                  <interp inst="OA17611005n13-6" type="given" value="PHILIP"/>Philip Heans</persName>, <persName id="OA17611005n13-7">
+                  <interp inst="OA17611005n13-7" type="gender" value="male"/>
+                  <interp inst="OA17611005n13-7" type="surname" value="GURNETT"/>
+                  <interp inst="OA17611005n13-7" type="given" value="EDWARD"/>Edward Gurnett</persName> otherwise Cox, received sentence of death.</p>
+            <p>About Sept. the 30th, the Death Warrant came down, wherein <persName id="OA17611005n14-1">
+                  <interp inst="OA17611005n14-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n14-1" type="surname" value="CAMPBELL"/>
+                  <interp inst="OA17611005n14-1" type="given" value="DONALD"/>Donald Campbell</persName>, and <persName id="OA17611005n14-2">
+                  <interp inst="OA17611005n14-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n14-2" type="surname" value="GURNETT"/>
+                  <interp inst="OA17611005n14-2" type="given" value="EDWARD"/>Edward Gurnett</persName>, were ordered for execution on Monday October the 5th, and <persName id="OA17611005n14-3">
+                  <interp inst="OA17611005n14-3" type="gender" value="male"/>
+                  <interp inst="OA17611005n14-3" type="surname" value="HEANS"/>
+                  <interp inst="OA17611005n14-3" type="given" value="PHILIP"/>Philip Heans</persName> was respited during his Majesty's pleasure. In the case of <persName id="OA17611005n14-4">
+                  <interp inst="OA17611005n14-4" type="gender" value="male"/>
+                  <interp inst="OA17611005n14-4" type="surname" value="DANIELS"/>
+                  <interp inst="OA17611005n14-4" type="given" value="THOMAS"/>Thomas Daniels</persName>, some favourable circumstances being properly represented to the Judge who tried him, he was respited from day to day, and now stands respited during pleasure. His behaviour has been penitent and becoming his unhappy condition; but he persists to deny the murder of which he is convicted, not only with solemn appeals to Heaven, but with circumstances of strong probability. - Since this was written, he has been discharged by a free pardon from his most gracious Majesty.</p>
+            <p>I. <persName id="OA17611005n15-1">
+                  <interp inst="OA17611005n15-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n15-1" type="surname" value="CAMPBELL"/>
+                  <interp inst="OA17611005n15-1" type="given" value="DONALD"/>DONALD CAMPBELL</persName>, was indicted for falsely forging and counterfeiting a certain bill of exchange, with the name of <persName id="OA17611005n15-2">
+                  <interp inst="OA17611005n15-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n15-2" type="surname" value="DACEY"/>
+                  <interp inst="OA17611005n15-2" type="given" value="PETER"/>Peter Dacey</persName> thereunto subscribed, for the payment of one hundred pounds; and for publishing the same, with an intent to defraud <persName id="OA17611005n15-3">
+                  <interp inst="OA17611005n15-3" type="gender" value="male"/>
+                  <interp inst="OA17611005n15-3" type="surname" value="CALCRAFT"/>
+                  <interp inst="OA17611005n15-3" type="given" value="JOHN"/>John Calcraft</persName>, Esq; August 18th.</p>
+            <p>From the time this criminal was committed to <placeName id="OA17611005-geo-5">
+                  <interp inst="OA17611005-geo-5" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n15-1 OA17611005-geo-5"/>Newgate</placeName> on this charge, he put on a sullen and supercilious behaviour, strutting about the Press-yard in his irons, and disregarding for some time, any overtures of mine to be useful to him; as he appeared dressed like an officer and a gentleman, he was applied to with condolence on meeting him, and asked by what mishap he came there, and what he was charged with? He answered short, "that wou'd appear when his trial came on." This was a trifling and vain reserve, as every servant about</p>
+            <xptr type="pageFacsimile" doc="OA176110050004"/>
+            <p>the prison could tell me what he was charged with.</p>
+            <p>Being invited to chapel he refused, saying, he expected to be visited by a gentleman of his own perswasion, which was that of the Kirk of Scotland. It was to little purpose at present, for me to urge to him at different times and with various arguments, that there is no essential difference between his profession and ours; he would by no means admit that opinion: But said, "there was great odds between his religion and mine;" and seemed strongly prejudiced in favour of his own, though not overcharged with the good fruits of any religion: This gave me frequent opportunity of reflecting on the manifold mischiefs of the unhappy divisions propagated and cherished amongst us, that tend to defeat the real design of all true religion.</p>
+            <p>However, after repeated applications to him, and finding himself disappointed of the visits he expected, he consented to come up to chapel, to hear (as he expressed it) the word of God; but behaved himself like one unaccustomed to our way of worship and not much pleased with it: Yet he gradually appeared to become more and more affected with the expounding and applying the scriptures of the day to the cases of the criminals.</p>
+            <p>Still his reserved temper and prejudices kept him at a distance, from communicating any thing material relating to himself, and even from acknowledging his guilt after conviction. The strong desire of concealing his flagrant shame, and the fatal lapse he had been drawn into, together with an obstinate opinion he entertained that it was unnecessary to acknowledge and confess it to man, confirmed him in this conduct. But how perverse and vain was this! when it appears on the trial, that he had confessed the fact to Mr. <persName id="OA17611005n20-1">
+                  <interp inst="OA17611005n20-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n20-1" type="surname" value="MERRICK"/>
+                  <interp inst="OA17611005n20-1" type="given" value="JAMES"/>James Merrick</persName>, one of the witnesses, before his commitment; telling him that the forged bill was his own doing, without any accomplice, and begged for mercy.</p>
+            <p>It came out farther, that he was born in <placeName id="OA17611005-geo-6">
+                  <interp inst="OA17611005-geo-6" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n15-1 OA17611005-geo-6"/>Scotland</placeName>, as one said, in the Isle of Mull; but as he himself told me, in <placeName id="OA17611005-geo-7">
+                  <interp inst="OA17611005-geo-7" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n15-1 OA17611005-geo-7"/>the Highlands</placeName>, on or near the estate of the Duke of Argyle; that he was early entered in the <rs id="OA17611005-occupation-6" type="occupation">army</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n15-1 OA17611005-occupation-6"/>, and held a commission in the 42d or highland regiment, commanded by <persName id="OA17611005n21-1">
+                  <interp inst="OA17611005n21-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n21-1" type="surname" value="MURRAY"/>
+                  <interp inst="OA17611005n21-1" type="given" value="JOHN"/>Lord John Murray</persName>, and served in <placeName id="OA17611005-geo-8">
+                  <interp inst="OA17611005-geo-8" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n15-1 OA17611005-geo-8"/>America</placeName> for some years, and was under the 30th year of his age.</p>
+            <p>His unskilful and clumsy mananagement of the forgery in which he was detected and found guilty, by misspelling the names, and the inconsistency of placing 200l. at the top, and writing one hundred pounds in the body of the bill, and other instances, prove that he was either unpractised, or very unfit for that fatal trade, by which no man, however dextrous, will ever gain wages that he can live by.</p>
+            <p>His close and averse behaviour, did not discourage my tendering him every assistance in my power; but when proper books were offered to assist him in his preparation, he resolutely continued to refuse them, saying, he had a sufficient number of good books, among which he named the Bible and the Whole Duty of Man, and that he expected farther assistance from his own minister.</p>
+            <p>This seems to be a kind of proof, that the chief prejudice of some who dissent from us, is not against our books and doctrines, which they use to their great benefit, but against our very persons and dress; which therefore bring us under great disadvantage in our applications to them, who have been taught to think that our sound forms of prayer and significant ceremonies, are no better than mere popery.</p>
+            <p>In his conversation with me, he denied the duty of confessing sins or offences to any man in any case whatsoever, and particularly in his own present circumstances; errors which I endeavoured to convince him of, from precepts and examples of scripture, the sense of divines, and the reason and justice of the thing: but in vain; he seemed to hold his own opinion still.</p>
+            <p>The morning after the death-warrant was sent down, he and his fellow-convict included in it, appeared more chearful and undismayed than could be expected; each of them was applied to, and reminded to stand this trying shock with a firmness and patience becoming true penitents; they both seemed to be much strengthened, thanking God for it, and hoping they should be farther enabled to</p>
+            <xptr type="pageFacsimile" doc="OA176110050005"/>
+            <p>bear it as they ought; for which purpose they immediately went up to chapel, which he also henceforth constantly attended to his last day.</p>
+            <p>He was repeatedly invited to join with us in receiving the holy communion which he had hitherto declined; until the evening before execution, he seemed more inclinable to that duty, the nature, obligation and benefits of which, had been opened and carefully explained to the prisoners for several days before; he now at last promised seriously to consider it between that and next morning; but his main objection seemed to be that he would make no particular acknowledgement of his guilt; a difficulty to remove which an expedient was thought of the last morning, that he might not depart without this blessing.</p>
+            <p>2. <persName id="OA17611005n29-1">
+                  <interp inst="OA17611005n29-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n29-1" type="surname" value="GURNET"/>
+                  <interp inst="OA17611005n29-1" type="given" value="EDWARD"/>EDWARD GURNET</persName>, otherwise <persName id="OA17611005n29-2">
+                  <interp inst="OA17611005n29-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n29-2" type="surname" value="COX"/>
+                  <interp inst="OA17611005n29-2" type="given" value="JAMES"/>James Cox</persName>, was indicted for stealing one silver watch value ten pounds, one silver pint mug value three pounds, and two silver salts value thirty shillings, the property of <persName id="OA17611005n29-3">
+                  <interp inst="OA17611005n29-3" type="gender" value="male"/>
+                  <interp inst="OA17611005n29-3" type="surname" value="KING"/>
+                  <interp inst="OA17611005n29-3" type="given" value="DANIEL"/>Daniel King</persName>, June, 27th.</p>
+            <p>He did not fall under my notice, until after his conviction on this indictment, when he appeared at chapel on Sunday Sept. 20th with the other convicts, who were all in general, and each severally applied to in proper exhortations; seriously, to lay to heart their present sad and most alarming situation, condemned to lose this present life for crimes by which they must also lose eternal life, without an hearty and sincere repentance; to recollect their past lives, and by what steps they had been led into those crimes; in order to repent and become new creatures: To consider their present sad circumstances, as providential chastisements sent to call them more loudly and powerfully to repentance, after milder methods had failed and been tried in vain.</p>
+            <p>Though this poor criminal seemed formed for a stupid insensibility, being built in the strong and durable rustic stile, grown callous in ignorance and evil habits, and seemingly void of all reflection, yet he now began to awake, and hearken with some degree of attention to what was spoken to him; appeared willing and desirous to comply with the directions given him; and however unacquainted with prayer and the service of the church, he endeavoured to join in them. He owned he was ignorant and almost illiterate; for notwithstanding he had been taught to read a little in his childhood, yet through disuse and neglect to practise it he had nearly forgot his very letters; but now renewed his endeavours to spell out his words and read some sentences of holy scripture and prayers, in a proper book which I had put into his hands, which he told me he had made use of day and night in his cell to the best of his power; being further assisted alternately, by the two prisoners in the cells, on either hand of him, reading aloud to him; all this he told me he eagerly listened to, though he added his doubts that they did not always read right, by comparing it with what he heard in the chapel; he added further, that when alone, he recollected his past life, and pray'd earnestly for pardon of all his sins.</p>
+            <p>On observing this poor criminal so earnest and attentive to hear the Word of God, and to pray, now, that his sufferings were at hand, and the floods of his impiety and iniquity ready to swallow him up; it was obvious to reflect, what powerful preachers, afflictions, and adversities are. How long and how often it happens to us that</p>
+            <p>To unattentive ears we preach,</p>
+            <p>What miseries alone can teach.</p>
+            <p>How many precious opportunities he and too many others neglect and turn away from, whilst in the full enjoyment of the great blessings of liberty, health and life.</p>
+            <p>Notwithstanding these promising signs of reformation, it is to be feared, his inveterate habits of falsehood had such power over him, that he prevaricated with me in the account he gave of himself, to the following purport.</p>
+            <p>That his father and mother were cowkeepers, living in the farthest part of <placeName id="OA17611005-geo-9">
+                  <interp inst="OA17611005-geo-9" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17611005n29-1 OA17611005-geo-9"/>Buckinghamshire</placeName>, where he was born, being now just turned of 23 years of age; that his parents supplied the London markets with butter; that he was by trade a <rs id="OA17611005-occupation-7" type="occupation">brickmaker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n29-1 OA17611005-occupation-7"/>, and of late used to work about seven or eight miles from <placeName id="OA17611005-geo-10">
+                  <interp inst="OA17611005-geo-10" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-10"/>London</placeName>, where he could earn thirty-five shillings a week; this he said with a kind of</p>
+            <xptr type="pageFacsimile" doc="OA176110050006"/>
+            <p>pride, and a secret insinuation that he was above stealing: but it was urged to him that this (if true) was a great aggravation of his crime, of which as he stood convicted I must take it for granted he was guilty; and which in the circumstances he described, could not proceed from poverty or necessity; he answered it is true, the plate was found upon him, but it was put into his pocket unknown to him; attempting to make me believe he was thus imposed upon, and injured in this accusation; but as he found I gave little heed, and less credit to this; charging him to tell me no lies at least, if he would not confess the truth, he carried this flimzy pretence no farther.</p>
+            <p>He went on to inform me that he wrought about three months ago in his business of brick-making at <placeName id="OA17611005-geo-11">
+                  <interp inst="OA17611005-geo-11" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-11"/>
+                  <placeName id="OA17611005-geo-12">
+                     <interp inst="OA17611005-geo-12" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n29-1 OA17611005-geo-12"/>Chalfont</placeName> beyond Uxbridge</placeName>, about twenty miles from London: being questioned why he quitted it, he acknowledged, or pretended, there was a child laid to him in that parish, which obliged him to abscond and fly for it. This assertion, true or false, did not pass without proper reproof, reminding him that if it was so, he now felt that vengeance pursued him for this injury unrepaired, among the rest of his wickedness. On his coming to <placeName id="OA17611005-geo-13">
+                  <interp inst="OA17611005-geo-13" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-13"/>London</placeName>, he did not pretend that he got into work, but was drawn into this fact about ten or twelve weeks since by bad company, two of which he named, adding they were his countrymen; but could not, or would not recollect the third; all the three he said were secured in <placeName id="OA17611005-geo-14">
+                  <interp inst="OA17611005-geo-14" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-14"/>Bridewell</placeName> and <placeName id="OA17611005-geo-15">
+                  <interp inst="OA17611005-geo-15" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-15"/>New-Prison</placeName>; and a charge about coining or counterfeiting, laid against some of them; two of them he mentioned, would hang their own father and mother; that they had inlisted themselves for soldiers, but were quickly after apprehended and imprisoned. As to himself, he owned he was apprehended by means of one of the witnesses named Chiswell, who appeared on the trial against him, then living in <placeName id="OA17611005-geo-16">
+                  <interp inst="OA17611005-geo-16" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-16"/>Brook's-market</placeName>, with whom he entrusted a part of the booty; and that the people who assisted, finding him a countryman (i. e. as he would insinuate, not of the town-gang, but an intruder) were ready to tear him to pieces. On this occasion he was put in mind, what he seemed to forget or conceal, that he was apprehended as a deserter; but this he endeavoured to explain away, with a story that being in company with some Red-coats or Lobsters, as the cant-word is, and overtaken in liquor, they slipt a shilling into his pocket, and then insisted upon his being their own man; but that he sold his buckles to pay them twenty shillings, and got clear of them; and that they had no further claim upon him. This story he persisted in.</p>
+            <p>But something more like the truth came out after his death, from one who well knew him; that he was born in the town of <placeName id="OA17611005-geo-17">
+                  <interp inst="OA17611005-geo-17" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-17"/>Buckingham</placeName>, his father a labourer, used to work at Stow for lord Cobham, is said now to drive cattle for grasiers and butchers. This lad was put out to service so early as the tenth year of his age, to his uncle <persName id="OA17611005n40-1">
+                  <interp inst="OA17611005n40-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n40-1" type="surname" value="GURNETT"/>
+                  <interp inst="OA17611005n40-1" type="given" value="EDWARD"/>Edward Gurnett</persName>, a farmer, who rented two or three hundred pounds a year, where he behaved ill, robbed him, and run away: instead of being a brickmaker, he was but a <rs id="OA17611005-occupation-8" type="occupation">wheeler, or labourer to a brickmaker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n29-1 OA17611005-occupation-8"/>. As to the felony for which he suffered, he took his opportunity when the landlord's back was turned, and stole this watch and the plate, at the <placeName id="OA17611005-geo-18">
+                  <interp inst="OA17611005-geo-18" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-18"/>
+                  <placeName id="OA17611005-geo-19">
+                     <interp inst="OA17611005-geo-19" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n29-1 OA17611005-geo-19"/>Two Wrestlers</placeName> at Highgate</placeName>; then came to the lodging of one of his companions in <placeName id="OA17611005-geo-20">
+                  <interp inst="OA17611005-geo-20" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-20"/>Liquor-Pond-Street</placeName>, thence to the <placeName id="OA17611005-geo-21">
+                  <interp inst="OA17611005-geo-21" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-21"/>
+                  <placeName id="OA17611005-geo-22">
+                     <interp inst="OA17611005-geo-22" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n29-1 OA17611005-geo-22"/>White-Hart</placeName> in Brook's-Market</placeName>, where, probably being known to be a deserter, and some intelligence given, he was pursued and taken, while drinking there with his companion. Gurnett was very strong made, and thought to be able enough to beat all the three that apprehended him, but being unwilling to fight, perhaps awed with the terrors of his guilt on all sides, he consented to go to the <placeName id="OA17611005-geo-23">
+                  <interp inst="OA17611005-geo-23" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-23"/>Savoy</placeName>, so that he seemed conscious he was a deserter. It appears on the trial, he was first taken to his officer, at the <placeName id="OA17611005-geo-24">
+                  <interp inst="OA17611005-geo-24" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n29-1 OA17611005-geo-24"/>
+                  <placeName id="OA17611005-geo-25">
+                     <interp inst="OA17611005-geo-25" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n29-1 OA17611005-geo-25"/>Thistle and Crown</placeName>, at Charing-Cross</placeName>; where, being followed by Chiswell, from his house at Brook's-Market, he borrowed a few shillings of him, giving him the stolen plate to keep for him; but he, by a hint from Bradford his companion, not thinking it safe to keep it, acquainted justice Welch with the matter,</p>
+            <xptr type="pageFacsimile" doc="OA176110050007"/>
+            <p>in consequence of which, it was advertised, traced, and restored to the owner, and the unhappy felon brought to justice.</p>
+            <p>His companion said he had been a very wild fellow, and used to fell smuggled goods about the country; others who knew him, reported him to be a thief from his infancy. When he fell first under my care, he appeared hardened, sullen, silent, and would confess nothing; but after some days instruction and application to him, he became more pliant and tractable, and opened his mind in the manner before-mentioned. Whether his own account, or that of his acquaintance be more probable, the reader will judge for himself.</p>
+            <p>Notwithstanding he had been daily instructed by exhortation and reading, for twelve or fourteen days, in order to dispose and prepare him to come to the Holy Communion, yet when it was administered to some other prisoners on the third of October, two days before he suffered, he declined receiving it, to my surprize and disappointment, saying, he was not sufficiently instructed and prepared; Campbell also absented himself, on some other scruples; therefore on this and the following day, repeated instructions and applications were made to them both, on the same subject, in order to prepare them against the last morning, and permission was obtained for Heans, his fellow convict, to be with him, and read to him the preceding night for that purpose.</p>
+            <p>The Morning of Execution.</p>
+            <p>GURNETT being brought down from his cell, clean and decently dressed, was asked whether he was patient and resigned to the will of God? he answered, he thank'd God he was; and that he was easy in his mind, having a good hope that God would pardon all his sins.</p>
+            <p>Mean time Campbell was at prayers with a minister of his own persuasion and country, as I was informed in a room at hand, and quickly after came up to chapel; wherein both the convicts joined in some proper prayers for persons in their circumstances, and in the litany and communion service; but in an interval between these services they were each particularly examined as to their understanding the meaning, design, and end of that holy ordinance, and also whether they had prepared, and were ready to perform all that is required of them who come to the Lord's-Supper? Gurnett said, his fellow-prisoner Heans had read to him, and pray'd with him, the best part of the night on this subject, by the help of a book or two put into their hands, for that purpose, and he now gave a satisfactory answer to the several questions put to him.</p>
+            <p>Campbell acknowledged the truth and justice of what is contained in his trial, which in compliance with his prejudice against a particular confession of his guilt, was accepted instead of it, and he was admitted at his own request to the Holy Communion; after which being earnestly recommended to the Divine blessing and protection, support and consolation; they were directed in their passage not to regard the noise and clamours of the surrounding multitude, but to keep their hearts warmly intent on what they had now done, and the benefits thereby conveyed to them; more especially to look unto Jesus the author and finisher of our Faith, who for the joy that was set before him endured the cross, &amp;c. and particularly to employ themselves in offering up the petitions of the Lord's-Prayer, and meditating on the articles of our precious Faith, viz. The forgiveness of sins, the resurrection of the body, and the life everlasting.</p>
+            <p>They were carried out from the prison about nine, and brought to the place of Execution about ten o'clock, where they behaved themselves with composure and resignation; they desired the surrounding multitude to pray with them and for them; a great number joined, with their hats off, and seemed seriously and properly affected, while too many others who could not, or would not hear, seemed wholly</p>
+            <xptr type="pageFacsimile" doc="OA176110050008"/>
+            <p>to disregard this awful and striking instance of the execution of justice on crimes, and the Christian duty of praying for the criminals: and behaved as if they only came to gaze at a curious sight, or for worse purposes.</p>
+            <p>After some time spent in Prayer, &amp;c. Campbell was asked, if he would say any thing to the people, by way of warning? this he utterly refused, though advised to it; he said, the sight of him in this dreadful situation, was warning sufficient. His silence was of a piece with his purpose to make no particular confession of his guilt, which he all along refused to do.</p>
+            <p>Gurnett did not attempt to say any thing to the spectators; but being asked whether what he had told me relating to his crime was the truth? he declared it was the truth. Whether he still persisted to assert that he had any accomplices in this crime? he declared there were three of them together at the house where the fact was committed. This appears contrary to the evidence given against him on the trial. He had farther declared, that one of the evidences, <persName id="OA17611005n51-1">
+                  <interp inst="OA17611005n51-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n51-1" type="surname" value="HATRED"/>
+                  <interp inst="OA17611005n51-1" type="given" value="JOHN"/>John Hatred</persName>, was an entire stranger to him, and had never seen him till the trial, and only swore against him for the reward. He was reminded that this is a common objection with persons in his unhappy situation; but he persisted in it, and had often repeated it before.</p>
+            <p>Being finally recommended to the gracious mercy and protection of Almighty God, we parted; and they quickly resigned their lives according to their sentence.</p>
+            <p>By virtue of the King's Commission of the peace, Oyer and Terminer, and Gaol Delivery of Newgate, held for the City of London, and County of Middlesex, at <placeName id="OA17611005-geo-26">
+                  <interp inst="OA17611005-geo-26" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n53-1 OA17611005-geo-26"/>
+                  <placeName id="OA17611005-geo-27">
+                     <interp inst="OA17611005-geo-27" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n53-1 OA17611005-geo-27"/>Justice-hall</placeName>, in the Old-Bailey</placeName>, before the Right Hon. <persName id="OA17611005n53-1">
+                  <interp inst="OA17611005n53-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-1" type="surname" value="BLAKISTON"/>
+                  <interp inst="OA17611005n53-1" type="given" value="MATTHEW"/>Sir Matthew Blakiston</persName>, Knt. <rs id="OA17611005-occupation-9" type="occupation">Lord-Mayor of the City of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n53-1 OA17611005-occupation-9"/>; the Right Hon. Lord Mansfield, Lord Chief Justice of the King's-Bench; the Hon. <persName id="OA17611005n53-2">
+                  <interp inst="OA17611005n53-2" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-2" type="surname" value="CLIVE"/>
+                  <interp inst="OA17611005n53-2" type="given" value="EDWARD"/>Sir Edward Clive</persName>, Knt. one of the <rs id="OA17611005-occupation-10" type="occupation">Justices of the Court of Common Pleas</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n53-2 OA17611005-occupation-10"/>; the Hon. <persName id="OA17611005n53-3">
+                  <interp inst="OA17611005n53-3" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-3" type="surname" value="SMYTHE"/>
+                  <interp inst="OA17611005n53-3" type="given" value="SIDNEY STAFFORD"/>Sir Sidney Stafford Smythe</persName>, Knt. one of the <rs id="OA17611005-occupation-11" type="occupation">Barons of the Exchequer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n53-3 OA17611005-occupation-11"/>; <persName id="OA17611005n53-4">
+                  <interp inst="OA17611005n53-4" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-4" type="surname" value="MORETON"/>
+                  <interp inst="OA17611005n53-4" type="given" value="WILLIAM"/>Sir William Moreton</persName>, Knt. <rs id="OA17611005-occupation-12" type="occupation">Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n53-4 OA17611005-occupation-12"/>; <persName id="OA17611005n53-5">
+                  <interp inst="OA17611005n53-5" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-5" type="surname" value="EYRE"/>
+                  <interp inst="OA17611005n53-5" type="given" value="JAMES"/>James Eyre</persName>, Esq; <rs id="OA17611005-occupation-13" type="occupation">Deputy Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n53-5 OA17611005-occupation-13"/>; and others, of his Majesty's Justices of Oyer and Terminer, of the said City and County; on Wednesday the 21st, Thursday the 22d, Friday the 23d, Saturday the 24th, and Monday the 26th of October, in the first and second years of his Majesty's Reign; <persName id="OA17611005n53-6">
+                  <interp inst="OA17611005n53-6" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-6" type="surname" value="PERROT"/>
+                  <interp inst="OA17611005n53-6" type="given" value="JOHN"/>John Perrot</persName>, <persName id="OA17611005n53-7">
+                  <interp inst="OA17611005n53-7" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-7" type="surname" value="LEE"/>
+                  <interp inst="OA17611005n53-7" type="given" value="SAMUEL"/>Samuel Lee</persName>, <persName id="OA17611005n53-8">
+                  <interp inst="OA17611005n53-8" type="gender" value="male"/>
+                  <interp inst="OA17611005n53-8" type="surname" value="PARROT"/>
+                  <interp inst="OA17611005n53-8" type="given" value="RICHARD"/>Richard Parrot</persName>, and <persName id="OA17611005n53-9">
+                  <interp inst="OA17611005n53-9" type="gender" value="female"/>
+                  <interp inst="OA17611005n53-9" type="surname" value="ROWDEN"/>
+                  <interp inst="OA17611005n53-9" type="given" value="HESTER"/>Hester Rowden</persName>, were capitally convicted and received sentence of death, for the several crimes in their indictments laid; the two latter being found guilty of Murder, were executed on Monday October the 26th.</p>
+            <p>3. <persName id="OA17611005n54-1">
+                  <interp inst="OA17611005n54-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n54-1" type="surname" value="PARROTT"/>
+                  <interp inst="OA17611005n54-1" type="given" value="RICHARD"/>RICHARD PARROTT</persName>, was indicted for the wilful Murder of <persName id="OA17611005n54-2">
+                  <interp inst="OA17611005n54-2" type="gender" value="female"/>
+                  <interp inst="OA17611005n54-2" type="surname" value="PARROTT"/>
+                  <interp inst="OA17611005n54-2" type="given" value="ANNE"/>Anne</persName> his Wife, by cutting out a part of her tongue, with a clasp knife, August the 16th, of which wound she languished several days, and then died.</p>
+            <p>Nothing but the defence made for the prisoner, viz. Insanity, (supposing it to have a real foundation) can extenuate this horrid and most inhuman fact: nothing but the supposed madness of the perpetrator, can rescue it from being ranked among the most cruel deeds, that ever was perpetrated. The proof of this fact was too well established on the trial, to admit of a doubt, by the evidence of several witnesses, who saw, took care of, and attended the deceased, after she received the maiming wound, and before she died; such as the nurse, the surgeon, and several of her neighbours; by whom it appeared that a trifling dispute first arose between the prisoner and the deceased, whether their son or daughter, should go to the field for a cow; it seems as if they both went out, and in the interval this evil accident fell out, in the manner described in the proceedings. The cunning false manner in which he first attacked the deceased, by making her sit down near him, and kissing her, and then the sudden throwing her down, kneeling on her breast, the bruises, squeezes, and breaking out some of her teeth; the threats to rip her up, by which he forced her to put out her tongue, appeared strong against him; and Courts of Justice cannot always discern the internal motives from which these overt acts proceed;</p>
+            <xptr type="pageFacsimile" doc="OA176110050009"/>
+            <p>they are justified therefore in not admitting defences, which don't appear evident to them.</p>
+            <p>But these circumstances put together don't remove the probability of the prisoner's being insane when the fact was done. Subtilty and craft are known to attend this unaccountable distemper, in carrying on any mischief or outrage. The affections are generally inverted; love is turned into hatred, suspicion, jealousy, and rage; and the dearest object of love, is doomed to be the first victim of the perverted passions. The excuse he made when apprehended for this outrage, shews something like this, viz. That she had told lies of him, and he would prevent her doing the like again. Probably he resented her representing and declaring him to be out of his mind, as it appears on the trial she did, when she sent one of her sons for another of them twelve miles, to come and take care of his father, as being in that case. Nothing can provoke a madman more than to be thought or called mad; they are the last, generally speaking, who are sensible of it; and it is the last thing they will acknowledge. Happy had it been for his family, his friends, his neighbours, and parishioners, had they secured and put him under care for this fatal malady; they might have prevented this sad event to the deceased, this reproach to the survivors, who are in any degree blameable for this gross and dangerous neglect.</p>
+            <p>The circumstance of charging his wife with having poisoned his clothes, by which he feared they would poison, or had poison'd his flesh, which he thought he actually felt, in consequence of his cutting them to pieces and burying them; are not these like symptoms of madness? but chiefly, when apprehended and charged with the fact, and questioned, What, were you mad, to be guilty of so rash an action? his answer, No, I was very sensible, proves that he was far otherwise, rather the contrary; in not admitting and laying hold of the best excuse or defence that could be made for him.</p>
+            <p>Perhaps law and physic do not look on this distemper with the same eyes; and the former may now and then neglect or over-look the assistance of the latter in distinguishing it; and discerning its effects, when it may be of the least importance to some individuals to distinguish and discern it in all its monstrous shapes and manifold symptoms.</p>
+            <p>The account he gave me of himself at several interviews and conversations with him, both before and after his trial, were consonant to this supposed state of his mind; they shewed an imagination disturbed and agitated more or less at intervals, though the understanding was far from being totally eclipsed or obscured, but struggling between light and darkness; and this to the best of my discerning was neither put on, nor feigned with a view to palliate his crime: for he seemed to speak with all the sense and coherence he was master of; informing me he lived in the parish of <placeName id="OA17611005-geo-28">
+                  <interp inst="OA17611005-geo-28" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n54-1 OA17611005-geo-28"/>
+                  <placeName id="OA17611005-geo-29">
+                     <interp inst="OA17611005-geo-29" type="type" value="parish"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n54-1 OA17611005-geo-29"/>Harmansworth</placeName>, (beyond Hounslow)</placeName> in which both he and his wife were born; that she was about fifty, and he not quite sixty years of age, though he appeared, and is said to be, seventy. He often complained he had been very ill treated by his parish, which, he said, had a spite against him; for this he gave two reasons, at different times: one was, because he and his family had been expensive to them, by the accident of himself, together with a son and daughter of his being bit by their own dog, when mad; so that the parish were at charges to send them to <placeName id="OA17611005-geo-30">
+                  <interp inst="OA17611005-geo-30" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n54-1 OA17611005-geo-30"/>Gravesend</placeName> to be dipt, and take care of them; being compelled to it, by a worthy Magistrate whom he named. The other reason seemed not so probable, because he used to go out of the parish for weeks together to work in <placeName id="OA17611005-geo-31">
+                  <interp inst="OA17611005-geo-31" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n54-1 OA17611005-geo-31"/>Hertfordshire</placeName> for lady Essex; he often appealed to that good lady and her servants for his character, hoping they would appear for him on his trial; he also described at different times, and very unconnected, the consequences of his being so bit; that he felt as if poisoned, and his flesh were on fire; ran about the fields and the country, and cut his clothes off and buried them; being so ill that they threatened to smother him with a feather-bed, or pillows; in this distress and danger, he said, he one day applied to his parish minister for advice and assistance, but that he first put him off till service should end; and then told him he was</p>
+            <xptr type="pageFacsimile" doc="OA176110050010"/>
+            <p>fatigued, and that he, Parrott, talked too much. As to the fact for which he suffered, I cannot recollect that he ever expresly or directly imputed it to his distemper, till the last morning; yet he endeavoured to extenuate it, saying, she had used him ill; that the wound was not so bad as to be the cause of her death, for the surgeon was of opinion she recovered of that, and died of a fever, when he would admit she really was dead; for he now and then took it in his head to affirm she was alive and well. He came to chapel daily, when called upon, and behaved with tolerable sense and decency; and being deafish was placed near the reading desk. He usually had with him a good book, called, The Christian Monitor; in which he told me he read daily: this he brought to the prison with him: and when he began to appear more intelligent than at first, other proper books were lent him, if perhaps he might have understanding and grace to use them; to which he seemed to apply himself, to the utmost of his capacity and condition of mind, insomuch that the day he suffered he seemed calm, sensible, and resigned.</p>
+            <p>4. <persName id="OA17611005n62-1">
+                  <interp inst="OA17611005n62-1" type="gender" value="female"/>
+                  <interp inst="OA17611005n62-1" type="surname" value="ROWDEN"/>
+                  <interp inst="OA17611005n62-1" type="given" value="HESTER"/>HESTER ROWDEN</persName>, of the parish of <placeName id="OA17611005-geo-32">
+                  <interp inst="OA17611005-geo-32" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n62-1 OA17611005-geo-32"/>St. Martin's in the Fields</placeName>, was indicted for the wilful murder of her female bastard child, by choaking and strangling it, Sept. 21; she was charged also on the Coroners' Inquest for the same.</p>
+            <p>The proof of this most unnatural murder, rested on the evidence of several witnesses; the first, <persName id="OA17611005n63-1">
+                  <interp inst="OA17611005n63-1" type="gender" value="female"/>
+                  <interp inst="OA17611005n63-1" type="surname" value="EVANS"/>
+                  <interp inst="OA17611005n63-1" type="given" value="MARY"/>Mary Evans</persName>, her mistress, at <placeName id="OA17611005-geo-33">
+                  <interp inst="OA17611005-geo-33" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n62-1 OA17611005-geo-33"/>
+                  <placeName id="OA17611005-geo-34">
+                     <interp inst="OA17611005-geo-34" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n62-1 OA17611005-geo-34"/>the Star and Garter</placeName> in St. Martin's-Lane</placeName>, who, mistrusting the matter two months before, taxed her with it, but she denied it. This should have been a sufficient warning to her, that she could not pass undiscovered to human eyes, much less to divine justice, the avenger of all such deeds. This shews also a blindness and hardness of heart, in rushing on to this farther and deeper degree of guilt, in consequence of the leading transgression; which appeared to others by her growing bigger for some time, and then less again on a sudden: And this witness found the dead infant in the copper-hole, with signs and marks of being strangled. A midwife proved she had been delivered of a child, and had milk in her breast. <persName id="OA17611005n63-2">
+                  <interp inst="OA17611005n63-2" type="gender" value="female"/>
+                  <interp inst="OA17611005n63-2" type="surname" value="JEFFS"/>
+                  <interp inst="OA17611005n63-2" type="given" value="ANNE"/>Anne Jeffs</persName>, the <rs id="OA17611005-occupation-14" type="occupation">matron of the Workhouse</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n63-2 OA17611005-occupation-14"/>, whither she was sent after her delivery, obtained a confession from her of the perpetration of this dark and infernal fact, and the circumstances of it. So that, on a review of the trial, there cannot be the least doubt of her guilt. Happier far had she come to this humble confession, before she was so deeply insnared in this second crime.</p>
+            <p>She was committed on the inquisition of the Coroner of Westminster, had been in the parish-workhouse, till removed the Thursday before sessions to take her trial. When brought up to chapel, she was directed to attend to the proper exhortations, and prepare herself with an humble, a penitent, and obedient heart, to make a good use of the confession of sins, and all other parts of the prayers and service; when applied to, in general terms, before her trial, she said nothing, as to the fact, but hung down her head, sobbed, and seemed much terrified and disturbed. She was advised to recollect, by what neglect of her duty to God, &amp;c. she had been brought under the present heavy charge; was asked whether she had any good book? (for she said she could read;) she said she had only one, viz. The Weekly Preparation. She promised to make use of the good books in her ward that were lent to her. - She gave the following account of herself: That she was born at the city of <placeName id="OA17611005-geo-35">
+                  <interp inst="OA17611005-geo-35" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n62-1 OA17611005-geo-35"/>Bristol</placeName>, where she lived till she came to <placeName id="OA17611005-geo-36">
+                  <interp inst="OA17611005-geo-36" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n62-1 OA17611005-geo-36"/>London</placeName>, about eight or nine years ago; said she could not tell her age, but appeared to be upwards of thirty.</p>
+            <p>She had lived a <rs id="OA17611005-occupation-15" type="occupation">servant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n62-1 OA17611005-occupation-15"/> at Mr. Evan's, the <placeName id="OA17611005-geo-37">
+                  <interp inst="OA17611005-geo-37" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n62-1 OA17611005-geo-37"/>
+                  <placeName id="OA17611005-geo-38">
+                     <interp inst="OA17611005-geo-38" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17611005n62-1 OA17611005-geo-38"/>Star and Garter</placeName>, in St. Martin's lane</placeName>, three several times; in all near seven years; she was deemed a very sober, diligent servant, before this affair happened, but remarkably ignorant. She lived also somewhere near <placeName id="OA17611005-geo-39">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17611005n62-1 OA17611005-geo-39"/>Aldgate</placeName>, where her fellow-servant, a Tobacconist, seduced her into this lewdness, which betrayed her into murder, and ended in this fatal death.</p>
+            <p>When visited after her conviction, and properly applied to with instructions and</p>
+            <xptr type="pageFacsimile" doc="OA176110050011"/>
+            <p>prayers, she seemed so overcome with sorrow and dejection of spirit, that she would not lift up her eyes or her head, and was scarce able to make any answer; her face pale and meagre, she stood silent as a statue, sunk in unutterable distress. Being urged, now that she was convicted, to acknowledge her crime and the justice of her sentence, she made no answer. Pressing her still further, I said, you do not, you cannot deny the justice of your sentence, she answered, No, I do not deny it. She was repeatedly visited and seemed to recover herself and improve in her repentance and preparation for the Holy Communion and her last hour. She was often asked, Do you pray incessantly for the pardon of your sins? She answered, I do. Do you find comfort and hope in your prayers? I do.</p>
+            <p>On the Morning of Execution.</p>
+            <p>BOTH these prisoners appeared composed and resigned, and were reading and praying in the Press-Yard when visited.</p>
+            <p>
+               <persName id="OA17611005n70-1">
+                  <interp inst="OA17611005n70-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n70-1" type="surname" value="PARROTT"/>
+                  <interp inst="OA17611005n70-1" type="given" value="RICHARD"/>Richard Parrott</persName>, being questioned very particularly about his understanding the nature and benefits of the Holy Communion, and his due preparation for it, answered so reasonably, even beyond my expectation, that I admitted him to it, together with Rowden, to their spiritual comfort and support in this trying hour.</p>
+            <p>So that when questioned this morning about his hope, he answered, he always had a thought and hope of dying in the Lord. He answered every other question distinctly and sensibly.</p>
+            <p>
+               <persName id="OA17611005n72-1">
+                  <interp inst="OA17611005n72-1" type="gender" value="female"/>
+                  <interp inst="OA17611005n72-1" type="surname" value="ROWDEN"/>
+                  <interp inst="OA17611005n72-1" type="given" value="HESTER"/>Hester Rowden</persName> desired to warn all servants to do their duty to God and their superiors, and to be sober, diligent, and watchful over themselves; not neglecting the duties of private prayer and publick worship as she had done.</p>
+            <p>They were attended and prayed with the usual time at the place of execution; and patiently resigned their lives.</p>
+            <p>The crowd of spectators was very numerous both on foot and in carriages, who, in general, behaved decently, and, it is hoped, were warned by these sad examples of justice.</p>
+            <p>This is all the account given by me,</p>
+            <p>
+               <persName id="OA17611005n76-1">
+                  <interp inst="OA17611005n76-1" type="gender" value="male"/>
+                  <interp inst="OA17611005n76-1" type="surname" value="ROE"/>
+                  <interp inst="OA17611005n76-1" type="given" value="STEPHEN"/>STEPHEN ROE</persName>,</p>
+            <p>
+               <rs id="OA17611005-occupation-16" type="occupation">Ordinary of Newgate.</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17611005n76-1 OA17611005-occupation-16"/>
+            </p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

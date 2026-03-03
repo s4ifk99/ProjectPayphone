@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="sessionsPaper" id="16750219">
+            <interp inst="16750219" type="collection" value="BAILEY"/>
+            <interp inst="16750219" type="year" value="1675"/>
+            <interp inst="16750219" type="uri" value="sessionsPapers/16750219"/>
+            <interp inst="16750219" type="date" value="16750219"/>
+            <xptr type="transcription" doc="16750219"/>
+   
+            <div1 type="frontMatter" id="f16750219-1">
+               <interp inst="f16750219-1" type="collection" value="BAILEY"/>
+               <interp inst="f16750219-1" type="year" value="1675"/>
+               <interp inst="f16750219-1" type="uri" value="sessionsPapers/16750219"/>
+               <interp inst="f16750219-1" type="date" value="16750219"/>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16750219001"/>NEWS from ISLINGTON, OR, The Confession, AND EXECUTION, OF GEORGE ALLIN BUTCHER, Who now Hangs in CHAINS Near TO ISLINGTON,</p>
+               <p>With a full and True Relation of his whole Confession before several Godly Ministers who came Dayly to visit him in Newgate.</p>
+               <p>With the Tryal of one Stevens for Breaking open a House at Branford.</p>
+               <p>LONDON, Printed in the Year, 1674.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="16750219002"/>News from the Sessions-House.</p>
+               <p>AT the General Sessions of Oyer and Terminer, and Goal delivery, held for the County of Middlesex and Citty of London, upon Friday and Saturday, the 19. and 20. of February Instant. Were arraigned several Malefactors for Crimes of sundry Natures, inconsiderable, other the more remarkable were these that follow.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16750219-1">
+               <interp inst="t16750219-1" type="collection" value="BAILEY"/>
+               <interp inst="t16750219-1" type="year" value="1675"/>
+               <interp inst="t16750219-1" type="uri" value="sessionsPapers/16750219"/>
+               <interp inst="t16750219-1" type="date" value="16750219"/>
+               <join result="criminalCharge" id="t16750219-1-off3-c1" targOrder="Y"
+                     targets="t16750219-1-defend1 t16750219-1-off3 t16750219-1-verdict7"/>
+               <join result="criminalCharge" id="t16750219-1-off4-c1" targOrder="Y"
+                     targets="t16750219-1-defend1 t16750219-1-off4 t16750219-1-verdict7"/>
+         
+               <p>The first was one 
+               <persName id="t16750219-1-defend1" type="defendantName">
+                  Harker
+               <interp inst="t16750219-1-defend1" type="surname" value="Harker"/>
+                     <interp inst="t16750219-1-defend1" type="gender" value="male"/>
+                  </persName>
+             an <rs id="t16750219-1-deflabel1" type="occupation">Ostler</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t16750219-1-defend1 t16750219-1-deflabel1"/> at the <placeName id="t16750219-1-crimeloc2">Bell-Inn on Fish-street Hill</placeName>
+                  <interp inst="t16750219-1-crimeloc2" type="placeName"
+                          value="Bell-Inn on Fish-street Hill"/>
+                  <interp inst="t16750219-1-crimeloc2" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16750219-1-off3 t16750219-1-crimeloc2"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16750219-1-off4 t16750219-1-crimeloc2"/> who was arraigned upon two several Indictments, the one for the <rs id="t16750219-1-off3" type="offenceDescription">
+                     <interp inst="t16750219-1-off3" type="offenceCategory" value="theft"/>
+                     <interp inst="t16750219-1-off3" type="offenceSubcategory" value="animalTheft"/>
+               Felonious stealing of a Horse
+            </rs>, the other for the <rs id="t16750219-1-off4" type="offenceDescription">
+                     <interp inst="t16750219-1-off4" type="offenceCategory" value="theft"/>
+                     <interp inst="t16750219-1-off4" type="offenceSubcategory" value="grandLarceny"/>
+               taking away of Monyes to the value of fourscore Pounds and upwards
+            </rs>, from one 
+               <persName id="t16750219-1-victim2" type="victimName">
+                     <rs id="t16750219-1-viclabel5" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16750219-1-victim2 t16750219-1-viclabel5"/> 
+                  Sterling
+               <interp inst="t16750219-1-victim2" type="surname" value="Sterling"/>
+                     <interp inst="t16750219-1-victim2" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16750219-1-off3 t16750219-1-victim2"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16750219-1-off4 t16750219-1-victim2"/>
+                  </persName>
+            , a <rs id="t16750219-1-viclabel6" type="occupation">Gentleman</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t16750219-1-victim2 t16750219-1-viclabel6"/> that lay in the same Inn, it seemes upon the evidence, that this Gentleman overnight spoke to the said Hostler to get his Horse ready the next Morning for his journy; which accordingly was done, and that Morning the Gentleman finding his Horse made ready, took his Portmante wherein was fourscore Pounds and upwards, and laid it on himself upon the Horse and fastned it, and then going back again upon some occasion into the House, at his return within a very little time, finds his horse and mony gone and the Ostler to boot, who had taken this opportunity of his absence to leap into the <xptr type="pageFacsimile" doc="16750219003"/>the Saddle and ride away with the booty; the Gentleman being thus left in the Lurch, finds it to little purpose to pursue after him, but rests for a while as patient as the reflections of so great a loss and disappointment would suffer him, It happened the same day towards Evening that a friend of this Gentlemans being in Russel-street neare Drury-Lane, towards the Evening saw the aforesaid Hostler passing by, He was then diguised with a Periwig so that he was not easy to be known, however the Gentleman apprehended him and it proved the same person, and he Confessed before the justice upon his examination that it was he that rode away with the Gentlemans Horse, and mony, and being demanded what he had done with them, he acquainted them that he had hid the mony (all but a little) that he took out for present occasions in Cane-wood near Highgate, and there according to his directions going over to the place they found it the horse he had left at Holloway tying him to a Bush, in the High-way and upon inquiry in the Neighbourhood there they chanced to heare of him, and the Gentleman had him  returned again allso</p>
+               <p>Upon his tryal he confest that he had rod away with the Horse and mony, but desired the favour of the Court in respect that the Gentleman had his Horse and mony returned again, which matter being left to the Jury, they brough him upon the first indictment for stealing the horse <rs id="t16750219-1-verdict7" type="verdictDescription">
+                     <interp inst="t16750219-1-verdict7" type="verdictCategory" value="notGuilty"/>
+               not guilty
+            </rs>, upon the second <rs id="t16750219-1-verdict8" type="verdictDescription">
+                     <interp inst="t16750219-1-verdict8" type="verdictCategory" value="guilty"/>
+               they found him that as for taking the mony
+            </rs>; notwithstanding the Court not being satisfied with their first Verdict, sent them out again to consider of it but  <xptr type="pageFacsimile" doc="16750219004"/>they brought in the same again that he was not Guilty of Stealing the Horse, for that as they said they understood the Gentlemans Horse was delivered to him to hold while the Gentleman went in, which made a Lawful possession, and therefore could be no Felonius taking him away, but the Court seemed to be of another opinion.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16750219-2">
+               <interp inst="t16750219-2" type="collection" value="BAILEY"/>
+               <interp inst="t16750219-2" type="year" value="1675"/>
+               <interp inst="t16750219-2" type="uri" value="sessionsPapers/16750219"/>
+               <interp inst="t16750219-2" type="date" value="16750219"/>
+               <join result="criminalCharge" id="t16750219-2-off10-c3" targOrder="Y"
+                     targets="t16750219-2-defend3 t16750219-2-off10 t16750219-2-verdict13"/>
+         
+               <p>The fact was not more knavish then the next was Tragical, which was the tryal of that bloudy and inhumane Villaine, the 
+               <persName id="t16750219-2-defend3" type="defendantName">
+                     <rs id="t16750219-2-deflabel9" type="occupation">Butcher</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16750219-2-defend3 t16750219-2-deflabel9"/>
+                     <interp inst="t16750219-2-defend3" type="gender" value="male"/>
+                  </persName>
+             that <rs id="t16750219-2-off10" type="offenceDescription">
+                     <interp inst="t16750219-2-off10" type="offenceCategory" value="kill"/>
+                     <interp inst="t16750219-2-off10" type="offenceSubcategory" value="murder"/>
+               kild his 
+                     <persName id="t16750219-2-victim4" type="victimName">
+                        <rs id="t16750219-2-viclabel11" type="occupation">Wife</rs>
+                        <join result="persNameOccupation" targOrder="Y"
+                              targets="t16750219-2-victim4 t16750219-2-viclabel11"/>
+                        <interp inst="t16750219-2-victim4" type="gender" value="female"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t16750219-2-off10 t16750219-2-victim4"/>
+                     </persName>
+                  
+               
+                  </rs> at <placeName id="t16750219-2-crimeloc12">Islington</placeName>
+                  <interp inst="t16750219-2-crimeloc12" type="placeName" value="Islington"/>
+                  <interp inst="t16750219-2-crimeloc12" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t16750219-2-off10 t16750219-2-crimeloc12"/>, <rs id="t16750219-2-verdict13" type="verdictDescription">
+                     <interp inst="t16750219-2-verdict13" type="verdictCategory" value="guilty"/>
+               the fact was apparently proved against him
+            </rs> by divers witnesses to whom he confest it, and by examination taken before a Justice upon his apprehension neither indeed did he go about to deny it at his Tryal but rather seemed to justified it both by his words and carriage, for when the Court asked him if he did not find a remors and trouble in his spirit for what he had done, he repyled that it did not, and that his Wife might thank her self for what she suffered for that she urged him to it, upon the whole circumstance of the Evidence it appeared that this fellow had lived with this aforesaid wife for the space of near too Years, leaving her that time in the Country, and keeping himself in London, where he drove the Trade of a Butcher, of which profession he proved to be from first to last, about the Bowling-ally in Turnbal-street; the Tuesday before the fact was done, the woman his wife, having been with him some days in town, and did by his order go back to the Town where she lived to fetch up some things that he wanted, and was to return again the Tuesday following, which she did and <xptr type="pageFacsimile" doc="16750219005"/>as soon as she came to Town, poor Soul, goes directly to her bloody minded Husband, who seeming all this while to be taking care for a settlement for her, was in the mean while rather studying to destroy her, for upon her arrival he acquaints her that he had taken a new Lodging at Islington where they were to lye that night, and thither she must go with him, which she did, following him along Hatton-Garding, to Clarkenwell and so to Islington, where taking his opportunity near the Gravel-pits, a place fit for his hellish purpose, he fell upon her, and in a Barbarous manner gave her several deadly wounds in her head and Breast with her own Pattin, of which wounds she was found dead the next Morning being Saturday, and the same day the Murtherer was also by the providence of the Divine justice found out and discoverd, as hath been formerly related to you in another account of this Targedy.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16750219-3">
+               <interp inst="t16750219-3" type="collection" value="BAILEY"/>
+               <interp inst="t16750219-3" type="year" value="1675"/>
+               <interp inst="t16750219-3" type="uri" value="sessionsPapers/16750219"/>
+               <interp inst="t16750219-3" type="date" value="16750219"/>
+               <join result="criminalCharge" id="t16750219-3-off16-c5" targOrder="Y"
+                     targets="t16750219-3-defend5 t16750219-3-off16 "/>
+               <join result="criminalCharge" id="t16750219-3-off16-c6" targOrder="Y"
+                     targets="t16750219-3-defend6 t16750219-3-off16 "/>
+         
+               <p>There was also indicted a 
+               <persName id="t16750219-3-defend5" type="defendantName">young man<interp inst="t16750219-3-defend5" type="gender" value="male"/>
+                  </persName>
+             and a 
+               <persName id="t16750219-3-defend6" type="defendantName">maid<interp inst="t16750219-3-defend6" type="gender" value="female"/>
+                  </persName>
+             that had been lately <rs id="t16750219-3-deflabel14" type="occupation">Servants</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t16750219-3-defend5 t16750219-3-deflabel14"/>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t16750219-3-defend6 t16750219-3-deflabel14"/> to a 
+               <persName id="t16750219-3-victim7" type="victimName">
+                     <rs id="t16750219-3-viclabel15" type="occupation">Gentleman</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16750219-3-victim7 t16750219-3-viclabel15"/>
+                     <interp inst="t16750219-3-victim7" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16750219-3-off16 t16750219-3-victim7"/>
+                  </persName>
+             whose <rs id="t16750219-3-off16" type="offenceDescription">
+                     <interp inst="t16750219-3-off16" type="offenceCategory" value="theft"/>
+                     <interp inst="t16750219-3-off16" type="offenceSubcategory" value="burglary"/>
+               house being not far out of Town, was lately broke open and Robed, whence they lost several pieces of plate, and other things of greater value
+            </rs>, and these two persons being suspected to be the acters or at least accessaries to the robery, were now tryed upon it, the fact upon the tryal appeared to be thus, the Gentleman of the House was that night abroad, his Wife and maid lay in a roome up one pair of stairs with a little Child of the gentlemans, towards Morning early comes in three men into the roome in Vizards and a light with them, with Weapons, the one having an
+<xptr type="pageFacsimile" doc="16750219006"/>Hanger, another an Holbert, and the third a Pistol, in this formidable posture they came to her Bedside.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16750219-4">
+               <interp inst="t16750219-4" type="collection" value="BAILEY"/>
+               <interp inst="t16750219-4" type="year" value="1675"/>
+               <interp inst="t16750219-4" type="uri" value="sessionsPapers/16750219"/>
+               <interp inst="t16750219-4" type="date" value="16750219"/>
+               <join result="criminalCharge" id="t16750219-4-off17-c8" targOrder="Y"
+                     targets="t16750219-4-defend8 t16750219-4-off17 t16750219-4-verdict20"/>
+         
+               <p>There was also Tryed one 
+               <persName id="t16750219-4-defend8" type="defendantName">
+                  Stevens
+               <interp inst="t16750219-4-defend8" type="surname" value="Stevens"/>
+                     <interp inst="t16750219-4-defend8" type="gender" value="male"/>
+                  </persName>
+             for <rs id="t16750219-4-off17" type="offenceDescription">
+                     <interp inst="t16750219-4-off17" type="offenceCategory" value="theft"/>
+                     <interp inst="t16750219-4-off17" type="offenceSubcategory" value="burglary"/>
+               breaking open a House at <placeName id="t16750219-4-crimeloc18">Brandford</placeName>
+                     <interp inst="t16750219-4-crimeloc18" type="placeName" value="Brandford"/>
+                     <interp inst="t16750219-4-crimeloc18" type="type" value="crimeLocation"/>
+                     <join result="offencePlace" targOrder="Y"
+                           targets="t16750219-4-off17 t16750219-4-crimeloc18"/> which was the house where he usually Lodged
+            </rs>; his 
+               <persName id="t16750219-4-victim9" type="victimName">
+                     <rs id="t16750219-4-viclabel19" type="occupation">Landlady</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t16750219-4-victim9 t16750219-4-viclabel19"/>
+                     <interp inst="t16750219-4-victim9" type="gender" value="female"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t16750219-4-off17 t16750219-4-victim9"/>
+                  </persName>
+             having laid up 30. pounds for to pay her Brewer he having some sight thereof longed for an oportunity; whereby he might furnish himself with that Treasure, To accomplish which design, he on the next morning went forth and staid out all the day, and the best part of the Night; then coming to the house and finding all things secure, he broke into the house, and took away the money, besides plate and the Rings: to the value of 60. pounds for which he was Tried, and <rs id="t16750219-4-verdict20" type="verdictDescription">
+                     <interp inst="t16750219-4-verdict20" type="verdictCategory" value="guilty"/>
+               Condemned
+            </rs> 
+                  <rs id="t16750219-4-punish21" type="punishmentDescription">
+                     <interp inst="t16750219-4-punish21" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16750219-4-defend8 t16750219-4-punish21"/>
+               to be hanged
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="supplementaryMaterial" id="o16750219-1">
+               <interp inst="o16750219-1" type="collection" value="BAILEY"/>
+               <interp inst="o16750219-1" type="year" value="1675"/>
+               <interp inst="o16750219-1" type="uri" value="sessionsPapers/16750219"/>
+               <interp inst="o16750219-1" type="date" value="16750219"/>
+         
+               <p>The Confession of 
+               <persName id="o16750219-1-defend10" type="defendantName">
+                  George 
+                  Allin
+               <interp inst="o16750219-1-defend10" type="surname" value="Allin"/>
+                     <interp inst="o16750219-1-defend10" type="given" value="George"/>
+                     <interp inst="o16750219-1-defend10" type="gender" value="male"/>
+                  </persName>
+             before several Ministers in Newgate.</p>
+               <p>After the Ministers had prayed with him, they urged to know the reason why he killed his Wife, and the cause of his first leaving of her; he replyed, that she had kept others Company; and could not therefore live Contented, and therefore left her. Then afterwards, fell in Love with a Servant Maid that lived next door to his Masters, and that it was through her means that he killed her, for she had moved him several times to marry her, and he replyed, that he could not well do it; by reason he had a Wife already; desired to know whether she would have him knock her in the head; she Answered, do what you will George. Furthermore he was asked whether he had made use of this Persons Body; to this after long consideration; Confessed that he had, and that it was through her means that he killed his Wife, and farther did confess in the hearing of several; that he had but then parted with the Maid in one Field, and killed his Wife in the next. Then he and she coming face to face these things being laid to her charge she utterly denied, to which he replyed, that he had bought her a Ring, that cost him twenty eight shillings, which was all the Money that he could make shift for; and that he did always give her all the money that he could shift for, and that he had <xptr type="pageFacsimile" doc="16750219007"/>not Money for to Marry her, to which she replied that she would find Money.</p>
+               <p>He is become very penitent, and is seldome or never without his book in his hand Reading, and Praying to God to forgive him for all his former sins and Wickedness; and more especially for this Crying sin of Murdering his own dear flesh and Blood, which hainous sinne Cryes to God for vengeance against him: He defaes all people to pray for him, (especially Young people,) desiring them to take example by him; and his shameful death; and to have a special care what Company they keep, and to beware of the Company of Evil Women which had been the Chief cause of this his shameful End.</p>
+            </div1>
+   
+         </div0>
+      </body>
+   </text>
+</TEI.2>

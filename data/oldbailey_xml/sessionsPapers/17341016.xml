@@ -1,0 +1,2753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="sessionsPaper" id="17341016">
+            <interp inst="17341016" type="collection" value="BAILEY"/>
+            <interp inst="17341016" type="year" value="1734"/>
+            <interp inst="17341016" type="uri" value="sessionsPapers/17341016"/>
+            <interp inst="17341016" type="date" value="17341016"/>
+            <xptr type="transcription" doc="17341016"/>
+   
+            <div1 type="frontMatter" id="f17341016-1">
+               <interp inst="f17341016-1" type="collection" value="BAILEY"/>
+               <interp inst="f17341016-1" type="year" value="1734"/>
+               <interp inst="f17341016-1" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="f17341016-1" type="date" value="17341016"/>
+         
+               <xptr type="pageFacsimile" doc="173410160001"/>THE PROCEEDINGS AT THE Sessions of the Peace, and Oyer and Terminer, FOR THE City of LONDON, AND County of MIDDLESEX, ON
+         <p>Wednesday the 16th, and Thursday the 17th, of October, in the Eighth Year of His MAJESTY's Reign.</p>
+               <p>Being the Eighth SESSIONS in the Mayoralty of the Right Honourable Sir WILLIAM BILLERS, Knt. Lord Mayor of the City of LONDON, in the Year 1734.</p>
+               <p>NUMBER VIII,</p>
+               <p>LONDON:</p>
+               <p>Printed for J. WILFORD, behind the Chapter-House, near St. Paul's. M,DCC,XXXIV.</p>
+               <p>(Price Six Pence.)</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173410160002"/>The PROCEEDINGS, &amp;c.</p>
+               <p>BEFORE the Right Honourable Sir 
+               
+                  <persName id="f17341016-1-person1" type="judiciaryName">
+                     WILLIAM 
+                     BILLERS 
+                  <interp inst="f17341016-1-person1" type="surname" value="BILLERS"/>
+                     <interp inst="f17341016-1-person1" type="given" value="WILLIAM"/>
+                     <interp inst="f17341016-1-person1" type="gender" value="male"/>
+                  </persName>
+               , Knt. Lord Mayor of the City of London; the Right Honourable the Lord Chief Justice Hardwicke; Mr. 
+                  <persName id="f17341016-1-person2" type="judiciaryName">
+                     Baron 
+                     Comyns 
+                  <interp inst="f17341016-1-person2" type="surname" value="Comyns"/>
+                     <interp inst="f17341016-1-person2" type="given" value="Baron"/>
+                     <interp inst="f17341016-1-person2" type="gender" value="male"/>
+                  </persName>
+               ; Mr. Justice Denton; Mr. Serjeant Urlin, Deputy Recorder of the City of London; and others His Majesty's Justices of Oyer and Terminer for the City of London, and Justices of Goal-Delivery of Newgate, holden for the said City and County of Middlesex.</p>
+         
+               <p>London Jury.</p>
+               <p>
+               
+                  <persName id="f17341016-1-person3" type="jurorName">
+                     Thomas 
+                     Sambrook 
+                  <interp inst="f17341016-1-person3" type="surname" value="Sambrook"/>
+                     <interp inst="f17341016-1-person3" type="given" value="Thomas"/>
+                     <interp inst="f17341016-1-person3" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person4" type="jurorName">
+                     Edward 
+                     Jones 
+                  <interp inst="f17341016-1-person4" type="surname" value="Jones"/>
+                     <interp inst="f17341016-1-person4" type="given" value="Edward"/>
+                     <interp inst="f17341016-1-person4" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person5" type="jurorName">
+                     Thomas 
+                     Carter 
+                  <interp inst="f17341016-1-person5" type="surname" value="Carter"/>
+                     <interp inst="f17341016-1-person5" type="given" value="Thomas"/>
+                     <interp inst="f17341016-1-person5" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person6" type="jurorName">
+                     Daniel 
+                     Winchester 
+                  <interp inst="f17341016-1-person6" type="surname" value="Winchester"/>
+                     <interp inst="f17341016-1-person6" type="given" value="Daniel"/>
+                     <interp inst="f17341016-1-person6" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person7" type="jurorName">
+                     Thomas 
+                     Burkett 
+                  <interp inst="f17341016-1-person7" type="surname" value="Burkett"/>
+                     <interp inst="f17341016-1-person7" type="given" value="Thomas"/>
+                     <interp inst="f17341016-1-person7" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person8" type="jurorName">
+                     John 
+                     Ellery 
+                  <interp inst="f17341016-1-person8" type="surname" value="Ellery"/>
+                     <interp inst="f17341016-1-person8" type="given" value="John"/>
+                     <interp inst="f17341016-1-person8" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person9" type="jurorName">
+                     William 
+                     Limmer 
+                  <interp inst="f17341016-1-person9" type="surname" value="Limmer"/>
+                     <interp inst="f17341016-1-person9" type="given" value="William"/>
+                     <interp inst="f17341016-1-person9" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person10" type="jurorName">
+                     John 
+                     Langford 
+                  <interp inst="f17341016-1-person10" type="surname" value="Langford"/>
+                     <interp inst="f17341016-1-person10" type="given" value="John"/>
+                     <interp inst="f17341016-1-person10" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person11" type="jurorName">
+                     James 
+                     Brown 
+                  <interp inst="f17341016-1-person11" type="surname" value="Brown"/>
+                     <interp inst="f17341016-1-person11" type="given" value="James"/>
+                     <interp inst="f17341016-1-person11" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person12" type="jurorName">
+                     Edward 
+                     Mason 
+                  <interp inst="f17341016-1-person12" type="surname" value="Mason"/>
+                     <interp inst="f17341016-1-person12" type="given" value="Edward"/>
+                     <interp inst="f17341016-1-person12" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person13" type="jurorName">
+                     Noah 
+                     Noble 
+                  <interp inst="f17341016-1-person13" type="surname" value="Noble"/>
+                     <interp inst="f17341016-1-person13" type="given" value="Noah"/>
+                     <interp inst="f17341016-1-person13" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person14" type="jurorName">
+                     William 
+                     Smith 
+                  <interp inst="f17341016-1-person14" type="surname" value="Smith"/>
+                     <interp inst="f17341016-1-person14" type="given" value="William"/>
+                     <interp inst="f17341016-1-person14" type="gender" value="male"/>
+                  </persName>
+               .</p>
+         
+         
+               <p>Middlesex Jury.</p> 
+               <p>
+               
+                  <persName id="f17341016-1-person15" type="jurorName">
+                     Benj 
+                     Foster 
+                  <interp inst="f17341016-1-person15" type="surname" value="Foster"/>
+                     <interp inst="f17341016-1-person15" type="given" value="Benj"/>
+                     <interp inst="f17341016-1-person15" type="gender" value="male"/>
+                  </persName>
+               , Gent.</p>
+               <p>
+               
+                  <persName id="f17341016-1-person16" type="jurorName">
+                     Walter 
+                     Lee 
+                  <interp inst="f17341016-1-person16" type="surname" value="Lee"/>
+                     <interp inst="f17341016-1-person16" type="given" value="Walter"/>
+                     <interp inst="f17341016-1-person16" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person17" type="jurorName">
+                     John 
+                     Wilson 
+                  <interp inst="f17341016-1-person17" type="surname" value="Wilson"/>
+                     <interp inst="f17341016-1-person17" type="given" value="John"/>
+                     <interp inst="f17341016-1-person17" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person18" type="jurorName">
+                     Edward 
+                     Dusell 
+                  <interp inst="f17341016-1-person18" type="surname" value="Dusell"/>
+                     <interp inst="f17341016-1-person18" type="given" value="Edward"/>
+                     <interp inst="f17341016-1-person18" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person19" type="jurorName">
+                     Henry 
+                     Micklebourn 
+                  <interp inst="f17341016-1-person19" type="surname" value="Micklebourn"/>
+                     <interp inst="f17341016-1-person19" type="given" value="Henry"/>
+                     <interp inst="f17341016-1-person19" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person20" type="jurorName">
+                     Thomas 
+                     Harrison 
+                  <interp inst="f17341016-1-person20" type="surname" value="Harrison"/>
+                     <interp inst="f17341016-1-person20" type="given" value="Thomas"/>
+                     <interp inst="f17341016-1-person20" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person21" type="jurorName">
+                     Richard 
+                     Wildair 
+                  <interp inst="f17341016-1-person21" type="surname" value="Wildair"/>
+                     <interp inst="f17341016-1-person21" type="given" value="Richard"/>
+                     <interp inst="f17341016-1-person21" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person22" type="jurorName">
+                     Phil 
+                     Blanchard 
+                  <interp inst="f17341016-1-person22" type="surname" value="Blanchard"/>
+                     <interp inst="f17341016-1-person22" type="given" value="Phil"/>
+                     <interp inst="f17341016-1-person22" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person23" type="jurorName">
+                     John 
+                     Mountany 
+                  <interp inst="f17341016-1-person23" type="surname" value="Mountany"/>
+                     <interp inst="f17341016-1-person23" type="given" value="John"/>
+                     <interp inst="f17341016-1-person23" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person24" type="jurorName">
+                     John 
+                     Prescot 
+                  <interp inst="f17341016-1-person24" type="surname" value="Prescot"/>
+                     <interp inst="f17341016-1-person24" type="given" value="John"/>
+                     <interp inst="f17341016-1-person24" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person25" type="jurorName">
+                     Edward 
+                     Langford 
+                  <interp inst="f17341016-1-person25" type="surname" value="Langford"/>
+                     <interp inst="f17341016-1-person25" type="given" value="Edward"/>
+                     <interp inst="f17341016-1-person25" type="gender" value="male"/>
+                  </persName>
+               ,</p>
+               <p>
+               
+                  <persName id="f17341016-1-person26" type="jurorName">
+                     Samuel 
+                     Malling 
+                  <interp inst="f17341016-1-person26" type="surname" value="Malling"/>
+                     <interp inst="f17341016-1-person26" type="given" value="Samuel"/>
+                     <interp inst="f17341016-1-person26" type="gender" value="male"/>
+                  </persName>
+               .</p>
+         
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-1">
+               <interp inst="t17341016-1" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-1" type="year" value="1734"/>
+               <interp inst="t17341016-1" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-1" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-1-off1-c27" targOrder="Y"
+                     targets="t17341016-1-defend28 t17341016-1-off1 t17341016-1-verdict3"/>
+         
+               <p>1. 
+               
+                  <persName id="t17341016-1-defend28" type="defendantName">
+                     Christopher 
+                     Popping 
+                  <interp inst="t17341016-1-defend28" type="surname" value="Popping"/>
+                     <interp inst="t17341016-1-defend28" type="given" value="Christopher"/>
+                     <interp inst="t17341016-1-defend28" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-1-off1" type="offenceDescription">
+                     <interp inst="t17341016-1-off1" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-1-off1" type="offenceSubcategory" value="grandLarceny"/>
+               stealing four French Books, value 3 s. 6d.
+            </rs> the Goods of 
+               
+                  <persName id="t17341016-1-victim30" type="victimName">
+                     Thomas 
+                     King 
+                  <interp inst="t17341016-1-victim30" type="surname" value="King"/>
+                     <interp inst="t17341016-1-victim30" type="given" value="Thomas"/>
+                     <interp inst="t17341016-1-victim30" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-1-off1 t17341016-1-victim30"/>
+                  </persName>
+                
+            , <rs id="t17341016-1-cd2" type="crimeDate">Sept. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-1-off1 t17341016-1-cd2"/>. No Evidence. <rs id="t17341016-1-verdict3" type="verdictDescription">
+                     <interp inst="t17341016-1-verdict3" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-1-verdict3" type="verdictSubcategory" value="noEvidence"/>
+               Acquitted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-2">
+               <interp inst="t17341016-2" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-2" type="year" value="1734"/>
+               <interp inst="t17341016-2" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-2" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-2-off5-c29" targOrder="Y"
+                     targets="t17341016-2-defend32 t17341016-2-off5 t17341016-2-verdict10"/>
+         
+               <p>2. 
+               
+                  <persName id="t17341016-2-defend32" type="defendantName">
+                     James 
+                     Sword 
+                  <interp inst="t17341016-2-defend32" type="surname" value="Sword"/>
+                     <interp inst="t17341016-2-defend32" type="given" value="James"/>
+                     <interp inst="t17341016-2-defend32" type="gender" value="male"/>
+                  </persName>
+               
+            , a <rs id="t17341016-2-deflabel4" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-2-defend32 t17341016-2-deflabel4"/>, was indicted for <rs id="t17341016-2-off5" type="offenceDescription">
+                     <interp inst="t17341016-2-off5" type="offenceCategory" value="violentTheft"/>
+                     <interp inst="t17341016-2-off5" type="offenceSubcategory" value="highwayRobbery"/>
+               assaulting Christian, the <rs id="t17341016-2-viclabel6" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t17341016-2-victim35 t17341016-2-viclabel6"/> of 
+                     <persName id="t17341016-2-person33">
+                        William 
+                        Clark 
+                     <interp inst="t17341016-2-person33" type="surname" value="Clark"/>
+                        <interp inst="t17341016-2-person33" type="given" value="William"/>
+                        <interp inst="t17341016-2-person33" type="gender" value="male"/>
+                     </persName>
+                  , on the Highway, putting her in Fear, and taking from her 27 Pewter Spoons, value 3 s.
+            </rs> 
+                  <rs id="t17341016-2-cd7" type="crimeDate">Sept. 25.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-2-off5 t17341016-2-cd7"/>
+               </p>
+               <p>
+            
+               
+                  <persName id="t17341016-2-victim35" type="victimName">
+                     Christian 
+                     Clark 
+                  <interp inst="t17341016-2-victim35" type="surname" value="Clark"/>
+                     <interp inst="t17341016-2-victim35" type="given" value="Christian"/>
+                     <interp inst="t17341016-2-victim35" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-2-off5 t17341016-2-victim35"/>
+                  </persName>
+                
+            . About 3 in the Afternoon, as I was coming from the Pyed Bull, in <placeName id="t17341016-2-crimeloc8">May-Fair</placeName>
+                  <interp inst="t17341016-2-crimeloc8" type="placeName" value="May-Fair"/>
+                  <interp inst="t17341016-2-crimeloc8" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-2-off5 t17341016-2-crimeloc8"/>, I was met in the Fields by the Prisoner and another Man. I had some Pewter Spoons in a Basket, and the Prisoner stopt me, and said, Damn your Blood, what do you sell such Spoons as these for? They are not good Metal, and so he took 2 Dozen and 2 from me, and gave them to his Companion, who went off with them, and I ran away: but the Prisoner follow'd me to <placeName id="t17341016-2-crimeloc9">Carnaby-Market</placeName>
+                  <interp inst="t17341016-2-crimeloc9" type="placeName" value="Carnaby-Market"/>
+                  <interp inst="t17341016-2-crimeloc9" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-2-off5 t17341016-2-crimeloc9"/>, and abused me very much, and I cry'd out for my Life, and a Mob got about us; but for all that, he took another Spoon from me there Rolus Bolus, in the Presence of all the People.</p>
+               <p>Court. When was this?</p>
+               <p>Clark. I have forgotten the Day of the Month effegs; but it was about 3 Weeks ago, and upon my crying out, the Prisoner was taken and carry'd before the Justice.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person36">
+                  John 
+                  Wing 
+               <interp inst="t17341016-2-person36" type="surname" value="Wing"/>
+                     <interp inst="t17341016-2-person36" type="given" value="John"/>
+                     <interp inst="t17341016-2-person36" type="gender" value="male"/>
+                  </persName>
+            . On the 25th of September, I saw the Prisoner assault the Prosecutor in Carnaby-Street, and she hung by his Arm, and cry'd, and said he had robb'd her in May-Fair, and she wanted a Constable; and I saw him take one Spoon out of her Basket. He pretended her Spoons were bad Metal, and that she has no Power to sell them, because she had not got a Licence to hawk them. I took the Spoon out of his Hand, and advised him to make her Satisfaction for the Spoons he had taken from her in May-Fair, and so to go about his Business, and not oblige her to prosecute him.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person37">
+                  Edward 
+                  Greenwell 
+               <interp inst="t17341016-2-person37" type="surname" value="Greenwell"/>
+                     <interp inst="t17341016-2-person37" type="given" value="Edward"/>
+                     <interp inst="t17341016-2-person37" type="gender" value="male"/>
+                  </persName>
+            . I saw the Prisoner take the Spoon from her at a Tin sho Door in Carnaby Street; Mr Wing advised him to make her Satisfaction; but he refused, and so he was carry'd before Justice Lambert, where he was required to discover his Companion. He said he knew where he was, but he would not tell us.</p>
+               <p>Prisoner. I saw this Woman first by the Turn-Stile in Band street she sighed, and said, she had been at the Pyed Bull, an there they had broke her of two Dozen of Spoons. What Spoons? says I. And then she shew'd me one. I ask'd her the Price, and she<xptr type="pageFacsimile" doc="173410160003"/> told me 18 d. a Dozen. I let her know that I belong'd to the Trade, and if the Spoons were good Metal, and she came honestly by them, she could not afford to sell them at that Price. Whereupon she run away, and I afterwards happen'd to call in at a Gin-shop in Carnaby-Market, and while I was there, this Woman came by, and so I goes to her, to know what Authority she had to hawk such Goods. You are one of the Rogues that sells Buttons about the Streets, says she, and then she flew upon me, and struck me in the Face, and then taking up one of her Spoons, she said, See here, you Rogue, here is my Spoon, I neither stole it nor is it bad Metal; and what has such a Rogue as you to do with it? I took the Spoon out of her Hand to look at it, and then John Wing said, Now by God she shall swear a Robbery against you. A great Mob gather'd about us, and they took her part more than mine, and so I was carry'd before Justice Lambert, and committed to the Round-house. As for what she says of the 2 Dozen of Spoons, I never touched 'em, for I meddled with none but that one Spoon as she shewed me in Carnaby-Market.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person38">
+                  Elizabeth
+                   Mac Claghan
+               <interp inst="t17341016-2-person38" type="surname" value="Mac Claghan"/>
+                     <interp inst="t17341016-2-person38" type="given" value="Elizabeth"/>
+                     <interp inst="t17341016-2-person38" type="gender" value="female"/>
+                  </persName>
+            . The Prosecutor sold two Spoons to a Woman at my Cellar-door for 6 d. and two old Spoons. I said it was too dear, upon which the Prosecutor swore that I stole some Spoons out of her Basket.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person39">
+                  Susan 
+                  Cullimore 
+               <interp inst="t17341016-2-person39" type="surname" value="Cullimore"/>
+                     <interp inst="t17341016-2-person39" type="given" value="Susan"/>
+                     <interp inst="t17341016-2-person39" type="gender" value="female"/>
+                  </persName>
+            . She came into the Pyed-Bull at May Fair, and would have sworn that one of the Men there had robb'd her of 3 Dozen of Spoons.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person40">
+                  Andrew 
+                  Tate 
+               <interp inst="t17341016-2-person40" type="surname" value="Tate"/>
+                     <interp inst="t17341016-2-person40" type="given" value="Andrew"/>
+                     <interp inst="t17341016-2-person40" type="gender" value="male"/>
+                  </persName>
+            . I have known the Prisoner 18 or 20 Years, I am a Brasier, and I have trusted him in my Shop 8 Years, and always found him very honest.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person41">
+                  William 
+                  Williams 
+               <interp inst="t17341016-2-person41" type="surname" value="Williams"/>
+                     <interp inst="t17341016-2-person41" type="given" value="William"/>
+                     <interp inst="t17341016-2-person41" type="gender" value="male"/>
+                  </persName>
+            . He work'd for me from Midsummer to Christmas, and then he went to Mr. Gaskin - He behav'd himself very well in my Service.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person42">
+                  John 
+                  Gaskin 
+               <interp inst="t17341016-2-person42" type="surname" value="Gaskin"/>
+                     <interp inst="t17341016-2-person42" type="given" value="John"/>
+                     <interp inst="t17341016-2-person42" type="gender" value="male"/>
+                  </persName>
+            . He work'd with me 3 Months, he lay in my Shop; and I trusted him with all my Goods, but never mist any thing.</p>
+               <p>
+            
+                  <persName id="t17341016-2-person43">
+                  Richard 
+                  Hodgins 
+               <interp inst="t17341016-2-person43" type="surname" value="Hodgins"/>
+                     <interp inst="t17341016-2-person43" type="given" value="Richard"/>
+                     <interp inst="t17341016-2-person43" type="gender" value="male"/>
+                  </persName>
+            , Serjeant. The Prisoner has been 8 Years in Colonel Skelton's Company, in the third Regiment of Foot Guards. He has likewise served Captain Lendsey, Captain Strode, and Captain Godard; who have all trusted him, and have all said they found him very honest.</p>
+               <p>The Jury <rs id="t17341016-2-verdict10" type="verdictDescription">
+                     <interp inst="t17341016-2-verdict10" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> him.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-3">
+               <interp inst="t17341016-3" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-3" type="year" value="1734"/>
+               <interp inst="t17341016-3" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-3" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-3-off11-c40" targOrder="Y"
+                     targets="t17341016-3-defend45 t17341016-3-off11 t17341016-3-verdict14"/>
+         
+               <p>3. 
+               
+                  <persName id="t17341016-3-defend45" type="defendantName">
+                     Catherine 
+                     Lucas 
+                  <interp inst="t17341016-3-defend45" type="surname" value="Lucas"/>
+                     <interp inst="t17341016-3-defend45" type="given" value="Catherine"/>
+                     <interp inst="t17341016-3-defend45" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-3-off11" type="offenceDescription">
+                     <interp inst="t17341016-3-off11" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-3-off11" type="offenceSubcategory" value="shoplifting"/>
+               stealing 1 piece of Worsted Cambletee, value 21 s. the Property of 
+                     
+                        <persName id="t17341016-3-victim47" type="victimName">
+                           Charles 
+                           Delahaze 
+                        <interp inst="t17341016-3-victim47" type="surname" value="Delahaze"/>
+                        <interp inst="t17341016-3-victim47" type="given" value="Charles"/>
+                        <interp inst="t17341016-3-victim47" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-3-off11 t17341016-3-victim47"/>
+                     </persName>
+                      
+                  , in his Shop privately
+            </rs>, <rs id="t17341016-3-cd12" type="crimeDate">September 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-3-off11 t17341016-3-cd12"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-3-person48">
+                  Charles 
+                  Delahaze 
+               <interp inst="t17341016-3-person48" type="surname" value="Delahaze"/>
+                     <interp inst="t17341016-3-person48" type="given" value="Charles"/>
+                     <interp inst="t17341016-3-person48" type="gender" value="male"/>
+                  </persName>
+            . About 4 o'Clock on Saturday in the Afternoon, as I was smoaking my Pipe at an opposite Neighbour's Door, when I saw the Prisoner and another Woman go into my Shop, the <placeName id="t17341016-3-crimeloc13">Indian Queen in Crispin-street</placeName>
+                  <interp inst="t17341016-3-crimeloc13" type="placeName"
+                          value="Indian Queen in Crispin-street"/>
+                  <interp inst="t17341016-3-crimeloc13" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-3-off11 t17341016-3-crimeloc13"/>; and by and by they came out again, and the Prisoner went up an Entry, and the other Woman went another way.</p>
+               <p>
+            
+                  <persName id="t17341016-3-person49">
+                  Susan 
+                  Delahaze 
+               <interp inst="t17341016-3-person49" type="surname" value="Delahaze"/>
+                     <interp inst="t17341016-3-person49" type="given" value="Susan"/>
+                     <interp inst="t17341016-3-person49" type="gender" value="female"/>
+                  </persName>
+            . I and my Daughter were in the Shop. The Prisoner and another Woman came in, and asked for some Cambletee for a Gown: We agreed for a Shilling a Yard, and then the Prisoner bid me cut off 12 Yards, which I did. Then she felt a good while in her Bosom with her left Hand for her Money, and the same time fumbled under her Apron with her right Hand. I suppose she was hiding the piece of Cambletee. Then she said she had left her Purse at home; and so she laid down half a Crown earnest, and said she would go home for her Purse and come again presently; but as she and her Companion were going out at the Door I mist the piece of Cambletee ; the other Woman run up the Street, and the Prisoner into an Entry; I follow'd her, and brought her back, she said she had got nothing, but the piece was afterwards found in that Entry.</p>
+               <p>
+            
+                  <persName id="t17341016-3-person50">
+                  Susan 
+                  Everton 
+               <interp inst="t17341016-3-person50" type="surname" value="Everton"/>
+                     <interp inst="t17341016-3-person50" type="given" value="Susan"/>
+                     <interp inst="t17341016-3-person50" type="gender" value="female"/>
+                  </persName>
+            . As I was going to wash our Entry, I found this piece of Stuff behind our half Door; and hearing that the Prosecutor had lost such a piece, I carried it to his House, and delivered it to the Constable who was there.</p>
+               <p>
+            
+                  <persName id="t17341016-3-person51">
+                  Joseph 
+                  Brown 
+               <interp inst="t17341016-3-person51" type="surname" value="Brown"/>
+                     <interp inst="t17341016-3-person51" type="given" value="Joseph"/>
+                     <interp inst="t17341016-3-person51" type="gender" value="male"/>
+                  </persName>
+            . I examin'd the Prisoner , she said she did not take it out of the Shop , but that the other Woman took it; and that if I went into the Entry perhaps I might find it. But it was brought in by Susan<xptr type="pageFacsimile" doc="173410160004"/> Everton about an Hour after it was lost.</p>
+               <p>The Jury found her <rs id="t17341016-3-verdict14" type="verdictDescription">
+                     <interp inst="t17341016-3-verdict14" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-3-verdict14" type="verdictSubcategory" value="theftunder5s"/>
+               Guilty to the value of 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-3-punish15" type="punishmentDescription">
+                     <interp inst="t17341016-3-punish15" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-3-defend45 t17341016-3-punish15"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-4">
+               <interp inst="t17341016-4" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-4" type="year" value="1734"/>
+               <interp inst="t17341016-4" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-4" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-4-off17-c46" targOrder="Y"
+                     targets="t17341016-4-defend53 t17341016-4-off17 t17341016-4-verdict21"/>
+         
+
+               <p>4. 
+               
+                  <persName id="t17341016-4-defend53" type="defendantName">
+                     Isabel 
+                     Gery 
+                  <interp inst="t17341016-4-defend53" type="surname" value="Gery"/>
+                     <interp inst="t17341016-4-defend53" type="given" value="Isabel"/>
+                     <interp inst="t17341016-4-defend53" type="gender" value="female"/>
+                  </persName>
+               
+            , of <placeName id="t17341016-4-defloc16">St. Clement-Danes</placeName>
+                  <interp inst="t17341016-4-defloc16" type="placeName" value="St. Clement-Danes"/>
+                  <interp inst="t17341016-4-defloc16" type="type" value="defendantHome"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="t17341016-4-defend53 t17341016-4-defloc16"/>, was indicted for <rs id="t17341016-4-off17" type="offenceDescription">
+                     <interp inst="t17341016-4-off17" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-4-off17" type="offenceSubcategory" value="theftFromPlace"/>
+               stealing a Stone Seal, value 2 s. a Doll's Gold Ring, value 1 s. 2 Handkerchiefs, value 2 s. a Yard of Sattin, value 3 s. 6d. a Gause Handkerchief embroider'd with Silver, value 6 s. a Sarcenet Hood, value 1 s. and a Guinea, the Goods and Money of 
+                     
+                        <persName id="t17341016-4-victim55" type="victimName">
+                           John 
+                           Par 
+                        <interp inst="t17341016-4-victim55" type="surname" value="Par"/>
+                        <interp inst="t17341016-4-victim55" type="given" value="John"/>
+                        <interp inst="t17341016-4-victim55" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-4-off17 t17341016-4-victim55"/>
+                     </persName>
+                      
+                  ; and a Gold Ring, value 10 s. 3 Shirts and one Shift, value 20 s. 4 Yards of Cloth, value 4 s. 4 Handkerchiefs, value 4 s. 15 Yards of Lace, value 10 s. an Apron, a Hood, 6 Suits of Head Clothes, and 1 pair of Ruffles, the Goods of Persons unknown, in the House of John Par
+            </rs>, <rs id="t17341016-4-cd18" type="crimeDate">Sept. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-4-off17 t17341016-4-cd18"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-4-person56">
+                  John 
+                  Par 
+               <interp inst="t17341016-4-person56" type="surname" value="Par"/>
+                     <interp inst="t17341016-4-person56" type="given" value="John"/>
+                     <interp inst="t17341016-4-person56" type="gender" value="male"/>
+                  </persName>
+            . I am a <rs id="t17341016-4-viclabel19" type="occupation">Pawnbroker</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-4-victim55 t17341016-4-viclabel19"/>, the Prisoner was <rs id="t17341016-4-deflabel20" type="occupation">Nurse</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-4-defend53 t17341016-4-deflabel20"/> to my Boy, she had been with me 4 Months, and last Saturday was 3 Weeks she went away Sick. After which there was a Quarrel betwixt her and one of her Companions; and thereupon I was inform'd that several of my Things had been seen in her Box at her Lodgings in Wild-Court. I went to a House in that Neighbourhood, and sent for her and told her she had robb'd me; she said yes, and so she had. I desired to see her Box, she open'd it, and the first Thing I saw was a Handkerchief of mine which I claim'd. Yes, says she, that is yours, and a great many more Things which you little think of. Some of the Things were my own, and the rest had been Pledged to me. There was in particular a little Doll's Gold-Ring. I asked her if she did not take a Moidore out of my Breeches as they hung up; she said no, but she tookout a Guinea - I lost in all to the value of 12 l. or 14 l. She said she took the Goods at several times at the Ware-house Door. My Ware-house is up Stairs on the same Floor with the Nursery. When a Customer comes to redeem any Thing, 'tis common for us to take the Bag in which are several sorts of Goods, and empty at the Ware-house Door to look for what we want, and when we have found it, we carry it down, and leave the rest of the Things there till we come up again; and the Prisoner took these Opportunities to steal the Goods.</p>
+               <p>
+            
+                  <persName id="t17341016-4-person57">
+                  Thomas 
+                  Par 
+               <interp inst="t17341016-4-person57" type="surname" value="Par"/>
+                     <interp inst="t17341016-4-person57" type="given" value="Thomas"/>
+                     <interp inst="t17341016-4-person57" type="gender" value="male"/>
+                  </persName>
+            . I went with my Son John to take the Prisoner up. She own'd that the Handkerchief was his, and many more Things in the Box, and that she took the Guinea out of his Pocket.</p>
+               <p>This was confirm'd by the Mistress of the Rose-Alehouse, the Corner of Wild Passage where the Prisoner was examin'd.</p>
+               <p>She call'd several Witnesses to her Character. They depos'd they had known her some Years; that she bore an honest Character, and always behav'd her self well.</p>
+               <p>The Jury found her <rs id="t17341016-4-verdict21" type="verdictDescription">
+                     <interp inst="t17341016-4-verdict21" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-4-verdict21" type="verdictSubcategory" value="theftunder40s"/>
+               Guilty. 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-4-punish22" type="punishmentDescription">
+                     <interp inst="t17341016-4-punish22" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-4-defend53 t17341016-4-punish22"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-5">
+               <interp inst="t17341016-5" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-5" type="year" value="1734"/>
+               <interp inst="t17341016-5" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-5" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-5-off23-c50" targOrder="Y"
+                     targets="t17341016-5-defend59 t17341016-5-off23 t17341016-5-verdict27"/>
+         
+               <p>5. 
+               
+                  <persName id="t17341016-5-defend59" type="defendantName">
+                     John 
+                     Butler 
+                  <interp inst="t17341016-5-defend59" type="surname" value="Butler"/>
+                     <interp inst="t17341016-5-defend59" type="given" value="John"/>
+                     <interp inst="t17341016-5-defend59" type="gender" value="male"/>
+                  </persName>
+               
+            , of Clerkenwell, was <rs id="t17341016-5-off23" type="offenceDescription">
+                     <interp inst="t17341016-5-off23" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-5-off23" type="offenceSubcategory" value="burglary"/>
+               indicted for breaking and entring the House of Frederic Lucan, and stealing a Gold Chain and Hook, value 10 l. 10 s. three Cornelian Seals set in Silver, value 15 s. 1 Stone Seal set in silver, value 10 s. I Horn-handl'ed Hanger set in Silver, value 6 l. a Horn-handled Knife and Fork studded with Silver, value 3 s. three Yards of Gold Lace, value 10 s. a Silver Snuff-Box, value 30 s. a Gold Watch and Shagreen Case, value 12 l 12 s. and a Shagreen Watch Case, value 10 s. the Goods of 
+                     <persName id="t17341016-5-victim60" type="victimName">
+                        Frederic 
+                        Lucan 
+                     <interp inst="t17341016-5-victim60" type="surname" value="Lucan"/>
+                        <interp inst="t17341016-5-victim60" type="given" value="Frederic"/>
+                        <interp inst="t17341016-5-victim60" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-5-off23 t17341016-5-victim60"/>
+                     </persName>
+                   , <rs id="t17341016-5-cd24" type="crimeDate">September 25</rs>
+                     <join result="offenceCrimeDate" targOrder="Y"
+                           targets="t17341016-5-off23 t17341016-5-cd24"/>. about the Hour of Eight at Night
+            </rs>.</p>
+               <p>Mr. Lucan. The Prisoner had been my <rs id="t17341016-5-deflabel25" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-5-defend59 t17341016-5-deflabel25"/> about three Weeks, but some Things being missing I suspected him, and turn'd him away on the 8th of September. He came to me on the 24th of September for a Character; I told him I would give him none. He went away, and threaten'd to be revenged on me. Between eight and nine the next Evening, I being at the Castle Tavern in Lombard-street, word was brought me that my House in <placeName id="t17341016-5-crimeloc26">Red-lion Street in Clerkenwell</placeName>
+                  <interp inst="t17341016-5-crimeloc26" type="placeName"
+                          value="Red-lion Street in Clerkenwell"/>
+                  <interp inst="t17341016-5-crimeloc26" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-5-off23 t17341016-5-crimeloc26"/> was broke open. I took Coach directly, and when I came home I found my 'Scritore had been forced open, and the Goods taken away. I went into my Garden, and close to the Back door I saw the Mark of two Feet, which look'd as if some Man had dropt from the Garden Wall. Near the Stable Door I found other Footsteps, and there lay a green Purse with some Gold in it, which I suppose had been dropt in the hurry. The Bar of the Stable Window was forced out, and the Glass was broke, by which I supposed<xptr type="pageFacsimile" doc="173410160005"/> the Rogue made his way out; and one thing that made me suspect the Prisoner, was, that I found his Cane in the Stable Window. The Cane was remarkable, because it had an Iron Thimble upon it instead of a Ferril. I went back by the same Coach to my Friends at the Castle Tavern, to consult with them what Method I had best to take for discovering the Thief, and they advised me to put an Advertisement in the Daily Post. But about Two a Clock in the Morning I was knocked up, and told that the Prisoner was taken.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person61">
+                  Isabel 
+                  Hornby 
+               <interp inst="t17341016-5-person61" type="surname" value="Hornby"/>
+                     <interp inst="t17341016-5-person61" type="given" value="Isabel"/>
+                     <interp inst="t17341016-5-person61" type="gender" value="female"/>
+                  </persName>
+            , the Prosecutor's Servant. About seven in the Evening I went out on an Errand, and there being Nobody else in the House, I left a Candle on the Stairs to light myself in. The Back Door was on the Latch, and I locked the Street Door and took the Key with me. I was gone about a quarter of an Hour, and then Thomas Brooks, a Foot-boy (but he was not my Master's Servant) came home with me. When I opened the Door all was dark, and I could not find my Candle. Lord, says I to Brooks, Call your Nanny, for our John has been here - I suspected him, because he had done some ugly Tricks while he lived in my Master's Service. I mist a Gold Watch out of my Master's Chamber, and a Draught on the Bank for 137 l. besides what was lost out of the 'Scritoire. I saw Marks of Feet under the Garden Wall, the Key of the Stable Door was taken away, and the Window was propt up with the Prisoner's Cane.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person62">
+                  Thomas 
+                  Brooks 
+               <interp inst="t17341016-5-person62" type="surname" value="Brooks"/>
+                     <interp inst="t17341016-5-person62" type="given" value="Thomas"/>
+                     <interp inst="t17341016-5-person62" type="gender" value="male"/>
+                  </persName>
+            . I went home with the Maid. She mist the Candle, and felt for it on the Stairs, but could not find it. We went down Stairs into the Kitchen, and found the Back-door open. I called my Fellow-Servant, and he called the Watch.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person63">
+                  Robert 
+                  Shorter 
+               <interp inst="t17341016-5-person63" type="surname" value="Shorter"/>
+                     <interp inst="t17341016-5-person63" type="given" value="Robert"/>
+                     <interp inst="t17341016-5-person63" type="gender" value="male"/>
+                  </persName>
+            , Constable. On the 25th of September, between Ten and Eleven at Night, one came and told me there was a Jobb in the Watch-house, for a Man was taken up for drawing a Hanger upon a Woman in Gray's-Inn-Lane. I went, and found the Prisoner in the Watch house. I saw several Things taken from him, as 3 Cornelian Seals set in silver, some Gold Lace, a Shagreen Case, a Brass Shoe-Snuff-Box, a little pair of Steel Tweezers, and a Tin Box of Gunpowder. - Other Things had been taken from him before I came, by the Order of my Beadle Tim. Micklewright.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person64">
+                  Timothy 
+                  Micklewright 
+               <interp inst="t17341016-5-person64" type="surname" value="Micklewright"/>
+                     <interp inst="t17341016-5-person64" type="given" value="Timothy"/>
+                     <interp inst="t17341016-5-person64" type="gender" value="male"/>
+                  </persName>
+            . The Prisoner was brought into our Watch-house at Holborn-Bars, between ten and eleven at Night. One of the Watchmen said, that the Prisoner offered to stick him, and was very troublesome; upon which I ordered him to be Hand-cuffed and searched - He had this Hanger in his Hand; there is a Knife and Fork in the Handle of it - And in his Pockets were found a Gold Watch and Case, a Gold Chain and Hook, four Seals and a silver Snuff-Box with a Stone in the top - the Haft of a Knife with a Nail fastened in it, and turned up crooked, which. I suppose, was to pick Locks with; a Pistol and a Tin Box. I asked him what was in that Tin Box; and he said it was Havanna Snuff, but it proved to be Gunpowder.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person65">
+                  Robert 
+                  Ingleton 
+               <interp inst="t17341016-5-person65" type="surname" value="Ingleton"/>
+                     <interp inst="t17341016-5-person65" type="given" value="Robert"/>
+                     <interp inst="t17341016-5-person65" type="gender" value="male"/>
+                  </persName>
+            . One that keeps a Snuff Shop in Gray's-Inn-Lane came to the Watch-house, and desired Assistance, for he said a Man had drawn a Dagger upon his Wife, who was big with Child. I told him he had got help at home, for one of our Watchmen lodged in his House - But however, 
+               <persName id="t17341016-5-person66">
+                  Bob 
+                  Nichols 
+               <interp inst="t17341016-5-person66" type="surname" value="Nichols"/>
+                     <interp inst="t17341016-5-person66" type="given" value="Bob"/>
+                     <interp inst="t17341016-5-person66" type="gender" value="male"/>
+                  </persName>
+            , another Watchman, went to help 'em, and so they brought the Prisoner to the Watch-house, and there we searched him, and found these What d'ye call 'em's - your Trinkle-me-trankles - your Thingumee's for Ladies, [the Hook and Chain] and a Gold Watch and four Seals. I asked him how he came by such things, and he said he dealt in 'em. Then there was a Tin Box, he said it was full of - some sort of Snuff - I can't think of the Name of it - but I said, I'll swear Devil, that's no Snuff, but Gun-powder.</p>
+               <p>- Marsh. The Man at the Snuff-shop came to the Watch-house for a Constable, telling us, that a Man had frightened his Wife. The Constable was not yet come to the Watch-house, and so I went for him; and when we came back the Prisoner was in the Watch-house, and was so unruly that they were forced to Hand-cuff him. Those<xptr type="pageFacsimile" doc="173410160006"/> Things were found upon him as the other Witnesses have sworn; and about two in the Morning word was sent to the Prosecutor, that the Prisoner was taken.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person67">
+                  Humphry 
+                  Harper 
+               <interp inst="t17341016-5-person67" type="surname" value="Harper"/>
+                     <interp inst="t17341016-5-person67" type="given" value="Humphry"/>
+                     <interp inst="t17341016-5-person67" type="gender" value="male"/>
+                  </persName>
+            , Watchman. I lodge at Mr. Forsithe's, the Snuff Shop in Gray's-Inn-Lane; I was called up about Ten a Clock to go to my Watch, and my Landlord charged me with the Prisoner - As we were carrying him along to the Watch-house, he pulled out a Knife, and went to cut my Hand; but I being aware of it, he only scratch'd me with it, and then dropt it; upon which I gave him a knock over the Shins, and stooping down I took up the Knife. When we got him into the Watch-house we searched him, and found the Goods upon him, and a Box of Gunpowder, which he said was Devally Snuff.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person68">
+                  William 
+                  Seymore 
+               <interp inst="t17341016-5-person68" type="surname" value="Seymore"/>
+                     <interp inst="t17341016-5-person68" type="given" value="William"/>
+                     <interp inst="t17341016-5-person68" type="gender" value="male"/>
+                  </persName>
+            . About Nine at Night as I was going by Mr. Forsithe's Shop, an Acquaintance of mine (James Francis) called me in, and said there was a Man that had got a great many Valuables, which he believed he did not come honestly by. I went in and found the Prisoner, and happened to know him; for about five Weeks before, I saw him at a Publick House, and then he said he was out of Place, and had but Three half-pence in the World; and by what I saw now, I thought the Times were much mended with him, for he shewed me a Hanger mounted with silver, which he flourished o'er his Head, and then put it up again, and went backwards and called for a Quartern of Gin. Then he shewed us a Gold Watch and Seals, which he said were his own, and that he dealt for such Things to France and Spain. We begun to question him a little, upon which he appeared very much ruffled, asked us what Business we had with his Way of Dealing, and if we had a mind to have a slice of his Hanger? We told him, no. But however he offered to draw in earnest, upon which we seized him. Then he endeavoured to pull out a Pistol. Mr. Francis told me there was no danger, for he had seen the Pistol a little before, and it was not charged. Now, says I to my Gentleman, you shall give an account how you came by these Things before we part with you. The Man of the House was sent for home. As soon as he came in he struck the Prisoner, and told him he had surprized his Wife. There was one Watchman in the House, and Mr. Forsithe went for another, then we carried the Prisoner to the Watch-house.</p>
+               <p>
+            
+                  <persName id="t17341016-5-person69">
+                  James 
+                  Francis 
+               <interp inst="t17341016-5-person69" type="surname" value="Francis"/>
+                     <interp inst="t17341016-5-person69" type="given" value="James"/>
+                     <interp inst="t17341016-5-person69" type="gender" value="male"/>
+                  </persName>
+            . I was smoaking a Pipe in Mr. Forsithe's Shop; the Prisoner came in, and said to Mrs. Forsithe, Madam, Will you please to give me a Pinch of Snuff? She said, Yes. Now, Madam, says he, what return shall I make you for this Favour? She told him, she desired none. Then, says he, will you give me leave to walk into your Back Room, and drink a Dram. She said he was welcome, and so he went in and had a half-penny Dram. There he pulled out this Hanger, and some of these other Things. I had some suspicion of him because he did not make an Appearance to be the Owner of such Goods. He took out a Pistol, and was going to charge it, for he said he had 500 l. value about him, and was to go to Bloomsbury, and from thence to Kensington that Night, and therefore must provide for his own safety; but I told him he had better load his Pistol somewhere else for fear of frightening the Woman of the Shop, and so he desisted. Mr. Seymour coming to the Door, I called him aside, and told him what I suspected; upon which he came in, and said, he had some Knowledge of the Fellow. The Prisoner shewed us all his Things, and would treat us with a Quartern. Seymour asked him who he deals with for those Goods. He answered, that he dealt Abroad with foreign Gentlemen. Why says I, those are English Goods. Upon this and some other Words he grew angry, and offered to draw his Hanger, asking us if we would have a slice of it. But we prevented him, and threw him into a Chain.</p>
+               <p>Prisoner. I met a Man whom I had known beyond Sea, and he gave me these Things, and bid me go into the Snuff-shop, and stay till he came to me.</p>
+               <p>The Jury found him <rs id="t17341016-5-verdict27" type="verdictDescription">
+                     <interp inst="t17341016-5-verdict27" type="verdictCategory" value="guilty"/>
+               Guilty
+            </rs>. <rs id="t17341016-5-punish28" type="punishmentDescription">
+                     <interp inst="t17341016-5-punish28" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-5-defend59 t17341016-5-punish28"/>
+               Death
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-6">
+               <interp inst="t17341016-6" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-6" type="year" value="1734"/>
+               <interp inst="t17341016-6" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-6" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-6-off29-c61" targOrder="Y"
+                     targets="t17341016-6-defend71 t17341016-6-off29 t17341016-6-verdict31"/>
+         
+               <p>6. 
+               
+                  <persName id="t17341016-6-defend71" type="defendantName">
+                     Matthew 
+                     Sanders 
+                  <interp inst="t17341016-6-defend71" type="surname" value="Sanders"/>
+                     <interp inst="t17341016-6-defend71" type="given" value="Matthew"/>
+                     <interp inst="t17341016-6-defend71" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-6-off29" type="offenceDescription">
+                     <interp inst="t17341016-6-off29" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-6-off29" type="offenceSubcategory" value="theftFromPlace"/>
+               stealing 28 lb. of Bell-Metal, value 21 s. the Property of 
+                     
+                        <persName id="t17341016-6-victim73" type="victimName">
+                           Titus 
+                           West 
+                        <interp inst="t17341016-6-victim73" type="surname" value="West"/>
+                        <interp inst="t17341016-6-victim73" type="given" value="Titus"/>
+                        <interp inst="t17341016-6-victim73" type="gender" value="male"/>
+                     </persName>
+                      
+                   and 
+                     
+                        <persName id="t17341016-6-victim75" type="victimName">
+                           John 
+                           Hide 
+                        <interp inst="t17341016-6-victim75" type="surname" value="Hide"/>
+                        <interp inst="t17341016-6-victim75" type="given" value="John"/>
+                        <interp inst="t17341016-6-victim75" type="gender" value="male"/>
+                     </persName>
+                      
+                  , in their Warehouse
+            </rs>, <rs id="t17341016-6-cd30" type="crimeDate">Sept. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-6-off29 t17341016-6-cd30"/>. <rs id="t17341016-6-verdict31" type="verdictDescription">
+                     <interp inst="t17341016-6-verdict31" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-6-verdict31" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-6-punish32" type="punishmentDescription">
+                     <interp inst="t17341016-6-punish32" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-6-defend71 t17341016-6-punish32"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-7">
+               <interp inst="t17341016-7" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-7" type="year" value="1734"/>
+               <interp inst="t17341016-7" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-7" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-7-off33-c64" targOrder="Y"
+                     targets="t17341016-7-defend77 t17341016-7-off33 t17341016-7-verdict37"/>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="173410160007"/>7. 
+               
+                  <persName id="t17341016-7-defend77" type="defendantName">
+                     William 
+                     Phillips 
+                  <interp inst="t17341016-7-defend77" type="surname" value="Phillips"/>
+                     <interp inst="t17341016-7-defend77" type="given" value="William"/>
+                     <interp inst="t17341016-7-defend77" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-7-off33" type="offenceDescription">
+                     <interp inst="t17341016-7-off33" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-7-off33" type="offenceSubcategory" value="theftFromPlace"/>
+               stealing a Great Coat, value 20 s. a Cloth Coat, value 42 s. a Cloth Pair of Breeches, value 20 s. a Dimity Waistcoat, value 10 s. 2 Cloth Waistcoats, value 20 s. 3 Shirts, value 30 s. a Violin, val. 30 s. 3 Stock 2 Rollers and 3 Shams, the Goods of 
+                     
+                        <persName id="t17341016-7-victim79" type="victimName">
+                           Richard 
+                           Cockram 
+                        <interp inst="t17341016-7-victim79" type="surname" value="Cockram"/>
+                        <interp inst="t17341016-7-victim79" type="given" value="Richard"/>
+                        <interp inst="t17341016-7-victim79" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-7-off33 t17341016-7-victim79"/>
+                     </persName>
+                      
+                  , in the House of 
+                     <persName id="t17341016-7-person80">
+                        William 
+                        Whitfield 
+                     <interp inst="t17341016-7-person80" type="surname" value="Whitfield"/>
+                        <interp inst="t17341016-7-person80" type="given" value="William"/>
+                        <interp inst="t17341016-7-person80" type="gender" value="male"/>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17341016-7-cd34" type="crimeDate">Sept. 12.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-7-off33 t17341016-7-cd34"/>
+               </p>
+               <p>
+            
+                  <persName id="t17341016-7-person81">
+                  Richard 
+                  Cockram 
+               <interp inst="t17341016-7-person81" type="surname" value="Cockram"/>
+                     <interp inst="t17341016-7-person81" type="given" value="Richard"/>
+                     <interp inst="t17341016-7-person81" type="gender" value="male"/>
+                  </persName>
+             The Prisoner and I both lodged in one Room in Mr. Whitfield's House, the <placeName id="t17341016-7-crimeloc35">Duke's Head in Devereux Court</placeName>
+                  <interp inst="t17341016-7-crimeloc35" type="placeName"
+                          value="Duke's Head in Devereux Court"/>
+                  <interp inst="t17341016-7-crimeloc35" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-7-off33 t17341016-7-crimeloc35"/>. I left my Goods locked in my Trunk in the Room where I lay, and went out of Town on the 1st of August. I staid till the 29th of September, and when I returned my Trunk had been broke open, and my Goods were taken away. The Lock had been taken off, and put on again with new Nails. I got a Search-Warrant, and went to Mr. Johnson (a Pawn-broker's) where I found 1 of my Shams, and 2 Rollers, and at Mr. Stone's (another Pawn broker's) I found 2 more of my Shams and a Stock.</p>
+               <p>- Johnson. I had these of the Prisoner. - Stone. The Prisoner pledged these with me.</p>
+               <p>Prisoner. We lodged in a Publick-house, and the Door of our Room was always left open, and so was his Trunk.</p>
+               <p>
+            
+                  <persName id="t17341016-7-person82">
+                  Eleanor 
+                  Whitfield 
+               <interp inst="t17341016-7-person82" type="surname" value="Whitfield"/>
+                     <interp inst="t17341016-7-person82" type="given" value="Eleanor"/>
+                     <interp inst="t17341016-7-person82" type="gender" value="female"/>
+                  </persName>
+            . I lived then in Devereux Court. The Prosecutor left his Trunk locked fast; and as for the Door of the Room being open, perhaps when a Friend has staid late at my House, I have got him to go up and lie with the Prisoner. I can't say but I had a very good Character of the Prisoner, or else I should not have taken him for a Lodger. On my leaving my House I removed the Trunk into another Room; I thought it was very light; but my Head was so full of my own Affairs, that I did not then enquire into the Reason of it.</p>
+               <p>Three or four Witnesses appeared to the Prisoner's Character. They deposed, that they known him several Years, that he was a <rs id="t17341016-7-deflabel36" type="occupation">Taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-7-defend77 t17341016-7-deflabel36"/> by Trade, and they believed him to be honest.</p>
+               <p>The Jury found him <rs id="t17341016-7-verdict37" type="verdictDescription">
+                     <interp inst="t17341016-7-verdict37" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-7-verdict37" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-7-punish38" type="punishmentDescription">
+                     <interp inst="t17341016-7-punish38" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-7-defend77 t17341016-7-punish38"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-8">
+               <interp inst="t17341016-8" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-8" type="year" value="1734"/>
+               <interp inst="t17341016-8" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-8" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-8-off39-c69" targOrder="Y"
+                     targets="t17341016-8-defend84 t17341016-8-off39 t17341016-8-verdict41"/>
+         
+               <p>8. 
+               
+                  <persName id="t17341016-8-defend84" type="defendantName">
+                     Elizabeth 
+                     Webster 
+                  <interp inst="t17341016-8-defend84" type="surname" value="Webster"/>
+                     <interp inst="t17341016-8-defend84" type="given" value="Elizabeth"/>
+                     <interp inst="t17341016-8-defend84" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-8-off39" type="offenceDescription">
+                     <interp inst="t17341016-8-off39" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-8-off39" type="offenceSubcategory" value="grandLarceny"/>
+               stealing a silk Gown, value 10 s. and a silk Petticoat, value 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17341016-8-victim86" type="victimName">
+                     Anne 
+                     Allen 
+                  <interp inst="t17341016-8-victim86" type="surname" value="Allen"/>
+                     <interp inst="t17341016-8-victim86" type="given" value="Anne"/>
+                     <interp inst="t17341016-8-victim86" type="gender" value="female"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-8-off39 t17341016-8-victim86"/>
+                  </persName>
+                
+            , <rs id="t17341016-8-cd40" type="crimeDate">Sept. 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-8-off39 t17341016-8-cd40"/>  
+                  <rs id="t17341016-8-verdict41" type="verdictDescription">
+                     <interp inst="t17341016-8-verdict41" type="verdictCategory" value="notGuilty"/>
+               Acquitted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-9">
+               <interp inst="t17341016-9" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-9" type="year" value="1734"/>
+               <interp inst="t17341016-9" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-9" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-9-off43-c71" targOrder="Y"
+                     targets="t17341016-9-defend88 t17341016-9-off43 t17341016-9-verdict53"/>
+               <join result="criminalCharge" id="t17341016-9-off45-c71" targOrder="Y"
+                     targets="t17341016-9-defend88 t17341016-9-off45 t17341016-9-verdict53"/>
+               <join result="criminalCharge" id="t17341016-9-off48-c71" targOrder="Y"
+                     targets="t17341016-9-defend88 t17341016-9-off48 t17341016-9-verdict53"/>
+         
+               <p>9. 
+               
+                  <persName id="t17341016-9-defend88" type="defendantName">
+                     Edmund 
+                     Damaree 
+                  <interp inst="t17341016-9-defend88" type="surname" value="Damaree"/>
+                     <interp inst="t17341016-9-defend88" type="given" value="Edmund"/>
+                     <interp inst="t17341016-9-defend88" type="gender" value="male"/>
+                  </persName>
+               
+            , of <placeName id="t17341016-9-defloc42">Kensington</placeName>
+                  <interp inst="t17341016-9-defloc42" type="placeName" value="Kensington"/>
+                  <interp inst="t17341016-9-defloc42" type="type" value="defendantHome"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="t17341016-9-defend88 t17341016-9-defloc42"/>, was indicted for <rs id="t17341016-9-off43" type="offenceDescription">
+                     <interp inst="t17341016-9-off43" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-9-off43" type="offenceSubcategory" value="grandLarceny"/>
+               stealing 2 Pieces of Fir Timber, value 3 l. the Property of 
+                     
+                        <persName id="t17341016-9-victim90" type="victimName">
+                           Richard 
+                           Sparks 
+                        <interp inst="t17341016-9-victim90" type="surname" value="Sparks"/>
+                        <interp inst="t17341016-9-victim90" type="given" value="Richard"/>
+                        <interp inst="t17341016-9-victim90" type="gender" value="male"/>
+                     </persName>
+                      
+                  , 
+                     
+                        <persName id="t17341016-9-victim92" type="victimName">
+                           James 
+                           King 
+                        <interp inst="t17341016-9-victim92" type="surname" value="King"/>
+                        <interp inst="t17341016-9-victim92" type="given" value="James"/>
+                        <interp inst="t17341016-9-victim92" type="gender" value="male"/>
+                     </persName>
+                      
+                  , 
+                     
+                        <persName id="t17341016-9-victim94" type="victimName">
+                           John 
+                           Brooks 
+                        <interp inst="t17341016-9-victim94" type="surname" value="Brooks"/>
+                        <interp inst="t17341016-9-victim94" type="given" value="John"/>
+                        <interp inst="t17341016-9-victim94" type="gender" value="male"/>
+                     </persName>
+                      
+                  , and others
+            </rs>, <rs id="t17341016-9-cd44" type="crimeDate">August 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off43 t17341016-9-cd44"/>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off45 t17341016-9-cd44"/>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off48 t17341016-9-cd44"/>.</p>
+               <p>He was a second time indicted for stealing <rs id="t17341016-9-off45" type="offenceDescription">
+                     <interp inst="t17341016-9-off45" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-9-off45" type="offenceSubcategory" value="grandLarceny"/>
+               1 Piece of Fir Timber, value 30 s.
+            </rs> the Property of 
+               
+                  <persName id="t17341016-9-victim96" type="victimName">
+                     James 
+                     Theobald 
+                  <interp inst="t17341016-9-victim96" type="surname" value="Theobald"/>
+                     <interp inst="t17341016-9-victim96" type="given" value="James"/>
+                     <interp inst="t17341016-9-victim96" type="gender" value="male"/>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17341016-9-victim98" type="victimName">
+                     Peter 
+                     Theobald 
+                  <interp inst="t17341016-9-victim98" type="surname" value="Theobald"/>
+                     <interp inst="t17341016-9-victim98" type="given" value="Peter"/>
+                     <interp inst="t17341016-9-victim98" type="gender" value="male"/>
+                  </persName>
+                
+            , <rs id="t17341016-9-viclabel46" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-9-victim98 t17341016-9-viclabel46"/>; <rs id="t17341016-9-cd47" type="crimeDate">Aug. 13.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off43 t17341016-9-cd47"/>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off45 t17341016-9-cd47"/>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off48 t17341016-9-cd47"/>
+               </p>
+               <p>He was a third time indicted for stealing <rs id="t17341016-9-off48" type="offenceDescription">
+                     <interp inst="t17341016-9-off48" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-9-off48" type="offenceSubcategory" value="grandLarceny"/>
+               2 Pieces of Fir Timber, value 3 l.
+            </rs> the Property of 
+               
+                  <persName id="t17341016-9-victim100" type="victimName">
+                     Leonard 
+                     Philips 
+                  <interp inst="t17341016-9-victim100" type="surname" value="Philips"/>
+                     <interp inst="t17341016-9-victim100" type="given" value="Leonard"/>
+                     <interp inst="t17341016-9-victim100" type="gender" value="male"/>
+                  </persName>
+                
+            , <rs id="t17341016-9-cd49" type="crimeDate">August 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off43 t17341016-9-cd49"/>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off45 t17341016-9-cd49"/>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-9-off48 t17341016-9-cd49"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-9-person101">
+                  Richard 
+                  Sparks 
+               <interp inst="t17341016-9-person101" type="surname" value="Sparks"/>
+                     <interp inst="t17341016-9-person101" type="given" value="Richard"/>
+                     <interp inst="t17341016-9-person101" type="gender" value="male"/>
+                  </persName>
+            . <rs id="t17341016-9-viclabel50" type="occupation">I am concerned in the Carpenters and Joiners Joint Stock</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-9-victim90 t17341016-9-viclabel50"/>. Word was sent to our Compting-house, that some of the Company's Timber was in Earle's Court. I went and found two Pieces there with the Company's Mark, which was a Triangle, in the Possession of 
+               <persName id="t17341016-9-person102">
+                  William 
+                  Smith 
+               <interp inst="t17341016-9-person102" type="surname" value="Smith"/>
+                     <interp inst="t17341016-9-person102" type="given" value="William"/>
+                     <interp inst="t17341016-9-person102" type="gender" value="male"/>
+                  </persName>
+            , who said he bought it of the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17341016-9-person103">
+                  Richard 
+                  Cox 
+               <interp inst="t17341016-9-person103" type="surname" value="Cox"/>
+                     <interp inst="t17341016-9-person103" type="given" value="Richard"/>
+                     <interp inst="t17341016-9-person103" type="gender" value="male"/>
+                  </persName>
+            . I am Clerk to the Company - I miss'd two Pieces of Timber from <placeName id="t17341016-9-crimeloc51">Stangate, a little on this side Lambeth</placeName>
+                  <interp inst="t17341016-9-crimeloc51" type="placeName"
+                          value="Stangate, a little on this side Lambeth"/>
+                  <interp inst="t17341016-9-crimeloc51" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-9-off43 t17341016-9-crimeloc51"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-9-off45 t17341016-9-crimeloc51"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-9-off48 t17341016-9-crimeloc51"/>, and found 'em at Earle's Court.</p>
+               <p>
+            
+                  <persName id="t17341016-9-person104">
+                  William 
+                  Smith 
+               <interp inst="t17341016-9-person104" type="surname" value="Smith"/>
+                     <interp inst="t17341016-9-person104" type="given" value="William"/>
+                     <interp inst="t17341016-9-person104" type="gender" value="male"/>
+                  </persName>
+            . At eight or nine times I bought about Ten Load of Timber of the Prisoner, but the Mark was disfigured. I gave him from 25 s. to 30 s. a Load for it. He was recommended to me by 
+               <persName id="t17341016-9-person105">
+                  James 
+                  Taylor 
+               <interp inst="t17341016-9-person105" type="surname" value="Taylor"/>
+                     <interp inst="t17341016-9-person105" type="given" value="James"/>
+                     <interp inst="t17341016-9-person105" type="gender" value="male"/>
+                  </persName>
+            , a Carpenter of Hammersmith; I live at Kensington - I was to give him about 14 l. for the whole Parcel, and would not give much more now.</p>
+               <p>Prisoner. But I never received half the Money.</p>
+               <p>
+            
+                  <persName id="t17341016-9-person106">
+                  James 
+                  Theobald 
+               <interp inst="t17341016-9-person106" type="surname" value="Theobald"/>
+                     <interp inst="t17341016-9-person106" type="given" value="James"/>
+                     <interp inst="t17341016-9-person106" type="gender" value="male"/>
+                  </persName>
+            . We had lost several Pieces of Timber, and hearing that some Pieces which had been stolen were at Earle's-Court, we went thither, and found one Piece there, close to a House that Smith was building. It was mark'd P T and the Mark is fair to this Hour. We bought 600 l. worth at a time, of Sir 
+               <persName id="t17341016-9-person107">
+                  John 
+                  Thompson 
+               <interp inst="t17341016-9-person107" type="surname" value="Thompson"/>
+                     <interp inst="t17341016-9-person107" type="given" value="John"/>
+                     <interp inst="t17341016-9-person107" type="gender" value="male"/>
+                  </persName>
+            , and gave him 38 s. a Load for it; and Smith bought it of the Prisoner at the Rate of 25 s.</p>
+               <p>
+            
+                  <persName id="t17341016-9-person108">
+                  Leonard 
+                  Philips 
+               <interp inst="t17341016-9-person108" type="surname" value="Philips"/>
+                     <interp inst="t17341016-9-person108" type="given" value="Leonard"/>
+                     <interp inst="t17341016-9-person108" type="gender" value="male"/>
+                  </persName>
+            . I keep some Timber at White-hall, some at the Green-house at Batter-sea-Field, and some at Chelsea. I lost some of<xptr type="pageFacsimile" doc="173410160008"/> that at <placeName id="t17341016-9-crimeloc52">Chelsea</placeName>
+                  <interp inst="t17341016-9-crimeloc52" type="placeName" value="Chelsea"/>
+                  <interp inst="t17341016-9-crimeloc52" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-9-off43 t17341016-9-crimeloc52"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-9-off45 t17341016-9-crimeloc52"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-9-off48 t17341016-9-crimeloc52"/>, and found two Pieces at Earle's-Court; they were mark'd L P; one of the Marks was plain, and the other was scratch'd, tho' not so much as to make the Letters undistinguishable. I was the first that made the Discovery; I ask'd Smith how he came by the Pieces? He said, he bought them of a Waterman. Looking farther, I saw some of Mr. Theobald's Timber, and some belonging to the Company. In one of the Pieces the Mark was cut out with an Adz - Mine cost me 31 s. a Load.</p>
+               <p>
+            
+                  <persName id="t17341016-9-person109">
+                  William 
+                  Smith 
+               <interp inst="t17341016-9-person109" type="surname" value="Smith"/>
+                     <interp inst="t17341016-9-person109" type="given" value="William"/>
+                     <interp inst="t17341016-9-person109" type="gender" value="male"/>
+                  </persName>
+            . I bought these Pieces of the Prisoner, I gave him 29 s. a Load, or something Less.</p>
+               <p>Prisoner. I have taken up Timber in the River for these Gentlemen several times, and always carry'd it home to them; but these Pieces I found upon the Salt Water, and the Marks not being Plain, I did not know who they belong'd to, and so I sold them to Mr. Smith. <rs id="t17341016-9-verdict53" type="verdictDescription">
+                     <interp inst="t17341016-9-verdict53" type="verdictCategory" value="guilty"/>
+               Guilty of all three indictments
+            </rs>.</p>
+               <p>
+                  <rs id="t17341016-9-punish54" type="punishmentDescription">
+                     <interp inst="t17341016-9-punish54" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-9-defend88 t17341016-9-punish54"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-10">
+               <interp inst="t17341016-10" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-10" type="year" value="1734"/>
+               <interp inst="t17341016-10" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-10" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-10-off55-c87" targOrder="Y"
+                     targets="t17341016-10-defend111 t17341016-10-off55 t17341016-10-verdict59"/>
+         
+               <p>10. 
+               
+                  <persName id="t17341016-10-defend111" type="defendantName">
+                     Elizabeth 
+                     Williams 
+                  <interp inst="t17341016-10-defend111" type="surname" value="Williams"/>
+                     <interp inst="t17341016-10-defend111" type="given" value="Elizabeth"/>
+                     <interp inst="t17341016-10-defend111" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-10-off55" type="offenceDescription">
+                     <interp inst="t17341016-10-off55" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-10-off55" type="offenceSubcategory" value="grandLarceny"/>
+               stealing 9 Plates, value 3 s. 2 Napkins, and 2 Knives
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-10-victim113" type="victimName">
+                     Abraham 
+                     Francia 
+                  <interp inst="t17341016-10-victim113" type="surname" value="Francia"/>
+                     <interp inst="t17341016-10-victim113" type="given" value="Abraham"/>
+                     <interp inst="t17341016-10-victim113" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-10-off55 t17341016-10-victim113"/>
+                  </persName>
+                
+            , <rs id="t17341016-10-cd56" type="crimeDate">October 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-10-off55 t17341016-10-cd56"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-10-person114">
+                  Hugh 
+                  Griffith 
+               <interp inst="t17341016-10-person114" type="surname" value="Griffith"/>
+                     <interp inst="t17341016-10-person114" type="given" value="Hugh"/>
+                     <interp inst="t17341016-10-person114" type="gender" value="male"/>
+                  </persName>
+            . I know the Goods that were taken upon the Prisoner belong to my Master Abraham Francia, who is a <rs id="t17341016-10-viclabel57" type="occupation">Wine Merchant</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-10-victim113 t17341016-10-viclabel57"/> in the City, but has a Tavern in <placeName id="t17341016-10-crimeloc58">Westminster</placeName>
+                  <interp inst="t17341016-10-crimeloc58" type="placeName" value="Westminster"/>
+                  <interp inst="t17341016-10-crimeloc58" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-10-off55 t17341016-10-crimeloc58"/>, from whence the good were taken.</p>
+               <p>
+            
+                  <persName id="t17341016-10-person115">
+                  Rosanna 
+                  Turner 
+               <interp inst="t17341016-10-person115" type="surname" value="Turner"/>
+                     <interp inst="t17341016-10-person115" type="given" value="Rosanna"/>
+                     <interp inst="t17341016-10-person115" type="gender" value="female"/>
+                  </persName>
+            . I keep the Valiant-Trooper in Beer-street, Westminster; about 10 a Clock on Sunday Night, the Prisoner came into my House, and ask'd me to lend her some Money. For what? says I, for I had never seen her before. Why upon these Plates, says she. I look'd upon them, and saw they were mark'd with the Three-Tuns, by which I knew they belong'd to the Quaker's Tavern in King-street, Westminster; and thereupon I sent for a Watchman, who apprehended her - Mr. Francia is the Master of that Tavern, but he has put another Man into it.</p>
+               <p>The Jury found her <rs id="t17341016-10-verdict59" type="verdictDescription">
+                     <interp inst="t17341016-10-verdict59" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-10-verdict59" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-10-punish60" type="punishmentDescription">
+                     <interp inst="t17341016-10-punish60" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-10-defend111 t17341016-10-punish60"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-11">
+               <interp inst="t17341016-11" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-11" type="year" value="1734"/>
+               <interp inst="t17341016-11" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-11" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-11-off61-c91" targOrder="Y"
+                     targets="t17341016-11-defend117 t17341016-11-off61 t17341016-11-verdict64"/>
+         
+               <p>11. 
+               
+                  <persName id="t17341016-11-defend117" type="defendantName">
+                     Ann 
+                     Street 
+                  <interp inst="t17341016-11-defend117" type="surname" value="Street"/>
+                     <interp inst="t17341016-11-defend117" type="given" value="Ann"/>
+                     <interp inst="t17341016-11-defend117" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-11-off61" type="offenceDescription">
+                     <interp inst="t17341016-11-off61" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-11-off61" type="offenceSubcategory" value="grandLarceny"/>
+               stealing a Porridge-pot, value 8 s.
+            </rs> the Property of 
+               
+                  <persName id="t17341016-11-victim119" type="victimName">
+                     Richard 
+                     Hamp 
+                  <interp inst="t17341016-11-victim119" type="surname" value="Hamp"/>
+                     <interp inst="t17341016-11-victim119" type="given" value="Richard"/>
+                     <interp inst="t17341016-11-victim119" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-11-off61 t17341016-11-victim119"/>
+                  </persName>
+                
+            , <rs id="t17341016-11-cd62" type="crimeDate">May 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-11-off61 t17341016-11-cd62"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-11-person120">
+                  Richard 
+                  Hamp 
+               <interp inst="t17341016-11-person120" type="surname" value="Hamp"/>
+                     <interp inst="t17341016-11-person120" type="given" value="Richard"/>
+                     <interp inst="t17341016-11-person120" type="gender" value="male"/>
+                  </persName>
+            . I live at the <placeName id="t17341016-11-crimeloc63">Bell in Featherstone-Street, in Bunhill-Fields</placeName>
+                  <interp inst="t17341016-11-crimeloc63" type="placeName"
+                          value="Bell in Featherstone-Street, in Bunhill-Fields"/>
+                  <interp inst="t17341016-11-crimeloc63" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-11-off61 t17341016-11-crimeloc63"/>; the Pri-had worked at my House. I was out of Town from the 17th to the 21st of May, in which time my Porridge-pot was lost, she was sent to Bridewell about a Quarrel, and I went to her there, and ask'd her after my Pot. She said, she had pawn'd it at the White-Hart in Barbican, and there I found it. The Jury <rs id="t17341016-11-verdict64" type="verdictDescription">
+                     <interp inst="t17341016-11-verdict64" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> her.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-12">
+               <interp inst="t17341016-12" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-12" type="year" value="1734"/>
+               <interp inst="t17341016-12" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-12" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-12-off65-c94" targOrder="Y"
+                     targets="t17341016-12-defend122 t17341016-12-off65 t17341016-12-verdict67"/>
+         
+               <p>12. 
+               
+                  <persName id="t17341016-12-defend122" type="defendantName">
+                     Ann 
+                     Frazier 
+                  <interp inst="t17341016-12-defend122" type="surname" value="Frazier"/>
+                     <interp inst="t17341016-12-defend122" type="given" value="Ann"/>
+                     <interp inst="t17341016-12-defend122" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-12-off65" type="offenceDescription">
+                     <interp inst="t17341016-12-off65" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-12-off65" type="offenceSubcategory" value="pettyLarceny"/>
+               stealing 2 Aprons, value 10 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17341016-12-victim124" type="victimName">
+                     Mary 
+                     Cliff 
+                  <interp inst="t17341016-12-victim124" type="surname" value="Cliff"/>
+                     <interp inst="t17341016-12-victim124" type="given" value="Mary"/>
+                     <interp inst="t17341016-12-victim124" type="gender" value="female"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-12-off65 t17341016-12-victim124"/>
+                  </persName>
+                
+            , <rs id="t17341016-12-cd66" type="crimeDate">Sept. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-12-off65 t17341016-12-cd66"/>. But no Evidence appearing, the Jury <rs id="t17341016-12-verdict67" type="verdictDescription">
+                     <interp inst="t17341016-12-verdict67" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-12-verdict67" type="verdictSubcategory" value="noEvidence"/>
+               acquitted
+            </rs> her.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-13">
+               <interp inst="t17341016-13" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-13" type="year" value="1734"/>
+               <interp inst="t17341016-13" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-13" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-13-off68-c96" targOrder="Y"
+                     targets="t17341016-13-defend126 t17341016-13-off68 t17341016-13-verdict70"/>
+         
+               <p>13. 
+               
+                  <persName id="t17341016-13-defend126" type="defendantName">
+                     Thomas 
+                     Craig 
+                  <interp inst="t17341016-13-defend126" type="surname" value="Craig"/>
+                     <interp inst="t17341016-13-defend126" type="given" value="Thomas"/>
+                     <interp inst="t17341016-13-defend126" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-13-off68" type="offenceDescription">
+                     <interp inst="t17341016-13-off68" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-13-off68" type="offenceSubcategory" value="grandLarceny"/>
+               stealing a Copper Sauce-pan, value 18 d
+            </rs> the Property of 
+               
+                  <persName id="t17341016-13-victim128" type="victimName">
+                     Richard 
+                     Hinton 
+                  <interp inst="t17341016-13-victim128" type="surname" value="Hinton"/>
+                     <interp inst="t17341016-13-victim128" type="given" value="Richard"/>
+                     <interp inst="t17341016-13-victim128" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-13-off68 t17341016-13-victim128"/>
+                  </persName>
+                
+            , <rs id="t17341016-13-cd69" type="crimeDate">Sept. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-13-off68 t17341016-13-cd69"/>. But no Evidence appearing, the Jury <rs id="t17341016-13-verdict70" type="verdictDescription">
+                     <interp inst="t17341016-13-verdict70" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-13-verdict70" type="verdictSubcategory" value="noEvidence"/>
+               acquitted
+            </rs> him.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-14">
+               <interp inst="t17341016-14" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-14" type="year" value="1734"/>
+               <interp inst="t17341016-14" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-14" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-14-off71-c98" targOrder="Y"
+                     targets="t17341016-14-defend130 t17341016-14-off71 t17341016-14-verdict75"/>
+         
+               <p>14. 
+               
+                  <persName id="t17341016-14-defend130" type="defendantName">
+                     Matthew 
+                     Lively 
+                  <interp inst="t17341016-14-defend130" type="surname" value="Lively"/>
+                     <interp inst="t17341016-14-defend130" type="given" value="Matthew"/>
+                     <interp inst="t17341016-14-defend130" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-14-off71" type="offenceDescription">
+                     <interp inst="t17341016-14-off71" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-14-off71" type="offenceSubcategory" value="pocketpicking"/>
+               privately stealing a Handkerchief, value 3 s. from the Person of the Right Honourable 
+                     
+                        <persName id="t17341016-14-victim132" type="victimName">
+                           William 
+                           Vane 
+                        <interp inst="t17341016-14-victim132" type="surname" value="Vane"/>
+                        <interp inst="t17341016-14-victim132" type="given" value="William"/>
+                        <interp inst="t17341016-14-victim132" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-14-off71 t17341016-14-victim132"/>
+                     </persName>
+                      
+                  , <rs id="t17341016-14-viclabel72" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t17341016-14-victim132 t17341016-14-viclabel72"/>; commonly called 
+                     <persName id="t17341016-14-person133">
+                        William Lord 
+                        Vane 
+                     <interp inst="t17341016-14-person133" type="surname" value="Vane"/>
+                        <interp inst="t17341016-14-person133" type="given" value="William Lord"/>
+                        <interp inst="t17341016-14-person133" type="gender" value="male"/>
+                     </persName>
+                  , of the Kingdom of Ireland
+            </rs>, <rs id="t17341016-14-cd73" type="crimeDate">Sept. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-14-off71 t17341016-14-cd73"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-14-person134">
+                  Thomas 
+                  Petty 
+               <interp inst="t17341016-14-person134" type="surname" value="Petty"/>
+                     <interp inst="t17341016-14-person134" type="given" value="Thomas"/>
+                     <interp inst="t17341016-14-person134" type="gender" value="male"/>
+                  </persName>
+            . On the 20th of last Instant, coming from <placeName id="t17341016-14-crimeloc74">Covent-Garden</placeName>
+                  <interp inst="t17341016-14-crimeloc74" type="placeName" value="Covent-Garden"/>
+                  <interp inst="t17341016-14-crimeloc74" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-14-off71 t17341016-14-crimeloc74"/> Playhouse, and going along the Piazza's, I saw my Lord Vane a talking with a Gentleman in Red trim'd with Black, and the Gentleman bidding my Lord good Night, I saw the Prisoner pick my Lord's Pocket of this Handkerchief, upon which I and another stopt the Prisoner.</p>
+               <p>2d Witness. Coming from the Play-house, we met my Lord Vane, and saw the Prisoner and two more standing against the Wall, under the Piazza's in Covent-Garden. They came up to his Lordship, and the Prisoner pick'd his Pocket. My Lord did not know which of the three it was, but desir'd us to assist him, which we did, and secur'd the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17341016-14-person135">
+                  Morgan 
+                  Roberts 
+               <interp inst="t17341016-14-person135" type="surname" value="Roberts"/>
+                     <interp inst="t17341016-14-person135" type="given" value="Morgan"/>
+                     <interp inst="t17341016-14-person135" type="gender" value="male"/>
+                  </persName>
+            . I have known the Prisoner 4 Years, I marry'd into his Family, and my Wife is as honest a Woman as ever stept upon English Ground.</p>
+               <p>The Jury found the Prisoner <rs id="t17341016-14-verdict75" type="verdictDescription">
+                     <interp inst="t17341016-14-verdict75" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-14-verdict75" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-14-punish76" type="punishmentDescription">
+                     <interp inst="t17341016-14-punish76" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-14-defend130 t17341016-14-punish76"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-15">
+               <interp inst="t17341016-15" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-15" type="year" value="1734"/>
+               <interp inst="t17341016-15" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-15" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-15-off77-c103" targOrder="Y"
+                     targets="t17341016-15-defend137 t17341016-15-off77 t17341016-15-verdict80"/>
+         
+               <p>15. 
+               
+                  <persName id="t17341016-15-defend137" type="defendantName">
+                     Mary 
+                     Allen 
+                  <interp inst="t17341016-15-defend137" type="surname" value="Allen"/>
+                     <interp inst="t17341016-15-defend137" type="given" value="Mary"/>
+                     <interp inst="t17341016-15-defend137" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-15-off77" type="offenceDescription">
+                     <interp inst="t17341016-15-off77" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-15-off77" type="offenceSubcategory" value="other"/>
+               stealing 4 Shirts, 2 Aprons, a silver Pepper-box,<xptr type="pageFacsimile" doc="173410160009"/> and a Table-cloth
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-15-victim139" type="victimName">
+                     William 
+                     Cheshire 
+                  <interp inst="t17341016-15-victim139" type="surname" value="Cheshire"/>
+                     <interp inst="t17341016-15-victim139" type="given" value="William"/>
+                     <interp inst="t17341016-15-victim139" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-15-off77 t17341016-15-victim139"/>
+                  </persName>
+                
+            , <rs id="t17341016-15-cd78" type="crimeDate">Sept. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-15-off77 t17341016-15-cd78"/>
+               </p>
+               <p>
+            
+                  <persName id="t17341016-15-person140">
+                  Eliz 
+                  Cheshire 
+               <interp inst="t17341016-15-person140" type="surname" value="Cheshire"/>
+                     <interp inst="t17341016-15-person140" type="given" value="Eliz"/>
+                     <interp inst="t17341016-15-person140" type="gender" value="male"/>
+                  </persName>
+            . The Prisoner was my <rs id="t17341016-15-deflabel79" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-15-defend137 t17341016-15-deflabel79"/>, I miss'd the Goods, examin'd her, and she confess'd that she had taken them, and pawn'd them to 
+               <persName id="t17341016-15-person141">
+                  Henry 
+                  Jarvis 
+               <interp inst="t17341016-15-person141" type="surname" value="Jarvis"/>
+                     <interp inst="t17341016-15-person141" type="given" value="Henry"/>
+                     <interp inst="t17341016-15-person141" type="gender" value="male"/>
+                  </persName>
+            , in New-street, where they were found.</p>
+               <p>
+            
+                  <persName id="t17341016-15-person142">
+                  Henry 
+                  Jarvis 
+               <interp inst="t17341016-15-person142" type="surname" value="Jarvis"/>
+                     <interp inst="t17341016-15-person142" type="given" value="Henry"/>
+                     <interp inst="t17341016-15-person142" type="gender" value="male"/>
+                  </persName>
+            . The Prisoner pledg'd the Goods to me, and said she was sent by her Mistress; but she did not tell me her Mistress's Name.</p>
+               <p>The Jury found her <rs id="t17341016-15-verdict80" type="verdictDescription">
+                     <interp inst="t17341016-15-verdict80" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-15-verdict80" type="verdictSubcategory" value="theftunder5s"/>
+               Guilty to the Value of 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-15-punish81" type="punishmentDescription">
+                     <interp inst="t17341016-15-punish81" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-15-defend137 t17341016-15-punish81"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-16">
+               <interp inst="t17341016-16" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-16" type="year" value="1734"/>
+               <interp inst="t17341016-16" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-16" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-16-off83-c108" targOrder="Y"
+                     targets="t17341016-16-defend144 t17341016-16-off83 t17341016-16-verdict87"/>
+         
+               <p>16. 
+               
+                  <persName id="t17341016-16-defend144" type="defendantName">
+                     Elizabeth 
+                     Pew 
+                  <interp inst="t17341016-16-defend144" type="surname" value="Pew"/>
+                     <interp inst="t17341016-16-defend144" type="given" value="Elizabeth"/>
+                     <interp inst="t17341016-16-defend144" type="gender" value="female"/>
+                  </persName>
+               
+            , of <placeName id="t17341016-16-defloc82">St. Martin Orgars</placeName>
+                  <interp inst="t17341016-16-defloc82" type="placeName" value="St. Martin Orgars"/>
+                  <interp inst="t17341016-16-defloc82" type="type" value="defendantHome"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="t17341016-16-defend144 t17341016-16-defloc82"/>, was indicted for the <rs id="t17341016-16-off83" type="offenceDescription">
+                     <interp inst="t17341016-16-off83" type="offenceCategory" value="kill"/>
+                     <interp inst="t17341016-16-off83" type="offenceSubcategory" value="murder"/>
+               Murder of 
+                     
+                        <persName id="t17341016-16-victim146" type="victimName">
+                           Richard 
+                           Ward 
+                        <interp inst="t17341016-16-victim146" type="surname" value="Ward"/>
+                        <interp inst="t17341016-16-victim146" type="given" value="Richard"/>
+                        <interp inst="t17341016-16-victim146" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-16-off83 t17341016-16-victim146"/>
+                     </persName>
+                      
+                  , by throwing a Knife at him, and thereby giving him one mortal Wound in the left Side of the Belly, near the Navel, the Length of one Inch, and Depth of three Inches, on the <rs id="t17341016-16-cd84" type="crimeDate">22d of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y"
+                           targets="t17341016-16-off83 t17341016-16-cd84"/>, about one in the Morning; of which mortal Wound, he languish'd till the Hour of 5 in the Afternoon of the same Day, and then died
+            </rs>.</p>
+               <p>She was a second Time indicted on the Coroner's Inquisition for Manslaughter.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person147">
+                  Ann 
+                  Loft 
+               <interp inst="t17341016-16-person147" type="surname" value="Loft"/>
+                     <interp inst="t17341016-16-person147" type="given" value="Ann"/>
+                     <interp inst="t17341016-16-person147" type="gender" value="female"/>
+                  </persName>
+            . Last Saturday Night was three Weeks, I went to visit the Prisoner, at Mr. Pellit's House in Martin's-Lane, where she lived, and I was to stay with her all Night. I happen'd to hurt my Ancle, and she desir'd the Deceas'd, who was her fellow Servant, to fetch up a little Vinegar, to bathe it with, and to bring the Bread and Butter with him. He refus'd at first, but after a little while he went and did as she desir'd. Then she bid him go out of the Room, because I was going to rub my Leg. No, he said, he would not go till he had some Bread and Butter. She told him he had supt already, and should have no more. Upon which, he fell a damning her, and calling her a great many ill Names, and told her, she was a Bitch and a Whore, like her Sister. She said, Don't provoke me so, for fear I throw something at you. She had a Case-knife in her Hand, and she threw it at him, and it struck in his Side. He went out, into the Entry, and coming in again, holding his Hand to his Side, he said, Betty, you have cut me. She said, Where? He shew'd her, and I said, Lord! you have cut him indeed! and she said, Christ! I have kill'd the Man! - His Caul hung out of the Wound - He went to Bed, and she went down, and bid a Watchman call a Surgeon. The Surgeon came and dress'd the Wound; he said it was very bad, and that he must advise with another Surgeon in the Morning, and so he went away. And the Prisoner made some Sage-Tea for the Deceas'd, and sat up with him all Night - He died about 5 a Clock on Sunday in the Afternoon.</p>
+               <p>Mr. Marriot, the Surgeon. Between 1 and 2 on Sunday Morning, I was called to assist the Deceas'd. The Prisoner said he had fell upon a Knife, and he did not contradict it. He had a dangerous Wound in the Abdomen, about 5 Inches from the Navel, and rather below it. The Orifice was so large, that a Portion of the Caul hung out, and the Wound was very Deep. Some of the Intestines and large blood Vessels were cut, and he had lost a vast Quantity of Blood. Between 7 and 8 the same Morning I was call'd again by the Prisoner, I desir'd the Assistance of another Surgeon, who came and approv'd of what I did. I visited the Deceas'd again at 11, at 2 and 4 in the Afternoon, and he died about 5. Here is the Case-knife - 'Tis round at the End, but something sharp tho' not pointed; and the Wound exactly answers it.</p>
+               <p>Prisoner. I did not tell the Surgeon that the Deceas'd fell on the Knife.</p>
+               <p>Mr. Marriot. I asked how the Wound came, and was answer'd that he fell upon the Knife. I will not be positive that you made the answer, but there was nobody present but you and 
+               <persName id="t17341016-16-person148">
+                  Ann 
+                  Loft 
+               <interp inst="t17341016-16-person148" type="surname" value="Loft"/>
+                     <interp inst="t17341016-16-person148" type="given" value="Ann"/>
+                     <interp inst="t17341016-16-person148" type="gender" value="female"/>
+                  </persName>
+            , besides my self and the Prisoner, and it was either you or she that said so.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person149">
+                  Marmaduke 
+                  Williams 
+               <interp inst="t17341016-16-person149" type="surname" value="Williams"/>
+                     <interp inst="t17341016-16-person149" type="given" value="Marmaduke"/>
+                     <interp inst="t17341016-16-person149" type="gender" value="male"/>
+                  </persName>
+            . I live in the same House, I am Mr. Pellit's Book-keeper; I was a Bed when the accident happen'd, and heard nothing of it till 8 o'Clock on Sunday Morning, and then I heard her say her self that she did it, and that she flung the Knife at him. I ask'd her for what reason? And she answer'd, because he call'd me Whore, and I would do it again if he was to call me so again;<xptr type="pageFacsimile" doc="173410160010"/> and if I had not done it, I should have done it another time. Mr. Kindleside the Apothecary was then present, and ask'd her if the Deceas'd had offered any rudeness to her, and she said, No - They were often quarrelling, and she was commonly the aggressor, for she was very Insolent. About 3 Weeks before this happen'd, he was in the Yard, and did something that displeased her, upon which she went out to him: He gave way; she follow'd him: He ran up Stairs, and she after him; but he shutting his Door upon her, she stood Scolding and calling him names for a quarter of an Hour, and then she came down and said, she would be reveng'd on him, and do him a Mischief one time or another.</p>
+               <p>Prisoner. Did I never tell you that he was rude?</p>
+               <p>
+            
+                  <persName id="t17341016-16-person150">
+                  Marmaduke 
+                  Williams 
+               <interp inst="t17341016-16-person150" type="surname" value="Williams"/>
+                     <interp inst="t17341016-16-person150" type="given" value="Marmaduke"/>
+                     <interp inst="t17341016-16-person150" type="gender" value="male"/>
+                  </persName>
+            . No - Indeed I have heard you say that he took you by the Hand and offer'd to kiss you, but nothing farther - Another time she threw an Oystershel at him, which cut him in the Head behind the Ear, and it bled pretty much.</p>
+               <p>Mr. Kindleside. Between 8 and 9 on Sunday Morning one came and told me that he was afraid the <rs id="t17341016-16-deflabel85" type="occupation">Maid</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-16-defend144 t17341016-16-deflabel85"/> had kill'd the <rs id="t17341016-16-viclabel86" type="occupation">Porter</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-16-victim146 t17341016-16-viclabel86"/> - I went up stairs with Mr. Williams, and found the Deceas'd in Convulsions. I said to the Prisoner, You have kill'd the Man, and how will you like to be hang'd for it? O says she, I don't fear that, for I did it in a Passion. I desired Mr. Williams to take care that she did not escape while I went for a Constable, and indeed she attempted to get away twice; but he forced her into a Chair - I ask'd the Deceas'd how it happen'd. He own'd he call'd her Whore, but said he offer'd no rudeness, and that she was a violent passionate Creature, and had often threatned to do his business; and he believ'd she had done it now. I ask'd the Prisoner the same question, and she answer'd, he aggravated me and call'd me Whore, and if he was to do so again, I would do the same. I found the Knife (that I suppose it was done with) among the foul Knives. It was bloody like rust, up to the Shoulder - that is, to this rising part of the blade - I could not conceive how such a Case Knife that was not pointed, but round at the End, could be thrown so, as to pierce through a strong Coat and Waistcoat, and a Dowlas Shirt, and so far into the Body: Which made me ask the Deceas'd about that particular. He said it was done so quick, that he knew not whether she threw it or struck him with it in her Hand - The Girl 
+               <persName id="t17341016-16-person151">
+                  Ann 
+                  Loft 
+               <interp inst="t17341016-16-person151" type="surname" value="Loft"/>
+                     <interp inst="t17341016-16-person151" type="given" value="Ann"/>
+                     <interp inst="t17341016-16-person151" type="gender" value="female"/>
+                  </persName>
+             appear'd to be in a fright, and very much concern'd that she had come thither without the leave of her Friends; and that she was the only Witness present when the Mischief was done. Lord! says she, what shall I say? - Say? Replied the Prisoner, What would you say, but that I was in a Passion, and threw the Knife as him.</p>
+               <p>Prisoner. Did Mr. Williams here me say so?</p>
+               <p>Mr. Williams. I don't remember it.</p>
+               <p>Prisoner. What did I say?</p>
+               <p>Mr. Williams. I heard her say she did it because he call'd her Whore. But I was so confused that I could not take notice of every word that past.</p>
+               <p>Prisoner. I own that I threw the Knife.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person152">
+                  John 
+                  Guy 
+               <interp inst="t17341016-16-person152" type="surname" value="Guy"/>
+                     <interp inst="t17341016-16-person152" type="given" value="John"/>
+                     <interp inst="t17341016-16-person152" type="gender" value="male"/>
+                  </persName>
+            . Mr. Marriot and Mr. Kindleside came to my House between 9 and 10 in the Morning, and desired me to go into St. Martin's-lane to take up a Woman that had stabb'd a Man. When I came there, I ask'd the Deceas'd how it happen'd. He said there were very provoking words on both sides. I ask'd him if she threw the Knife or stabb'd him with it. He said he could not tell which. I enquired if he thought there was any premeditated Malice. He answer'd that they had Quarrell'd; and she had threaten'd to do his Business - We found the Knife, and it was 5 Inches from the point Red, and as it were rusty with the Blood.</p>
+               <p>Court. Did it look as if it had gone so deep, or that the Blood had only run down so far towards the Handle</p>
+               <p>
+            
+                  <persName id="t17341016-16-person153">
+                  John 
+                  Guy 
+               <interp inst="t17341016-16-person153" type="surname" value="Guy"/>
+                     <interp inst="t17341016-16-person153" type="given" value="John"/>
+                     <interp inst="t17341016-16-person153" type="gender" value="male"/>
+                  </persName>
+            . There were streaks of Blood upon it, as if it had so far been cover'd with Blood; and afterwards drawn through a Woollen Cloth, which might be done by pulling it back through his Waistcoat and Coat.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173410160011"/>Court. Was any part of the Blade cover'd with Blood, or was it all streak'd in that manner?</p>
+               <p>Guy. There was no one part intirely Bloody, but it was all streaky except within, about an Inch of the Handle, and there it was not Bloody at all. I took a wet Cloth and rubb'd off some of the Red streaks next to the pin, and then that part appear'd bright, by which I found that though the Red look'd like rust, yet it was not rust but Blood - When the Prisoner heard that the Deceas'd was Dead, she fell into violent Fits, which held her off and on for 5 or 6 Hours.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person154">
+                  Mary 
+                  Walker 
+               <interp inst="t17341016-16-person154" type="surname" value="Walker"/>
+                     <interp inst="t17341016-16-person154" type="given" value="Mary"/>
+                     <interp inst="t17341016-16-person154" type="gender" value="female"/>
+                  </persName>
+            . The Prisoner came to my House between 7 and 8 on Sunday Morning, I was then coming downStairs; she ask'd where she should find a Surgeon; my Husband ask'd her what was the matter and why she did not call her Master's Surgeon; she said their Man had cut himself, and would bleed to Death. I directed her to Mr. Lewis in Abchurch-lane; she went away, and I soon after follow'd her to her Master's House, and finding her very much confused, I said, I hope you did not do this, she answer'd; I did it sure enough, but he says he won't tell: And I shall have the Surgeon to pay. I went up Stairs and found the Deceas'd half in Bed. I ask'd him how he did, he said, never worse. Somebody knock'd at the Door. A Gentleman (I suppose it was the Surgeon) came up in his Cap, and ask'd the Deceas'd why he did not keep in Bed: By which I guest that the Gentleman had been there before. Then she went for her Master's Surgeon, and I call'd up Mr. Williams. I ask'd the Deceas'd my self how the Misfortune came, but he did not tell me.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person155">
+                  Samuel 
+                  Ward 
+               <interp inst="t17341016-16-person155" type="surname" value="Ward"/>
+                     <interp inst="t17341016-16-person155" type="given" value="Samuel"/>
+                     <interp inst="t17341016-16-person155" type="gender" value="male"/>
+                  </persName>
+            . The Deceas'd was my Relation. About 11 in the Morning, as I was going with my Master to Church, a Messenger came and told me that my Kins-man was dying. I was surpriz'd at it, because I had seen him the day before, and he was then very well. As soon as my Master was gone into Church, I went to see my Kinsman, and found the Surgeons in the Room. How in the name of God, says I, did you come by this Misfortune? Don't ask me questions, says he; some words happen'd between us. But tell me, says I, was you doing any thing to her? Did you offer to catch her by the Belly. No, says he. Why then how was it done? says I. Uncle, says he again, I can't speak.</p>
+               <p>Court, to Ann Loft. How far was the Prisoner from the Deceas'd when he threw the Knife?</p>
+               <p>Ann Loft. About 3 Yards - The Prisoner was sitting on one side of the Table, and I on the other, and the Deceas'd was behind me.</p>
+               <p>Court. Did she rise from the Table with the Knife in her Hand?</p>
+               <p>Ann Lost. No. She did not rise up at all, for she was cutting Bread and Butter, and so was I too.</p>
+               <p>Court. Did not she strike him with the Knife in her Hand?</p>
+               <p>Ann Lost. No - She threw it at him.</p>
+               <p>Prisoner. I threw it out of my Hand, but did not know which way it went. I had no design to do the Deceas'd a Mischief, for I ow'd him no ill-will.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person156">
+                  John 
+                  Braham 
+               <interp inst="t17341016-16-person156" type="surname" value="Braham"/>
+                     <interp inst="t17341016-16-person156" type="given" value="John"/>
+                     <interp inst="t17341016-16-person156" type="gender" value="male"/>
+                  </persName>
+            . She was often a Quarrelling - One time as I came into the Kitchen with some Meat from my Master's Table, she pitch'd a Knife after me.</p>
+               <p>Then the Prisoner call'd Witnesses to her Character.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person157">
+                  Margaret 
+                  Bell 
+               <interp inst="t17341016-16-person157" type="surname" value="Bell"/>
+                     <interp inst="t17341016-16-person157" type="given" value="Margaret"/>
+                     <interp inst="t17341016-16-person157" type="gender" value="female"/>
+                  </persName>
+            . I have known her from a Child, and never knew her in a Passion.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person158">
+                  Thomas 
+                  Wood 
+               <interp inst="t17341016-16-person158" type="surname" value="Wood"/>
+                     <interp inst="t17341016-16-person158" type="given" value="Thomas"/>
+                     <interp inst="t17341016-16-person158" type="gender" value="male"/>
+                  </persName>
+            . She was my Servant a Year, and a good Servant she was, and I never did see her in a Passion, and my Wife will say the same.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person159">
+                  Deborah 
+                  Lockley 
+               <interp inst="t17341016-16-person159" type="surname" value="Lockley"/>
+                     <interp inst="t17341016-16-person159" type="given" value="Deborah"/>
+                     <interp inst="t17341016-16-person159" type="gender" value="female"/>
+                  </persName>
+            . I have known her several Years, she was always a very sober Person; and I never heard any thing of her, tending to Passion. She lived with a Relation of mine, who has often told me, that she (the Prisoner) exprest a great deal of Tenderness and good Nature.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person160">
+                  Mary 
+                  Bray 
+               <interp inst="t17341016-16-person160" type="surname" value="Bray"/>
+                     <interp inst="t17341016-16-person160" type="given" value="Mary"/>
+                     <interp inst="t17341016-16-person160" type="gender" value="female"/>
+                  </persName>
+            . I have known her 23 Years, and never heard that she was inclin'd to Passion, but was a sober quiet young Woman.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person161">
+                  Mary 
+                  Kingston 
+               <interp inst="t17341016-16-person161" type="surname" value="Kingston"/>
+                     <interp inst="t17341016-16-person161" type="given" value="Mary"/>
+                     <interp inst="t17341016-16-person161" type="gender" value="female"/>
+                  </persName>
+            . A Virtuous modest Girl,<xptr type="pageFacsimile" doc="173410160012"/> and not given to drinking or ill Language.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person162">
+                  Thomas 
+                  Durant 
+               <interp inst="t17341016-16-person162" type="surname" value="Durant"/>
+                     <interp inst="t17341016-16-person162" type="given" value="Thomas"/>
+                     <interp inst="t17341016-16-person162" type="gender" value="male"/>
+                  </persName>
+            . Of a very orderly Behaviour.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person163">
+                  Hester 
+                  Gardner 
+               <interp inst="t17341016-16-person163" type="surname" value="Gardner"/>
+                     <interp inst="t17341016-16-person163" type="given" value="Hester"/>
+                     <interp inst="t17341016-16-person163" type="gender" value="female"/>
+                  </persName>
+            . Just, honest, and dutiful to her Parents.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person164">
+                  Deborah 
+                  Johnson 
+               <interp inst="t17341016-16-person164" type="surname" value="Johnson"/>
+                     <interp inst="t17341016-16-person164" type="given" value="Deborah"/>
+                     <interp inst="t17341016-16-person164" type="gender" value="female"/>
+                  </persName>
+            . She kept her Mother and 2 Sisters from starving.</p>
+               <p>
+            
+                  <persName id="t17341016-16-person165">
+                  Sarah 
+                  Willis 
+               <interp inst="t17341016-16-person165" type="surname" value="Willis"/>
+                     <interp inst="t17341016-16-person165" type="given" value="Sarah"/>
+                     <interp inst="t17341016-16-person165" type="gender" value="female"/>
+                  </persName>
+            . And impoverish'd herself by her kindness to her Friends - I have known her 12 Years, she behav'd well; and was of so good a Temper, that I never saw her in a Passion.</p>
+               <p>Ann Loft, again. I have been acquainted with her 2 Years. She liv'd in the House where I liv'd; and she was very quiet and good Natur'd, and not given to Passion.</p>
+               <p>Court. If one Person kills another without a just provocation, it is Murder: And words alone are not a just provocation.</p>
+               <p>The Jury found the Prisoner <rs id="t17341016-16-verdict87" type="verdictDescription">
+                     <interp inst="t17341016-16-verdict87" type="verdictCategory" value="guilty"/>
+               guilty
+            </rs> of the Indictment. <rs id="t17341016-16-punish88" type="punishmentDescription">
+                     <interp inst="t17341016-16-punish88" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-16-defend144 t17341016-16-punish88"/>
+               Death
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-17">
+               <interp inst="t17341016-17" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-17" type="year" value="1734"/>
+               <interp inst="t17341016-17" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-17" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-17-off89-c129" targOrder="Y"
+                     targets="t17341016-17-defend167 t17341016-17-off89 t17341016-17-verdict92"/>
+         
+               <p>17. 
+               
+                  <persName id="t17341016-17-defend167" type="defendantName">
+                     Mary 
+                     Matthews 
+                  <interp inst="t17341016-17-defend167" type="surname" value="Matthews"/>
+                     <interp inst="t17341016-17-defend167" type="given" value="Mary"/>
+                     <interp inst="t17341016-17-defend167" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-17-off89" type="offenceDescription">
+                     <interp inst="t17341016-17-off89" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-17-off89" type="offenceSubcategory" value="other"/>
+               stealing 3 pair of Stockings, and 2 Shirts
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-17-victim169" type="victimName">
+                     William
+                      Sh ppard
+                  <interp inst="t17341016-17-victim169" type="surname" value="Sh ppard"/>
+                     <interp inst="t17341016-17-victim169" type="given" value="William"/>
+                     <interp inst="t17341016-17-victim169" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-17-off89 t17341016-17-victim169"/>
+                  </persName>
+               
+            , <rs id="t17341016-17-cd90" type="crimeDate">Sept. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-17-off89 t17341016-17-cd90"/>.</p>
+               <p>The Prisoner was a <rs id="t17341016-17-deflabel91" type="occupation">Chair-woman</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-17-defend167 t17341016-17-deflabel91"/>, was at work in the House, they were miss'd; she was suspected, and being examin'd, confest the Fact, and the Jury found her <rs id="t17341016-17-verdict92" type="verdictDescription">
+                     <interp inst="t17341016-17-verdict92" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-17-verdict92" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-17-punish93" type="punishmentDescription">
+                     <interp inst="t17341016-17-punish93" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-17-defend167 t17341016-17-punish93"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-18">
+               <interp inst="t17341016-18" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-18" type="year" value="1734"/>
+               <interp inst="t17341016-18" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-18" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-18-off94-c131" targOrder="Y"
+                     targets="t17341016-18-defend171 t17341016-18-off94 t17341016-18-verdict96"/>
+         
+               <p>18. 
+               
+                  <persName id="t17341016-18-defend171" type="defendantName">
+                     Ann 
+                     Burton 
+                  <interp inst="t17341016-18-defend171" type="surname" value="Burton"/>
+                     <interp inst="t17341016-18-defend171" type="given" value="Ann"/>
+                     <interp inst="t17341016-18-defend171" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-18-off94" type="offenceDescription">
+                     <interp inst="t17341016-18-off94" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-18-off94" type="offenceSubcategory" value="other"/>
+               stealing 2 Blankets, 2 Bolsters, 2 Pillows, 2 Plates, a Dish, a Candlestick, and a Looking Glass
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-18-victim173" type="victimName">
+                     John 
+                     Clark 
+                  <interp inst="t17341016-18-victim173" type="surname" value="Clark"/>
+                     <interp inst="t17341016-18-victim173" type="given" value="John"/>
+                     <interp inst="t17341016-18-victim173" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-18-off94 t17341016-18-victim173"/>
+                  </persName>
+                
+            , <rs id="t17341016-18-cd95" type="crimeDate">Oct. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-18-off94 t17341016-18-cd95"/>.</p>
+               <p>The Prisoner hired a Room ready Furnish'd in the Prosecutor's House. The Goods being miss'd, she was examin'd and confest where she had Pawn'd them.</p>
+               <p>The Jury found her <rs id="t17341016-18-verdict96" type="verdictDescription">
+                     <interp inst="t17341016-18-verdict96" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-18-verdict96" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-18-punish97" type="punishmentDescription">
+                     <interp inst="t17341016-18-punish97" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-18-defend171 t17341016-18-punish97"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-19">
+               <interp inst="t17341016-19" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-19" type="year" value="1734"/>
+               <interp inst="t17341016-19" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-19" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-19-off98-c133" targOrder="Y"
+                     targets="t17341016-19-defend175 t17341016-19-off98 t17341016-19-verdict100"/>
+               <join result="criminalCharge" id="t17341016-19-off98-c134" targOrder="Y"
+                     targets="t17341016-19-defend177 t17341016-19-off98 t17341016-19-verdict100"/>
+         
+               <p>19, 20. 
+               
+                  <persName id="t17341016-19-defend175" type="defendantName">
+                     Ann 
+                     Tooly 
+                  <interp inst="t17341016-19-defend175" type="surname" value="Tooly"/>
+                     <interp inst="t17341016-19-defend175" type="given" value="Ann"/>
+                     <interp inst="t17341016-19-defend175" type="gender" value="female"/>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17341016-19-defend177" type="defendantName">
+                     Sarah 
+                     Varseller 
+                  <interp inst="t17341016-19-defend177" type="surname" value="Varseller"/>
+                     <interp inst="t17341016-19-defend177" type="given" value="Sarah"/>
+                     <interp inst="t17341016-19-defend177" type="gender" value="female"/>
+                  </persName>
+               
+            , were indicted for <rs id="t17341016-19-off98" type="offenceDescription">
+                     <interp inst="t17341016-19-off98" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-19-off98" type="offenceSubcategory" value="other"/>
+               stealing a Tea Kettle, 2 Sauce-pans, and a Knife
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-19-victim179" type="victimName">
+                     William 
+                     Mitchell 
+                  <interp inst="t17341016-19-victim179" type="surname" value="Mitchell"/>
+                     <interp inst="t17341016-19-victim179" type="given" value="William"/>
+                     <interp inst="t17341016-19-victim179" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-19-off98 t17341016-19-victim179"/>
+                  </persName>
+                
+            , <rs id="t17341016-19-cd99" type="crimeDate">October 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-19-off98 t17341016-19-cd99"/>. But no Evidence appearing, they were <rs id="t17341016-19-verdict100" type="verdictDescription">
+                     <interp inst="t17341016-19-verdict100" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-19-verdict100" type="verdictSubcategory" value="noEvidence"/>
+               acquitted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-20">
+               <interp inst="t17341016-20" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-20" type="year" value="1734"/>
+               <interp inst="t17341016-20" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-20" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-20-off101-c136" targOrder="Y"
+                     targets="t17341016-20-defend181 t17341016-20-off101 t17341016-20-verdict103"/>
+         
+               <p>21. 
+               
+                  <persName id="t17341016-20-defend181" type="defendantName">
+                     Thomas 
+                     Cole 
+                  <interp inst="t17341016-20-defend181" type="surname" value="Cole"/>
+                     <interp inst="t17341016-20-defend181" type="given" value="Thomas"/>
+                     <interp inst="t17341016-20-defend181" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted (with 
+               <persName id="t17341016-20-person182">
+                  James 
+                  Tod 
+               <interp inst="t17341016-20-person182" type="surname" value="Tod"/>
+                     <interp inst="t17341016-20-person182" type="given" value="James"/>
+                     <interp inst="t17341016-20-person182" type="gender" value="male"/>
+                  </persName>
+            , not yet taken) for <rs id="t17341016-20-off101" type="offenceDescription">
+                     <interp inst="t17341016-20-off101" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-20-off101" type="offenceSubcategory" value="grandLarceny"/>
+               stealing an Iron Crow, value 12 s.
+            </rs> the Property of 
+               
+                  <persName id="t17341016-20-victim184" type="victimName">
+                     Joseph 
+                     Woodman 
+                  <interp inst="t17341016-20-victim184" type="surname" value="Woodman"/>
+                     <interp inst="t17341016-20-victim184" type="given" value="Joseph"/>
+                     <interp inst="t17341016-20-victim184" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-20-off101 t17341016-20-victim184"/>
+                  </persName>
+                
+            , <rs id="t17341016-20-cd102" type="crimeDate">September 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-20-off101 t17341016-20-cd102"/>. But no Evidence appearing, he was <rs id="t17341016-20-verdict103" type="verdictDescription">
+                     <interp inst="t17341016-20-verdict103" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-20-verdict103" type="verdictSubcategory" value="noEvidence"/>
+               acquitted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-21">
+               <interp inst="t17341016-21" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-21" type="year" value="1734"/>
+               <interp inst="t17341016-21" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-21" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-21-off104-c139" targOrder="Y"
+                     targets="t17341016-21-defend186 t17341016-21-off104 t17341016-21-verdict106"/>
+         
+               <p>22. 
+               
+                  <persName id="t17341016-21-defend186" type="defendantName">
+                     William 
+                     Hampton 
+                  <interp inst="t17341016-21-defend186" type="surname" value="Hampton"/>
+                     <interp inst="t17341016-21-defend186" type="given" value="William"/>
+                     <interp inst="t17341016-21-defend186" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-21-off104" type="offenceDescription">
+                     <interp inst="t17341016-21-off104" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-21-off104" type="offenceSubcategory" value="shoplifting"/>
+               stealing 24 Pair of Women's Kid-Gloves, value 40 s. the Goods of 
+                     
+                        <persName id="t17341016-21-victim188" type="victimName">
+                           Thomas 
+                           Rider 
+                        <interp inst="t17341016-21-victim188" type="surname" value="Rider"/>
+                        <interp inst="t17341016-21-victim188" type="given" value="Thomas"/>
+                        <interp inst="t17341016-21-victim188" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-21-off104 t17341016-21-victim188"/>
+                     </persName>
+                      
+                  , in his Shop privately
+            </rs>, <rs id="t17341016-21-cd105" type="crimeDate">Sept. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-21-off104 t17341016-21-cd105"/>. But no Evidence appearing, he was <rs id="t17341016-21-verdict106" type="verdictDescription">
+                     <interp inst="t17341016-21-verdict106" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-21-verdict106" type="verdictSubcategory" value="noEvidence"/>
+               acquitted
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-22">
+               <interp inst="t17341016-22" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-22" type="year" value="1734"/>
+               <interp inst="t17341016-22" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-22" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-22-off107-c141" targOrder="Y"
+                     targets="t17341016-22-defend190 t17341016-22-off107 t17341016-22-verdict111"/>
+         
+               <p>23. 
+               
+                  <persName id="t17341016-22-defend190" type="defendantName">
+                     John 
+                     Linch 
+                  <interp inst="t17341016-22-defend190" type="surname" value="Linch"/>
+                     <interp inst="t17341016-22-defend190" type="given" value="John"/>
+                     <interp inst="t17341016-22-defend190" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-22-off107" type="offenceDescription">
+                     <interp inst="t17341016-22-off107" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-22-off107" type="offenceSubcategory" value="theftFromPlace"/>
+               stealing 7 Guineas and a Half, the Money of 
+                     
+                        <persName id="t17341016-22-victim192" type="victimName">
+                           George 
+                           Ansell 
+                        <interp inst="t17341016-22-victim192" type="surname" value="Ansell"/>
+                        <interp inst="t17341016-22-victim192" type="given" value="George"/>
+                        <interp inst="t17341016-22-victim192" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17341016-22-off107 t17341016-22-victim192"/>
+                     </persName>
+                      
+                  , in the House of 
+                     <persName id="t17341016-22-person193">
+                        Lewis 
+                        Eslip 
+                     <interp inst="t17341016-22-person193" type="surname" value="Eslip"/>
+                        <interp inst="t17341016-22-person193" type="given" value="Lewis"/>
+                        <interp inst="t17341016-22-person193" type="gender" value="male"/>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17341016-22-cd108" type="crimeDate">Sept. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-22-off107 t17341016-22-cd108"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-22-person194">
+                  George 
+                  Ansell 
+               <interp inst="t17341016-22-person194" type="surname" value="Ansell"/>
+                     <interp inst="t17341016-22-person194" type="given" value="George"/>
+                     <interp inst="t17341016-22-person194" type="gender" value="male"/>
+                  </persName>
+            . I <rs id="t17341016-22-viclabel109" type="occupation">keep a Fruit Cellar</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17341016-22-victim192 t17341016-22-viclabel109"/> in Mr. Eslip's House, at the Corner of <placeName id="t17341016-22-crimeloc110">Albermarle-street</placeName>
+                  <interp inst="t17341016-22-crimeloc110" type="placeName" value="Albermarle-street"/>
+                  <interp inst="t17341016-22-crimeloc110" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17341016-22-off107 t17341016-22-crimeloc110"/>. When I went out in the Morning, on the 12th of September, I left 7 Guineas in my Trunk, which stood in the Cellar Window, and my Wife had half a Guinea in her Pocket.</p>
+               <p>
+            
+                  <persName id="t17341016-22-person195">
+                  Sarah 
+                  Ansell 
+               <interp inst="t17341016-22-person195" type="surname" value="Ansell"/>
+                     <interp inst="t17341016-22-person195" type="given" value="Sarah"/>
+                     <interp inst="t17341016-22-person195" type="gender" value="female"/>
+                  </persName>
+            . I sat at my Cellar Window to sell my Goods, and the Prisoner came and sat down by me as he us'd to do. I gave him a Basket, and desir'd him to step down, and fetch me up some Walnuts, I being busy with a Customer He staying much longer than was necessary, I call'd him, and he said he was coming, and so he came up, with about half a hundred of Walnuts, tho' he might have brought half a Bushell in less time. Presently after I had taken them from him, he held up his Hand, as if somebody had call'd him, but no Body did, as far as I could hear; and so he went away. In about ten Minutes afterwards, I had occasion to change a Guinea, and so went to my Trunk, and miss'd all my Money; which was kept Guineas and a Half, for I had put a half Guinea in, but a Quarter of an Hour before the Prisoner came; and from that time, to the time I miss'd the Money, no Body went down the Cellar but he. The next Day, about 11 in the Morning he was taken.</p>
+               <p>
+            
+                  <persName id="t17341016-22-person196">
+                  Nathan 
+                  Crumpton 
+               <interp inst="t17341016-22-person196" type="surname" value="Crumpton"/>
+                     <interp inst="t17341016-22-person196" type="given" value="Nathan"/>
+                     <interp inst="t17341016-22-person196" type="gender" value="male"/>
+                  </persName>
+            . I keep a Victualling-Cellar, by the King's Meuse. On the 13th of September about 7 in the Morning, the Prisoner came down and called for a hot pint. He said he had fell in a Ditch, and so he pull'd off his wet Stockings, and put on a new Pair. One Macdonald and Will. Robins came down, and they and the Prisoner drank together and fell into Discourse, and the Prisoner said he had lodg'd 6 Guineas over the Water. He spent 16 d. Half-penny in Hot-pots, and went away about ten a Clock that Morning.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173410160013"/>- Macdonald. I am a Carpenter, and went to do a job in 
+               <persName id="t17341016-22-person197">
+                  Nathan 
+                  Crompton 
+               <interp inst="t17341016-22-person197" type="surname" value="Crompton"/>
+                     <interp inst="t17341016-22-person197" type="given" value="Nathan"/>
+                     <interp inst="t17341016-22-person197" type="gender" value="male"/>
+                  </persName>
+            's Cellar. I found the Prisoner there, and he drank to me, and said, he had lost a Crown by his Goods in the Market - for he drove a Wheel-barrow with Fruit - Then, says I, you are broke. No, says he, for I have planted 6 Guineas over the Water, and if you will go with me we'll take them up - But I refus'd, for I was to go to White-hall to receive my pay - He pull'd off his old Stockings, and threw them away, and put on a new Pair.</p>
+               <p>Prisoner. I told him I had lost 6 Guineas over the Water, and if I had them again, I should be a rich Man.</p>
+               <p>Macdonald. No; he said planted.</p>
+               <p>Will. Robins. I am a Taylor, and went down Crompton's Cellar to roast my Goose, and there was the Prisoner. He said he had lain in a Ditch almost all Night and had planted 6 Guineas at the Black-horse over the Water.</p>
+               <p>
+            
+                  <persName id="t17341016-22-person198">
+                  Arthur 
+                  Raven 
+               <interp inst="t17341016-22-person198" type="surname" value="Raven"/>
+                     <interp inst="t17341016-22-person198" type="given" value="Arthur"/>
+                     <interp inst="t17341016-22-person198" type="gender" value="male"/>
+                  </persName>
+            . I went to the Prisoner in the Gatehouse, and ask'd him how he got Money to buy the new Stockings? Why, says he, I have been at Southwark-Fair, and there was a Man, that won a good deal of Money by tossing up with a Halfpenny that had got a Head on both Sides; and I knowing the Secret, he gave me half a Crown not to discover it - But before Justice Lambert, he said he won the Money at Nine</p>
+               <p>Prisoner. When I had brought up Wal-nuts, I staid to shell some of them, but a Gentleman's Servant, of my Acquaintance, going down the Street, I called to him, and went with him. And there is a Back-door in the Cellar, and People may come in that way.</p>
+               <p>Prosecutor. There is a Back-door that goes into the Yard, and there's a pair of back Stairs that comes from the House into that Yard. The People of the House come down that way to fetch Water, and when I want Water my self, I go out at my back Door, but it is never open at any other Time, and I know it was bolted within side when I lost my Money. The Jury <rs id="t17341016-22-verdict111" type="verdictDescription">
+                     <interp inst="t17341016-22-verdict111" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> the Prisoner.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-23">
+               <interp inst="t17341016-23" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-23" type="year" value="1734"/>
+               <interp inst="t17341016-23" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-23" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-23-off112-c149" targOrder="Y"
+                     targets="t17341016-23-defend200 t17341016-23-off112 t17341016-23-verdict114"/>
+         
+               <p>24. 
+               
+                  <persName id="t17341016-23-defend200" type="defendantName">
+                     Joseph 
+                     Forward 
+                  <interp inst="t17341016-23-defend200" type="surname" value="Forward"/>
+                     <interp inst="t17341016-23-defend200" type="given" value="Joseph"/>
+                     <interp inst="t17341016-23-defend200" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-23-off112" type="offenceDescription">
+                     <interp inst="t17341016-23-off112" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-23-off112" type="offenceSubcategory" value="other"/>
+               stealing a Sheet, 2 Candlesticks, and a pair of Tongs
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-23-victim202" type="victimName">
+                     Anne 
+                     Chapman 
+                  <interp inst="t17341016-23-victim202" type="surname" value="Chapman"/>
+                     <interp inst="t17341016-23-victim202" type="given" value="Anne"/>
+                     <interp inst="t17341016-23-victim202" type="gender" value="female"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-23-off112 t17341016-23-victim202"/>
+                  </persName>
+                
+            , <rs id="t17341016-23-cd113" type="crimeDate">August 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-23-off112 t17341016-23-cd113"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-23-person203">
+                  Ann 
+                  Chapman 
+               <interp inst="t17341016-23-person203" type="surname" value="Chapman"/>
+                     <interp inst="t17341016-23-person203" type="given" value="Ann"/>
+                     <interp inst="t17341016-23-person203" type="gender" value="female"/>
+                  </persName>
+            . The Prisoner and his Wife hired a Room of me by the Week on the last Day of April. They staid till Bartholomew-tide, and then he set his Wife up in Bartholomew-Fair to sell Gin and Black-puddings. But some body stole her Bottle of Gin, and then she was broke. I was to have 2 s. a Week, but they had been there 24 Weeks, and paid me no more than 12 s. and besides, they used to come home drunk at all Hours, and so I was resolved to give 'em Warning. But as I was going up to their Room, I met his Wife coming out with a Bundle; upon which I went in to the Prisoner, and said, I suppose she's gone to raise a new Stock of Gin. No, says he, but if she is, I'll go and fetch her back. So he went away, and I miss'd my Goods, but they never darkened my Doors afterwards I took him about a Week afterwards, and then his Brother came and told me, if I would be easy he could help me to my Goods again, for they were at his House. But I would not meddle with them, for I had heard say, that one must not take such things back.</p>
+               <p>The Jury <rs id="t17341016-23-verdict114" type="verdictDescription">
+                     <interp inst="t17341016-23-verdict114" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> him.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-24">
+               <interp inst="t17341016-24" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-24" type="year" value="1734"/>
+               <interp inst="t17341016-24" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-24" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-24-off115-c152" targOrder="Y"
+                     targets="t17341016-24-defend205 t17341016-24-off115 t17341016-24-verdict117"/>
+         
+               <p>25. 
+               
+                  <persName id="t17341016-24-defend205" type="defendantName">
+                     Mary 
+                     Burgess 
+                  <interp inst="t17341016-24-defend205" type="surname" value="Burgess"/>
+                     <interp inst="t17341016-24-defend205" type="given" value="Mary"/>
+                     <interp inst="t17341016-24-defend205" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-24-off115" type="offenceDescription">
+                     <interp inst="t17341016-24-off115" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-24-off115" type="offenceSubcategory" value="grandLarceny"/>
+               stealing a Pair of Sheets, value 15 s. a Looking Glass, value 7 s. and a Napkin, value 8 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17341016-24-victim207" type="victimName">
+                     Thomas 
+                     Price 
+                  <interp inst="t17341016-24-victim207" type="surname" value="Price"/>
+                     <interp inst="t17341016-24-victim207" type="given" value="Thomas"/>
+                     <interp inst="t17341016-24-victim207" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-24-off115 t17341016-24-victim207"/>
+                  </persName>
+                
+            , <rs id="t17341016-24-cd116" type="crimeDate">October 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-24-off115 t17341016-24-cd116"/>.</p>
+               <p>
+            
+                  <persName id="t17341016-24-person208">
+                  Agnes 
+                  Price 
+               <interp inst="t17341016-24-person208" type="surname" value="Price"/>
+                     <interp inst="t17341016-24-person208" type="given" value="Agnes"/>
+                     <interp inst="t17341016-24-person208" type="gender" value="female"/>
+                  </persName>
+            . I let Lodgings to the Prisoner for half a Crown a Week. She came one Friday, and went away the next. I miss'd my Goods, and finding her out, she confest she had pawn'd 'em, but said I should have them again; and accordingly a Person where she lodged brought them to me.</p>
+               <p>
+            
+                  <persName id="t17341016-24-person209">
+                  Anne 
+                  Allen 
+               <interp inst="t17341016-24-person209" type="surname" value="Allen"/>
+                     <interp inst="t17341016-24-person209" type="given" value="Anne"/>
+                     <interp inst="t17341016-24-person209" type="gender" value="female"/>
+                  </persName>
+            , the Prisoner's Mother. After my Daughter had left the Lodgings, Mrs. Price came to me, and said, I have lent your Daughter a Riding-hood, and I can't tell where she is, and she has some other Things of mine, though I believe she's an honest Woman, but she has got a sorry Husband. I told<xptr type="pageFacsimile" doc="173410160014"/> her I did not know where she was, but I would enquire. Some time after this 
+               <persName id="t17341016-24-person210">
+                  Thomas 
+                  Price 
+               <interp inst="t17341016-24-person210" type="surname" value="Price"/>
+                     <interp inst="t17341016-24-person210" type="given" value="Thomas"/>
+                     <interp inst="t17341016-24-person210" type="gender" value="male"/>
+                  </persName>
+             sent for me, and said, he wanted Civility Money for his Wife's kind usage to my Daughter, and insisted upon 18 s. for loss of Time and Expences; and God damn you, says he, if you don't pay it, I'll be revenged, and swear a Robbery against her.</p>
+               <p>The Jury <rs id="t17341016-24-verdict117" type="verdictDescription">
+                     <interp inst="t17341016-24-verdict117" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> her.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-25">
+               <interp inst="t17341016-25" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-25" type="year" value="1734"/>
+               <interp inst="t17341016-25" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-25" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-25-off118-c157" targOrder="Y"
+                     targets="t17341016-25-defend212 t17341016-25-off118 t17341016-25-verdict120"/>
+         
+               <p>26. 
+               
+                  <persName id="t17341016-25-defend212" type="defendantName">
+                     Mark 
+                     Page 
+                  <interp inst="t17341016-25-defend212" type="surname" value="Page"/>
+                     <interp inst="t17341016-25-defend212" type="given" value="Mark"/>
+                     <interp inst="t17341016-25-defend212" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-25-off118" type="offenceDescription">
+                     <interp inst="t17341016-25-off118" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-25-off118" type="offenceSubcategory" value="other"/>
+               stealing the Carcase of a Sheep
+            </rs>, the Property of 
+               
+                  <persName id="t17341016-25-victim214" type="victimName">
+                     Stephen 
+                     Page 
+                  <interp inst="t17341016-25-victim214" type="surname" value="Page"/>
+                     <interp inst="t17341016-25-victim214" type="given" value="Stephen"/>
+                     <interp inst="t17341016-25-victim214" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-25-off118 t17341016-25-victim214"/>
+                  </persName>
+                
+            , <rs id="t17341016-25-cd119" type="crimeDate">Sept. 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t17341016-25-off118 t17341016-25-cd119"/>.</p>
+               <p>The Jury <rs id="t17341016-25-verdict120" type="verdictDescription">
+                     <interp inst="t17341016-25-verdict120" type="verdictCategory" value="notGuilty"/>
+               acquitted
+            </rs> him.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-26">
+               <interp inst="t17341016-26" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-26" type="year" value="1734"/>
+               <interp inst="t17341016-26" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-26" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-26-off121-c159" targOrder="Y"
+                     targets="t17341016-26-defend216 t17341016-26-off121 t17341016-26-verdict122"/>
+         
+               <p>27. 
+               
+                  <persName id="t17341016-26-defend216" type="defendantName">
+                     Jane 
+                     Robinson 
+                  <interp inst="t17341016-26-defend216" type="surname" value="Robinson"/>
+                     <interp inst="t17341016-26-defend216" type="given" value="Jane"/>
+                     <interp inst="t17341016-26-defend216" type="gender" value="female"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-26-off121" type="offenceDescription">
+                     <interp inst="t17341016-26-off121" type="offenceCategory" value="theft"/>
+                     <interp inst="t17341016-26-off121" type="offenceSubcategory" value="grandLarceny"/>
+               stealing a dead Goose, value 2 s.
+            </rs> the Property of 
+               
+                  <persName id="t17341016-26-victim218" type="victimName">
+                     William 
+                     Lane 
+                  <interp inst="t17341016-26-victim218" type="surname" value="Lane"/>
+                     <interp inst="t17341016-26-victim218" type="given" value="William"/>
+                     <interp inst="t17341016-26-victim218" type="gender" value="male"/>
+                     <join result="offenceVictim" targOrder="Y"
+                           targets="t17341016-26-off121 t17341016-26-victim218"/>
+                  </persName>
+                
+            .</p>
+               <p>The Jury found her <rs id="t17341016-26-verdict122" type="verdictDescription">
+                     <interp inst="t17341016-26-verdict122" type="verdictCategory" value="guilty"/>
+                     <interp inst="t17341016-26-verdict122" type="verdictSubcategory" value="theftunder1s"/>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-26-punish123" type="punishmentDescription">
+                     <interp inst="t17341016-26-punish123" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17341016-26-defend216 t17341016-26-punish123"/>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17341016-27">
+               <interp inst="t17341016-27" type="collection" value="BAILEY"/>
+               <interp inst="t17341016-27" type="year" value="1734"/>
+               <interp inst="t17341016-27" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="t17341016-27" type="date" value="17341016"/>
+               <join result="criminalCharge" id="t17341016-27-off124-c161" targOrder="Y"
+                     targets="t17341016-27-defend220 t17341016-27-off124 t17341016-27-verdict126"/>
+         
+               <p>28. 
+               
+                  <persName id="t17341016-27-defend220" type="defendantName">
+                     Richard 
+                     Constable 
+                  <interp inst="t17341016-27-defend220" type="surname" value="Constable"/>
+                     <interp inst="t17341016-27-defend220" type="given" value="Richard"/>
+                     <interp inst="t17341016-27-defend220" type="gender" value="male"/>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-27-off124" type="offenceDescription">
+                     <interp inst="t17341016-27-off124" type="offenceCategory" value="deception"/>
+                     <interp inst="t17341016-27-off124" type="offenceSubcategory" value="perjury"/>
+               wilful and corrupt Perjury, in swearing 
+                     <persName id="t17341016-27-victim221" type="victimName">
+                        
+                           <persName id="t17341016-27-person222" type="victimName">
+                              
+                                 <persName id="t17341016-27-victim223" type="victimName">
+                                    William 
+                                    Ansloe 
+                                 <interp inst="t17341016-27-victim223" type="surname" value="Ansloe"/>
+                              <interp inst="t17341016-27-victim223" type="given" value="William"/>
+                              <interp inst="t17341016-27-victim223" type="gender" value="male"/>
+                           </persName>
+                               
+                           <interp inst="t17341016-27-person222" type="surname" value="Ansloe"/>
+                           <interp inst="t17341016-27-person222" type="given" value="William"/>
+                           <interp inst="t17341016-27-person222" type="gender" value="male"/>
+                        </persName>
+                         and Elizabeth
+                         his 
+                        <rs id="t17341016-27-viclabel125" type="occupation">Wife</rs>
+                        <join result="persNameOccupation" targOrder="Y"
+                              targets="t17341016-27-victim221 t17341016-27-viclabel125"/>
+                        <interp inst="t17341016-27-victim221" type="surname" value="his"/>
+                        <interp inst="t17341016-27-victim221" type="given" value="Elizabeth"/>
+                        <interp inst="t17341016-27-victim221" type="gender" value="female"/>
+                     </persName>
+                  , did assault, abuse, and push him from one to t'other, and strike him over the Shins with a Stick, and bruised his Leg, and she pinched him, and kicked him on the back Sinews of his Leg, by which means he has had a Lameness ever since, and that they threaten'd if ever they met him they would do him a Mischief, for he ought not to live. Whereas in truth they did not assault or abuse him, or break his Shins, or bruise his Leg, or kick him on the back Sinews, or pinch him, or threaten to do him a Mischief
+            </rs>.</p>
+               <p>But no Evidence appearing, the Jury <rs id="t17341016-27-verdict126" type="verdictDescription">
+                     <interp inst="t17341016-27-verdict126" type="verdictCategory" value="notGuilty"/>
+                     <interp inst="t17341016-27-verdict126" type="verdictSubcategory" value="noEvidence"/>
+               acquitted
+            </rs> him, and the Court granted him a Copy of his Indictment.</p>
+            </div1>
+   
+   
+            <div1 type="punishmentSummary" id="s17341016-1">
+               <interp inst="s17341016-1" type="collection" value="BAILEY"/>
+               <interp inst="s17341016-1" type="year" value="1734"/>
+               <interp inst="s17341016-1" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="s17341016-1" type="date" value="17341016"/>
+         
+               <p>The Trials being ended, the Court proceeded to give Judgment as follows:</p>
+               <p>Received Sentence of Death 2.</p>
+               <p>
+            
+                  <persName id="s17341016-1-person224">
+                  John 
+                  Butler 
+               <interp inst="s17341016-1-person224" type="surname" value="Butler"/>
+                     <interp inst="s17341016-1-person224" type="given" value="John"/>
+                     <interp inst="s17341016-1-person224" type="gender" value="male"/>
+                  </persName>
+            , p. 197. and 
+               <persName id="s17341016-1-person225">
+                  Elizabeth 
+                  Pugh 
+               <interp inst="s17341016-1-person225" type="surname" value="Pugh"/>
+                     <interp inst="s17341016-1-person225" type="given" value="Elizabeth"/>
+                     <interp inst="s17341016-1-person225" type="gender" value="female"/>
+                  </persName>
+            , p. 202.</p>
+               <p>Transportation 11.</p>
+               <p>
+            
+                  <persName id="s17341016-1-person226">
+                  Catherine 
+                  Lucas 
+               <interp inst="s17341016-1-person226" type="surname" value="Lucas"/>
+                     <interp inst="s17341016-1-person226" type="given" value="Catherine"/>
+                     <interp inst="s17341016-1-person226" type="gender" value="female"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person227">
+                  Isabel 
+                  Gery 
+               <interp inst="s17341016-1-person227" type="surname" value="Gery"/>
+                     <interp inst="s17341016-1-person227" type="given" value="Isabel"/>
+                     <interp inst="s17341016-1-person227" type="gender" value="female"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person228">
+                  Matthew 
+                  Sanders 
+               <interp inst="s17341016-1-person228" type="surname" value="Sanders"/>
+                     <interp inst="s17341016-1-person228" type="given" value="Matthew"/>
+                     <interp inst="s17341016-1-person228" type="gender" value="male"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person229">
+                  William 
+                  Phillips 
+               <interp inst="s17341016-1-person229" type="surname" value="Phillips"/>
+                     <interp inst="s17341016-1-person229" type="given" value="William"/>
+                     <interp inst="s17341016-1-person229" type="gender" value="male"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person230">
+                  Edmund 
+                  Dammaree 
+               <interp inst="s17341016-1-person230" type="surname" value="Dammaree"/>
+                     <interp inst="s17341016-1-person230" type="given" value="Edmund"/>
+                     <interp inst="s17341016-1-person230" type="gender" value="male"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person231">
+                  Elizabeth 
+                  Williams 
+               <interp inst="s17341016-1-person231" type="surname" value="Williams"/>
+                     <interp inst="s17341016-1-person231" type="given" value="Elizabeth"/>
+                     <interp inst="s17341016-1-person231" type="gender" value="female"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person232">
+                  Matthew 
+                  Lively 
+               <interp inst="s17341016-1-person232" type="surname" value="Lively"/>
+                     <interp inst="s17341016-1-person232" type="given" value="Matthew"/>
+                     <interp inst="s17341016-1-person232" type="gender" value="male"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person233">
+                  Mary 
+                  Allen 
+               <interp inst="s17341016-1-person233" type="surname" value="Allen"/>
+                     <interp inst="s17341016-1-person233" type="given" value="Mary"/>
+                     <interp inst="s17341016-1-person233" type="gender" value="female"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person234">
+                  Mary 
+                  Matthews 
+               <interp inst="s17341016-1-person234" type="surname" value="Matthews"/>
+                     <interp inst="s17341016-1-person234" type="given" value="Mary"/>
+                     <interp inst="s17341016-1-person234" type="gender" value="female"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person235">
+                  Ann 
+                  Burton 
+               <interp inst="s17341016-1-person235" type="surname" value="Burton"/>
+                     <interp inst="s17341016-1-person235" type="given" value="Ann"/>
+                     <interp inst="s17341016-1-person235" type="gender" value="female"/>
+                  </persName>
+            , 
+               <persName id="s17341016-1-person236">
+                  Jane 
+                  Robinson 
+               <interp inst="s17341016-1-person236" type="surname" value="Robinson"/>
+                     <interp inst="s17341016-1-person236" type="given" value="Jane"/>
+                     <interp inst="s17341016-1-person236" type="gender" value="female"/>
+                  </persName>
+            .</p>
+            </div1>
+   
+   
+            <div1 type="advertisements" id="a17341016-1">
+               <interp inst="a17341016-1" type="collection" value="BAILEY"/>
+               <interp inst="a17341016-1" type="year" value="1734"/>
+               <interp inst="a17341016-1" type="uri" value="sessionsPapers/17341016"/>
+               <interp inst="a17341016-1" type="date" value="17341016"/>
+         
+               <p>The SPECIFICK INJECTION or LOTION,</p>
+               <p>Which in Nineteen Years private Practice has cured 673 Gonorrheas or Claps, (without taking any Medicine by the Mouth) and has kept several Hundreds from Clap or Pox, which is sufficient to convince the World of its Efficacy.</p>
+               <p>IT intirely destroys and carries off all Venereal Contagion, (because it reaches the Cause immediately, which no Medicine taken by the Mouth can do, being liable as well as Food to the Alterations made upon them by the Stomach) thereby prevents all the dismal Attendants of impure Embraces, as Inflammation, Scalding of Urine, Cordee, Phymosis, Paraphymosis, Herniaveneris, or swell'd schirrbous Testicles, Buboes, Gleets, Shankers, dribling of Semen at Stool or Urine, in short, any kind of the Pox. Besides, it saves a Constitution which is too often tore to pieces by harsh Drugs, ill applied by ignorant Dabblers in Sin, Mercury, and Antimony, and spares the nauseous Trouble of swallowing<xptr type="pageFacsimile" doc="173410160015"/> such poisonous Slops, and the Confinement those rugged Drugs require; and never fails acting with Safety, Secrecy and Ease, upon Man or Woman, without Confinement or Alteration of Diet. It cures old Claps, Shankers, nay if you piss thro' a Dozen Holes, (old Gleets, careous Ulcers in the Uraethra or Prostatiae, and all manner of Weakness from Nocturnal or Self-pollution, and Whites in Women, when every thing else is left off.) I have been long of Dr. Cockburn's Opinion, not to make publick any thing of this Nature; but I see People as bold in Iniquity as ever, notwithstanding the bad Consequents of it; and really the common Methods of Cure are none of the least Punishments attending it; witness the vast Numbers of fine Youth, both Male and Female, daily ruin'd, nay rotten before ripe, who seldom or never recover the Injury, which is oftner their Doctor's Fault than the Distemper's, which will run longer without hurting the Body, than when stopt by violent or frequent Purging Pills, Bolusses, Electuaries, Balsamick Elixirs, and lastly, Astringents, and what not. Simple Colds breed many Diseases, and simple-Claps, as they are generally managed, I affirm, lays not only a Foundation for the Pox, but Gout, Gravel, Leprosy, Rheumatism, King's Evil and Scurvy, whatever People think to the contrary: Therefore I can no longer prevail with my self to with-hold so useful a Remedy from my fellow Creatures, who are daily imposed upon, both in publick Prints and private Practice, by People who generally know no more of a human Body, or the Operation of Medicine, than the Patient does, but uses such or such a Thing, because their Master did, or such a Man or such a Book taught them; and how generally so unconscionable are as not to be satisfied with killing Men by a longed winded Cure, &amp;c. but must entail Misery upon Posterity, rather than lose their unjust Gain.</p>
+               <p>To convince the World this is published for a general Good, which the Rich may chuse, Desipiantur, it is sold at 7 s. 6 d. with ample Directions for the Author, at Mr. 
+               <persName id="a17341016-1-person237">
+                  John 
+                  Butler 
+               <interp inst="a17341016-1-person237" type="surname" value="Butler"/>
+                     <interp inst="a17341016-1-person237" type="given" value="John"/>
+                     <interp inst="a17341016-1-person237" type="gender" value="male"/>
+                  </persName>
+            's, a Watch-maker, next Door to the Rummer Tavern James-street, Covent-Garden; where any Country or Seafaring People may be supplied with Quantities, sending a Line directed for me at that Place, Post paid. People who want Help, or are tired out with the Pox and Apothecaries Slops, may do the same.</p>
+               <p>N.B. I cure without Mercury, Antimony or Salivation: One Bottle of this will prevent many Claps, and generally cures a common one. It will keep many Years in any Climate. Ask for a Bottle of Wash, which is wrap'd and seal'd up. This never would have been made publick in this manner, could I have rendered it so extensively useful for Mankind without publishing.</p>
+               <p>A Speedy Cure for the ITCH.</p>
+               <p>At the Crown and Ball in George's Court in St. John's-Lane, near Hicks's-Hall, is Sold,</p>
+               <p>A WATER which perfectly cures the ITCH, or Itching Humours in any Part of the Body, having no offensive Scent; and has been approved by many Years Experience. Price 1 s. 6 d. a Bottle, with Directions. Prepared by A. Downing Chymist.</p>
+               <p>At the same PLACE may be had,</p>
+               <p>The true Essence or Spirits of Scurvy-Grass, both Purging and Plain, most excellent in all Degrees of the Scurvy, at 8 d. a Bottle. And the great Elixir of Life, called Daffey's Elixir, truly prepared from the best Ingredients, very useful in all Families. Price 2 s. 6 d. the Half-Pint.</p>
+            </div1>
+   
+         </div0>
+      </body>
+   </text>
+</TEI.2>

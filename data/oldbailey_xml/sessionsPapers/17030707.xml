@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="sessionsPaper" id="17030707">
+            <interp inst="17030707" type="collection" value="BAILEY"/>
+            <interp inst="17030707" type="year" value="1703"/>
+            <interp inst="17030707" type="uri" value="sessionsPapers/17030707"/>
+            <interp inst="17030707" type="date" value="17030707"/>
+            <xptr type="transcription" doc="17030707"/>
+   
+            <div1 type="frontMatter" id="f17030707-1">
+               <interp inst="f17030707-1" type="collection" value="BAILEY"/>
+               <interp inst="f17030707-1" type="year" value="1703"/>
+               <interp inst="f17030707-1" type="uri" value="sessionsPapers/17030707"/>
+               <interp inst="f17030707-1" type="date" value="17030707"/>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="17030707001"/>The TRYALS of John Peter Dromett, the French-man, for the Murther of his Wife, and Thomas Cook, the Prize-player, called the Butcher of Gloucester, for the Murther of a Constable at May-Fair, at Justice-Hall in the Old-Baily, on the 7th and 8th of July. 1703.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17030707-1">
+               <interp inst="t17030707-1" type="collection" value="BAILEY"/>
+               <interp inst="t17030707-1" type="year" value="1703"/>
+               <interp inst="t17030707-1" type="uri" value="sessionsPapers/17030707"/>
+               <interp inst="t17030707-1" type="date" value="17030707"/>
+               <join result="criminalCharge" id="t17030707-1-off2-c1" targOrder="Y"
+                     targets="t17030707-1-defend1 t17030707-1-off2 t17030707-1-verdict7"/>
+         
+               <p>
+            
+                  <persName id="t17030707-1-defend1" type="defendantName">
+                  John Peter 
+                  Dromett
+               <interp inst="t17030707-1-defend1" type="surname" value="Dromett"/>
+                     <interp inst="t17030707-1-defend1" type="given" value="John Peter"/>
+                     <interp inst="t17030707-1-defend1" type="gender" value="male"/>
+                  </persName>
+            , a French-man, of the Parish of <placeName id="t17030707-1-defloc1">St. Martins in the Fields</placeName>
+                  <interp inst="t17030707-1-defloc1" type="placeName" value="St. Martins in the Fields"/>
+                  <interp inst="t17030707-1-defloc1" type="type" value="defendantHome"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="t17030707-1-defend1 t17030707-1-defloc1"/>, was indicted for the <rs id="t17030707-1-off2" type="offenceDescription">
+                     <interp inst="t17030707-1-off2" type="offenceCategory" value="kill"/>
+                     <interp inst="t17030707-1-off2" type="offenceSubcategory" value="murder"/>
+               Murther of one 
+                     <persName id="t17030707-1-victim2" type="victimName">
+                        Frances 
+                        Dromett
+                     <interp inst="t17030707-1-victim2" type="surname" value="Dromett"/>
+                        <interp inst="t17030707-1-victim2" type="given" value="Frances"/>
+                        <interp inst="t17030707-1-victim2" type="gender" value="female"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17030707-1-off2 t17030707-1-victim2"/>
+                     </persName>
+                  , his <rs id="t17030707-1-viclabel3" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t17030707-1-victim2 t17030707-1-viclabel3"/>, on the <rs id="t17030707-1-cd4" type="crimeDate">9th of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y"
+                           targets="t17030707-1-off2 t17030707-1-cd4"/> last, by giving her one mortal Bruise, with the Hilt of a Sword, made with Brass, on the right Part of the Head, near the right Ear, of which she instantly died
+            </rs>. It appeared that the Prisoner was a <rs id="t17030707-1-deflabel5" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17030707-1-defend1 t17030707-1-deflabel5"/> to the Right Honourable the Lord Haversham at Kensington, and coming home late the Night the Murther was committed, in a bloody manner, his Lordship mistrusted he had done some Mischief, askt him how he came in that Condition; and he told him that he met with two Men in the Park, who set upon him, and would have taken his Cloaths from him, which made him fight; and said he had broke one of their Heads; so the matter rested for that time: But the next Evening a Paper was cried of a barbarous Murther that was committed near <placeName id="t17030707-1-crimeloc6">Bloody-Bridge, by Chelsea</placeName>
+                  <interp inst="t17030707-1-crimeloc6" type="placeName" value="Bloody-Bridge, by Chelsea"/>
+                  <interp inst="t17030707-1-crimeloc6" type="type" value="crimeLocation"/>
+                  <join result="offencePlace" targOrder="Y"
+                        targets="t17030707-1-off2 t17030707-1-crimeloc6"/>, which coming to some of the Servants Hands, they acquainted his Lordship with it, that they mistrusted the Prisoner had killed his Wife, they having seen her before in the House, and heard her complain of his bad Usage, and by reason that his Stockings were bloody, his Sword broke, the Hilt bruised, and his Cane shattered; upon which, my Lord mistrusting that there was something more in the matter, sent the Prisoner to get his Coach ready, and in the mean time sent for a Constable to apprehend him, and cause him to be examined before some Justice of the Peace, which accordingly he did. Upon the Tryal, the Constable deposed, That my Lord sent a Servant-maid to him, (with the Sword and Cane) to apprehend the Prisoner, at the Crown at Kensington, where he found him, but taking him to the Justice's, he was not at home, upon which, he took a Coach, with some other People to his Assistance, and brought him to London; and on the Way, he confessed he did the Fact, and that she was his Wife: Then he askt him how he got her out, and he said, He desired her to take a walk into the Park, and then led her out of the way into that Road: Then he askt him what was the reason he killed her, he said, that she was a wicked Woman, and had cheated him, for that she told him, when he married her, that she was of the Blood-Royal of France, and would maintain him without working, but he was forced to work to maintain her: Then he asked him if the Stockings were his, which were shewed him all bloody, and also his Wife's Cap, which was found in his Coat-pocket when searched, which he did not disown. Another Evidence deposed, That he was one of the Constable's Assistance, and as they came into the middle of the Park, he shewed him the bloody Sword, and said, Thou Villain, dost not thou see thy Wife's Blood on thy Sword; upon which he did not deny it, but answered very little. Another Evidence deposed; That when they came by the two Ashen-trees in the Park, he desired him to make an ingenuous Confession, and told him that the Constable was his Friend, upon which he confest the matter, and said that she was a very ill Woman, and he was forced to keep her. Another Evidence was one of his Fellow-servants, who said, He came in, the Night the Murther was done, about 12 a clock, and seeing him bloody, enquired how he came so, he said he had been fighting with two Men in the Park. Other Evidence deposed, That seeing his Sword broke, and he bloody, they all took notice of it, but he said still, that he had only broke a Man's Head. There were other Evidence who deposed, That the Night the Murther was committed, he went into his Lord's Chamber, when he was in Bed, knowing he had store of Gold, and something making a noise, awaked his Lord, and then he pretended he came for something that he lacked, which the Evidence did suppose was to take away the Gold, and so to fly for that and this Fact. Another Evidence deposed, That he heard the Prisoner confess the Fact, and own her to be his Wife, and that they were married in Ireland, and said that she had put a Trick upon him. Another Evidence deposed, That she was a poor Woman, that went a weeding in the Gardens at Chelsea-College, and on Thursday Morning, she and some more were going to work, and two Women told them there was a Woman murdered in the Ditch between Hyde-Park and Chelsea, where they found her lying upon her Belly; and looking about, found a peice of the Sword stuck in the Bank, which was matcht with the other, and agreed exactly; and that they did believe that that was the Place he threw her in, by reason there was much Blood; and that they did believe that she did struggle hard for her Life, by reason that there was a great many Scratches upon the Bank, as they did suppose, with her Hands and her Feet, to get out again; and that he might give her the Blow as she endeavoured to get out of the Ditch. It appeared further, That she was dragged above 20 Yards from the Place where it was supposed she was thrown in, by reason of the Blood which was found all the way. A Surgeon deposed, That he was sent for to view the Body, and saw a great many Wounds, and did believe that he would have cut off her Head, and that she had 21<xptr type="pageFacsimile" doc="17030707002"/>Wounds upon her Head and Neck, besides a great many more in other Parts of her Body, and that one went into her Wind-pipe, and another in behind her Ear through into her Mouth, and did believe it was done with the Sword, because they had 3 Edges, as the Sword had. The Justice declared that he did own her for his Wife, and that her Name was Frances. There were two other Witnesses who said, That she dined at the Lord's House the Sunday before, and when she first came in, she owned her self to be his Aunt; but examining her strictly, she said she was his Wife, and that he did own to be her Husband, and they were sure this was the same Woman, they having both seen her after she was murdered. All that he had to say for himself was, That she followed him, and provoked him to it; which matters the Jury having considered, brought him in <rs id="t17030707-1-verdict7" type="verdictDescription">
+                     <interp inst="t17030707-1-verdict7" type="verdictCategory" value="guilty"/>
+               guilty
+            </rs> of wilful Murder.</p>
+               <p>
+                  <rs id="t17030707-1-punish8" type="punishmentDescription">
+                     <interp inst="t17030707-1-punish8" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17030707-1-defend1 t17030707-1-punish8"/>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t17030707-2">
+               <interp inst="t17030707-2" type="collection" value="BAILEY"/>
+               <interp inst="t17030707-2" type="year" value="1703"/>
+               <interp inst="t17030707-2" type="uri" value="sessionsPapers/17030707"/>
+               <interp inst="t17030707-2" type="date" value="17030707"/>
+               <join result="criminalCharge" id="t17030707-2-off11-c3" targOrder="Y"
+                     targets="t17030707-2-defend3 t17030707-2-off11 t17030707-2-verdict14"/>
+         
+               <p>
+            
+                  <persName id="t17030707-2-defend3" type="defendantName">
+                  Thomas 
+                  Cook
+               <interp inst="t17030707-2-defend3" type="surname" value="Cook"/>
+                     <interp inst="t17030707-2-defend3" type="given" value="Thomas"/>
+                     <interp inst="t17030707-2-defend3" type="gender" value="male"/>
+                  </persName>
+            , the <rs id="t17030707-2-deflabel9" type="occupation">Prize-Player</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t17030707-2-defend3 t17030707-2-deflabel9"/>, called the Butcher of Gloucester, of the Parish of <placeName id="t17030707-2-defloc10">St. Martins in the Fields</placeName>
+                  <interp inst="t17030707-2-defloc10" type="placeName" value="St. Martins in the Fields"/>
+                  <interp inst="t17030707-2-defloc10" type="type" value="defendantHome"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="t17030707-2-defend3 t17030707-2-defloc10"/>, was indicted for the <rs id="t17030707-2-off11" type="offenceDescription">
+                     <interp inst="t17030707-2-off11" type="offenceCategory" value="kill"/>
+                     <interp inst="t17030707-2-off11" type="offenceSubcategory" value="murder"/>
+               Murther of 
+                     <persName id="t17030707-2-victim4" type="victimName">
+                        John 
+                        Cooper
+                     <interp inst="t17030707-2-victim4" type="surname" value="Cooper"/>
+                        <interp inst="t17030707-2-victim4" type="given" value="John"/>
+                        <interp inst="t17030707-2-victim4" type="gender" value="male"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t17030707-2-off11 t17030707-2-victim4"/>
+                     </persName>
+                   a <rs id="t17030707-2-viclabel12" type="occupation">Constable</rs>
+                     <join result="persNameOccupation" targOrder="Y"
+                           targets="t17030707-2-victim4 t17030707-2-viclabel12"/>, on the <rs id="t17030707-2-cd13" type="crimeDate">12 of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y"
+                           targets="t17030707-2-off11 t17030707-2-cd13"/>, in the first Year of Her Majesty's Reign, by giving him one mortal Wound with a Rapier, on the left Part of the Body, near the left Pap, of the depth of 3 Inches, of which he languished to the 16th, and then died
+            </rs>. It appeared that a Warrant was issued by the Justices to the High Constable, for suppressing Vice and Immorality, in pursuance of Her Majesty's Proclamation for the same, who accordingly sent his Summons to the other Constables, who thereupon met together, and going into May-Fair, a Tumult arose, in which the Deceased was killed, and that the Prisoner afterwards fled into Ireland, and there made his Braggs of what he had done, for which he was there apprehended, and brought back to Chester, from thence removed, by Habeas Corpus, to London. The first Evidence deposed, That he and the Constables took up one Hawkins, who made his escape. Another Evidence deposed, That they took the Prisoner's Wife at the upper end of the Fair, but upon importunity they let her go, which coming to the Prisoner's Ear, he swore God damn his Blood that he would have the Blood of some of them before he came out of the Fair; and upon that shut up his House, and saw him follow the Constables into the Fair. Another Evidence deposed, That he saw the Prisoner with a Sword in his Hand drawn, and that the Mob, being about 30 Soldiers, and he got over a Bank, and stood in Defiance of the Constables, and hallowed, and threw Brick-bats at them, but the Deceased coming too near, they leapt off the Bank, and pursued the Constables to the Sheep-Penns; but the Deceased being hindmost, they overtook him by the Penns, and cut and wounded him, of which he died, and that the Prisoner was there, and was seen with a Sword in his Hand bloody, and afterwards with the Constable's Staff. Another Evidence declared, That when Mr. Cooper was killed, they had Information that it was done by the Prisoner, and that he and several others were going within three Days after, in order to apprehend him, and in their way to the Fair met him, which he perceiving, drew his Sword, made several Passes, and then waved it over his Head, and run into the Fair, and could never be found afterwards, tho' diligent search was made after him. The Surgeon deposed, That he had several Wounds, and that one of them went into his Heart, of which he died. Another Evidence deposed, That he kept a publick House in Dublin in Ireland, and said, That he was talking with a Man that taught a small Sword, and the Prisoner was there swearing, upon which he rebuked him for it, telling him there were some People in the House would take him up for it, and he said, Was there any of the reforming Dogs in Ireland, for, said he, we in London drive them, for, said he, at a Fair called May-Fair, there was a noise, and he went out to see, and said, that there was six Soldiers and himself, and that the Constables plaid their Parts with their Staves, and he made his: And farther said, that when the Man dropt, which proved to be the Deceased, he wipt his Sword, and put it up, and went away; and that he had several times heard him say the same, for he used very commonly to bragg of it. The Prisoner for his Defence said, That he was a wounded Man, and had plaid a Prize the 29th of April, and was so wounded, that it was not likely for him to be concerned in any such thing; as for the Woman that was taken up, he disowned her for his Wife, saying he never owned her, but that she was only his Bar-keeper, and that as soon as she came back, he shut up his House, and went to another House. But the Evidence was positive he was the Man, and that they saw him among the rest with his Sword drawn, and that he did wipe the Blood off of it, and that he was able to use his Sword within 3 Days after, when he resisted the Constable that went to apprehend him; the Jury thereupon found him <rs id="t17030707-2-verdict14" type="verdictDescription">
+                     <interp inst="t17030707-2-verdict14" type="verdictCategory" value="guilty"/>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17030707-2-punish15" type="punishmentDescription">
+                     <interp inst="t17030707-2-punish15" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t17030707-2-defend3 t17030707-2-punish15"/>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
+   
+   
+            <div1 type="punishmentSummary" id="s17030707-1">
+               <interp inst="s17030707-1" type="collection" value="BAILEY"/>
+               <interp inst="s17030707-1" type="year" value="1703"/>
+               <interp inst="s17030707-1" type="uri" value="sessionsPapers/17030707"/>
+               <interp inst="s17030707-1" type="date" value="17030707"/>
+         
+               <p>And at the close of the Sessions they both received Sentence of Death</p>
+            </div1>
+   
+   
+            <div1 type="advertisements" id="a17030707-1">
+               <interp inst="a17030707-1" type="collection" value="BAILEY"/>
+               <interp inst="a17030707-1" type="year" value="1703"/>
+               <interp inst="a17030707-1" type="uri" value="sessionsPapers/17030707"/>
+               <interp inst="a17030707-1" type="date" value="17030707"/>
+         
+               <p>Advertisement.</p>
+               <p>Nearly published, written by John Dunton, the second Edition of a Book Entituled,</p>
+               <p>The shortest Way with Whores and Rogues, for a new Project for Reformation) containing, the shortest Way with the Atheist, Murderes, Thief, Whore-master, Strumpet, Sodomite, Drunkard. The shortest Way with the Swearer, Liar, Sabbath-breaker, Slanderer, Postecutor: The shortest Way with the Cuckold, Gamester, Scold, Usurer, Coward, ungrateful Person, Extortioner; with the shortest Way with other notorious Offenders. The whole dedicated to Mr. Daniel de Foe, Author of The shortest Way with the Dissenters. Price 1 s. Sold by Eliz. Mallet, near Fleet-bridge.</p>
+               <p>W. Elmy, Professor of Physick, still lives at the Blue-hall in Whale-bone Court, the lower end of Bartholomew-lane, near the Royal-Exchange; who most safely and expeditiously cures Deafness and Noise in the Ears, in any of what Age soever (if curable) and tells the Patient, if so or not, upon inspection. *** He hath Remedies ready prepared, for preserving the Hearing of such as are not perfectly curable, because of some great Defects in the sounding Membrane, and other Impediments of the Auditory Passages, which Remedies keep them from ever growing worse.</p>
+            </div1>
+   
+         </div0>
+      </body>
+   </text>
+</TEI.2>

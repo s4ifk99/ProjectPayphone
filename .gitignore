@@ -1,0 +1,31 @@
+# Virtual env and Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Database and data (optional: remove *.db if you want to track small fixtures)
+*.sqlite
+*.db
+case_cards.jsonl
+
+# IDE and OS
+.idea/
+.vscode/
+.cursor/
+.DS_Store
+*.swp
+*~
+
+# Pytest and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment
+.env
+.env.local

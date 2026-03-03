@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17700419">
+            <interp inst="OA17700419" type="uri" value="ordinarysAccounts/OA17700419"/>
+            <interp inst="OA17700419" type="date" value="17700419"/>
+            <xptr type="pageFacsimile" doc="OA177004190001"/>
+            <p>THE ORDINARY of NEWGATE's ACCOUNT of the Confession, Behaviour, and Dying Words, <persName id="OA17700419n2-1">
+                  <interp inst="OA17700419n2-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n2-1" type="surname" value="JOHNSON"/>
+                  <interp inst="OA17700419n2-1" type="given" value="BENJAMIN"/>OF Benjamin Johnson</persName>, otherwise <persName id="OA17700419n2-99">
+                  <interp inst="OA17700419n2-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n2-99" type="surname" value="MILLISON"/>
+                  <interp inst="OA17700419n2-99" type="given" value="BENJAMIN"/>Millison</persName>, AND <persName id="OA17700419n2-88">
+                  <interp inst="OA17700419n2-88" type="gender" value="male"/>
+                  <interp inst="OA17700419n2-88" type="surname" value="JERVIS"/>
+                  <interp inst="OA17700419n2-88" type="given" value="JOSEPH"/>JOSEPH JERVIS</persName>, Who were executed at <placeName id="OA17700419-geo-1">
+                  <interp inst="OA17700419-geo-1" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-1 n2-99 n2-88 OA17700419-geo-1"/>TYBURN</placeName>, On Thursday, the 19th Day of April, Inst.</p>
+            <p>For Burglary in the House of <rs id="OA17700419-occupation-1" type="occupation">Doctor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n13-3 OA17700419-occupation-1"/> Evans, at <placeName id="OA17700419-geo-2">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-1 n2-99 n2-88 OA17700419-geo-2"/>Knight's-Bridge</placeName>, the 24th of January, 1770.</p>
+            <p>AND OF Thirteen other Malefactors, who were hanged at <placeName id="OA17700419-geo-3">
+                  <interp inst="OA17700419-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-1 n2-99 n11-4 n11-33 n13-1 n17-99 n17-1 n13-99 n2-88 n11-5 n13-2 n20-1 n23-4 n23-5 n23-6 n23-7 n23-99 n23-66 n23-8 n23-44 n23-9 n23-10 n23-11 n23-12 n23-45 n23-13 OA17700419-geo-3"/>Tyburn</placeName>, on Wednesday, the 16th of May Inst. for various Burglaries, and Robberies on the Highway.</p>
+            <p>BEING THE Third and Fourth EXECUTIONS in the SECOND <rs id="OA17700419-occupation-2" type="occupation">MAYORALTY OF THE Rt. Hon</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n5-1 OA17700419-occupation-2"/>. <persName id="OA17700419n5-1">
+                  <interp inst="OA17700419n5-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n5-1" type="surname" value="BECKFORD"/>
+                  <interp inst="OA17700419n5-1" type="given" value="WILLIAM"/>WILLIAM BECKFORD</persName>, <rs id="OA17700419-occupation-3" type="occupation">Esq; LORD-MAYOR of the City of LONDON.</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n5-1 OA17700419-occupation-3"/>
+            </p>
+            <p>Number II. and III. in the Year 1770.</p>
+            <p>LONDON:</p>
+            <p>Sold by J. KINGSBURY, Stationer, N° 47, Tooley-Street, Southwark; S. BLADON, N° 28, Pater-noster-Row; Mess. ARMITAGE and ROPER, at Bishopsgate, and T. WADE, Bookseller, the Corner of Gray's-Inn-Gate, Holborn.</p>
+            <p>(Price SIX-PENCE.)</p>
+            <xptr type="pageFacsimile" doc="OA177004190002"/>
+            <p>THE ORDINARY of NEWGATE's ACCOUNT of the Confession, Behaviour, and Dying Words, &amp;c.</p>
+            <p>BY virtue of the King's Commission of the Peace, oyer and terminer, and gaol delivery, holden for the city of London, and county of Middlesex, at <placeName id="OA17700419-geo-4">
+                  <interp inst="OA17700419-geo-4" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n11-1 n11-2 n11-99 n11-3 n2-1 n2-99 n11-4 n11-33 n13-1 n17-99 n17-1 n13-99 n2-88 n11-5 n13-2 n20-1 OA17700419-geo-4"/>Justice-hall, in the Old-Bailey</placeName>, before <rs id="OA17700419-occupation-4" type="occupation">the Right Hon.</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-1 OA17700419-occupation-4"/> 
+               <persName id="OA17700419n11-1">
+                  <interp inst="OA17700419n11-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-1" type="surname" value="BECKFORD"/>
+                  <interp inst="OA17700419n11-1" type="given" value="WILLIAM"/>William Beckford</persName>, <rs id="OA17700419-occupation-5" type="occupation">Esq; Lord Mayor of the city of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-1 OA17700419-occupation-5"/>, <rs id="OA17700419-occupation-6" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-2 OA17700419-occupation-6"/> 
+               <persName id="OA17700419n11-2">
+                  <interp inst="OA17700419n11-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-2" type="surname" value="YATES"/>
+                  <interp inst="OA17700419n11-2" type="given" value="JOSEPH"/>Joseph Yates</persName>, <rs id="OA17700419-occupation-7" type="occupation">one of his Majesty's Judges of the court of King's Bench</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-2 OA17700419-occupation-7"/>, <rs id="OA17700419-occupation-8" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-99 OA17700419-occupation-8"/> 
+               <persName id="OA17700419n11-99">
+                  <interp inst="OA17700419n11-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-99" type="surname" value="Blackstone"/>
+                  <interp inst="OA17700419n11-99" type="given" value="Will"/>Will. Blackstone</persName>, <rs id="OA17700419-occupation-9" type="occupation">Knt. one of his Majesty's Judges of the court of Common Pleas</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-99 OA17700419-occupation-9"/>, <persName id="OA17700419n11-3">
+                  <interp inst="OA17700419n11-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-3" type="surname" value="EYRE"/>
+                  <interp inst="OA17700419n11-3" type="given" value="JAMES"/>James Eyre</persName>, <rs id="OA17700419-occupation-10" type="occupation">Esq; Recorder of the City of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n11-3 OA17700419-occupation-10"/>, and others of his Majesty's Justices of Oyer and Terminer, for the said city and county, and general gaol delivery of Newgate, on Wednesday the 21st, Thursday 22d, Friday 23d, Saturday 24th, and Monday 26th of February, 1770, in the tenth year of his Majesty's reign, <persName id="OA17700419n11-4">
+                  <interp inst="OA17700419n11-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-4" type="surname" value="JOHNSON"/>
+                  <interp inst="OA17700419n11-4" type="given" value="BENJAMIN"/>Benjamin Johnson</persName>, otherwise <persName id="OA17700419n11-33">
+                  <interp inst="OA17700419n11-33" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-33" type="surname" value="MILLISON"/>
+                  <interp inst="OA17700419n11-33" type="given" value="BENJAMIN"/>Millison</persName>, and <persName id="OA17700419n11-5">
+                  <interp inst="OA17700419n11-5" type="gender" value="male"/>
+                  <interp inst="OA17700419n11-5" type="surname" value="JERVIS"/>
+                  <interp inst="OA17700419n11-5" type="given" value="JOSEPH"/>Joseph Jervis</persName>, were capitally convicted for burglary; and five others for various offences.</p>
+            <p>On Thursday, the 12th of April, the report was made to his majesty, by <persName id="OA17700419n12-1">
+                  <interp inst="OA17700419n12-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n12-1" type="surname" value="EYRE"/>
+                  <interp inst="OA17700419n12-1" type="given" value="JAMES"/>James Eyre</persName>, <rs id="OA17700419-occupation-11" type="occupation">Esq; Recorder of the city of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n12-1 OA17700419-occupation-11"/>, when Millison and Jervis were ordered to be executed on Thursday the 19th; the other five were respited during pleasure, three of whom have since received his majesty's most gracious pardon, on condition of being transported for life.</p>
+            <p>
+               <persName id="OA17700419n13-1">
+                  <interp inst="OA17700419n13-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n13-1" type="surname" value="JOHNSON"/>
+                  <interp inst="OA17700419n13-1" type="given" value="BENJAMIN"/>Benjamin Johnson</persName>, otherwise <persName id="OA17700419n13-99">
+                  <interp inst="OA17700419n13-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n13-99" type="surname" value="MILLISON"/>
+                  <interp inst="OA17700419n13-99" type="given" value="BENJAMIN"/>Millison</persName>, and <persName id="OA17700419n13-2">
+                  <interp inst="OA17700419n13-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n13-2" type="surname" value="JERVIS"/>
+                  <interp inst="OA17700419n13-2" type="given" value="JOSEPH"/>Joseph Jervis</persName>, were indicted for breaking and entering the dwelling-house of <persName id="OA17700419n13-3">
+                  <interp inst="OA17700419n13-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n13-3" type="surname" value="EVANS"/>
+                  <interp inst="OA17700419n13-3" type="given" value="THOMAS"/>Thomas Evans</persName>, of <placeName id="OA17700419-geo-5">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n13-3 n2-1 n2-99 n11-4 n11-33 n13-1 n13-99 n2-88 n11-5 n13-2 n14-1 n16-99 n16-2 OA17700419-geo-5"/>Knights-Bridge</placeName>, on the 24th of January 1770, between the hours of one and two in the morning, and stealing a shaving box, value 1s. two razors, value 1s. one razor strop, value 3d. a pair of black leather breeches, value 5s. and six pair of mens shoes, value 6s. the property of said Thomas; and one cloth coat, one pair of silver knee buckles, and</p>
+            <xptr type="pageFacsimile" doc="OA177004190003"/>
+            <p>three yards of Irish linen, value 6s. the property of <persName id="OA17700419n14-1">
+                  <interp inst="OA17700419n14-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n14-1" type="surname" value="BURTON"/>
+                  <interp inst="OA17700419n14-1" type="given" value="WILLIAM"/>William Burton</persName>, in the dwelling house of the said Thomas. To this indictment they pleaded not gilty, and for trial put themselves on God and their country. Johnson, otherwise Millison, alledged in his defence, that for some former provocations, the evidence swore he would be revenged on him; that he gave two guineas for the coat and breeches, to an acquaintance of the evidence Tibbs.</p>
+            <p>Jervis said in his defence, that he was quite innocent of the charge; that his acquaintance with the evidence was very slight; that it was all spite for his shewing some civility to a person he calls his wife; that he, Tibbs, brought the things to his lodgings, that were found there.</p>
+            <p>On the evidence of <persName id="OA17700419n16-99">
+                  <interp inst="OA17700419n16-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n16-99" type="surname" value="Evans"/>
+                  <interp inst="OA17700419n16-99" type="given" value="Tho"/>Tho. Evans</persName>, <persName id="OA17700419n16-1">
+                  <interp inst="OA17700419n16-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n16-1" type="surname" value="BURTON"/>
+                  <interp inst="OA17700419n16-1" type="given" value="WILLIAM"/>William Burton</persName>, <persName id="OA17700419n16-2">
+                  <interp inst="OA17700419n16-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n16-2" type="surname" value="TIBBS"/>
+                  <interp inst="OA17700419n16-2" type="given" value="JOHN"/>John Tibbs</persName> the accomplice, and others, Millison and Jervis were found guilty of the charge laid in the indictment, and were sentenced by the law to be hanged by the neck till dead.</p>
+            <p>The account given by <persName id="OA17700419n17-1">
+                  <interp inst="OA17700419n17-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n17-1" type="surname" value="JOHNSON"/>
+                  <interp inst="OA17700419n17-1" type="given" value="BENJAMIN"/>Benjamin Johnson</persName>, otherwise <persName id="OA17700419n17-99">
+                  <interp inst="OA17700419n17-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n17-99" type="surname" value="MILLISON"/>
+                  <interp inst="OA17700419n17-99" type="given" value="BENJAMIN"/>Millison</persName>, of himself, is as follows: That he was born in the town of <placeName id="OA17700419-geo-6">
+                  <interp inst="OA17700419-geo-6" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-1 n2-99 n11-4 n11-33 n13-1 n17-99 n17-1 n13-99 OA17700419-geo-6"/>Newbery</placeName>, reared and educated by his grandfather, who was a <rs id="OA17700419-occupation-12" type="occupation">brazier</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n2-1 n2-99 n11-4 n11-33 n13-1 n17-99 n17-1 n13-99 OA17700419-occupation-12"/>, from whom he partly learned his trade. Some time after his grandfather's death, he was taken into work by the man who succeeded his grandfather in business; during which time his grandmother took very good and proper care of him, till at the age of fifteen years, he, thinking the life of a <rs id="OA17700419-occupation-13" type="occupation">valet de chambre</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n2-1 n2-99 n11-4 n11-33 n13-1 n17-99 n17-1 n13-99 OA17700419-occupation-13"/> less laborious, and better suited to his disposition and temper of mind, entered into the service of a gentleman, with whom he lived some time; and afterwards in the same station with Mr. Evans, where he got acquainted with Tibbs the evidence, as being the <rs id="OA17700419-occupation-14" type="occupation">barber</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n16-2 OA17700419-occupation-14"/> who usually attended there: That after he left Mr. Evans, Tibbs often proposed to him, to be an accomplice in pilfering, stealing, defrauding, and robbing, and often mentioned Mr. Evan's house, as well known to them both, and consequently better suited to their design than a stranger's; all which he as often refused to be any ways engaged in: till at length his money was all expended, and being out of employ, without any view or even desire of seeking a livelihood or support, by honest industry and labour, having for some little time before lived a lew'd idle life, with the most depraved of the female sex, he listened to Tibb's often urged and repeated proposals.</p>
+            <p>That though young (being now only eighteen years old) giddy, gay, sprightly, and fond of company, particularly such as, in general, are the ruin of every young man, he never was guilty of any illegal offence before; and even this he would not have committed, were he not much heated with liquor at the time, having resisted many former temptations from Tibbs.</p>
+            <xptr type="pageFacsimile" doc="OA177004190004"/>
+            <p>While under sentence of death, he sometimes shewed himself adicted to strong passions, and levity of behaviour; and had sanguine hopes of obtaining his majesty's most gracious pardon. But when the death warrant came to <placeName id="OA17700419-geo-7">
+                  <interp inst="OA17700419-geo-7" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-1 n2-99 n11-4 n11-33 n13-1 n17-99 n17-1 n13-99 OA17700419-geo-7"/>Newgate</placeName>, he behaved with great devotion and penitence, and shewed a thorough sense of the dreadful situation which his ill conducted life had brought him to. At the place of execution he hoped and prayed earnestly to God, that his fate might be a warning to all young men to avoid bad company, particularly lew'd and idle women, who were principally the cause of his unhappy end; that he most sincerely lamented his past sins and wickedness, and died in peace and forgiveness with all mankind, as he earnestly begged and desired the same from God, who he then hoped would have mercy on his soul.</p>
+            <p>
+               <persName id="OA17700419n20-1">
+                  <interp inst="OA17700419n20-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n20-1" type="surname" value="JERVIS"/>
+                  <interp inst="OA17700419n20-1" type="given" value="JOSEPH"/>Joseph Jervis</persName>, now aged about twenty years, says, he was born of honest and industrious parents, in the town of <placeName id="OA17700419-geo-8">
+                  <interp inst="OA17700419-geo-8" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-88 n11-5 n13-2 n20-1 OA17700419-geo-8"/>Newbery</placeName>, and by them reared up and instructed in the knowledge of religion and virtue: that he was, when fourteen years old, <rs id="OA17700419-occupation-15" type="occupation">bound to the Wool-combing business</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n2-88 n11-5 n13-2 n20-1 OA17700419-occupation-15"/>, at which he served 5 years, and then wrought <rs id="OA17700419-occupation-16" type="occupation">journeyman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n2-88 n11-5 n13-2 n20-1 OA17700419-occupation-16"/> with his master one year. At the end of which he came to <placeName id="OA17700419-geo-9">
+                  <interp inst="OA17700419-geo-9" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n2-88 n11-5 n13-2 n20-1 OA17700419-geo-9"/>London</placeName>, hoping to be employed to better advantage, where, through his connection with Millison, his townsman and fellow-companion, he got acquainted with Tibbs the evidence, who often invited Millison and him to commit offences less criminal in the eye of the law, than this for which he is now to suffer, and which he often refused, till all his money was expended; and being out of employ, without any visible means of supporting life, he at last listened to his proposals, and consented to go with him to rob; but did not particularly know where, or whom, till brought by him and Millison to Mr. Evans's, at <placeName id="OA17700419-geo-10">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n13-3 n2-1 n2-99 n11-4 n11-33 n13-1 n13-99 n2-88 n11-5 n13-2 n14-1 n16-99 n16-2 OA17700419-geo-10"/>Knights-Bridge</placeName>: that Tibbs and Millison went into the house first, and he followed them: that he always before lived an honest sober life, and though not fond either of drink or gaming, yet he doth attribute his ruin in a great measure to the company of immodest women, who inticed him to spend more money than he could earn in an honest way; and to squander his time, particularly the sabbath day, in idleness and sin: that he verily believes Tibbs decoyed him to his unhappy end, for the sake of the reward, having, without any cause or suspicion against himself, informed, after he induced him to be an accomplice in his scheme; and therefore thinks it a duty incumbent on him, to declare to the public, that Tibbs, who is a <rs id="OA17700419-occupation-17" type="occupation">barber and hair dresser</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n16-2 OA17700419-occupation-17"/>, makes it his constant study to decoy the thoughtless and unwary into various wicked and unlawful practices, for the above purpose; and that his dismal fate should be a sufficient caution to all young men, not to get into</p>
+            <xptr type="pageFacsimile" doc="OA177004190005"/>
+            <p>acquaintance and connections, before the real characters of those whom they associate be thoroughly known: that by his acquaintance with Millison, he was introduced into the company of Tibbs; and notwithstanding he was often advised by his friends not to associate with Millison, who bore the character of an idle, thoughtless young man, and which he himself was in some measure sensible of, yet, such were his attachments to his countryman and town's-fellow, that every remonstrance availed but little; the effects of which he felt when too late to be amended.</p>
+            <p>His behaviour from his trial to his death, was very decent, and becoming his miserable situation; he was steady, serene, and composed, and bore his fate with Christian patience and resignation, without murmur or exclamation, to the last moment of his life.</p>
+            <p>BY virtue of the King's Commission of the Peace, oyer and terminer, and gaol delivery, for the city of London and county of Middlesex, held at <placeName id="OA17700419-geo-11">
+                  <interp inst="OA17700419-geo-11" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-1 n23-2 n23-3 n23-4 n23-5 n23-6 n23-7 n23-99 n23-66 n23-8 n23-44 n23-9 n23-10 n23-11 n23-12 n23-45 n23-13 n23-54 n23-14 n23-15 n23-16 n23-17 n23-18 n23-19 n23-20 n23-21 n23-22 n23-23 n23-24 n23-25 n23-26 n23-27 n23-51 n23-28 OA17700419-geo-11"/>Justice-hall, in the Old-Bailey</placeName>, on Wednesday the 25th Thursday 26th, Friday 27th, Saturday 28th, Monday 30th of April, and Tuesday the 1st of May 1770, before the <rs id="OA17700419-occupation-18" type="occupation">Rt. Hon</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-1 OA17700419-occupation-18"/>. <persName id="OA17700419n23-1">
+                  <interp inst="OA17700419n23-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-1" type="surname" value="BECKFORD"/>
+                  <interp inst="OA17700419n23-1" type="given" value="WILLIAM"/>William Beckford</persName>, <rs id="OA17700419-occupation-19" type="occupation">Esq; Lord Mayor of the City of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-1 OA17700419-occupation-19"/>, <rs id="OA17700419-occupation-20" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-2 OA17700419-occupation-20"/> 
+               <persName id="OA17700419n23-2">
+                  <interp inst="OA17700419n23-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-2" type="surname" value="ADAMS"/>
+                  <interp inst="OA17700419n23-2" type="given" value="RICHARD"/>Richard Adams</persName>, <rs id="OA17700419-occupation-21" type="occupation">Knt. one of his Majesty's Barons of the Court of Exchequer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-2 OA17700419-occupation-21"/>, <persName id="OA17700419n23-3">
+                  <interp inst="OA17700419n23-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-3" type="surname" value="EYRE"/>
+                  <interp inst="OA17700419n23-3" type="given" value="JAMES"/>James Eyre</persName>, <rs id="OA17700419-occupation-22" type="occupation">Esq; Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-3 OA17700419-occupation-22"/>, and others his Majesty's Justices of Oyer and Terminer, for the said city and county, and general gaol delivery of Newgate, in the tenth year of his Majesty's reign; the following named persons were capitally convicted, viz. <persName id="OA17700419n23-4">
+                  <interp inst="OA17700419n23-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-4" type="surname" value="PARKER"/>
+                  <interp inst="OA17700419n23-4" type="given" value="JOB"/>Job Parker</persName>, <persName id="OA17700419n23-5">
+                  <interp inst="OA17700419n23-5" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-5" type="surname" value="GAHAGAN"/>
+                  <interp inst="OA17700419n23-5" type="given" value="THOMAS"/>Thomas Gahagan</persName>, <persName id="OA17700419n23-6">
+                  <interp inst="OA17700419n23-6" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-6" type="surname" value="LEWIS"/>
+                  <interp inst="OA17700419n23-6" type="given" value="WILLIAM"/>William Lewis</persName>, <persName id="OA17700419n23-7">
+                  <interp inst="OA17700419n23-7" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-7" type="surname" value="FORD"/>
+                  <interp inst="OA17700419n23-7" type="given" value="JAMES"/>James Ford</persName>, otherwise <persName id="OA17700419n23-99">
+                  <interp inst="OA17700419n23-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-99" type="surname" value="DUNN"/>
+                  <interp inst="OA17700419n23-99" type="given" value="JAMES"/>Dunn</persName>, <persName id="OA17700419n23-66">
+                  <interp inst="OA17700419n23-66" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-66" type="surname" value="Crookhall"/>
+                  <interp inst="OA17700419n23-66" type="given" value="Tho"/>Tho. Crookhall</persName>, <persName id="OA17700419n23-8">
+                  <interp inst="OA17700419n23-8" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-8" type="surname" value="MILLER"/>
+                  <interp inst="OA17700419n23-8" type="given" value="WILLIAM"/>William Miller</persName>, <persName id="OA17700419n23-44">
+                  <interp inst="OA17700419n23-44" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-44" type="surname" value="Bowers"/>
+                  <interp inst="OA17700419n23-44" type="given" value="Tho"/>Tho. Bowers</persName>, <persName id="OA17700419n23-9">
+                  <interp inst="OA17700419n23-9" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-9" type="surname" value="GREEN"/>
+                  <interp inst="OA17700419n23-9" type="given" value="JOHN"/>John Green</persName>, <persName id="OA17700419n23-10">
+                  <interp inst="OA17700419n23-10" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-10" type="surname" value="CLARK"/>
+                  <interp inst="OA17700419n23-10" type="given" value="SAMUEL"/>Samuel Clark</persName>, <persName id="OA17700419n23-11">
+                  <interp inst="OA17700419n23-11" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-11" type="surname" value="NEWMAN"/>
+                  <interp inst="OA17700419n23-11" type="given" value="JAMES"/>James Newman</persName>, <persName id="OA17700419n23-12">
+                  <interp inst="OA17700419n23-12" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-12" type="surname" value="STRUTTON"/>
+                  <interp inst="OA17700419n23-12" type="given" value="SHEPHERD"/>Shepherd Strutton</persName>, <persName id="OA17700419n23-45">
+                  <interp inst="OA17700419n23-45" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-45" type="surname" value="Oglivie"/>
+                  <interp inst="OA17700419n23-45" type="given" value="Will"/>Will. Oglivie</persName>, and <persName id="OA17700419n23-13">
+                  <interp inst="OA17700419n23-13" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-13" type="surname" value="WOOD"/>
+                  <interp inst="OA17700419n23-13" type="given" value="JOHN"/>John Wood</persName>, all of whom were executed. Also <persName id="OA17700419n23-54">
+                  <interp inst="OA17700419n23-54" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-54" type="surname" value="Garnous"/>
+                  <interp inst="OA17700419n23-54" type="given" value="Will"/>Will. Garnous</persName>, <persName id="OA17700419n23-14">
+                  <interp inst="OA17700419n23-14" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-14" type="surname" value="COX"/>
+                  <interp inst="OA17700419n23-14" type="given" value="JOSEPH"/>Joseph Cox</persName>, <persName id="OA17700419n23-15">
+                  <interp inst="OA17700419n23-15" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-15" type="surname" value="DEACON"/>
+                  <interp inst="OA17700419n23-15" type="given" value="JOHN"/>John Deacon</persName>, <persName id="OA17700419n23-16">
+                  <interp inst="OA17700419n23-16" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-16" type="surname" value="CHATTERLY"/>
+                  <interp inst="OA17700419n23-16" type="given" value="CHARLES"/>Charles Chatterly</persName>, <persName id="OA17700419n23-17">
+                  <interp inst="OA17700419n23-17" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-17" type="surname" value="NEWLAND"/>
+                  <interp inst="OA17700419n23-17" type="given" value="JAMES"/>James Newland</persName>, <persName id="OA17700419n23-18">
+                  <interp inst="OA17700419n23-18" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-18" type="surname" value="KELLYHORN"/>
+                  <interp inst="OA17700419n23-18" type="given" value="JOHN"/>John Kellyhorn</persName>, <persName id="OA17700419n23-19">
+                  <interp inst="OA17700419n23-19" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-19" type="surname" value="HOLMES"/>
+                  <interp inst="OA17700419n23-19" type="given" value="EDWARD"/>Edward Holmes</persName>, <persName id="OA17700419n23-20">
+                  <interp inst="OA17700419n23-20" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-20" type="surname" value="LEE"/>
+                  <interp inst="OA17700419n23-20" type="given" value="JAMES"/>James Lee</persName>, <persName id="OA17700419n23-21">
+                  <interp inst="OA17700419n23-21" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-21" type="surname" value="MUNRO"/>
+                  <interp inst="OA17700419n23-21" type="given" value="JOHN"/>John Munro</persName>, <persName id="OA17700419n23-22">
+                  <interp inst="OA17700419n23-22" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-22" type="surname" value="BEVIN"/>
+                  <interp inst="OA17700419n23-22" type="given" value="THOMAS"/>Thomas Bevin</persName>, <persName id="OA17700419n23-23">
+                  <interp inst="OA17700419n23-23" type="gender" value="male"/>
+                  <interp inst="OA17700419n23-23" type="surname" value="FORDHAM"/>
+                  <interp inst="OA17700419n23-23" type="given" value="THOMAS"/>Thomas Fordham</persName>, <persName id="OA17700419n23-24">
+                  <interp inst="OA17700419n23-24" type="gender" value="female"/>
+                  <interp inst="OA17700419n23-24" type="surname" value="PAGE"/>
+                  <interp inst="OA17700419n23-24" type="given" value="SARAH"/>Sarah Page</persName>, <persName id="OA17700419n23-25">
+                  <interp inst="OA17700419n23-25" type="gender" value="female"/>
+                  <interp inst="OA17700419n23-25" type="surname" value="GOODWIN"/>
+                  <interp inst="OA17700419n23-25" type="given" value="CATHERINE"/>Catherine Goodwin</persName>, <persName id="OA17700419n23-26">
+                  <interp inst="OA17700419n23-26" type="gender" value="female"/>
+                  <interp inst="OA17700419n23-26" type="surname" value="ALLAWAY"/>
+                  <interp inst="OA17700419n23-26" type="given" value="MARY"/>Mary Allaway</persName>, <persName id="OA17700419n23-27">
+                  <interp inst="OA17700419n23-27" type="gender" value="female"/>
+                  <interp inst="OA17700419n23-27" type="surname" value="TALBOT"/>
+                  <interp inst="OA17700419n23-27" type="given" value="ELIZABETH"/>Elizabeth Talbot</persName>, <persName id="OA17700419n23-51">
+                  <interp inst="OA17700419n23-51" type="gender" value="female"/>
+                  <interp inst="OA17700419n23-51" type="surname" value="Soddy"/>
+                  <interp inst="OA17700419n23-51" type="given" value="Elizabeth"/>Elizabeth Soddy</persName>, and <persName id="OA17700419n23-28">
+                  <interp inst="OA17700419n23-28" type="gender" value="female"/>
+                  <interp inst="OA17700419n23-28" type="surname" value="RIDDAL"/>
+                  <interp inst="OA17700419n23-28" type="given" value="HANNAH"/>Hannah Riddal</persName>, who were respited.</p>
+            <p>On Friday, the 12th of May 1770, the report of the said malefactors was made to his majesty, by <persName id="OA17700419n24-1">
+                  <interp inst="OA17700419n24-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n24-1" type="surname" value="EYRE"/>
+                  <interp inst="OA17700419n24-1" type="given" value="JAMES"/>James Eyre</persName>, <rs id="OA17700419-occupation-23" type="occupation">Esq; Recorder of the city of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n24-1 OA17700419-occupation-23"/>, when the 13 first named were ordered to be executed on Wednesday the 16th of May 1770, and the other 17 were respited during his majesty's pleasure.</p>
+            <p>
+               <persName id="OA17700419n25-1">
+                  <interp inst="OA17700419n25-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n25-1" type="surname" value="FORD"/>
+                  <interp inst="OA17700419n25-1" type="given" value="JAMES"/>James Ford</persName>, otherwise <persName id="OA17700419n25-99">
+                  <interp inst="OA17700419n25-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n25-99" type="surname" value="DUNN"/>
+                  <interp inst="OA17700419n25-99" type="given" value="JAMES"/>Dunn</persName>, <persName id="OA17700419n25-2">
+                  <interp inst="OA17700419n25-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n25-2" type="surname" value="MILLER"/>
+                  <interp inst="OA17700419n25-2" type="given" value="WILLIAM"/>William Miller</persName>, and <persName id="OA17700419n25-88">
+                  <interp inst="OA17700419n25-88" type="gender" value="male"/>
+                  <interp inst="OA17700419n25-88" type="surname" value="Crookhall"/>
+                  <interp inst="OA17700419n25-88" type="given" value="Tho"/>Tho. Crookhall</persName>, were indicted for breaking and entering the dwelling house of <persName id="OA17700419n25-77">
+                  <interp inst="OA17700419n25-77" type="gender" value="male"/>
+                  <interp inst="OA17700419n25-77" type="surname" value="Yorke"/>
+                  <interp inst="OA17700419n25-77" type="given" value="Marten"/>Marten Yorke</persName>, <rs id="OA17700419-occupation-24" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n25-77 n25-12 OA17700419-occupation-24"/>; on the 12th of March, about the hour of one in</p>
+            <xptr type="pageFacsimile" doc="OA177004190006"/>
+            <p>the morning and stealing fourteen silver table spoons, ten silver tea spoons, six desert spoons, a silver soup spoon, four silver sauce spoons, a silver tea strainer, a pair of silver tea tongs, four silver salts, four silver salt spoons, two silver half pint mugs, a silver cream pot, three pair of silver candlesticks, 2 pair of metal candlesticks, a silver coffeepot, a silver saucepan, a silver fish trewel, a silver stove dish and cover, five silver waiters, four silver butter boats, a silver cup, a silver bread basket, a silver punch ladle, a silver punch strainer, two silver sugar basons and covers, two small silver candlesticks, a pair of silver snuffers, 2 filligrane essence boxes, the property of the said <persName id="OA17700419n25-12">
+                  <interp inst="OA17700419n25-12" type="gender" value="male"/>
+                  <interp inst="OA17700419n25-12" type="surname" value="Yorke"/>
+                  <interp inst="OA17700419n25-12" type="given" value="Marten"/>Marten Yorke</persName>, <rs id="OA17700419-occupation-25" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n25-12 n25-77 OA17700419-occupation-25"/>; in his dwelling-house, valued at 147l. 12s. To this indictment they pleaded not guilty, and for trial put themselves on God and their country.</p>
+            <p>Ford said in his defence, that a young man asked him to spend four-pence halfpenny; that going home late, Colby and Crookhall met him. Miller said, if he was locked out, he should lie along with him; they took him into <placeName id="OA17700419-geo-12">
+                  <interp inst="OA17700419-geo-12" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-7 n23-99 n25-99 n23-66 n25-88 n30-3 OA17700419-geo-12"/>Grovenor Square</placeName>; Miller stopped to ease himself; he staid and talked with him; Colby and Crookhall went away, and he saw them no more.</p>
+            <p>Miller said in his defence: when first taken up, he was brought before Mr. Welch, who, seeing him have a guinea, said to him, that if he would back Colby's evidence, he would make that one guinea ten, and the washer woman should not say any thing about him; and that he should have his liberty if he would give evidence the next sessions; and that if he would not back Colby's evidence, he would send him to <placeName id="OA17700419-geo-13">
+                  <interp inst="OA17700419-geo-13" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-8 n25-2 OA17700419-geo-13"/>Newgate</placeName>, and bind the other people to prosecute: but that he was as innocent as the child unborn.</p>
+            <p>Crookhall's defence was: that he was an evidence against Colby and <persName id="OA17700419n29-1">
+                  <interp inst="OA17700419n29-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n29-1" type="surname" value="UNDERWOOD"/>
+                  <interp inst="OA17700419n29-1" type="given" value="JOHN"/>John Underwood</persName> last sessions, at which time he had surrendered himself; that meeting Colby one morning afterwards, Colby asked what business he had to be an evidence against him? to which he replied, that he did not choose to go on that way any longer; after some conversation, Colby took him to his room, where <rs id="OA17700419-occupation-26" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n29-99 OA17700419-occupation-26"/> 
+               <persName id="OA17700419n29-99">
+                  <interp inst="OA17700419n29-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n29-99" type="surname" value="Fielding"/>
+                  <interp inst="OA17700419n29-99" type="given" value="John"/>John Fielding</persName>'s men took them up, and that Colby had done this to take away his life, out of spite.</p>
+            <p>On the evidence of <persName id="OA17700419n30-99">
+                  <interp inst="OA17700419n30-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n30-99" type="surname" value="Yorke"/>
+                  <interp inst="OA17700419n30-99" type="given" value="Marten"/>Marten Yorke</persName>, <rs id="OA17700419-occupation-27" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n30-99 OA17700419-occupation-27"/>; <persName id="OA17700419n30-1">
+                  <interp inst="OA17700419n30-1" type="gender" value="female"/>
+                  <interp inst="OA17700419n30-1" type="surname" value="SIMPSON"/>
+                  <interp inst="OA17700419n30-1" type="given" value="MARY"/>Mary Simpson</persName>, <persName id="OA17700419n30-2">
+                  <interp inst="OA17700419n30-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n30-2" type="surname" value="GOBEY"/>
+                  <interp inst="OA17700419n30-2" type="given" value="PETER"/>Peter Gobey</persName>, <persName id="OA17700419n30-3">
+                  <interp inst="OA17700419n30-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n30-3" type="surname" value="COLBY"/>
+                  <interp inst="OA17700419n30-3" type="given" value="JOHN"/>John Colby</persName> an accomplice, <persName id="OA17700419n30-4">
+                  <interp inst="OA17700419n30-4" type="gender" value="female"/>
+                  <interp inst="OA17700419n30-4" type="surname" value="LANE"/>
+                  <interp inst="OA17700419n30-4" type="given" value="MARY"/>Mary Lane</persName>, <persName id="OA17700419n30-5">
+                  <interp inst="OA17700419n30-5" type="gender" value="female"/>
+                  <interp inst="OA17700419n30-5" type="surname" value="WILLSON"/>
+                  <interp inst="OA17700419n30-5" type="given" value="MARY"/>Mary Willson</persName>, and <persName id="OA17700419n30-6">
+                  <interp inst="OA17700419n30-6" type="gender" value="male"/>
+                  <interp inst="OA17700419n30-6" type="surname" value="KENNY"/>
+                  <interp inst="OA17700419n30-6" type="given" value="JOHN"/>John Kenny</persName>, they were all three convicted of the charge laid in the indictment, and sentenced by the law to be hanged by the neck till dead.</p>
+            <p>The account given by <persName id="OA17700419n31-1">
+                  <interp inst="OA17700419n31-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n31-1" type="surname" value="FORD"/>
+                  <interp inst="OA17700419n31-1" type="given" value="JAMES"/>James Ford</persName>, <persName id="OA17700419n31-2">
+                  <interp inst="OA17700419n31-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n31-2" type="surname" value="MILLER"/>
+                  <interp inst="OA17700419n31-2" type="given" value="WILLIAM"/>William Miller</persName>, and <persName id="OA17700419n31-3">
+                  <interp inst="OA17700419n31-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n31-3" type="surname" value="CROOKHALL"/>
+                  <interp inst="OA17700419n31-3" type="given" value="THOMAS"/>Thomas Crookhall</persName>, of themselves, is as follows: That they were all born in the county of <placeName id="OA17700419-geo-14">
+                  <interp inst="OA17700419-geo-14" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-7 n23-99 n25-99 n31-1 n23-8 n25-2 n31-2 n23-66 n25-88 n31-3 OA17700419-geo-14"/>Middlesex</placeName>, and bred</p>
+            <xptr type="pageFacsimile" doc="OA177004190007"/>
+            <p>to different trades; Ford, aged 19 years, a <rs id="OA17700419-occupation-28" type="occupation">plaisterer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-7 n23-99 n25-99 n31-1 OA17700419-occupation-28"/>; Miller, aged about 20, a <rs id="OA17700419-occupation-29" type="occupation">coach carver</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-8 n25-2 n31-2 OA17700419-occupation-29"/>; Crookhall, aged 17, a <rs id="OA17700419-occupation-30" type="occupation">cabinet maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-66 n25-88 n31-3 OA17700419-occupation-30"/>: and by their parents, who were honest and industrious people, educated suitable to their condition, and instructed in the ways of their religion. They confessed being guilty of the crime for which they were then to suffer; as also many other offences, for which they deserved equal punishment; and as they sincerely repented, hoped for mercy and forgiveness from God. Passing the sentence of the law on the unhappy convicts, gave Miller such a shock, as to render him incapable either of attending chapel, or declaring any thing to be understood.</p>
+            <p>Crookhall (of the communion of the <rs id="OA17700419-occupation-31" type="occupation">church of Rome</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-66 n25-88 n31-3 OA17700419-occupation-31"/>) and not under any obligation to make discoveries to me, would not, consequently, relate any thing particular.</p>
+            <p>Ford says, Miller and he were first seduced by Colby, the evidence against them, and Crookhall, old offenders: that from a natural abhorrance to their bad practices, he often endeavoured to disengage himself from any farther connection or acquaintance with them, with which view he went to work into the country for some time; but on his return to town, they so constantly pressed him with unwearied solicitations, that all resolution yielded to their persuasions; which soon brought him to this untimely and most shameful end, which he sincerely prayed might be a warning to every unguarded youth, not to suffer themselves to be led away from the paths of virtue, either by bad example, or the power of words, if they be desirous to avoid the snares of death, which have now laid fast hold of him.</p>
+            <p>
+               <persName id="OA17700419n35-1">
+                  <interp inst="OA17700419n35-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n35-1" type="surname" value="OGILVIE"/>
+                  <interp inst="OA17700419n35-1" type="given" value="WILLIAM"/>William Ogilvie</persName>, <persName id="OA17700419n35-2">
+                  <interp inst="OA17700419n35-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n35-2" type="surname" value="STRUTTON"/>
+                  <interp inst="OA17700419n35-2" type="given" value="SHEPHERD"/>Shepherd Strutton</persName>, and <persName id="OA17700419n35-3">
+                  <interp inst="OA17700419n35-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n35-3" type="surname" value="WOOD"/>
+                  <interp inst="OA17700419n35-3" type="given" value="JOHN"/>John Wood</persName>, were indicted for breaking and entering the dwelling house of <persName id="OA17700419n35-4">
+                  <interp inst="OA17700419n35-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n35-4" type="surname" value="NARES"/>
+                  <interp inst="OA17700419n35-4" type="given" value="GEORGE"/>George Nares</persName>, <rs id="OA17700419-occupation-32" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n35-4 n35-5 n36-1 OA17700419-occupation-32"/>; on the first of March 1770, about the hour of two in the morning, and stealing a pair of diamond ear-rings, set in gold, value 100l. one armethyst ring, set round with diamonds, value 5l. one large silver ink stand, value 10l. a plain gold ring, value 5s. one pair of silver shoe-buckles, value 5s. two mourning rings, value 10s. a silver medal, value 2s. a 36s. piece, two two-guinea pieces, three guineas, three half guineas, two 5s. 3d. pieces, two silver three pences, two silver two-pences, two purses, made of silk and worsted, value 1s. the property of the said <persName id="OA17700419n35-5">
+                  <interp inst="OA17700419n35-5" type="gender" value="male"/>
+                  <interp inst="OA17700419n35-5" type="surname" value="NARES"/>
+                  <interp inst="OA17700419n35-5" type="given" value="GEORGE"/>George Nares</persName>.</p>
+            <p>To this indictment they pleaded not guilty, and for trial put themselves on God and their country. On the evidence of <persName id="OA17700419n36-1">
+                  <interp inst="OA17700419n36-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n36-1" type="surname" value="NARES"/>
+                  <interp inst="OA17700419n36-1" type="given" value="GEORGE"/>George Nares</persName>,<rs id="OA17700419-occupation-33" type="occupation"> Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n36-1 n35-5 n35-4 OA17700419-occupation-33"/>; the prosecutor, <persName id="OA17700419n36-2">
+                  <interp inst="OA17700419n36-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n36-2" type="surname" value="BAGNEL"/>
+                  <interp inst="OA17700419n36-2" type="given" value="JOHN"/>John Bagnel</persName>, the accomplice, and others, they were found guilty of the charge laid in the indictment, and were sentenced by the law, to be hanged by the neck till dead.</p>
+            <xptr type="pageFacsimile" doc="OA177004190008"/>
+            <p>
+               <persName id="OA17700419n37-1">
+                  <interp inst="OA17700419n37-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n37-1" type="surname" value="OGILVIE"/>
+                  <interp inst="OA17700419n37-1" type="given" value="WILLIAM"/>William Ogilvie</persName>, aged 16 years, <persName id="OA17700419n37-2">
+                  <interp inst="OA17700419n37-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n37-2" type="surname" value="STRUTTON"/>
+                  <interp inst="OA17700419n37-2" type="given" value="SHEPHERD"/>Shepherd Strutton</persName>, aged 19, and <persName id="OA17700419n37-3">
+                  <interp inst="OA17700419n37-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n37-3" type="surname" value="WOOD"/>
+                  <interp inst="OA17700419n37-3" type="given" value="JOHN"/>John Wood</persName>, aged 18 years, confess that they were guilty of the burglary in <rs id="OA17700419-occupation-34" type="occupation">Serjeant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n36-1 n35-5 n35-4 OA17700419-occupation-34"/> Nares's house, and many others. That they sold every thing they robbed from him to <persName id="OA17700419n37-99">
+                  <interp inst="OA17700419n37-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n37-99" type="surname" value="M'Guines"/>
+                  <interp inst="OA17700419n37-99" type="given" value="John"/>John M'Guines</persName>, who immediately broke up the diamond earrings, and sold some of the sparks, together with the gold rings, silver stand, &amp;c. which he first melted down. That the amethyst ring, and the remainder of the diamonds, he still has. For all which he gave them twenty-two guineas; and the ready cash they got in the house, was divided immediately among them, and <persName id="OA17700419n37-4">
+                  <interp inst="OA17700419n37-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n37-4" type="surname" value="BAGNEL"/>
+                  <interp inst="OA17700419n37-4" type="given" value="JOHN"/>John Bagnel</persName> the accomplice and evidence. They seemed very penitent, and sincerely promised, if it was the will of God, and the pleasure of their most gracious sovereign, to spare their lives, that their future behaviour should be a testimony of their unfeigned thanks and gratitude to the most merciful of princes, for whose welfare and prosperity they most ardently prayed; hoping that God would forgive them their offences, as they sincerely forgave all mankind, not excepting even those who prosecuted them to death. Notwithstanding it has been falsely asserted, by an intruding, busy, and unqualified zealot, that by his intercession, mediation, and proper explanation of the Gospel, they were brought to such disposition and divine temper of mind.</p>
+            <p>
+               <persName id="OA17700419n38-1">
+                  <interp inst="OA17700419n38-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n38-1" type="surname" value="LEWIS"/>
+                  <interp inst="OA17700419n38-1" type="given" value="WILLIAM"/>William Lewis</persName> was indicted for making an assault on <persName id="OA17700419n38-99">
+                  <interp inst="OA17700419n38-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n38-99" type="surname" value="Langfor"/>
+                  <interp inst="OA17700419n38-99" type="given" value="Tho"/>Tho. Langfor</persName>, on the King's highway, puting him in corporal fear and danger of his life, and taking from his person a silver watch, value 40s. one half guinea, and 5s. 3d. piece, the property of said <persName id="OA17700419n38-2">
+                  <interp inst="OA17700419n38-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n38-2" type="surname" value="LANGFOR"/>
+                  <interp inst="OA17700419n38-2" type="given" value="THOMAS"/>Thomas Langfor</persName>. To this indictment he pleaded not guilty, and for trial put himself on God and his country.</p>
+            <p>He urged in his defence, that he was in bed at home, in <placeName id="OA17700419-geo-15">
+                  <interp inst="OA17700419-geo-15" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-6 n38-1 OA17700419-geo-15"/>Shadwell</placeName>, the time this robbery was committed.</p>
+            <p>On the evidence of <persName id="OA17700419n40-99">
+                  <interp inst="OA17700419n40-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n40-99" type="surname" value="Langfor"/>
+                  <interp inst="OA17700419n40-99" type="given" value="Tho"/>Tho. Langfor</persName>, the prosecutor, he was found guilty of the charge laid in the indictment, and was sentenced by the law to be hanged by the neck till dead.</p>
+            <p>The account given by him is; that he was then about twenty-two years old, born in <placeName id="OA17700419-geo-16">
+                  <interp inst="OA17700419-geo-16" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-6 n38-1 OA17700419-geo-16"/>Wales</placeName>, and bred a <rs id="OA17700419-occupation-35" type="occupation">plaisterer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-6 n38-1 OA17700419-occupation-35"/>; that he wrought at his trade these five last years with one master, diligently and honestly; and that he could, if he had known or imagined his trial was to come on at the <placeName id="OA17700419-geo-17">
+                  <interp inst="OA17700419-geo-17" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-6 n38-1 OA17700419-geo-17"/>Old Bailey</placeName> the day and time it did, have proved his innocence, and could have produced several persons to his character. He denied being gilty of the crime for which he was condemned, or any other offence to deserve the judgment of the law. That he was taken up for the riot at <persName id="OA17700419n41-44">
+                  <interp inst="OA17700419n41-44" type="gender" value="male"/>
+                  <interp inst="OA17700419n41-44" type="surname" value="Hill"/>
+                  <interp inst="OA17700419n41-44" type="given" value="William"/>William Hill</persName>'s, which arose on Hill's refusing to give any beer to <persName id="OA17700419n41-1">
+                  <interp inst="OA17700419n41-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n41-1" type="surname" value="ROBINSON"/>
+                  <interp inst="OA17700419n41-1" type="given" value="THOMAS"/>Thomas Robinson</persName> and <persName id="OA17700419n41-2">
+                  <interp inst="OA17700419n41-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n41-2" type="surname" value="GAHAGAN"/>
+                  <interp inst="OA17700419n41-2" type="given" value="THOMAS"/>Thomas Gahagan</persName>,</p>
+            <xptr type="pageFacsimile" doc="OA177004190009"/>
+            <p>in whose company he was, from a certain dislike Hill had to them; and which he before was a stranger to.</p>
+            <p>He prayed to God to forgive the person who had so falsely swore to to him, as he himself sincerely did; and hoped God would forgive him all his sins, and have mercy on his soul, as he was innocent and clear of the crime for which he was to die.</p>
+            <p>
+               <persName id="OA17700419n44-1">
+                  <interp inst="OA17700419n44-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n44-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17700419n44-1" type="given" value="SAMUEL"/>Samuel Clark</persName> and <persName id="OA17700419n44-2">
+                  <interp inst="OA17700419n44-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n44-2" type="surname" value="GREEN"/>
+                  <interp inst="OA17700419n44-2" type="given" value="JOHN"/>John Green</persName>, were indicted for making an assault on <persName id="OA17700419n44-3">
+                  <interp inst="OA17700419n44-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n44-3" type="surname" value="ISNELL"/>
+                  <interp inst="OA17700419n44-3" type="given" value="JAMES"/>James Isnell</persName>, on the King's highway, puting him in corporal fear and danger of his life, and taking from his person a gold watch, with outside case metal, value 5l. and four-pence halfpenny in money, numbered, the property of the said James. To this indictment they pleaded not guilty, and for trial put themselves on God and their country.</p>
+            <p>Clark in his defence said; that he could produce witnesses to prove where he was at the time the robbery was committed; that he bought the watch for three guineas and a half, of a sailor; that he told them so when asked about it, and also told them where he pawned it.</p>
+            <p>On the evidence of <persName id="OA17700419n46-1">
+                  <interp inst="OA17700419n46-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n46-1" type="surname" value="ISNELL"/>
+                  <interp inst="OA17700419n46-1" type="given" value="JAMES"/>James Isnell</persName>, the prosecutor, <persName id="OA17700419n46-2">
+                  <interp inst="OA17700419n46-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n46-2" type="surname" value="GREGG"/>
+                  <interp inst="OA17700419n46-2" type="given" value="THOMAS"/>Thomas Gregg</persName>, and <persName id="OA17700419n46-3">
+                  <interp inst="OA17700419n46-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n46-3" type="surname" value="REYNOLDS"/>
+                  <interp inst="OA17700419n46-3" type="given" value="JOHN"/>John Reynolds</persName>, <persName id="OA17700419n46-4">
+                  <interp inst="OA17700419n46-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n46-4" type="surname" value="CLERK"/>
+                  <interp inst="OA17700419n46-4" type="given" value="SAMUEL"/>Samuel Clerk</persName> was found guilty of the charge laid in the indictment, and sentenced by the law to be hanged by the neck till dead.</p>
+            <p>The account given by <persName id="OA17700419n47-1">
+                  <interp inst="OA17700419n47-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n47-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17700419n47-1" type="given" value="SAMUEL"/>Samuel Clark</persName> of himself, is as follows: that he was aged 21 years, born at <placeName id="OA17700419-geo-18">
+                  <interp inst="OA17700419-geo-18" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-10 n44-1 n46-4 n47-1 OA17700419-geo-18"/>Rhode Island</placeName>, and <rs id="OA17700419-occupation-36" type="occupation">bred to the sea</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-10 n44-1 n46-4 n47-1 OA17700419-occupation-36"/>; came to <placeName id="OA17700419-geo-19">
+                  <interp inst="OA17700419-geo-19" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-10 n44-1 n46-4 n47-1 OA17700419-geo-19"/>England</placeName>, about the latter end of August last, where he met with <persName id="OA17700419n47-2">
+                  <interp inst="OA17700419n47-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n47-2" type="surname" value="GREEN"/>
+                  <interp inst="OA17700419n47-2" type="given" value="JOHN"/>John Green</persName>, formerly a <rs id="OA17700419-occupation-37" type="occupation">shipmate</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n47-2 OA17700419-occupation-37"/> of his; that being then discharged from the ship on board of which he sailed lately from the <placeName id="OA17700419-geo-20">
+                  <interp inst="OA17700419-geo-20" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-10 n44-1 n46-4 n47-1 OA17700419-geo-20"/>East Indies</placeName>, he was invited by Green to lodge in the same apartment with him, which he accordingly did, little suspecting that Green lived by the unjust and dishonest means, which has brought them to a most shameful death, that he got the watch from Green, as payment for some money which he lent him: that he bought the pistols to carry to <placeName id="OA17700419-geo-21">
+                  <interp inst="OA17700419-geo-21" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-10 n44-1 n46-4 n47-1 OA17700419-geo-21"/>India</placeName>, being determined to go on board the first ship that was to sail for that country; that Green had access to his chest, and often used to take the pistols out, under the pretence of trying them, and sometimes without his knowledge; that having lent and expended all his cash, he went to pawn the watch given him by Green, which was immediately stopped, in consequence of which both Green and he were taken up; that Green always pleaded innocence to him, and that he obtained the watch honestly, till after their conviction; when he then told him of the course of life which he lived, and much lamented the misfortune he brought upon them. Clark to his last moment said he was innocent, and seemed to think it very hard that</p>
+            <xptr type="pageFacsimile" doc="OA177004190010"/>
+            <p>he should loose his life for an offence which he never was guilty of.</p>
+            <p>
+               <persName id="OA17700419n49-1">
+                  <interp inst="OA17700419n49-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n49-1" type="surname" value="CLARK"/>
+                  <interp inst="OA17700419n49-1" type="given" value="SAMUEL"/>Samuel Clark</persName> and <persName id="OA17700419n49-2">
+                  <interp inst="OA17700419n49-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n49-2" type="surname" value="GREEN"/>
+                  <interp inst="OA17700419n49-2" type="given" value="JOHN"/>John Green</persName> were a second time indicted for making an assault on <persName id="OA17700419n49-3">
+                  <interp inst="OA17700419n49-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n49-3" type="surname" value="METCALF"/>
+                  <interp inst="OA17700419n49-3" type="given" value="THOMAS"/>Thomas Metcalf</persName>, on the King's highway, and taking from his person a metal watch, with a Tortoise-shell case, value 4l. two half guineas, one 5s. 3d. and two shillings in money, numbered; the property of the said Thomas. To this indictment they pleaded not guilty, and for trial put themselves on God and their country.</p>
+            <p>Green said in his defence, that he bought the watch of a jew, in <placeName id="OA17700419-geo-22">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-9 n44-2 n47-2 n49-2 OA17700419-geo-22"/>East Smithfield</placeName>, for two guineas and a half; there were several of his ship-mates by at the time, but that they were since gone to sea.</p>
+            <p>Clark's defence was, that he lent the money to Green to buy the watch, but he did not see him buy it; he said he bought it from a jew, for two guineas and a half.</p>
+            <p>On the evidence of <persName id="OA17700419n52-99">
+                  <interp inst="OA17700419n52-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n52-99" type="surname" value="Metcalf"/>
+                  <interp inst="OA17700419n52-99" type="given" value="Tho"/>Tho. Metcalf</persName>, <persName id="OA17700419n52-1">
+                  <interp inst="OA17700419n52-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n52-1" type="surname" value="REYNOLDS"/>
+                  <interp inst="OA17700419n52-1" type="given" value="JOHN"/>John Reynolds</persName>, <persName id="OA17700419n52-2">
+                  <interp inst="OA17700419n52-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n52-2" type="surname" value="PANTON"/>
+                  <interp inst="OA17700419n52-2" type="given" value="JOHN"/>John Panton</persName>, and <persName id="OA17700419n52-3">
+                  <interp inst="OA17700419n52-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n52-3" type="surname" value="BROWN"/>
+                  <interp inst="OA17700419n52-3" type="given" value="JOHN"/>John Brown</persName>, Green was found guilty of the charge laid in the indictment, and sentenced by the law to be hanged by the neck till dead.</p>
+            <p>The account given by <persName id="OA17700419n53-1">
+                  <interp inst="OA17700419n53-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n53-1" type="surname" value="GREEN"/>
+                  <interp inst="OA17700419n53-1" type="given" value="JOHN"/>John Green</persName> of himself, is as follows; that he was twenty-three years of age, born in <placeName id="OA17700419-geo-23">
+                  <interp inst="OA17700419-geo-23" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-9 n44-2 n47-2 n49-2 n53-1 OA17700419-geo-23"/>New-York</placeName>, of reputable parents, who gave him an education proper for the <rs id="OA17700419-occupation-38" type="occupation">sea service</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-9 n44-2 n47-2 n49-2 n53-1 OA17700419-occupation-38"/>, to which he was bred. That till within these fifteen months, he lived a very regular and well behaved life, when idle women were his first bane, and the cause of his ruin; that he was not in distress for money, but being desirous to have it in plenty, the better to supply his extravagancies, formed a resolution to himself, to become a highway robber, in which he was seconded by another person, whose name he would not divulge, but affirmed it was not Clark. He confessed he committed the robbery for which he died, with many others; that he was the person who took the watch out of Mr. Isnell's pocket, while another held a pistol to his breast, of which he declared Clark was intirely innocent, and which Clark's confession, behaviour, and manner under his unhappy circumstance, seemed very strongly to announce; while Green professed his dispair of obtaining the mercy of God, on account of his many henious crimes, particularly being the cause of an innocent man's death, and his great apprehension of being unworthy of God's forgiveness, which he most earnestly prayed for, and constantly attended the duties of the chapel and private prayer, with much reverence and devotion; till the grace of God, co-opperating with the minister's best endeavours, in expounding the Gospel and holy Scriptures, calmed his mind, and gave him reason to hope for better things at the hands of Almighty God. In assurance of which he at last desired to have the Holy Sacrament administered unto him, which he constantly received afterwards till his death.</p>
+            <xptr type="pageFacsimile" doc="OA177004190011"/>
+            <p>
+               <persName id="OA17700419n54-1">
+                  <interp inst="OA17700419n54-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n54-1" type="surname" value="BOWERS"/>
+                  <interp inst="OA17700419n54-1" type="given" value="THOMAS"/>Thomas Bowers</persName> and <persName id="OA17700419n54-2">
+                  <interp inst="OA17700419n54-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n54-2" type="surname" value="NEWMAN"/>
+                  <interp inst="OA17700419n54-2" type="given" value="JAMES"/>James Newman</persName>, with others, were indicted for making an assault on <persName id="OA17700419n54-3">
+                  <interp inst="OA17700419n54-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n54-3" type="surname" value="HALL"/>
+                  <interp inst="OA17700419n54-3" type="given" value="BENJAMIN"/>Benjamin Hall</persName>, on the King's highway, and taking from his person a pen knife, value 1s. three guineas, one half guinea, a 5s. 3d. piece, 168 copper half pence, value 7s. and 16s. in money, numbered, the property of the said <persName id="OA17700419n54-4">
+                  <interp inst="OA17700419n54-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n54-4" type="surname" value="HALL"/>
+                  <interp inst="OA17700419n54-4" type="given" value="BENJAMIN"/>Benjamin Hall</persName>. To this indictment they pleaded not guilty, and for trial put themselves on God and their country.</p>
+            <p>Bowers alledged in his defence, that he was very innocent of what was laid to his charge.</p>
+            <p>Newman, in his defence said, it was very hard that the prosecutor should now swear to him, and could not do it at <rs id="OA17700419-occupation-39" type="occupation">Sir</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n56-99 OA17700419-occupation-39"/> 
+               <persName id="OA17700419n56-99">
+                  <interp inst="OA17700419n56-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n56-99" type="surname" value="Fielding"/>
+                  <interp inst="OA17700419n56-99" type="given" value="John"/>John Fielding</persName>'s; that he had not been on shore five weeks these five years.</p>
+            <p>On the edivence of <persName id="OA17700419n57-1">
+                  <interp inst="OA17700419n57-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n57-1" type="surname" value="HALL"/>
+                  <interp inst="OA17700419n57-1" type="given" value="BENJAMIN"/>Benjamin Hall</persName> and <persName id="OA17700419n57-2">
+                  <interp inst="OA17700419n57-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n57-2" type="surname" value="PAGGETT"/>
+                  <interp inst="OA17700419n57-2" type="given" value="JOHN"/>John Paggett</persName>, they were found guilty of the charge laid in the indictment, and sentenced by the law to be hanged by the neck till dead.</p>
+            <p>
+               <persName id="OA17700419n58-1">
+                  <interp inst="OA17700419n58-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n58-1" type="surname" value="BOWERS"/>
+                  <interp inst="OA17700419n58-1" type="given" value="THOMAS"/>Thomas Bowers</persName>, aged 27 years, born at <placeName id="OA17700419-geo-24">
+                  <interp inst="OA17700419-geo-24" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-44 n54-1 n58-1 n58-2 OA17700419-geo-24"/>Plymouth</placeName>, and <rs id="OA17700419-occupation-40" type="occupation">brought up to the sea</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-44 n54-1 n58-1 n58-2 OA17700419-occupation-40"/>, said, that his real name was <persName id="OA17700419n58-2">
+                  <interp inst="OA17700419n58-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n58-2" type="surname" value="ALDERMAN"/>
+                  <interp inst="OA17700419n58-2" type="given" value="THOMAS"/>Thomas Alderman</persName>, but assumed the name of Bowers to answer the purpose of screening him in the bad designs and acts, which he lately had been notoriously guilty of, in many and various ways, viz. robbing on the Keys, on the highways, and ships on the river, and committing any other villany that his evil genius could devise. That he was at first seduced and led into all his evil courses of sin and wickedness, by one <persName id="OA17700419n58-33">
+                  <interp inst="OA17700419n58-33" type="gender" value="male"/>
+                  <interp inst="OA17700419n58-33" type="surname" value="Waver"/>
+                  <interp inst="OA17700419n58-33" type="given" value="Charles"/>Charles Waver</persName>, who he believes follows the same way of life. During the time of his conviction, he sometimes behaved, particularly in chapel hours, with seeming great decency and devotion; and at other times quite the reverse, exclaiming against the hardships and severities of a prison life, in close confinement, and with what satisfaction he would instantly die, could he but vent his anger and resentment on his keepers. But being at last, by proper argument, convinced of the uncharitableness, and evil consequences attending such a temper and disposition of mind, he appeared very sensible of his situation in this world, and the terrible judgments threatened against the ungodly and impenitent in the next, which he hoped would not, and most earnestly prayed might not, be his portion hereafter.</p>
+            <p>
+               <persName id="OA17700419n59-1">
+                  <interp inst="OA17700419n59-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n59-1" type="surname" value="NEWMAN"/>
+                  <interp inst="OA17700419n59-1" type="given" value="JAMES"/>James Newman</persName>, aged twenty-five years, was born in<placeName id="OA17700419-geo-25">
+                  <interp inst="OA17700419-geo-25" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-11 n54-2 n59-1 OA17700419-geo-25"/> Dublin</placeName>, of honest industrious parents, who having first instructed him in the principles of their religion (viz. <rs id="OA17700419-occupation-41" type="occupation">the church of Rome</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-11 n54-2 n59-1 OA17700419-occupation-41"/>) and learning suitable to their situation, <rs id="OA17700419-occupation-42" type="occupation">bound him to an upholder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-11 n54-2 n59-1 OA17700419-occupation-42"/>, with whom he served his full time, and afterwards wrought <rs id="OA17700419-occupation-43" type="occupation">journey work</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-11 n54-2 n59-1 OA17700419-occupation-43"/> at his trade with other masters, for some time; when in hopes of being employed to better advantage, he came to <placeName id="OA17700419-geo-26">
+                  <interp inst="OA17700419-geo-26" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-11 n54-2 n59-1 OA17700419-geo-26"/>London</placeName>, and being disappointed in his scheme, <rs id="OA17700419-occupation-44" type="occupation">went on board a King's ship</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-11 n54-2 n59-1 OA17700419-occupation-44"/>, which</p>
+            <xptr type="pageFacsimile" doc="OA177004190012"/>
+            <p>being some time after paid off, he earned his livelihood by <rs id="OA17700419-occupation-45" type="occupation">working on the keys, and on the river</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-11 n54-2 n59-1 OA17700419-occupation-45"/>, where he commenced an acquaintance with <persName id="OA17700419n60-1">
+                  <interp inst="OA17700419n60-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n60-1" type="surname" value="BOWERS"/>
+                  <interp inst="OA17700419n60-1" type="given" value="THOMAS"/>Thomas Bowers</persName>, to whom he attributes his unhappy end, and hopes it will be a sufficient caution to all young men what company they keep, and what connections they enter into, without first a thorough knowledge of them, but more particular to avoid drunkenness, and not to suffer themselves to be lead away by the persuasive tongues of wicked insinuating men, through the prospect of any temporal gain; in pursuit of which he owns he has committed many offences, and much exceeded the bounds of honesty; but that as he sincerely repented, he hoped God would have mercy on his afflicted soul, and grant him pardon and forgiveness at the last.</p>
+            <p>
+               <persName id="OA17700419n61-1">
+                  <interp inst="OA17700419n61-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n61-1" type="surname" value="PARKER"/>
+                  <interp inst="OA17700419n61-1" type="given" value="JOB"/>Job Parker</persName> was indicted for breaking and entering the dwelling house of <persName id="OA17700419n61-2">
+                  <interp inst="OA17700419n61-2" type="gender" value="female"/>
+                  <interp inst="OA17700419n61-2" type="surname" value="GIBBONS"/>
+                  <interp inst="OA17700419n61-2" type="given" value="MARGARET"/>Margaret Gibbons</persName>, on the 13th of March, about the hour of 12 in the night, and stealing a linen gown and a pettycoat, value 4s. a pair of stays, value 4s. three linen shifts, value 5s. a cloth and apron, value 1s. a muslin apron, value 1s. a sattin cloak, four silver pins, set with stones, a gold ring, a pair of ear-rings, a black silk handkerchief, a white linen gown, and a dimity petticoat, the property of <persName id="OA17700419n61-3">
+                  <interp inst="OA17700419n61-3" type="gender" value="female"/>
+                  <interp inst="OA17700419n61-3" type="surname" value="GIBBONS"/>
+                  <interp inst="OA17700419n61-3" type="given" value="MARY-ANN"/>Mary-Ann Gibbons</persName>, in the dwelling-house of the said Margaret. To this indictment he pleaded not guilty, and for trial put himself on God and his country.</p>
+            <p>In his defence, he said that he was in his father's house till one o'clock, and never departed from it till past one, that coming through <placeName id="OA17700419-geo-27">
+                  <interp inst="OA17700419-geo-27" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-4 n61-1 n61-2 n61-3 n63-1 OA17700419-geo-27"/>Union-Court</placeName>, he heared the cry of stop thief, and a pistol fired; that he was so affrighted, he fell down, but whether he fell, or that the watchman knocked him down, he did not know; that he never had the bundle, but that as a man rushed by him, he found some things fall against his legs.</p>
+            <p>On the evidence of <persName id="OA17700419n63-1">
+                  <interp inst="OA17700419n63-1" type="gender" value="female"/>
+                  <interp inst="OA17700419n63-1" type="surname" value="GIBBONS"/>
+                  <interp inst="OA17700419n63-1" type="given" value="MARY-ANN"/>Mary-Ann Gibbons</persName>, <persName id="OA17700419n63-2">
+                  <interp inst="OA17700419n63-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n63-2" type="surname" value="SHAW"/>
+                  <interp inst="OA17700419n63-2" type="given" value="JOSEPH"/>Joseph Shaw</persName>, and others, <persName id="OA17700419n63-3">
+                  <interp inst="OA17700419n63-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n63-3" type="surname" value="PARKER"/>
+                  <interp inst="OA17700419n63-3" type="given" value="JOB"/>Job Parker</persName> was found guilty of the charge laid in the indictment, and sentenced by the law to be hanged; in consequence of which he confessed his being guilty of the crime for which he was to suffer the execution of the law; that he was but nineteen years old, born in <placeName id="OA17700419-geo-28">
+                  <interp inst="OA17700419-geo-28" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-4 n61-1 n63-3 OA17700419-geo-28"/>Staffordshire</placeName>, and bred a <rs id="OA17700419-occupation-46" type="occupation">blacksmith</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-4 n61-1 n63-3 OA17700419-occupation-46"/>, at which trade he sometimes wrought with assiduity; but that in general he lived a loose idle life, fond of lewd women, pilfering, stealing, and picking of pockets, which he chiefly practised; that this, the first house robbery he ever committed, he was induced to by the persuasion of <persName id="OA17700419n63-4">
+                  <interp inst="OA17700419n63-4" type="gender" value="male"/>
+                  <interp inst="OA17700419n63-4" type="surname" value="BURTON"/>
+                  <interp inst="OA17700419n63-4" type="given" value="CHARLES"/>Charles Burton</persName>, an accomplice; and that as his repentance for it, with all his former evil course of life, was great and very sincere, he hoped and prayed for the mercy and forgiveness of God,</p>
+            <xptr type="pageFacsimile" doc="OA177004190013"/>
+            <p>as he forgave all mankind, who he hoped would be warned by his unhappy fate, to avoid the paths that have often led him to the verge of this danger, which now at last he hath fallen into.</p>
+            <p>
+               <persName id="OA17700419n65-1">
+                  <interp inst="OA17700419n65-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n65-1" type="surname" value="GAHAGAN"/>
+                  <interp inst="OA17700419n65-1" type="given" value="THOMAS"/>Thomas Gahagan</persName> was indicted for making an assault on <persName id="OA17700419n65-2">
+                  <interp inst="OA17700419n65-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n65-2" type="surname" value="PORTLACH"/>
+                  <interp inst="OA17700419n65-2" type="given" value="CHARLES"/>Charles Portlach</persName>, on the King's highway, and taking from his person an iron tobacco box, value 3d. four shillings and three pence in money, numbered, the property of the said <persName id="OA17700419n65-3">
+                  <interp inst="OA17700419n65-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n65-3" type="surname" value="PORTLACH"/>
+                  <interp inst="OA17700419n65-3" type="given" value="CHARLES"/>Charles Portlach</persName>. To this indictment he pleaded not guilty, and for trial put himself on God and his country.</p>
+            <p>In his defence, he said; that he called to see a young fellow, who lived in the room where he was taken; he asked him to stay breakfast. The constables broke in, and said they had a warrant against him: they then searched the house, and found the things produced in court; that he never made any resistance, but went with them; that he never saw the prosecutor but once or twice in his life, and then he saw him at work, or on his own ground: that he had people there who could prove where he was at the time Mr. Portlach said he was robbed, (which was at one Newman's, a private house, in <placeName id="OA17700419-geo-29">
+                  <interp inst="OA17700419-geo-29" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-5 n41-2 n65-1 n65-2 n65-3 OA17700419-geo-29"/>Old Street Road</placeName>) that he lodged at that time in <placeName id="OA17700419-geo-30">
+                  <interp inst="OA17700419-geo-30" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-5 n41-2 n65-1 OA17700419-geo-30"/>Well-Street</placeName>.</p>
+            <p>On the evidence of <persName id="OA17700419n67-1">
+                  <interp inst="OA17700419n67-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n67-1" type="surname" value="PORTLACH"/>
+                  <interp inst="OA17700419n67-1" type="given" value="CHARLES"/>Charles Portlach</persName>, <persName id="OA17700419n67-2">
+                  <interp inst="OA17700419n67-2" type="gender" value="male"/>
+                  <interp inst="OA17700419n67-2" type="surname" value="PAGGET"/>
+                  <interp inst="OA17700419n67-2" type="given" value="JOHN"/>John Pagget</persName>, and <persName id="OA17700419n67-3">
+                  <interp inst="OA17700419n67-3" type="gender" value="male"/>
+                  <interp inst="OA17700419n67-3" type="surname" value="SMYTH"/>
+                  <interp inst="OA17700419n67-3" type="given" value="RICHARD"/>Richard Smyth</persName>, he was found guilty of the charge laid in the indictment, and sentenced by the law to be hanged by the neck till dead.</p>
+            <p>The account given by <persName id="OA17700419n68-1">
+                  <interp inst="OA17700419n68-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n68-1" type="surname" value="GAHAGAN"/>
+                  <interp inst="OA17700419n68-1" type="given" value="THOMAS"/>Thomas Gahagan</persName> of himself, is as follows: that he was then nineteen years old, born in <placeName id="OA17700419-geo-31">
+                  <interp inst="OA17700419-geo-31" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n23-5 n41-2 n65-1 n68-1 OA17700419-geo-31"/>Surry</placeName>, decently reared, and educated by his parents in the principles of their religion (viz. the <rs id="OA17700419-occupation-47" type="occupation">church of Rome</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-5 n41-2 n65-1 n68-1 OA17700419-occupation-47"/>) and by them instructed in the ways of virtue, the paths of which he soon wandered out of. Slighting their instructions and admonitions, he associated with those whose manner of life best suited his disposition and temper of mind, being naturally giddy, gay, and sprightly, and consequently the more open, and liable to be caught in the lurking snares of every temptation, many and various kinds of which he acknowledges to have fallen into; and though he very justly deserved for his manifold sins and wickedness, the sentence of the law now pronounced on him, yet, that he was entirely innocent of the crime for which he was condemned to die. However, seeing that it was the just judgment of God for all his former villanies, he bore his fate with all christian patience, and resignation to the divine will, and was content to die in peace and charity, good-will and forgiveness with all mankind, particularly his prosecutors, who he said were much deceived in their charge to him; but whether he, Crookhall, and Newman, who were of the communion of the church of Rome, screened the real inward thoughts</p>
+            <xptr type="pageFacsimile" doc="OA177004190014"/>
+            <p>of their hearts from me, is uncertain; not being obliged, nor indeed consistent with their religion, to make confession to any but a pastor of their own profession, who would I believe divulge any thing material, or necessary to be made public for the common good. When they came to the gallows, Crookhall first flung his hat among the populous, and soon after his book; then stood up, and several times looked undaunted around, on the crouded multitude about him, as if he bid defiance to grim death and all its terrors; he also raised his feet from the cart, when tied up to the gallows, laying his intire weight upon the rope, but with what intent or view I cannot pretend to say. Shortly after another book was put in his hands, in which he read, whilst the other miserable convicts were making ready, who behaved very suitable to their unhappy situation, joining most fervently in prayer and praises with me to God; among whom <persName id="OA17700419n69-1">
+                  <interp inst="OA17700419n69-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n69-1" type="surname" value="PARKER"/>
+                  <interp inst="OA17700419n69-1" type="given" value="JOB"/>Job Parker</persName> declared aloud, his great happiness in leaving this sinful vain world; that he thanked God for his goodness, in thus mercifully calling him to repentance, and then taking him with all his senses in perfect strength about him, instead of inflicting him with any disorder to deprive him of them, or cut him off suddenly in the midst of all his sin, wickedness, and ignorance.</p>
+            <p>Having performed my last duty and office for them, he took me by the hand, and expressed great satisfaction for the spiritual consolation and comfort I had given him, and said, he died with joy, in full assurance that he should rise again in glory, to everlasting life. Miller and Ford were so much indisposed with the gaol distemper, that they could not stand, neither were they sensible of any thing that was said or done.</p>
+            <p>Crookhall, Newman, and Gahagan, were <rs id="OA17700419-occupation-48" type="occupation">Papists</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n23-66 n25-88 n31-3 n23-11 n54-2 n59-1 n23-5 n41-2 n65-1 n68-1 OA17700419-occupation-48"/>, and consequently turned their backs on me, to attend the duties of their own profession.</p>
+            <p>
+               <persName id="OA17700419n72-1">
+                  <interp inst="OA17700419n72-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n72-1" type="surname" value="OGILVIE"/>
+                  <interp inst="OA17700419n72-1" type="given" value="WILLIAM"/>William Ogilvie</persName>, two days before he died, told me, that he often heard his mother say, she believed he never was baptized, and that, if I thought convenient, he would be very glad to have that ceremony performed on him by me. In consequence of which I conformed with his desire, having first sent for his mother, who informed me, that his father, a freethinker, and very great libertine, took him, when an infant, from her lying in bed, and said he would have him christened after his own manner, for he would not have any think to do with those people who were called ministers; and as she was uncertain whether he ever was baptized, begged that I would comply with her son's request.</p>
+            <p>I also have been informed, that</p>
+            <xptr type="pageFacsimile" doc="OA177004190015"/>
+            <p>
+               <persName id="OA17700419n74-99">
+                  <interp inst="OA17700419n74-99" type="gender" value="male"/>
+                  <interp inst="OA17700419n74-99" type="surname" value="Strutton"/>
+                  <interp inst="OA17700419n74-99" type="given" value="Shepherd"/>Shepherd Strutton</persName>'s mother was in <placeName id="OA17700419-geo-32">
+                  <interp inst="OA17700419-geo-32" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17700419n74-99 n23-12 n35-2 n57-2 OA17700419-geo-32"/>Newgate</placeName>, under rule of transportation, at the very time he was arraigned for his offences; if so, that parents, masters, guardians, and those who have the care and government of youth, be not only careless in the instruction and management of them, but even by their own bad examples encourage and lead them on in the ways of vice and wickedness; no wonder, that such multitudes, before they have well passed over the days wherein they should have been as innocent as lambs, and as harmless as doves, are made sacrifices to sin. It is a sad reflection on the perverseness and obstinacy of human nature, to observe what little force and influence, the most frequent and solemn warnings, the clearest convictions, the loudest calls, and the most striking examples, have on men to reform them; and this, though attended with heavy afflictions and severe chastisement, extending even to death.</p>
+            <p>
+               <persName id="OA17700419n75-1">
+                  <interp inst="OA17700419n75-1" type="gender" value="male"/>
+                  <interp inst="OA17700419n75-1" type="surname" value="WOOD"/>
+                  <interp inst="OA17700419n75-1" type="given" value="JOHN"/>JOHN WOOD</persName>, <rs id="OA17700419-occupation-49" type="occupation">Minister of Newgate</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17700419n75-1 OA17700419-occupation-49"/>.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

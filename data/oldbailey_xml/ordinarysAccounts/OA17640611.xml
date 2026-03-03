@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17640611">
+            <interp inst="OA17640611" type="uri" value="ordinarysAccounts/OA17640611"/>
+            <interp inst="OA17640611" type="date" value="17640611"/>
+            <xptr type="pageFacsimile" doc="OA176406110001"/>
+            <p>THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words, OF EIGHT MALEFACTORS, VIZ.</p>
+            <p>
+               <persName id="OA17640611n3-1">
+                  <interp inst="OA17640611n3-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-1" type="surname" value="REDMOND"/>
+                  <interp inst="OA17640611n3-1" type="given" value="JOSEPH"/>JOSEPH REDMOND</persName>, <persName id="OA17640611n3-2">
+                  <interp inst="OA17640611n3-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-2" type="surname" value="KNIGHT"/>
+                  <interp inst="OA17640611n3-2" type="given" value="GEORGE"/>GEORGE KNIGHT</persName>, AND <persName id="OA17640611n3-6">
+                  <interp inst="OA17640611n3-6" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-6" type="surname" value="LAREY"/>
+                  <interp inst="OA17640611n3-6" type="given" value="JOHN"/>JOHN LAREY</persName>, for several Street-Robberies, <persName id="OA17640611n3-3">
+                  <interp inst="OA17640611n3-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-3" type="surname" value="OVERTON"/>
+                  <interp inst="OA17640611n3-3" type="given" value="DAVID"/>DAVID OVERTON</persName> and <persName id="OA17640611n3-4">
+                  <interp inst="OA17640611n3-4" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-4" type="surname" value="IVES"/>
+                  <interp inst="OA17640611n3-4" type="given" value="JOHN"/>JOHN IVES</persName>, For several Burglaries, <persName id="OA17640611n3-5">
+                  <interp inst="OA17640611n3-5" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-5" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17640611n3-5" type="given" value="JOHN"/>JOHN FAIRBROTHER</persName> for robbing a Shop, AND <persName id="OA17640611n3-7">
+                  <interp inst="OA17640611n3-7" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-7" type="surname" value="DIXON"/>
+                  <interp inst="OA17640611n3-7" type="given" value="JOHN"/>JOHN DIXON</persName> for returning from Transportation, Who were executed at <placeName id="OA17640611-geo-1">
+                  <interp inst="OA17640611-geo-1" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n3-1 n3-2 n3-3 n3-4 n3-5 n3-6 n3-7 OA17640611-geo-1"/>Tyburn</placeName> on Wednesday June 6: AND ALSO OF <persName id="OA17640611n3-8">
+                  <interp inst="OA17640611n3-8" type="gender" value="male"/>
+                  <interp inst="OA17640611n3-8" type="surname" value="TURTLE"/>
+                  <interp inst="OA17640611n3-8" type="given" value="JOHN"/>JOHN TURTLE</persName> for Murder, Executed at <placeName id="OA17640611-geo-2">
+                  <interp inst="OA17640611-geo-2" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17640611n3-8 OA17640611-geo-2"/>Tyburn</placeName>, Monday June 11, 1764.</p>
+            <p>BEING THE SIXTH and SEVENTH Executions in the MAYORALTY OF THE Rt. Hon. <persName id="OA17640611n4-1">
+                  <interp inst="OA17640611n4-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n4-1" type="surname" value="BRIDGEN"/>
+                  <interp inst="OA17640611n4-1" type="given" value="WILLIAM"/>WILLIAM BRIDGEN</persName>, Esq.</p>
+            <p>
+               <rs id="OA17640611-occupation-1" type="occupation">LORD-MAYOR of the CITY of LONDON</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n4-1 OA17640611-occupation-1"/>.</p>
+            <p>NUMBER IV. for the said Year.</p>
+            <p>LONDON, Printed for M. LEWIS, at the Bible and Dove, in Paternoster-Row, and sold by all Booksellers and News-Carriers. [Price 6d.]</p>
+            <xptr type="pageFacsimile" doc="OA176406110002"/>
+            <p>THE Ordinary of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words, &amp;c.</p>
+            <p>BY virtue of the king's commission of the peace, oyer and terminer, and goal-delivery of Newgate, holden for the city of London and county of Middlesex, at <placeName id="OA17640611-geo-3">
+                  <interp inst="OA17640611-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17640611n9-1 OA17640611-geo-3"/>
+                  <placeName id="OA17640611-geo-4">
+                     <interp inst="OA17640611-geo-4" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17640611n9-1 OA17640611-geo-4"/>Justice-Hall</placeName> in the Old-Bailey</placeName>, before the Rt. Hon. <persName id="OA17640611n9-1">
+                  <interp inst="OA17640611n9-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n9-1" type="surname" value="BRIDGEN"/>
+                  <interp inst="OA17640611n9-1" type="given" value="WILLIAM"/>William Bridgen</persName>, Esq. <rs id="OA17640611-occupation-2" type="occupation">lord-mayor of the city of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n9-1 OA17640611-occupation-2"/>; the Rt. Hon. <persName id="OA17640611n9-2">
+                  <interp inst="OA17640611n9-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n9-2" type="surname" value="MANSFIELD"/>
+                  <interp inst="OA17640611n9-2" type="given" value="WILLIAM"/>William Lord Mansfield</persName>, <rs id="OA17640611-occupation-3" type="occupation">lord chief justice of his majesty's court of king's bench</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n9-2 OA17640611-occupation-3"/>; the Hon. Sir <persName id="OA17640611n9-4">
+                  <interp inst="OA17640611n9-4" type="gender" value="male"/>
+                  <interp inst="OA17640611n9-4" type="surname" value="STAFFORD SMITH"/>
+                  <interp inst="OA17640611n9-4" type="given" value="SYDNEY"/>Sydney-Stafford Smith</persName>, Knt. one of the <rs id="OA17640611-occupation-4" type="occupation">barons of his majesty's court of exchequer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n9-4 OA17640611-occupation-4"/>; <persName id="OA17640611n9-3">
+                  <interp inst="OA17640611n9-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n9-3" type="surname" value="EYRE"/>
+                  <interp inst="OA17640611n9-3" type="given" value="JAMES"/>James Eyre</persName>, Esq. <rs id="OA17640611-occupation-5" type="occupation">recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n9-3 OA17640611-occupation-5"/>, and others of his majesty's justices of oyer and terminer of the city of London, and justices of goal-delivery of Newgate, &amp;c. holden for the said city and county of Middlesex, on Wednesday the 2d, Thursday the 3d, Friday the 4th, Saturday the 5th, and Monday the 7th of May, in the 13th year of his majesty's reign, 13 persons were capitally convicted, and 12 received sentence for the several crimes in their indictments laid, namely,</p>
+            <p>
+               <persName id="OA17640611n10-1">
+                  <interp inst="OA17640611n10-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-1" type="surname" value="REDMOND"/>
+                  <interp inst="OA17640611n10-1" type="given" value="JOSEPH"/>Joseph Redmond</persName>, <persName id="OA17640611n10-2">
+                  <interp inst="OA17640611n10-2" type="gender" value="female"/>
+                  <interp inst="OA17640611n10-2" type="surname" value="WITTS"/>
+                  <interp inst="OA17640611n10-2" type="given" value="MARY"/>Mary Witts</persName>, <persName id="OA17640611n10-3">
+                  <interp inst="OA17640611n10-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-3" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17640611n10-3" type="given" value="MICHAEL"/>Michael Sampson</persName>, <persName id="OA17640611n10-4">
+                  <interp inst="OA17640611n10-4" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-4" type="surname" value="SMITH"/>
+                  <interp inst="OA17640611n10-4" type="given" value="WILLIAM"/>William Smith</persName>, <persName id="OA17640611n10-5">
+                  <interp inst="OA17640611n10-5" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-5" type="surname" value="OVERTON"/>
+                  <interp inst="OA17640611n10-5" type="given" value="DAVID"/>David Overton</persName> otherwise <persName id="OA17640611n10-6">
+                  <interp inst="OA17640611n10-6" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-6" type="surname" value="SMITH"/>
+                  <interp inst="OA17640611n10-6" type="given" value="WILLIAM"/>William Smith</persName>, <persName id="OA17640611n10-7">
+                  <interp inst="OA17640611n10-7" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-7" type="surname" value="BOYLAND"/>
+                  <interp inst="OA17640611n10-7" type="given" value="JOHN"/>John Boyland</persName> otherwise <persName id="OA17640611n10-14">
+                  <interp inst="OA17640611n10-14" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-14" type="surname" value="BOYLIN"/>
+                  <interp inst="OA17640611n10-14" type="given" value="JOHN"/>Boylin</persName>, <persName id="OA17640611n10-8">
+                  <interp inst="OA17640611n10-8" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-8" type="surname" value="IVES"/>
+                  <interp inst="OA17640611n10-8" type="given" value="JOHN"/>John Ives</persName>, <persName id="OA17640611n10-9">
+                  <interp inst="OA17640611n10-9" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-9" type="surname" value="GREY"/>
+                  <interp inst="OA17640611n10-9" type="given" value="RICHARD"/>Richard Grey</persName>, <persName id="OA17640611n10-10">
+                  <interp inst="OA17640611n10-10" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-10" type="surname" value="LAREY"/>
+                  <interp inst="OA17640611n10-10" type="given" value="JOHN"/>John Larey</persName>, <persName id="OA17640611n10-11">
+                  <interp inst="OA17640611n10-11" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-11" type="surname" value="KNIGHT"/>
+                  <interp inst="OA17640611n10-11" type="given" value="GEORGE"/>George Knight</persName>, <persName id="OA17640611n10-12">
+                  <interp inst="OA17640611n10-12" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-12" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17640611n10-12" type="given" value="JOHN"/>John Fairbrother</persName>, and <persName id="OA17640611n10-13">
+                  <interp inst="OA17640611n10-13" type="gender" value="male"/>
+                  <interp inst="OA17640611n10-13" type="surname" value="DIXON"/>
+                  <interp inst="OA17640611n10-13" type="given" value="JOHN"/>John Dixon</persName>.</p>
+            <p>And on Wednesday, May 30, the report of the said malefactors (except <persName id="OA17640611n11-1">
+                  <interp inst="OA17640611n11-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-1" type="surname" value="TURNER"/>
+                  <interp inst="OA17640611n11-1" type="given" value="WILLIAM"/>William Turner</persName>, who died in <placeName id="OA17640611-geo-5">
+                  <interp inst="OA17640611-geo-5" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17640611n11-1 OA17640611-geo-5"/>Newgate</placeName> the day after his trial) being made to his majesty, by Mr. Recorder, <persName id="OA17640611n11-2">
+                  <interp inst="OA17640611n11-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-2" type="surname" value="REDMOND"/>
+                  <interp inst="OA17640611n11-2" type="given" value="JOSEPH"/>Joseph Redmond</persName>, <persName id="OA17640611n11-3">
+                  <interp inst="OA17640611n11-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-3" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17640611n11-3" type="given" value="MICHAEL"/>Michael Sampson</persName>, <persName id="OA17640611n11-4">
+                  <interp inst="OA17640611n11-4" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-4" type="surname" value="OVERTON"/>
+                  <interp inst="OA17640611n11-4" type="given" value="DAVID"/>David Overton</persName>, <persName id="OA17640611n11-5">
+                  <interp inst="OA17640611n11-5" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-5" type="surname" value="KNIGHT"/>
+                  <interp inst="OA17640611n11-5" type="given" value="GEORGE"/>George Knight</persName>, <persName id="OA17640611n11-6">
+                  <interp inst="OA17640611n11-6" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-6" type="surname" value="IVES"/>
+                  <interp inst="OA17640611n11-6" type="given" value="JOHN"/>John Ives</persName>, <persName id="OA17640611n11-7">
+                  <interp inst="OA17640611n11-7" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-7" type="surname" value="LAREY"/>
+                  <interp inst="OA17640611n11-7" type="given" value="JOHN"/>John Larey</persName>, <persName id="OA17640611n11-8">
+                  <interp inst="OA17640611n11-8" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-8" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17640611n11-8" type="given" value="JOHN"/>John Fairbrother</persName>, and <persName id="OA17640611n11-9">
+                  <interp inst="OA17640611n11-9" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-9" type="surname" value="DIXON"/>
+                  <interp inst="OA17640611n11-9" type="given" value="JOHN"/>John Dixon</persName>, were ordered for execution the 6th instant. And <persName id="OA17640611n11-12">
+                  <interp inst="OA17640611n11-12" type="gender" value="female"/>
+                  <interp inst="OA17640611n11-12" type="surname" value="WITTS"/>
+                  <interp inst="OA17640611n11-12" type="given" value="MARY"/>Mary Witts</persName>, <persName id="OA17640611n11-10">
+                  <interp inst="OA17640611n11-10" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-10" type="surname" value="SMITH"/>
+                  <interp inst="OA17640611n11-10" type="given" value="WILLIAM"/>William Smith</persName>, and <persName id="OA17640611n11-11">
+                  <interp inst="OA17640611n11-11" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-11" type="surname" value="GREY"/>
+                  <interp inst="OA17640611n11-11" type="given" value="RICHARD"/>Richard Grey</persName>, were respited during his majesty's pleasure. And on Monday, June 4, <persName id="OA17640611n11-13">
+                  <interp inst="OA17640611n11-13" type="gender" value="male"/>
+                  <interp inst="OA17640611n11-13" type="surname" value="SAMPSON"/>
+                  <interp inst="OA17640611n11-13" type="given" value="MICHAEL"/>Michael Sampson</persName> was added to the number of the respited.</p>
+            <p>After conviction and sentence they were daily visited with prayer and instruction in the usual method; and portions of scripture were chosen, explained and applied to them, as their exigencies or their particular case and behaviour required. Some part of the daily psalms and the second lesson were generally used for this purpose; and in particular on Saturday May 6,</p>
+            <xptr type="pageFacsimile" doc="OA176406110003"/>
+            <p>Jer. ix. and Matt. iv. ch. were explained. Some days after the book of Proverbs was begun, and several chapters selected for the first lessons on the following days, being well suited to their case.</p>
+            <p>Proper exhortations were occasionally given them, and warning of the intended celebration of the holy communion, which was followed by a regular course of instruction in a due preparation for it, from the 16th of May to the 5th of June, when those of our persuasion who were to suffer death, together with the respited, (except one who turned away from it) were admitted.</p>
+            <p>1. <persName id="OA17640611n15-1">
+                  <interp inst="OA17640611n15-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n15-1" type="surname" value="REDMOND"/>
+                  <interp inst="OA17640611n15-1" type="given" value="JOHN"/>John Redmond</persName> was indicted, for that he, together with <persName id="OA17640611n15-2">
+                  <interp inst="OA17640611n15-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n15-2" type="surname" value="ROCKETT"/>
+                  <interp inst="OA17640611n15-2" type="given" value="JAMES"/>James Rockett</persName> and <persName id="OA17640611n15-3">
+                  <interp inst="OA17640611n15-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n15-3" type="surname" value="STEWARD"/>
+                  <interp inst="OA17640611n15-3" type="given" value="TIMOTHY"/>Timothy Steward</persName> (who were executed on the 28th of March last for this same robbery) in a certain alley and open place near the king's high way, on <persName id="OA17640611n15-4">
+                  <interp inst="OA17640611n15-4" type="gender" value="male"/>
+                  <interp inst="OA17640611n15-4" type="surname" value="PENNINGTON"/>
+                  <interp inst="OA17640611n15-4" type="given" value="JOHN"/>John Pennington</persName> did make an assault, putting him in corporal fear and danger of his life; and taking from his person a metal watch value 3l. 3 metal seals value 12d. a watch brass key value 1d. 3 guineas and 5 shillings in money numbered, his property and against his will, Nov. 20, 1763.</p>
+            <p>The particulars of this robbery were given in my account of his two unhappy companions the last execution but one, and the share the said <persName id="OA17640611n16-1">
+                  <interp inst="OA17640611n16-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n16-1" type="surname" value="REDMOND"/>
+                  <interp inst="OA17640611n16-1" type="given" value="JOSEPH"/>Joseph Redmond</persName> had in the same was proved on the trial by the prosecutor, Lowther the accomplice and evidence, and the other evidences on the former trial; at which time as Redmond was then in custody) he would have been tried, but being ill and unable to be arraigned at the bar, he was continued until the 2d of May, when he was capitally convicted.</p>
+            <p>
+               <persName id="OA17640611n17-1">
+                  <interp inst="OA17640611n17-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n17-1" type="surname" value="REDMOND"/>
+                  <interp inst="OA17640611n17-1" type="given" value="JOSEPH"/>Joseph Redmond</persName> was born in <placeName id="OA17640611-geo-6">
+                  <interp inst="OA17640611-geo-6" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17640611n17-1 OA17640611-geo-6"/>
+                  <placeName id="OA17640611-geo-7">
+                     <join result="persNamePlace" targOrder="Y" targets="OA17640611n17-1 OA17640611-geo-7"/>
+                     <placeName id="OA17640611-geo-8">
+                        <interp inst="OA17640611-geo-8" type="type" value="street"/>
+                        <join result="persNamePlace" targOrder="Y" targets="OA17640611n17-1 OA17640611-geo-8"/>Butcher-Row</placeName>, East-Smithfield</placeName>, London</placeName>, his father was master of a ship in the New-England trade, and was cast away about 12 years since. Being left under the care of his mother, she gave him a tolerable education, and, at the age of ten years, he was bound <rs id="OA17640611-occupation-6" type="occupation">apprentice to Mr. S - , an apothecary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n17-1 OA17640611-occupation-6"/> in <placeName id="OA17640611-geo-9">
+                  <interp inst="OA17640611-geo-9" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17640611n17-1 OA17640611-geo-9"/>Fleet-street</placeName>; with whom he continued about a year, and then went to <rs id="OA17640611-occupation-7" type="occupation">sea in the merchant's service</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n17-1 OA17640611-occupation-7"/> for three years, when, being imprest, he served two years more in the <rs id="OA17640611-occupation-8" type="occupation">navy</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n17-1 OA17640611-occupation-8"/>, till he was discharged. He declared himself to be but 17 years old, though by his appearance he seemed above 20, but this is common with many malefactors, who would be thought younger than they really are, to excite compassion. He was bred to the church of Rome, but at first for a day or two attended our worship, and his behaviour was tolerably decent. When he was urged to a confession of his crime, he pleaded innocence, though very inconsistently, as may be collected not only from his trial, but from his letter to his mother da</p>
+            <xptr type="pageFacsimile" doc="OA176406110004"/>
+            <p>ted the 1st instant, June, in which he acknowledges his undutifulness to the best of mothers, who, when he committed this fact, did not know he was in town, but thought he was gone a voyage to the <placeName id="OA17640611-geo-10">
+                  <interp inst="OA17640611-geo-10" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n17-1 OA17640611-geo-10"/>East-Indies</placeName>; and owns that bad company and loose women brought him to this end. He declares his readiness to die would be as great as to live, if it was not for a poor young creature, not 17 years old, a captain's daughter, which he brought from <placeName id="OA17640611-geo-11">
+                  <interp inst="OA17640611-geo-11" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n17-1 OA17640611-geo-11"/>Bristol</placeName> with him, and having deluded her, had a child by her, now but 6 months old. But as she is not known in <placeName id="OA17640611-geo-12">
+                  <interp inst="OA17640611-geo-12" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n17-1 OA17640611-geo-12"/>London</placeName>, hopes she will not be reflected on. He says in the same letter, that he was innocent of the crime, but willing to die for his other sins. In almost the same terms he wrote to his sister, and in very moving words exhorts her to obedience to her mother, and advises her to shun bad company; and recommends to his mother the unhappy young woman he had ruined, who, he says, never hurt him; and if he had taken her advice, he would never have come to this; yet persisting in his innocency of the fact for which he was to die. He wrote also to an uncle and aunt, desiring they would send him some white cloaths to appear in on the morning he was to suffer. But this request doth not appear to have been complied with, though back'd with so prevailing a motive, (as express'd in his letter) that it was his clergyman's advice.</p>
+            <p>2. <persName id="OA17640611n19-1">
+                  <interp inst="OA17640611n19-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n19-1" type="surname" value="OVERTON"/>
+                  <interp inst="OA17640611n19-1" type="given" value="DAVID"/>David Overton</persName>, otherwise <persName id="OA17640611n19-2">
+                  <interp inst="OA17640611n19-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n19-2" type="surname" value="SMITH"/>
+                  <interp inst="OA17640611n19-2" type="given" value="WILLIAM"/>William Smith</persName>, was indicted for that he on the 10th of April, about the hour of one in the night, the dwelling-house of <persName id="OA17640611n19-3">
+                  <interp inst="OA17640611n19-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n19-3" type="surname" value="WHITE"/>
+                  <interp inst="OA17640611n19-3" type="given" value="JOHN"/>John White</persName> did break and enter, and steal from thence 2 silk cardinals value 20s. 1 cloth cardinal value 16s. 1 wooden tea-chest with 3 tin cannisters, 1 wooden tea-board, 3 silver tea-spoons, and 4s. 6d. in money numbered, the property of the said John, in his dwelling-house.</p>
+            <p>It appeared upon the trial, that he had worked as a <rs id="OA17640611-occupation-9" type="occupation">journeyman carpenter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n19-1 OA17640611-occupation-9"/> with Mr. White the prosecutor, and broke into the ground room of his house at Hendon, and stole out the things mentioned in the indictment. He carried the tea-chest, tea-board, and 2 cardinals, to a pawnbroker in <placeName id="OA17640611-geo-13">
+                  <interp inst="OA17640611-geo-13" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n19-1 OA17640611-geo-13"/>Rosemary-lane</placeName>, and said they belonged to a girl he kept and had taken them from her, when he was gone the man found 3 silver teaspoons and some money in the chest, which gave him some suspicion; and Overton coming in the evening, saying, he had taken a 6s. 9d. for half a guinea of the broker, the broker stopt him and advertised the things.</p>
+            <p>
+               <persName id="OA17640611n21-1">
+                  <interp inst="OA17640611n21-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n21-1" type="surname" value="OVERTON"/>
+                  <interp inst="OA17640611n21-1" type="given" value="DAVID"/>David Overton</persName> was about 26 years of age, born of poor honest labouring parents at <placeName id="OA17640611-geo-14">
+                  <interp inst="OA17640611-geo-14" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n21-1 OA17640611-geo-14"/>
+                  <placeName id="OA17640611-geo-15">
+                     <interp inst="OA17640611-geo-15" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n21-1 OA17640611-geo-15"/>Calthorpe</placeName> in Lincolnshire</placeName>, about 40 miles from <placeName id="OA17640611-geo-16">
+                  <interp inst="OA17640611-geo-16" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n21-1 OA17640611-geo-16"/>Lincoln</placeName>, and had no friends or relations in town. He was bred a <rs id="OA17640611-occupation-10" type="occupation">carpenter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n21-1 OA17640611-occupation-10"/>, and worked at that trade till he inlisted in the first regiment of <rs id="OA17640611-occupation-11" type="occupation">foot-guards</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n21-1 OA17640611-occupation-11"/>, about 3 years ago, in which he continu</p>
+            <xptr type="pageFacsimile" doc="OA176406110005"/>
+            <p>ed till the peace, and was then discharged as being under size. He then worked at a <rs id="OA17640611-occupation-12" type="occupation">carpenter's</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n21-1 OA17640611-occupation-12"/> in <placeName id="OA17640611-geo-17">
+                  <interp inst="OA17640611-geo-17" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n21-1 OA17640611-geo-17"/>Marybone</placeName>, which master kindly visited him since conviction. He appeared to have imbibed sentiments of religion, and gave very distinct and proper answers to the questions put to him, on the nature and efficacy of the holy sacrament, which he was extreamly desirous of receiving. His behaviour was tractable, open and teachable, and he constantly attended chapel, till disabled by sickness, and even then would be carried there; tho' he denied the fact upon his trial, and said, he bought the things in the street of a strange man, yet he very openly confessed the fact to me, and also that about five years ago, on a Sunday, he broke open a house in his own country, where he was at work, and took out several things; that he had been a very wicked liver, and given to gaming, lewdness and swearing, of which last he said, he had been somewhat reformed. He seemed to be really touched with a sense of his sins, and declared that bad company of both sexes, about <placeName id="OA17640611-geo-18">
+                  <interp inst="OA17640611-geo-18" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n21-1 OA17640611-geo-18"/>St. Giles's</placeName>, was his ruin, and led him into all manner of vice.</p>
+            <p>During two or three weeks before he suffered death, he was reduced very low, and often delirious through a feverish disorder; but being questioned the last morning, he gave sensible and proper answers to each article of preparation; and when admitted to the holy sacrament, as above, he behaved very devoutly, and read in a book which was held up to him by a gentleman present; in a word, no poor convict could be more tractable or more willing to be informed of his duty.</p>
+            <p>4 <persName id="OA17640611n24-1">
+                  <interp inst="OA17640611n24-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n24-1" type="surname" value="IVES"/>
+                  <interp inst="OA17640611n24-1" type="given" value="JOHN"/>John Ives</persName> was indicted (with <persName id="OA17640611n24-2">
+                  <interp inst="OA17640611n24-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n24-2" type="surname" value="GRAY"/>
+                  <interp inst="OA17640611n24-2" type="given" value="RICHARD"/>Richard Gray</persName> since respited) for that they on the 24th of March last, about the hour of nine at night, the dwelling-house of <persName id="OA17640611n24-3">
+                  <interp inst="OA17640611n24-3" type="gender" value="male"/>
+                  <interp inst="OA17640611n24-3" type="surname" value="RICE"/>
+                  <interp inst="OA17640611n24-3" type="given" value="GEORGE"/>George Rice</persName>, Esq: did break and enter, and for stealing one pair of pistols value 12s. the property of the said George, and four woollen cloth coats value 40s. five woollen waistcoats value 20s. three linen waistcoats value 15s. and three pair of cloath breeches, the property of W. Thomas; one woollen cloth coat, one woollen cloth waistcoat, one pair of leather breeches, and one man's hat, the property of <persName id="OA17640611n24-4">
+                  <interp inst="OA17640611n24-4" type="gender" value="male"/>
+                  <interp inst="OA17640611n24-4" type="surname" value="EATON"/>
+                  <interp inst="OA17640611n24-4" type="given" value="JAMES"/>James Eaton</persName>; one black silk cloak, one linen apron, one silk handkerchief, three linen shifts, three shift-sleeves, and four gowns, the property of <persName id="OA17640611n24-5">
+                  <interp inst="OA17640611n24-5" type="gender" value="female"/>
+                  <interp inst="OA17640611n24-5" type="surname" value="BROWN"/>
+                  <interp inst="OA17640611n24-5" type="given" value="ANN"/>Ann Brown</persName>, <rs id="OA17640611-occupation-13" type="occupation">spinster</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n24-5 OA17640611-occupation-13"/>; one linen pocket, one worsted pocket, two shifts, two aprons, one pair of stays, a cotton handkerchief, a silk handkerchief, three other handkerchiefs, a sattin hat, and a pair of ruffles, the property of <persName id="OA17640611n24-6">
+                  <interp inst="OA17640611n24-6" type="gender" value="female"/>
+                  <interp inst="OA17640611n24-6" type="surname" value="ROBINSON"/>
+                  <interp inst="OA17640611n24-6" type="given" value="ANN"/>Ann Robinson</persName>, <rs id="OA17640611-occupation-14" type="occupation">spinster</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n24-6 OA17640611-occupation-14"/>; one long-lawn gown, two cotton gowns, one callimanco petticoat, one silk petticoat, four dimity petticoats, twelve linen shifts, three pair of ruffles, three linen aprons, four</p>
+            <xptr type="pageFacsimile" doc="OA176406110006"/>
+            <p>linen caps, two linen handkerchiefs, one pair of silver buckles, and other things, and one guinea and a half in money, the property of <persName id="OA17640611n25-1">
+                  <interp inst="OA17640611n25-1" type="gender" value="female"/>
+                  <interp inst="OA17640611n25-1" type="surname" value="MITCHEL"/>
+                  <interp inst="OA17640611n25-1" type="given" value="JANE"/>Jane Mitchel</persName>, <rs id="OA17640611-occupation-15" type="occupation">spinster</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n25-1 OA17640611-occupation-15"/>, in the dwelling-house of the said <persName id="OA17640611n25-2">
+                  <interp inst="OA17640611n25-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n25-2" type="surname" value="RICE"/>
+                  <interp inst="OA17640611n25-2" type="given" value="GEORGE"/>George Rice</persName>, Esq.</p>
+            <p>The fact was plainly proved upon this criminal by <persName id="OA17640611n26-1">
+                  <interp inst="OA17640611n26-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n26-1" type="surname" value="BARNES"/>
+                  <interp inst="OA17640611n26-1" type="given" value="JOHN"/>John Barnes</persName> an accomplice, and he even confessed it to the keeper of Wood-street compter, (who had stopt him in going to see some prisoners there) in hopes of becoming an evidence; and on his trial he had nothing to say in his defence, but that there was nothing found upon him.</p>
+            <p>
+               <persName id="OA17640611n27-1">
+                  <interp inst="OA17640611n27-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n27-1" type="surname" value="IVES"/>
+                  <interp inst="OA17640611n27-1" type="given" value="JOHN"/>John Ives</persName>, aged 27 years, born in <placeName id="OA17640611-geo-19">
+                  <interp inst="OA17640611-geo-19" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-19"/>London, in the <placeName id="OA17640611-geo-20">
+                     <interp inst="OA17640611-geo-20" type="type" value="parish"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n27-1 OA17640611-geo-20"/>parish of St. Bennet Paul's-Wharf</placeName>
+               </placeName>, of honest parents, who bound him <rs id="OA17640611-occupation-16" type="occupation">apprentice to a printer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n27-1 OA17640611-occupation-16"/> in <placeName id="OA17640611-geo-21">
+                  <interp inst="OA17640611-geo-21" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-21"/>Petticoat-lane</placeName>, but he did not serve his time out, but was turned over to one or more. He very early fell into bad company, about <placeName id="OA17640611-geo-22">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-22"/>Ludgatehill</placeName> and <placeName id="OA17640611-geo-23">
+                  <interp inst="OA17640611-geo-23" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-23"/>Fleet-bridge</placeName>, and was used to gamble amongst them there. Some of his first pilferings were on his mother; whose money, and even cloaths, he frequently stole; then married a servant girl of his mother's, by whom he had 3 children, and to whom he behaved very ill, and though he owned he could earn 25 or 30s per week, as a press-man, yet the ill company he kept, run him behind hand. In the year 1761, he left his wife and went abroad; on Christmas-day the same year he arrived at <placeName id="OA17640611-geo-24">
+                  <interp inst="OA17640611-geo-24" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-24"/>Barbadoes</placeName>, where he engaged to go steward with capt. Fowler, of the Adventure transport, with whom he sailed to <placeName id="OA17640611-geo-25">
+                  <interp inst="OA17640611-geo-25" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-25"/>Guardaloupe</placeName>, and thence upon the expedition against <placeName id="OA17640611-geo-26">
+                  <interp inst="OA17640611-geo-26" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-1 OA17640611-geo-26"/>Martinico</placeName>; where having landed the troops, he went daily on shore with provisions, till having a quarrel with the captain, and Ives being conscious the captain knew all his affairs, and had threatned him, he took the opportunity when he was sent to the camp with 3 days provision of rum, ran away with it and 20 dollars, and entered into the barge of major M'Kellar, chief engineer, at a 11 dollars per month. In this service he stayed a month, till Gen. Moncton hearing he was a printer, wrote for him to come and print for him: Whereupon he went and worked 6 weeks at St. Piers for the general, who paid him 45s per week. But he not thinking this equal to what he got in the barge, where he had the king's provisions, left this, and on May 13, 1762, went for New-York in the King George Brig, and arrived there the 27th. The next Day he engaged to work with Mr. Farley, printer, with whom he worked till Mr. Farley's house was burnt down, and then went to Mr. <persName id="OA17640611n27-2">
+                  <interp inst="OA17640611n27-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n27-2" type="surname" value="WEYMAN"/>
+                  <interp inst="OA17640611n27-2" type="given" value="WILLIAM"/>William Weyman</persName>, in <placeName id="OA17640611-geo-27">
+                  <interp inst="OA17640611-geo-27" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-2 OA17640611-geo-27"/>
+                  <placeName id="OA17640611-geo-28">
+                     <interp inst="OA17640611-geo-28" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n27-2 OA17640611-geo-28"/>Broadstreet</placeName>, New-York</placeName>. (In a second letter to his wife he desires her, when she writes, to make no mention what he was when he left England, which plainly contradicts his assertion of having only followed the trade of thieving about 10 months. On</p>
+            <xptr type="pageFacsimile" doc="OA176406110007"/>
+            <p>the 6th of April, 1763, he arrived at <placeName id="OA17640611-geo-29">
+                  <interp inst="OA17640611-geo-29" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-2 OA17640611-geo-29"/>Deptford</placeName>, in the Amity's Assistance, <persName id="OA17640611n28-1">
+                  <interp inst="OA17640611n28-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n28-1" type="surname" value="JERMYN"/>
+                  <interp inst="OA17640611n28-1" type="given" value="ROBERT"/>Robert Jermyn</persName> master. His father died the 30th of May following; and on the 15th of June he got received as a <rs id="OA17640611-occupation-17" type="occupation">fellowship-porter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n27-2 OA17640611-occupation-17"/>, tho' he sometimes worked as <rs id="OA17640611-occupation-18" type="occupation">press-man</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n27-2 OA17640611-occupation-18"/>; but it may be supposed he returned to his old practices; and he used his wife so ill, that she left him in 5 days after his arrival in England, and sent to acquaint him, that she had endeavoured, ever since he had been at home, to fix her affection on him, but found it to be impossible, and therefore resolved never to cohabit with him, and proposed, interchangeably, to give bonds of 100l. penalty to the friends of each other, never to molest one another, and threatened if ever he interrupted or molested her she would swear the peace against him. He then took up the trade of going into houses, and taking whatever he could find, but denied that he ever stopt or robbed any person on the highway, or in the streets, and said that he was unable to return to an honest course of life, for since he had been bound over to appear as an evidence at the <placeName id="OA17640611-geo-30">
+                  <interp inst="OA17640611-geo-30" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-2 OA17640611-geo-30"/>Old-Bailey</placeName>, his character was gone, and no master would employ him. When he was urged to give glory to God and satisfaction to the world, by an open confession of his crimes, he answered, that he owned the fact for which he died, and his guilt in several of the like kind; but said that particular confessions were too much like Popery; and asked, Can words make restitution? To which he was answered, No, but they may give much ease of mind, and much satisfaction to the injured, and that as words had saved his life when admitted an evidence, why might they not be the means to save his soul? Ives had declared several times he would write his life for the good of the printers and his brother trade; but on the 2d of June declared angrily that he had burnt it. This might be occasioned partly by a spirit of resentment and opposition, and partly because he apprehended it contained something unbecoming that profession of penitence which he put on.</p>
+            <p>The following story of a very critical situation he was reduced to, having a rope about his neck in order to be hanged once before, came from his own mouth, after he was in custody for the robbery of Mr. H - n - ll, committed last winter. The occasion was at <placeName id="OA17640611-geo-31">
+                  <interp inst="OA17640611-geo-31" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-2 OA17640611-geo-31"/>Martinico</placeName>, after that island was subdued by the English on terms granted to the French inhabitants, and it was no longer lawful to plunder them, a small party of the English having intelligence of great riches being deposited in the house of a certain old gentleman, set out with a resolution to make a prize of it; in their way they met with Ives, who was carrying some rum where it was ordered, they said to him, "Steward, come with us; we'll</p>
+            <xptr type="pageFacsimile" doc="OA176406110008"/>
+            <p>shew you where to get money enough." He readily agreed. They all sat down and drank the rum, and then set forward to plunder. They found the house unguarded by any but the old gentleman, who being unable to resist them; they took each of them as much gold, in bags, as they were able to carry. Ives hid his bag in a cask of flour, and headed it up again. Being quickly pursued, detected and taken, their lives were forfeited, but on making restitution of what was found upon them, they were indulged with the favour of casting lots, by which one of the ring-leaders and Ives were allotted to suffer. On the point of execution the adjutant declared he still had power to save one of them, and gave the preference to Ives, who was unhappily reserved for a more public and exemplary fate at the metropolis of the empire. 'Tis probable Ives drew some hope and consolation from the recital of this story in the hearing of his prosecutor, whilst he was in a coach carrying him to gaol, under his pressing calamity of being a prisoner for the capital crime of burglary, flattering himself that as he was so favoured in that deliverance so he might be again and again, though he went on still in his wickedness. It is true he did escape once more from the near prospect of death, but he did not yet learn to beware of abused patience and mercy.</p>
+            <p>Let us now be permitted to anticipate another of his confessions made on the morning of execution, tho' not to the proper officer. He was asked by Mr. M - les, one who was requested to put this question to him, "Jack, did you rob the house of Mr. R - g - rs, at <placeName id="OA17640611-geo-32">
+                  <interp inst="OA17640611-geo-32" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n27-2 OA17640611-geo-32"/>St. Peter'shill</placeName>?" "Yes, said he, I did it myself; no one was with me. I was an honest thief then, just beginning. I took only 5l. in money, a few silver spoons, and other trifles, but did not touch a large quantity of plate, linen, &amp;c. of value, that lay in my way." The gentleman who desired this question to be asked for his own satisfaction, on receiving this answer, confirmed the truth of it, saying, the case was so; adding that the 5l. then stolen was Christmas-box money belonging to his apprentice or servants which lay in the way; and that the thief must have got in thro' a neighbouring house then repairing. It must be owned this readiness in Ives to give this kind of satisfaction (the best in his power) to the injured, was conformable to that advice so often inculcated to criminals, but their pride and perverseness will not always suffer them to follow it.</p>
+            <p>When taken and examined for this last fact laid in the indictment, he strongly insisted on his innocence ever since his last escape, till he was told by Mr M - n we can prove you have been at it again; upon which a certain Jew being produced</p>
+            <xptr type="pageFacsimile" doc="OA176406110009"/>
+            <p>he dropt that plea, shook his hand at him, and cursed him, as if dreading the force and effect of his evidence. It is affirmed that he boasted to his confidents, he had made an 100l. in his way since he was last at liberty. I was also well informed he was under no necessity to return to stealing through want, as he often pretended, a means being pointed out to him of getting honest bread, by one of his best friends, but the power of evil habits and company prevailed over all better considerations, as he confessed with his last breath at the place of execution.</p>
+            <p>4. <persName id="OA17640611n34-1">
+                  <interp inst="OA17640611n34-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n34-1" type="surname" value="LAREY"/>
+                  <interp inst="OA17640611n34-1" type="given" value="JOHN"/>John Larey</persName> was indicted for that he on the <placeName id="OA17640611-geo-33">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n34-1 OA17640611-geo-33"/>king's highway</placeName> on <persName id="OA17640611n34-2">
+                  <interp inst="OA17640611n34-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n34-2" type="surname" value="ROSS"/>
+                  <interp inst="OA17640611n34-2" type="given" value="DAVID"/>David Ross</persName> did make an assault, putting him in corporal fear and danger of his life, and violently taking from his person 1 pair of silver-buckles value 10s. one pair of leather shoes value 2s. 1 hat covered with oil-skin value 2s. one peruke value 5s. and 2 guineas, the property of the said David, April 9.</p>
+            <p>
+               <persName id="OA17640611n35-1">
+                  <interp inst="OA17640611n35-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n35-1" type="surname" value="LAREY"/>
+                  <interp inst="OA17640611n35-1" type="given" value="JOHN"/>John Larey</persName> aged about 36 years, born in the <placeName id="OA17640611-geo-34">
+                  <interp inst="OA17640611-geo-34" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n35-1 OA17640611-geo-34"/>
+                  <placeName id="OA17640611-geo-35">
+                     <interp inst="OA17640611-geo-35" type="type" value="county"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n35-1 OA17640611-geo-35"/>county of Cork</placeName>, in Ireland</placeName>, of poor parents, who brought him up to <rs id="OA17640611-occupation-19" type="occupation">labouring</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n35-1 OA17640611-occupation-19"/> work till about 9 years since, when he went to <rs id="OA17640611-occupation-20" type="occupation">sea in the merchant's service</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n35-1 OA17640611-occupation-20"/>, and sailed for three years out of <placeName id="OA17640611-geo-36">
+                  <interp inst="OA17640611-geo-36" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n35-1 OA17640611-geo-36"/>Liverpool</placeName> and <placeName id="OA17640611-geo-37">
+                  <interp inst="OA17640611-geo-37" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n35-1 OA17640611-geo-37"/>Cork</placeName> to <placeName id="OA17640611-geo-38">
+                  <interp inst="OA17640611-geo-38" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n35-1 OA17640611-geo-38"/>Jamaica</placeName>, and on the trucking trade to the Spanish main, but was prest into the <rs id="OA17640611-occupation-21" type="occupation">king's service</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n35-1 OA17640611-occupation-21"/>, and assisted at the taking of the Havanna, for which he had prize-money due, besides 8l. wages. The above was the first fact he was charged with, and this he denied, telling both to me and to his fellow-convicts, that he never took any thing from any man, but in war from the enemy. As he was a Roman Catholic he very rarely attended our way of worship or instruction, but seemed very patient and resigned.</p>
+            <p>5. <persName id="OA17640611n36-1">
+                  <interp inst="OA17640611n36-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n36-1" type="surname" value="KNIGHT"/>
+                  <interp inst="OA17640611n36-1" type="given" value="GEORGE"/>George Knight</persName> was indicted for that he on <persName id="OA17640611n36-2">
+                  <interp inst="OA17640611n36-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n36-2" type="surname" value="LAWSON"/>
+                  <interp inst="OA17640611n36-2" type="given" value="THOMAS"/>Thomas Lawson</persName>, on the <placeName id="OA17640611-geo-39">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n36-1 OA17640611-geo-39"/>king's-highway</placeName>, did make an assault, putting him in corporal fear and danger of his life, and taking from his person one silver stock-buckle value 1s. 6d. one linen stock value 3d. and a pair of metal shoe-buckles value 1d. the property of the said Thomas, and against his will, March 12.</p>
+            <p>
+               <persName id="OA17640611n37-1">
+                  <interp inst="OA17640611n37-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n37-1" type="surname" value="KNIGHT"/>
+                  <interp inst="OA17640611n37-1" type="given" value="GEORGE"/>George Knight</persName>, aged about 26 years, was born in <placeName id="OA17640611-geo-40">
+                  <interp inst="OA17640611-geo-40" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n37-1 OA17640611-geo-40"/>Dublin</placeName>, and put <rs id="OA17640611-occupation-22" type="occupation">apprentice to a coach-harness-buckle maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n37-1 OA17640611-occupation-22"/>, in which business he kept a <rs id="OA17640611-occupation-23" type="occupation">shop</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n37-1 OA17640611-occupation-23"/> in <placeName id="OA17640611-geo-41">
+                  <interp inst="OA17640611-geo-41" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n37-1 OA17640611-geo-41"/>Dublin</placeName>, till by losses in trade and his own misconduct he failed, and then entered on board one of the king's tenders, and continued till he was discharged from his <rs id="OA17640611-occupation-24" type="occupation">majesty's ship</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n37-1 OA17640611-occupation-24"/> Southampton about a year ago, since which time he was <rs id="OA17640611-occupation-25" type="occupation">waiter at a tavern</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n37-1 OA17640611-occupation-25"/> at <placeName id="OA17640611-geo-42">
+                  <interp inst="OA17640611-geo-42" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n37-1 OA17640611-geo-42"/>
+                  <placeName id="OA17640611-geo-43">
+                     <interp inst="OA17640611-geo-43" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n37-1 OA17640611-geo-43"/>Guildford</placeName> in Surry</placeName>, and also at <placeName id="OA17640611-geo-44">
+                  <interp inst="OA17640611-geo-44" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n37-1 OA17640611-geo-44"/>Windsor</placeName>. When convicted he said it was then in vain to deny his guilt, but though he owned the commission of some trivial thefts, yet he declared this was the first fact of consequence, and indeed we do not</p>
+            <xptr type="pageFacsimile" doc="OA176406110010"/>
+            <p>hear of his ever being brought before any magistrate till he was taken up for the above fact. He was bred to the church of England, and when I lent him a bible and prayer-book he took every opportunity of reading to his ignorant fellow-convicts, which he did with an even, distinct voice. For about a week before his execution he was much afflicted with an ague, caused partly by distress and short supplies of sustenance, as he had few relations or friends in England to assist him. After his confession he declared he found his mind lighter and eased of that load of guilt which before lay so heavy on him, and to the last seemed calm, patient, humble, and resigned, acknowledging the justice of his sentence.</p>
+            <p>6. <persName id="OA17640611n39-1">
+                  <interp inst="OA17640611n39-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n39-1" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17640611n39-1" type="given" value="JOHN"/>John Fairbrother</persName> was indicted for stealing 3 silver watches value 3l. 10 gold rings value 3l. and 3 pair of silver buckles, the property of <persName id="OA17640611n39-2">
+                  <interp inst="OA17640611n39-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n39-2" type="surname" value="ELLIS"/>
+                  <interp inst="OA17640611n39-2" type="given" value="THOMAS"/>Thomas Ellis</persName>, February 28.</p>
+            <p>
+               <persName id="OA17640611n40-1">
+                  <interp inst="OA17640611n40-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n40-1" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17640611n40-1" type="given" value="JOHN"/>John Fairbrother</persName>, aged 28, born in <placeName id="OA17640611-geo-45">
+                  <interp inst="OA17640611-geo-45" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n40-1 OA17640611-geo-45"/>Dublin</placeName> of reputable parents, and bred a <rs id="OA17640611-occupation-26" type="occupation">white-smith</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n40-1 OA17640611-occupation-26"/>, which business he followed for some time, till, being of a roving disposition, he entered on board the Old Noll <rs id="OA17640611-occupation-27" type="occupation">privateer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n40-1 OA17640611-occupation-27"/>, of <placeName id="OA17640611-geo-46">
+                  <interp inst="OA17640611-geo-46" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n40-1 OA17640611-geo-46"/>Liverpool</placeName>, but about four years and a half ago he was prest into the Augusta, a 60 gun ship, and was on board her at the taking the rich prizes in the <placeName id="OA17640611-geo-47">
+                  <interp inst="OA17640611-geo-47" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n40-1 OA17640611-geo-47"/>West-Indies</placeName>. When the ship came home, as he was a prest man, he was put on board the Royal-Ann guard ship, at Spithead, and from her he was turned over to the Edgar, and was at the taking of the Havanna. On his return being paid his Edgar's wages, he remained in <placeName id="OA17640611-geo-48">
+                  <interp inst="OA17640611-geo-48" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n40-1 OA17640611-geo-48"/>London</placeName>, so long expecting the Havanna prize-money and his wages for the Augusta (which he said he had never received, except about two months) that his money being spent, this delay betrayed him to want and ruin, and meer necessity urged him to the commission of the above crimes, which he solemnly declared to be his first fact, and that he had no accomplices. The account he gave of the theft was, that he went into the pawn-broker's shop in the morning to pawn a handkerchief to raise a few pence for his breakfast, but seeing an opportunity, by no one's being in the shop, of stealing the watches, rings, &amp;c. his extreme necessity, urged him and the devil put it into his head to take them, which he did and was taken in the fact. But it may be remarked that this account did not agree with what was proved on the trial; being told this, he answered, it is true he did endeavour to escape, but that he gave back the things very readily.</p>
+            <p>7. <persName id="OA17640611n41-1">
+                  <interp inst="OA17640611n41-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n41-1" type="surname" value="DIXON"/>
+                  <interp inst="OA17640611n41-1" type="given" value="JOHN"/>John Dixon</persName> was indicted for returning from transportation before the expiration of his time.</p>
+            <p>
+               <persName id="OA17640611n42-1">
+                  <interp inst="OA17640611n42-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n42-1" type="surname" value="DIXON"/>
+                  <interp inst="OA17640611n42-1" type="given" value="JOHN"/>John Dixon</persName>, otherwise <persName id="OA17640611n42-2">
+                  <interp inst="OA17640611n42-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n42-2" type="surname" value="M'LAUCHLIN"/>
+                  <interp inst="OA17640611n42-2" type="given" value="JOHN"/>M' Lauchlin</persName>, aged about 30, born in <placeName id="OA17640611-geo-49">
+                  <interp inst="OA17640611-geo-49" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n42-1 OA17640611-geo-49"/>Dublin</placeName>, and <rs id="OA17640611-occupation-28" type="occupation">served his time to a silk weaver</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n42-1 OA17640611-occupation-28"/>; he would not confess the steps which led to his former sentence of trans</p>
+            <xptr type="pageFacsimile" doc="OA176406110011"/>
+            <p>portation, and denied his being the same person till the last morning, when he confessed it and bewailed his folly for returning back. He had been bred a Roman Catholick, yet for some days after receiving his sentence he resolved to adhere to the church of England, but on a visit from his priest soon fell off to a Romish opinion, yet sometimes joined in our prayers to the last.</p>
+            <p>This convict also said he was at the taking of the Havanna.</p>
+            <p>Morning of Execution.</p>
+            <p>ENtering the Press-yard, they were found seriously employed in reading and praying. Being saluted and severally asked of their welfare, Ives said he was well and hearty, and appeared calm and chearful. Knight being ill of an ague-fit, now upon him, was dispirited; as also Overton, who was extreamly weak; but being very desirous to join in the offices on this last precious opportunity, was helped up to chapel.</p>
+            <p>Fairbrother was chearful and composed. (Three of the respited criminals joined with them in prayers and the communion, but Gray withdrew from the latter, saying, when spoke to, that "he did not intend to communicate though he had not been respited." Two clergymen and another were present, and saw the convicts behave with humility, resignation and devotion. After a word of exhortation they went down, had their irons knocked off, were pinioned and put into 3 carts, viz. 3 in the first, and 2 in each of the 2d and 3d. All of which were hung in black, and two coffins placed in the front of one of them. Their apparent composure and disposition to pray when put in the several carts was much interrupted by the noise of the multitude, and some of their acquaintance taking leave of them. They got to the place of execution about a quarter after 10, and took up near half an hour to be moved all into one cart and tied up. Being then visited for the last office, they declared themselves composed and resigned. Redmond, being asked, refused to join with us in prayer, but stood back and read his own book; while Larey and Dixon joined with us, the latter holding one of our books in his hand. There was a vast croud all around to a considerable distance, who, at the request of the prisoners, joined in our prayers. At a proper pause Ives spoke and warned the people "to beware of the company of lewd women," which he repeated twice, adding, "for that brought me to ruin." "I was here, said he, at the last execution, as free as any one of you, and little thought of this my unhappy fate. God grant you all more grace than I have had." Redmond and Larey declared their innocence of the facts they died for. Larey said, he went out to call the watch to put an end to a quarrel</p>
+            <xptr type="pageFacsimile" doc="OA176406110012"/>
+            <p>which happened in the house where he was drinking. The rest were silent as to the people, but prayed earnestly, as did Ives and Dixon.</p>
+            <p>Ives having a hint given him that Mr. H - nw - ll, one of his former prosecutors, was in a coach at hand, lifted both his hands, bowed and begged his forgiveness, which was freely granted; though he had neglected a better opportunity of doing the same in the press-yard the same morning, when that gentleman stood in his way for that very purpose; when instead of asking his pardon he said sullenly and without reflexion, "Now you have got your end. After the final blessing they returned their thanks, and a hearty blessing for the good offices done them, of which they expressed a lively sense. We parted: and they suffered their sentence.</p>
+            <p>8. <persName id="OA17640611n50-1">
+                  <interp inst="OA17640611n50-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n50-1" type="surname" value="TURTLE"/>
+                  <interp inst="OA17640611n50-1" type="given" value="JOHN"/>John Turtle</persName> was indicted for the wilful murder of <persName id="OA17640611n50-2">
+                  <interp inst="OA17640611n50-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n50-2" type="surname" value="CHAMBERS"/>
+                  <interp inst="OA17640611n50-2" type="given" value="JOSEPH"/>Joseph Chambers</persName>, on the 8th day of May last, in the <placeName id="OA17640611-geo-50">
+                  <interp inst="OA17640611-geo-50" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-1 n50-2 OA17640611-geo-50"/>
+                  <placeName id="OA17640611-geo-51">
+                     <interp inst="OA17640611-geo-51" type="type" value="parish"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n50-1 n50-2 OA17640611-geo-51"/>parish St. Dunstan Stebunheath</placeName>, otherwise Stepney</placeName>, by striking and stabbing him with a certain knife which he in his right hand had and held, on the left side of the belly below the navel, giving him one mortal wound, in breadth one inch, and in depth one inch, of which said mortal wound, the said Joseph, on the said 8th of May, as well as at the parish aforesaid, as also at the <placeName id="OA17640611-geo-52">
+                  <interp inst="OA17640611-geo-52" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-2 OA17640611-geo-52"/>parish of St. Mary Matfellon</placeName> alias <placeName id="OA17640611-geo-53">
+                  <interp inst="OA17640611-geo-53" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-2 OA17640611-geo-53"/>White-chapel</placeName>, did languish, and on the said 8th of May, at the <placeName id="OA17640611-geo-54">
+                  <interp inst="OA17640611-geo-54" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-2 OA17640611-geo-54"/>parish of St. Mary, White-chapel</placeName>, of the mortal wound aforesaid, died.</p>
+            <p>This indictment against the said prisoner being proved to the full satisfaction of the court and jury, he was found guilty on Friday June the 8th, being the second day of the sessions, and proceedings, on the King's commission of the peace, oyer and terminer, and gaol delivery for the city of London and county of Middlesex, held at <placeName id="OA17640611-geo-55">
+                  <interp inst="OA17640611-geo-55" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-1 OA17640611-geo-55"/>
+                  <placeName id="OA17640611-geo-56">
+                     <interp inst="OA17640611-geo-56" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17640611n50-1 OA17640611-geo-56"/>Justice-hall</placeName> in the Old-Bailey</placeName>, before the Rt. Hon. <persName id="OA17640611n51-1">
+                  <interp inst="OA17640611n51-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n51-1" type="surname" value="BRIDGEN"/>
+                  <interp inst="OA17640611n51-1" type="given" value="WILLIAM"/>William Bridgen</persName>, Esq. <rs id="OA17640611-occupation-29" type="occupation">lord mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n51-1 OA17640611-occupation-29"/>; Mr. baron Adams, Mr. justice Wilmot, <persName id="OA17640611n51-2">
+                  <interp inst="OA17640611n51-2" type="gender" value="male"/>
+                  <interp inst="OA17640611n51-2" type="surname" value="EYRE"/>
+                  <interp inst="OA17640611n51-2" type="given" value="JAME"/>Jame Eyre</persName>, Esq. <rs id="OA17640611-occupation-30" type="occupation">recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n51-2 OA17640611-occupation-30"/>, and others of his majesty's justices; and forthwith received sentence to suffer death, on Monday June the 11th, at the usual place of execution, and then to be anatomized at Surgeon'shall.</p>
+            <p>The deceased had several stabs and wounds, beside that laid in the indictment, at which his bowels issued out as much as would fill a hat. The constable, <persName id="OA17640611n52-1">
+                  <interp inst="OA17640611n52-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n52-1" type="surname" value="MARTIN"/>
+                  <interp inst="OA17640611n52-1" type="given" value="WILLIAM"/>William Martin</persName>, deposed he saw another wound on his right side near his breast, and a third on his left thigh; the surgeon, Mr. Bcehenoe, who dressed and took care of him at the <placeName id="OA17640611-geo-57">
+                  <interp inst="OA17640611-geo-57" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-2 OA17640611-geo-57"/>London</placeName> hospital, deposed, there were five wounds about him, two on his right side and one one each thigh, beside the principal one on the left side of his belly, where his bowels were coming out, and the gut cut almost across.</p>
+            <xptr type="pageFacsimile" doc="OA176406110013"/>
+            <p>From the repeated positive evidence of the deceased, and the concurrent testimony of 5 or 6 other witnesses, there can be no doubt but the prisoner, and he only, gave those wounds, and was the murderer. There needed not, though there might have been more witnesses. The prisoner persisted to deny it very inconsistently, till word was brought to the justices at <placeName id="OA17640611-geo-58">
+                  <interp inst="OA17640611-geo-58" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n50-1 OA17640611-geo-58"/>Whitechapel</placeName>, while he was under their examination, that Chambers was actually dead. The prisoner then said, "I do not care if I was hanged immediately;" and by the persuasion of the constable to an open confession, said, "He would do all he could to make his peace with God."</p>
+            <p>
+               <persName id="OA17640611n54-1">
+                  <interp inst="OA17640611n54-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n54-1" type="surname" value="ISHERWOOD"/>
+                  <interp inst="OA17640611n54-1" type="given" value="THOMAS"/>Thomas Isherwood</persName> deposed, that he heard justice Pell examine the prisoner, and saw him sign his confession. Now could it be expected after this, that this poor wretched criminal should relapse into a hardened liar as well as a murderer? if that evil-one, who was a murderer from the beginning, had not too much power over him, to deny his guilt without the least prospect of saving his credit, his character, or his life, is a degree of infatuation scarce to be credited; and yet such was his behaviour. No notice was given me that there was such a prisoner in the gaol, till after his conviction, nor did he ever desire to be brought to me (though daily at hand) for direction, advice, or assistance before his trial and sentence; otherwise he might have been brought to a better disposition. He was by trade a <rs id="OA17640611-occupation-31" type="occupation">woman's Shoe-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n54-1 OA17640611-occupation-31"/>, about 60 years of age, an Englishman by birth, rather small of stature and size. The deceased was a lusty tallish man, a <rs id="OA17640611-occupation-32" type="occupation">Rope-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n50-2 OA17640611-occupation-32"/> in that parish. They were scarce known to each other, but seem to have met accidentally at the prisoner's door, between 11 and 12 at night; and there appears to be little or no cause for this fatal quarrel, but that Turtle was much in liquor (in which case he was known to be as remarkably vexatious, as, it is said, he was quiet and inoffensive when sober). It is also believed he was inflamed with jealousy about a woman who lived with him as a wife, with whom he had got it in his head, the deceased was or would be too familiar, and therefore demanded a pot of beer from him, about which the quarrel began.</p>
+            <p>Quickly after conviction he was visited, on Friday June the 8th, for better than half an hour, and again on Saturday before noon, and three times on Sunday, but still continued to deny the fact, answering to every motive that could be urged, "Sure you would not have me confess a lie!" and that he could not charge himself with having committed this crime. To palliate which, he told this story, That Chambers (whom he scarce knew by sight)</p>
+            <xptr type="pageFacsimile" doc="OA176406110014"/>
+            <p>wanted to intrude upon him as a lodger for that night, which Turtle refused saying, I am but a poor man, with one room, and have scarce a lodging for myself. On which Chambers struck him with his fist on the temple and knocked him down, so that he stumbled over the step of the door and broke his shin, of which he shewed me the scar, and also tore the skin off his knuckles, which, said he, are now healed, being five weeks ago, but pointed out the scars still remaining on them.</p>
+            <p>Thus far he confessed; but when asked, what did you then? he pretended that being stunned and left on the ground with the blow, the deceased walked off and was absent near half an hour, and when he returned, cried out, he was stabbed. But who could stab him? that the convict would not pretend to answer, affecting to be very scrupulous and cautious of charging the fact on any other person by name, but supposed in his absence he had met with his match. Well! but did he not lay it to your charge from first to last, and this on oath before a magistrate? Oh, said he, he might be delirious. But did not all the witnesses prove the same on your trial? "That, he said, was nothing but spite and malice, and he knew the reason of it; insinuating as if there was a young woman who could prove otherwise: but they would let none come to the trial, except such as were of their own way of thinking." In this inconsistent and incredible way of excusing himself he persisted to the last, with many other falsehoods, asking, Would you have me charge myself with what I never did? adding, that he was easy in his mind and conscience, and clear of any such guilt; that he had no knife, nor was any knife found upon him or near him; nor could he get into his room to get a knife, being locked out by his wife. But beside that the contrary to all this is proved on the trial, it is well known in his neighbourhood, that the cries of Chambers, as soon as the fact was done, brought the witnesses, Roaper and his wife, Mrs. Israel, Mr. Martin, and the watch, about him, saying to them, "I am stabbed; my guts are coming out, &amp;c." and to Turtle (who was immediately secured, and beside whom no one else was near him when then the fact was done) "You rogue, you villain, you have stabbed me; I am a dead man;" which he often repeated. Turtle, being secured till examined next morning before justice Pell, then chairman of the committee at the London-Hospital, in the presence of Chambers then lying ill of his wounds, (but observed to be quite sensible and intelligent) when the prisoner being set before the wounded and dying man, he swore positively to him; he owned indeed that he had struck him first, and then Turtle went in for a knife, with which he stabbed him in 4 or 5 places. The justice then asked Chambers, Can you forgive this man? Chambers hesitated, saying with some emotion, "forgive him!" turning away his face, while the justice said to Turtle, do go over to him and ask his pardon; he muttered somewhat, as if reluctant; but the justice urging, Do, go to him, it will be better for you hereafter, Turtle went and begged his pardon; on which Chambers put out his hand, but did not or could not speak. This needs no comment to shew that it admits the accusation to be true on the part of both accuser and accused, however obstinately the latter denied it after conviction. And</p>
+            <xptr type="pageFacsimile" doc="OA176406110015"/>
+            <p>yet when he was prayed for as a murderer he did not interrupt nor object to it, only said he was never a very wicked man or a hardened sinner under which character he now was prayed for; he said, had he been really guilty of the fact, he never would have stood out in the denial of it for two hours after the fact. He owned indeed that the woman who lived with him as a wife was not married to him, but they lived together as if married. He would not own he had any jealousy of her, though this be strongly asserted by his neighbours who saw him in liquor that same night, and also much enraged, that he was for sometime locked out of his room by this woman; though it is said, she was only sitting on the stairs to avoid his usual abuse of her when in liquor. On questioning him about his past life, he told me, he had been an occasional communicant about nine years ago but never since, and seemed not earnestly to desire to be admitted to it now, nor would he prepare himself, but waved it rather than confess his notorious crime. He said he had been in the <rs id="OA17640611-occupation-33" type="occupation">marines</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n54-1 OA17640611-occupation-33"/>, and was draughted for <placeName id="OA17640611-geo-59">
+                  <interp inst="OA17640611-geo-59" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17640611n54-1 OA17640611-geo-59"/>Germany</placeName> in the late War</p>
+            <p>Morning of Execution.</p>
+            <p>When visited, he was found weak and faint with long fasting, sitting on a form supported by his hand leaning on a table. Being saluted with peace, he answered, He hoped he should have peace. Being asked whether he would now confess his crime of murder, for which he is to suffer? he answered, He could say no more than he had told me yesterday, and that he was scarce able to speak, therefore desired to be asked no more questions; said he did not doubt but God would be his friend, "for that he had laboured with him in prayer 8 hours last night, and hoped he had prevailed." He was asked whether he believed all the articles of the christian faith? instead of a direct answer he said, he was bred a christian. Again, whether he believed the forgiveness of sins through the merits of Jesus Christ; and that there is no forgiveness without repentance? He answered, he had done all in his power to repent, and hoped he had repented, and did not much fear but he should find mercy. He consented to attend to some proper prayers, but said he was too weak either to go up to chapel, or receive the holy communion, or kneel or stand, but kept in the same posture of leaning on a table. Being desired to forgive and pray for all the world, especially his prosecutors, he consented, and said he had forgiven them five hours ago. He still expressly denied the murder before several witnesses, and yet expressed his hope of mercy. He was again warned against presumptuous hardness of heart, the crafts, assaults and delusions of the enemy of his salvation, in like manner as he was yesterday and the preceeding days more fully. But he still denied the fact, and said he had no knife. He now grew rather impatient, and expressed a longing desire to pay the debt of his life (so he expressed it) and for the present to be refreshed with a little wine. He was now reminded to think nothing of what he could suffer at present compared to what the tormented sinner must endure, like him who in the flames cried out for one drop of water to cool his tongue. He answered, "he did not complain though they refused him what he desired." A book being offered him, he refused it, saying, he could not see to read on the way through faintness. A person who charitably intended to accompany him, took the book;</p>
+            <xptr type="pageFacsimile" doc="OA176406110016"/>
+            <p>but when he began to represent to him how terrible it must be to go out of the world unprepared and impenitent, Turtle told him, if he had nothing else to talk of, he might go about his business. And so he left him.</p>
+            <p>He was put into the cart about eight, and got to the place about nine, where he seemed still more faint and desirous to die speedily. Here he was again desired to consider whether by his being in liquor and the heat of passion, he might not know, or not remember what he did? but he said, he was not so much in liquor as not to know well what he was doing. He was further asked, whether he was easy in his mind? He made a motion to his breast to express he was so, and spoke it as well as his weakness would permit. Whether his conscience was clear and free from the guilt of this murder, for which he was now to suffer? He answered, It is; adding he had told all he knew of it, that the man went away from him after he had beat him down, and stayed away half an hour,  in the same story as yesterday;  that "he would say no other, if he to live an hundred years." He declared forgave all, and particularly the executioner, and kissed his hand; he prayed for and blessed me for what I had done for him. He consented to desire the people to pray for him, and I told him I must pray for him as guilty of this crime; he said, "he could not help that." Though impatient to die, he consented that I should repeat the belief to him, and then being particularly asked, he said, "All this I stedfastly believe." On his pressing me to hasten, I asked him whether he thought that death would put an utter end to his being? He said, " he trusted in God that he would take care of him." Prayers were shortened at his request, and on account of his faintness and want of spirit to attend. Being dismissed with prayers and blessings, he got ready to suffer. He appeared in tears just before he went off.</p>
+            <p>This all the account given by me,</p>
+            <p>
+               <persName id="OA17640611n64-1">
+                  <interp inst="OA17640611n64-1" type="gender" value="male"/>
+                  <interp inst="OA17640611n64-1" type="surname" value="ROE"/>
+                  <interp inst="OA17640611n64-1" type="given" value="STEPHEN"/>STEPHEN ROE</persName>,</p>
+            <p>
+               <rs id="OA17640611-occupation-34" type="occupation">ORDINARY of Newgate</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17640611n64-1 OA17640611-occupation-34"/>.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

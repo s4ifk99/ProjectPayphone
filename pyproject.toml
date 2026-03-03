@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "oldbailey"
+version = "0.1.0"
+description = "Ingest Old Bailey XML + Old Bailey Voices (OBV2) into SQLite with FTS5 search."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Saif" }]
+dependencies = [
+  "flask>=3.0",
+  "lxml>=5.0",
+  "pydantic>=2.7",
+  "typer>=0.12",
+  "rich>=13.7",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8",
+]
+
+[project.urls]
+Repository = "https://example.invalid/oldbailey"
+
+[project.scripts]
+oldbailey = "oldbailey.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/oldbailey"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+

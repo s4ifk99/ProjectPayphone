@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Old Bailey{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <nav>
+    <a href="{{ url_for('index') }}">Home</a>
+    {% block breadcrumb %}{% endblock %}
+    <span id="status-bar" class="status-bar" aria-live="polite"></span>
+  </nav>
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  <script>
+    (function() {
+      var el = document.getElementById('status-bar');
+      var pollMs = 2000;
+      function fmt(n) { return n.toLocaleString(); }
+      function fetchStatus() {
+        fetch('/api/status')
+          .then(function(r) { return r.json(); })
+          .then(function(d) {
+            if (d.ingesting) {
+              el.textContent = 'Ingesting ' + d.phase + ': ' + fmt(d.count) + '…';
+              el.className = 'status-bar status-bar-ingesting';
+            } else {
+              el.textContent = fmt(d.cases) + ' cases · ' + fmt(d.speeches) + ' speeches';
+              el.className = 'status-bar';
+            }
+          })
+          .catch(function() { el.textContent = ''; });
+      }
+      fetchStatus();
+      setInterval(fetchStatus, pollMs);
+    })();
+  </script>
+</body>
+</html>

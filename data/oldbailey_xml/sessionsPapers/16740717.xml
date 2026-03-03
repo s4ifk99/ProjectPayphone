@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="sessionsPaper" id="16740717">
+            <interp inst="16740717" type="collection" value="BAILEY"/>
+            <interp inst="16740717" type="year" value="1674"/>
+            <interp inst="16740717" type="uri" value="sessionsPapers/16740717"/>
+            <interp inst="16740717" type="date" value="16740717"/>
+            <xptr type="transcription" doc="16740717"/>
+   
+            <div1 type="frontMatter" id="f16740717-1">
+               <interp inst="f16740717-1" type="collection" value="BAILEY"/>
+               <interp inst="f16740717-1" type="year" value="1674"/>
+               <interp inst="f16740717-1" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="f16740717-1" type="date" value="16740717"/>
+         
+               <xptr type="pageFacsimile" doc="16740717001"/>NEWS FROM TYBURN AND THE SESSIONS-HOUSE, OF THE TRYALS and CONDEMNATION OF Thomas Whitehead, John Rogers, George Wormington, Roger Elvin
+<p>Being a full and Exact Relation of all Transactions at the Sessions holden for London &amp; Middlesex at Justice-Hall in the Old Bailey 17th July 1674</p>
+               <p>Where several Persons were Sentenced to Die, one of which had been out of Newgate but one day before he Committed a Burglary, for which he was brought in again, and was now Condemned. With particular Facts of the other Malefactors.</p>
+               <p>WITH THEIR CONFESSION and EXECUTION.</p>
+               <p>AS ALSO</p>
+               <p>The Crimes of several other Persons, Five that are to be Transported, Seven Burnt in the Hand, Three Convicted of Felony, Reprieved before Judgment, and Three ordered to be Whipp'd.</p>
+               <p>LONDON</p>
+               <p>Printed for William Smith, 1674.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="16740717002"/>News from the Session-House, &amp;c</p>
+               <p>The End of Magistracy is to be a Terror to Evil-Doers, and a Praise to them that do well: The end of Law, To settle and secure Propriety, distribute to every one his own, and punish all that shall disturb the Common-Peace which it endeavours to preserve by severe Penalties, not so much simply to Torture the present Malefactor, as to forewarn others from the like Crimes, or (as the great Oracle of our Municipal Laws expressed it)</p>
+               <p>Ut paena ad paucos, timor ad omnes per veniat.</p>
+               <p>That the punishments inflicted on a few may by an Exemplary Caution create fear in all, and for this very End is the present Narrative of the Transactions of the last Sessions published, being as follows.</p>
+               <p>The Sessions being held at Justice-Hall in the Old Bayly for London and Middlesex, on the</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="16740717003"/>17th of the Instant, there being five persons received Sentence of Death.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16740717-1">
+               <interp inst="t16740717-1" type="collection" value="BAILEY"/>
+               <interp inst="t16740717-1" type="year" value="1674"/>
+               <interp inst="t16740717-1" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="t16740717-1" type="date" value="16740717"/>
+               <join result="criminalCharge" id="t16740717-1-off1-c1" targOrder="Y"
+                     targets="t16740717-1-defend1 t16740717-1-off1 t16740717-1-verdict2"/>
+         
+               <p>The first was one 
+               <persName id="t16740717-1-defend1" type="defendantName">
+                  Thomas 
+                  Whitehead
+               <interp inst="t16740717-1-defend1" type="surname" value="Whitehead"/>
+                     <interp inst="t16740717-1-defend1" type="given" value="Thomas"/>
+                     <interp inst="t16740717-1-defend1" type="gender" value="male"/>
+                  </persName>
+            , who being in Newgate, was by order of the former Sessions of the 3d. of June, to remain there upon suspicion of Fellony, whence he once made an escape, and was retaken, and then by the assistance of some Friends he had procured an Order for his Inlargement, and was to have gone forth as the next day, but he being as it seems impatient to be kept so long from his old Profession, the Trade of Stealing, and finding himself by reason of such an Order, not so strictly lookt after by the Keepers as otherwise he would have been; he took an opportunity once more to get away out of Custody, but to little purpose, for falling to his Practise as soon as ever he was got forth, the very Night he was taken for having committed <rs id="t16740717-1-off1" type="offenceDescription">
+                     <interp inst="t16740717-1-off1" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-1-off1" type="offenceSubcategory" value="burglary"/>
+               Burghlary, by breaking open an house, and Stealing goods to the value (as the Jury found it) of 4. pounds
+            </rs>, the evidence was plain against him, and he had little to say for himself, so that he was <rs id="t16740717-1-verdict2" type="verdictDescription">
+                     <interp inst="t16740717-1-verdict2" type="verdictCategory" value="guilty"/>
+               Convicted
+            </rs>, and (being notoriously Incorrigible) had Sentence of <rs id="t16740717-1-punish3" type="punishmentDescription">
+                     <interp inst="t16740717-1-punish3" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16740717-1-defend1 t16740717-1-punish3"/>
+               Death
+            </rs> pass'd upon him.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16740717-2">
+               <interp inst="t16740717-2" type="collection" value="BAILEY"/>
+               <interp inst="t16740717-2" type="year" value="1674"/>
+               <interp inst="t16740717-2" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="t16740717-2" type="date" value="16740717"/>
+               <join result="criminalCharge" id="t16740717-2-off4-c2" targOrder="Y"
+                     targets="t16740717-2-defend2 t16740717-2-off4 t16740717-2-verdict6"/>
+               <join result="criminalCharge" id="t16740717-2-off5-c2" targOrder="Y"
+                     targets="t16740717-2-defend2 t16740717-2-off5 t16740717-2-verdict6"/>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16740717004"/>The second 
+               <persName id="t16740717-2-defend2" type="defendantName">
+                  John
+                  Rogers
+               <interp inst="t16740717-2-defend2" type="surname" value="Rogers"/>
+                     <interp inst="t16740717-2-defend2" type="given" value="John"/>
+                     <interp inst="t16740717-2-defend2" type="gender" value="male"/>
+                  </persName>
+            , who was brought in by Habeas Corpus from Canterbury Goal for Fellony the 14 th of July Instant, He was Indicted for <rs id="t16740717-2-off4" type="offenceDescription">
+                     <interp inst="t16740717-2-off4" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-2-off4" type="offenceSubcategory" value="animalTheft"/>
+               Stealing of a Mare of four pounds price, and a Guelding of 8. pounds price
+            </rs> from one 
+               <persName id="t16740717-2-victim3" type="victimName">
+                  William 
+                  Webb
+               <interp inst="t16740717-2-victim3" type="surname" value="Webb"/>
+                     <interp inst="t16740717-2-victim3" type="given" value="William"/>
+                     <interp inst="t16740717-2-victim3" type="gender" value="male"/>
+                  </persName>
+            , and by another Indictment for <rs id="t16740717-2-off5" type="offenceDescription">
+                     <interp inst="t16740717-2-off5" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-2-off5" type="offenceSubcategory" value="animalTheft"/>
+               Stealing a Gelding of the value of Ten pounds
+            </rs> from one 
+               <persName id="t16740717-2-victim4" type="victimName">
+                  Edward 
+                  Carey
+               <interp inst="t16740717-2-victim4" type="surname" value="Carey"/>
+                     <interp inst="t16740717-2-victim4" type="given" value="Edward"/>
+                     <interp inst="t16740717-2-victim4" type="gender" value="male"/>
+                  </persName>
+            , upon both which Indictments he was found <rs id="t16740717-2-verdict6" type="verdictDescription">
+                     <interp inst="t16740717-2-verdict6" type="verdictCategory" value="guilty"/>
+               Guilty
+            </rs>, though he used many Evasions to excuse himself, yet the evidence was full and clear, and he was known to have been concern'd formerly, and so received likewise sentence of <rs id="t16740717-2-punish7" type="punishmentDescription">
+                     <interp inst="t16740717-2-punish7" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16740717-2-defend2 t16740717-2-punish7"/>
+               Death
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16740717-3">
+               <interp inst="t16740717-3" type="collection" value="BAILEY"/>
+               <interp inst="t16740717-3" type="year" value="1674"/>
+               <interp inst="t16740717-3" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="t16740717-3" type="date" value="16740717"/>
+               <join result="criminalCharge" id="t16740717-3-off8-c5" targOrder="Y"
+                     targets="t16740717-3-defend5 t16740717-3-off8 "/>
+         
+               <p>The third 
+               <persName id="t16740717-3-defend5" type="defendantName">
+                  Roger 
+                  Elvin
+               <interp inst="t16740717-3-defend5" type="surname" value="Elvin"/>
+                     <interp inst="t16740717-3-defend5" type="given" value="Roger"/>
+                     <interp inst="t16740717-3-defend5" type="gender" value="male"/>
+                  </persName>
+            , Indicted for <rs id="t16740717-3-off8" type="offenceDescription">
+                     <interp inst="t16740717-3-off8" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-3-off8" type="offenceSubcategory" value="burglary"/>
+               Burghlary having on the <rs id="t16740717-3-cd9" type="crimeDate">13 th of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y"
+                           targets="t16740717-3-off8 t16740717-3-cd9"/> broken Feloniously into the House of 
+                     <persName id="t16740717-3-victim6" type="victimName">
+                        Elizabeth 
+                        Oldridge
+                     <interp inst="t16740717-3-victim6" type="surname" value="Oldridge"/>
+                        <interp inst="t16740717-3-victim6" type="given" value="Elizabeth"/>
+                        <interp inst="t16740717-3-victim6" type="gender" value="female"/>
+                        <join result="offenceVictim" targOrder="Y"
+                              targets="t16740717-3-off8 t16740717-3-victim6"/>
+                     </persName>
+                   in <placeName id="t16740717-3-crimeloc10">Coleman Street</placeName>
+                     <interp inst="t16740717-3-crimeloc10" type="placeName" value="Coleman Street"/>
+                     <interp inst="t16740717-3-crimeloc10" type="type" value="crimeLocation"/>
+                     <join result="offencePlace" targOrder="Y"
+                           targets="t16740717-3-off8 t16740717-3-crimeloc10"/> London, and took from thence nine Pewter Dishes, a Pewter Cullendar, and other things
+            </rs>, which he Exposing to Sale, was thereby discovered, and for the same now <rs id="t16740717-3-punish11" type="punishmentDescription">
+                     <interp inst="t16740717-3-punish11" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16740717-3-defend5 t16740717-3-punish11"/>
+               Condemned to die
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16740717-4">
+               <interp inst="t16740717-4" type="collection" value="BAILEY"/>
+               <interp inst="t16740717-4" type="year" value="1674"/>
+               <interp inst="t16740717-4" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="t16740717-4" type="date" value="16740717"/>
+               <join result="criminalCharge" id="t16740717-4-off13-c7" targOrder="Y"
+                     targets="t16740717-4-defend7 t16740717-4-off13 "/>
+               <join result="criminalCharge" id="t16740717-4-off14-c7" targOrder="Y"
+                     targets="t16740717-4-defend7 t16740717-4-off14 "/>
+         
+               <p>The Fourth was 
+               <persName id="t16740717-4-defend7" type="defendantName">
+                  George 
+                  Wormington
+               <interp inst="t16740717-4-defend7" type="surname" value="Wormington"/>
+                     <interp inst="t16740717-4-defend7" type="given" value="George"/>
+                     <interp inst="t16740717-4-defend7" type="gender" value="male"/>
+                  </persName>
+            , who was committed at first for Robbing one <rs id="t16740717-4-viclabel12" type="occupation">Mr.</rs>
+                  <join result="persNameOccupation" targOrder="Y"
+                        targets="t16740717-4-victim8 t16740717-4-viclabel12"/> Hall in Old-Street, but now at his Tryal there came in Two Indictments against him,<xptr type="pageFacsimile" doc="16740717005"/> one for <rs id="t16740717-4-off13" type="offenceDescription">
+                     <interp inst="t16740717-4-off13" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-4-off13" type="offenceSubcategory" value="burglary"/>
+               Feloniously Breaking open the house of the said 
+                     <persName id="t16740717-4-victim8" type="victimName">
+                        William 
+                        Hall
+                     <interp inst="t16740717-4-victim8" type="surname" value="Hall"/>
+                        <interp inst="t16740717-4-victim8" type="given" value="William"/>
+                        <interp inst="t16740717-4-victim8" type="gender" value="male"/>
+                     </persName>
+                  , and Stealing the Goods valued at nine and Twenty shillings
+            </rs>, and the other for a <rs id="t16740717-4-off14" type="offenceDescription">
+                     <interp inst="t16740717-4-off14" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-4-off14" type="offenceSubcategory" value="burglary"/>
+               Burghlary committed in the house of one 
+                     <persName id="t16740717-4-victim9" type="victimName">
+                        <rs id="t16740717-4-viclabel15" type="occupation">Mr.</rs>
+                        <join result="persNameOccupation" targOrder="Y"
+                              targets="t16740717-4-victim8 t16740717-4-viclabel15"/>
+                        <join result="persNameOccupation" targOrder="Y"
+                              targets="t16740717-4-victim9 t16740717-4-viclabel15"/> 
+                        Newmar
+                     <interp inst="t16740717-4-victim9" type="surname" value="Newmar"/>
+                        <interp inst="t16740717-4-victim9" type="gender" value="male"/>
+                     </persName>
+                  , and taking thence Feloniously Goods to the value of Ten pounds
+            </rs>, Both which being made evidently appear, he likewise <rs id="t16740717-4-punish16" type="punishmentDescription">
+                     <interp inst="t16740717-4-punish16" type="punishmentCategory" value="death"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16740717-4-defend7 t16740717-4-punish16"/>
+               received Condemnation
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16740717-5">
+               <interp inst="t16740717-5" type="collection" value="BAILEY"/>
+               <interp inst="t16740717-5" type="year" value="1674"/>
+               <interp inst="t16740717-5" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="t16740717-5" type="date" value="16740717"/>
+               <join result="criminalCharge" id="t16740717-5-off1399-c10" targOrder="Y"
+                     targets="t16740717-5-defend10 t16740717-5-off1399 t16740717-5-verdict1199"/>
+         
+               <p>The last was 
+               <persName id="t16740717-5-defend10" type="defendantName">
+                  William 
+                  Sadler
+               <interp inst="t16740717-5-defend10" type="surname" value="Sadler"/>
+                     <interp inst="t16740717-5-defend10" type="given" value="William"/>
+                     <interp inst="t16740717-5-defend10" type="gender" value="male"/>
+                  </persName>
+             who appeared in Court upon Bail the 18 th of July Instant, but was Indicted for, and <rs id="t16740717-5-verdict1199" type="verdictDescription">
+                     <interp inst="t16740717-5-verdict1199" type="verdictCategory" value="guilty"/>
+               Convicted</rs> of <rs id="t16740717-5-off1399" type="offenceDescription">
+                     <interp inst="t16740717-5-off1399" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-5-off1399" type="offenceSubcategory" value="burglary"/>
+               several Fellonies and Burghlaries</rs>, for which sentence passed against him.</p>
+            </div1>
+   
+   
+            <div1 type="trialAccount" id="t16740717-6">
+               <interp inst="t16740717-6" type="collection" value="BAILEY"/>
+               <interp inst="t16740717-6" type="year" value="1674"/>
+               <interp inst="t16740717-6" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="t16740717-6" type="date" value="16740717"/>
+               <join result="criminalCharge" id="t16740717-6-off18-c11" targOrder="Y"
+                     targets="t16740717-6-defend11 t16740717-6-off18 t16740717-6-verdict20"/>
+         
+               <p>Besides these persons Condemned to die, there were 5. Convicted of severall Felonies which desired the mercy of the Court for transportation, and had it granted, being sentence'd accordingly, of whom one 
+               <persName id="t16740717-6-defend11" type="defendantName">
+                  Mall. 
+                  Floyd
+               <interp inst="t16740717-6-defend11" type="surname" value="Floyd"/>
+                     <interp inst="t16740717-6-defend11" type="given" value="Mall."/>
+                     <interp inst="t16740717-6-defend11" type="gender" value="female"/>
+                  </persName>
+             was particularly remarkable for her Crime, she having it seems found out a new Trade not simply to Kidnapp or steal little Children quite away, But to Inveigle them to some strange by places and there rifle them, and so turn them abroad to shift for themselves, Thus the <rs id="t16740717-6-cd17" type="crimeDate">Third of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y"
+                        targets="t16740717-6-off18 t16740717-6-cd17"/> 
+                  <rs id="t16740717-6-off18" type="offenceDescription">
+                     <interp inst="t16740717-6-off18" type="offenceCategory" value="theft"/>
+                     <interp inst="t16740717-6-off18" type="offenceSubcategory" value="other"/>
+               meeting a pretty little Child of about 8 yeares<xptr type="pageFacsimile" doc="16740717006"/> of Age neatly drest in Shoe Lane, She pretending She came from her Mother, carryed it with her as farr as <placeName id="t16740717-6-crimeloc19">St Giles's</placeName>
+                     <interp inst="t16740717-6-crimeloc19" type="placeName" value="St Giles's"/>
+                     <interp inst="t16740717-6-crimeloc19" type="type" value="crimeLocation"/>
+                     <join result="offencePlace" targOrder="Y"
+                           targets="t16740717-6-off18 t16740717-6-crimeloc19"/>, and had it into an Alehouse there, where seeing it rain, She pretended all the Childs Cloathes would be Spoiled, and under that pretence took away from it Severall Laces and peices of Linnen Knots and the like, and then carrying her into St Giles's Churchyard where there then happened to be a Burial, She Lost her in the Crowd of People
+            </rs>, who then not Knowing where She was, nor the way home, fell a crying, and was brought home that Night by some honest Inhabitant there abouts, where she told all the sad Story, but could not in the least declare who it was had served her so, or where she might be heard of, nor was there any probability of her being discovered, had it not strangely been disclosed by Accident, for the very next day the Childs Mother passing up Holbourn, saw some of her Childs things hang up in a Shop to be sold, which She knew again and acquainted the people of the Shop there with, who after some time and much trouble found out this Woman that sold the things to them who <rs id="t16740717-6-verdict20" type="verdictDescription">
+                     <interp inst="t16740717-6-verdict20" type="verdictCategory" value="guilty"/>
+                     <interp inst="t16740717-6-verdict20" type="verdictSubcategory" value="pleadedGuilty"/>
+               upon her Examination Confessed the <xptr type="pageFacsimile" doc="16740717007"/>whole matter before the Justice
+            </rs>, and was Committed to Newgate, (having been often a distressed Lady before in that Inchanted Castle) from whence She is now by Sentence to be <rs id="t16740717-6-punish21" type="punishmentDescription">
+                     <interp inst="t16740717-6-punish21" type="punishmentCategory" value="transport"/>
+                     <join result="defendantPunishment" targOrder="Y"
+                           targets="t16740717-6-defend11 t16740717-6-punish21"/>
+               Transported to some of the Plantations beyond the Seas
+            </rs>.</p>
+            </div1>
+   
+   
+            <div1 type="punishmentSummary" id="s16740717-1">
+               <interp inst="s16740717-1" type="collection" value="BAILEY"/>
+               <interp inst="s16740717-1" type="year" value="1674"/>
+               <interp inst="s16740717-1" type="uri" value="sessionsPapers/16740717"/>
+               <interp inst="s16740717-1" type="date" value="16740717"/>
+         
+               <p>There were likewise seven that being Convicted of Felonies within the benefit of Clergy, prayed the favour of their Book, and in memory of their notable Clarkship, received a Badge of Honour from Squire Catches Generosity.</p>
+               <p>Three others Convicted of Petty-Felonies were Repreived before Judgment, And three more ordered to do Pennace at the Tail of a Cart.</p>
+               <p>Wormington Confessed that he had been a Vile Sinner, and had gloried too much in Sin: he acknowledged that one Night he broke up a Milliners Shop in Bishops-gate-street, and had made up his Bundle ready to go away, but hearing the Watch coming, let his Bundle lie, and stood before the Door, the Watch asking who was there, he answered, I wish you had come sooner for my Shop is broken open, and I stand here to secure my Door, and desired them, that if they should see any suspicious Persons, to secure them, and so soon as they were gone, took up his Bundle and made his Escape; But now he was very Penitent, and desired all persons to take Example by him; The others were very Penitent also, and often calling upon God to forgive them their former Sins, and wished that all people would take warning by their sad lamentable Ends.</p>
+            </div1>
+   
+         </div0>
+      </body>
+   </text>
+</TEI.2>

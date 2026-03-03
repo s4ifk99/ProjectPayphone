@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17430518">
+            <interp inst="OA17430518" type="uri" value="ordinarysAccounts/OA17430518"/>
+            <interp inst="OA17430518" type="date" value="17430518"/>
+            <xptr type="pageFacsimile" doc="OA174305180001"/>
+            <p>THE ORDINARY of NEWGATE, His ACCOUNT of the Behaviour, Confession, and Dying Words OF THE MALEFACTORS, Who were Executed at TYBURN, ON WEDNESDAY the 18th of May, 1743.</p>
+            <p>BEING THE THIRD EXECUTION in the MAYORALTY OF THE Right Honble. <persName id="OA17430518n3-1">
+                  <interp inst="OA17430518n3-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n3-1" type="surname" value="WILLIMOT"/>
+                  <interp inst="OA17430518n3-1" type="given" value="ROBERT"/>Robert Willimot</persName>, Esquire.</p>
+            <p>
+               <rs id="OA17430518-occupation-1" type="occupation">LORD-MAYOR</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n3-1 OA17430518-occupation-1"/> of the CITY of <placeName id="OA17430518-geo-1">
+                  <interp inst="OA17430518-geo-1" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n3-1 OA17430518-geo-1"/>LONDON</placeName>:</p>
+            <p>Number III. For the said YEAR.</p>
+            <p>LONDON:</p>
+            <p>Printed and Sold by <persName id="OA17430518n7-1">
+                  <interp inst="OA17430518n7-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n7-1" type="surname" value="APPLEBEE"/>
+                  <interp inst="OA17430518n7-1" type="given" value="JOHN"/>JOHN APPLEBEE</persName>, in <placeName id="OA17430518-geo-2">
+                  <interp inst="OA17430518-geo-2" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n7-1 OA17430518-geo-2"/>Bolt-Court</placeName>, near the Leg-Tavern, <placeName id="OA17430518-geo-3">
+                  <interp inst="OA17430518-geo-3" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n7-1 OA17430518-geo-3"/>Fleet-street</placeName>. M,DCC,XLIII.</p>
+            <p>(Price SIX-PENCE.)</p>
+            <xptr type="pageFacsimile" doc="OA174305180003"/>
+            <p>THE ORDINARY of NEWGATE, His ACCOUNT of the Behaviour, Confession, &amp;c.</p>
+            <p>AT the King's Commission of Oyer and Terminer, and Jail-delivery of Newgate, held (before the Right Hon. <persName id="OA17430518n10-1">
+                  <interp inst="OA17430518n10-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n10-1" type="surname" value="WILLIMOT"/>
+                  <interp inst="OA17430518n10-1" type="given" value="ROBERT"/>ROBERT WILLIMOT</persName>, Esq; <rs id="OA17430518-occupation-2" type="occupation">Lord Mayor of the City of London</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n10-1 OA17430518-occupation-2"/>; the Right Hon Lord Chief Justice LEE; the Hon. Mr. Justice REYNOLDS; the Hon. Mr. Serjeant URLIN, Recorder of the City of London; and Others, his Majesty's Justices of Oyer and Terminer for the said City, and Justices of Jail-delivery of Newgate, holden for the City of London and County of Middlesex) at Justice-Hall in the Old-Bailey, on Wednesday, Thursday and Friday, the 13th, 14th, and 15th of April, 1743.</p>
+            <p>Three Men, viz. <persName id="OA17430518n11-1">
+                  <interp inst="OA17430518n11-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n11-1" type="surname" value="CROP"/>
+                  <interp inst="OA17430518n11-1" type="given" value="JAMES"/>James Crop</persName>, <persName id="OA17430518n11-2">
+                  <interp inst="OA17430518n11-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n11-2" type="surname" value="EYRES"/>
+                  <interp inst="OA17430518n11-2" type="given" value="JOHN"/>John Eyres</persName>, and <persName id="OA17430518n11-3">
+                  <interp inst="OA17430518n11-3" type="gender" value="male"/>
+                  <interp inst="OA17430518n11-3" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n11-3" type="given" value="GEORGE"/>George Watson</persName>, and three Women, viz. <persName id="OA17430518n11-4">
+                  <interp inst="OA17430518n11-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n11-4" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n11-4" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, <persName id="OA17430518n11-5">
+                  <interp inst="OA17430518n11-5" type="gender" value="female"/>
+                  <interp inst="OA17430518n11-5" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n11-5" type="given" value="ANN"/>Ann Ellard</persName>, and <persName id="OA17430518n11-6">
+                  <interp inst="OA17430518n11-6" type="gender" value="female"/>
+                  <interp inst="OA17430518n11-6" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n11-6" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, were, by the Jury convicted of capital Crimes, and received Sentence of Death.</p>
+            <p>At the same Time also, Report was, made of <persName id="OA17430518n12-1">
+                  <interp inst="OA17430518n12-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n12-1" type="surname" value="TIGHE"/>
+                  <interp inst="OA17430518n12-1" type="given" value="JOHN"/>John Tighe</persName>, and <persName id="OA17430518n12-2">
+                  <interp inst="OA17430518n12-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n12-2" type="surname" value="BULLEY"/>
+                  <interp inst="OA17430518n12-2" type="given" value="HENRY"/>Henry Bulley</persName>, who in the former Report to his Majesty, were Postpon'd.</p>
+            <p>While under Sentence, they were exhorted seriously to repent of all the Sins of their Life, particularly those heinous Crimes of Murder, Theft and Robbery, whereof they were convicted, and for which they were to suffer so much Disgrace and Shame; and in order to bring them to a true Sight and Sense of their Sin, and to a sincere Repentance for the same, they were admonish'd to think upon the Depravity of their Nature, how that we are all conceived in Sin, and brought forth in Iniquity; this is what the holy Psalmist David, in his special penitential Psalm, for that Purpose composed, because of his great Sins of Adultery and Murder he had committed, with the height, of Concern confesseth unto God, Behold I</p>
+            <xptr type="pageFacsimile" doc="OA174305180004"/>
+            <p>was shapen in Iniquity, and in Sin did my Mother conceive me. Ps. li. 5. I show'd them, that this is what we commonly call original Sin, from whence all the actual Sins of our Life do flow, this we derive from the Fall of our first Parents Adam and Eve, which Fall of theirs, corrupted them in the whole Faculties of the Soul, and in all the Members of the Body, and by consequence, all their Posterity, of whom, all of us are a Part, are by Nature wholly defiled and corrupted by Sin, so that in us dwelleth no good at all, but we are covered over with Sin as with a loathsome Leprosie, and that this Sin is in us, is evident from its bitter Fruits and Effects, for we are altogether inclined to evil, and averse to what is good; and therefore Moses in describing the Corruption of Mankind, which occasioned the general Flood of Noah, says, Every Imagination of the Thoughts of his Heart, was only Evil continually. Gen. vi. 5. This Sin is the Root of all Evil, and not being actually committed by us, we ought to pray to God, to cleanse us from it, not to impute it to our Charge, but to sanctify us wholly throughout in Soul, Body, and Spirit, that we may present ourselves unto God, as an holy, living and acceptable Sacrifice, which is our reasonable Service. Most of them suffering for the Sin of Covetousness, Theft and Robbery. I expos'd to them the great Evil of this Sin, as being against the express Law of God, Thou shalt not steal, and destructive of all humane Society, for which Reason, in well regulated Governments, the Legislature are obliged to enact capital Laws against Robbers and Thieves, as the Bane of all Society and Government.</p>
+            <p>TO one of them, Sarah Willmshurst, convicted of Murther, and that of her own Innocent Child, I represented what a grievous Crime she had committed; how that Murther in general is the most notorious Crime one can be guilty of, as being a Transgression of God's Law, Thou shalt not kill, an Encroachment upon the Prerogative of Almighty God, who is the Sovereign Lord of the Life and Death of his Creatures, and a most inhumane, cruel Action, yea, a Disgrace to the Nature of Man, who is, or at least ought to be, whatever Failure may happen in particulars, a sociable, a mild, and reasonable Creature. She was shown, what a vile, cruel and abominable Action it was, to lay violent Hands upon her own young tender Infant, calling for Pity and Compassion at her Hand, as if Whoredom and Adultery had not been a Sin great enough, unless she imbru'd her Hands in the Blood of the poor innocent Child, by cruelly and barbarously destroying the Fruit of her own Womb; this I showed her to be in effect the same with Self-murther, a Child being part of and the same with herself: The very heinous and abominable Crime of murdering their own Children, was fully exposed to her from this Text, Can a Woman forget her sucking Child, that she should not have Compassion on the Son of her Womb? Yea, they may forget, yet will I not forget thee. Is. xlxix. 15. Where</p>
+            <xptr type="pageFacsimile" doc="OA174305180005"/>
+            <p>this is spoken of as a Thing in a Manner impossible to fall out, although, alas! we find it too often, that Women are so Savage in their Disposition, as not only to relinquish, but in a vile and cruel Manner to destroy and murther their own Children. Yet from the Consequent of this Text, Yea they may forget, yet will I not forget thee: I desired the Murtherer, and all the rest of these sinful Criminals, to comfort themselves in God, since, however merciless and void of Compassion we may prove to one another, yet, if we, by a firm Faith rely upon God's Grace and Protection, he will never leave us nor forsake us, Yet will I not forget thee, saith the Lord.</p>
+            <p>THEY were instructed with Respect to the Sacrament of the Lord's Supper, that it was their Duty to receive the same, and in order to do this aright, they were to examine themselves as the Apostle Paul directs: But let a Man examine himself, and so let him eat of that Bread and drink of that Cup. 1 Cor. xi. 28. We ought to examine our selves with Respect to our Knowledge of God, and of Jesus Christ the Son, whom to know, is Life everlasting. The special Business of this Sacrament is, to repeat and renew that Covenant we make with God, in our Baptism, which we have in many Ways grievously broken; it pleases God in his great Mercy to suffer us to come to the renewing of it in this Sacrament, which if done in Sincerity of Heart, he hath promised to accept us, &amp;c.</p>
+            <p>WHILE these, and many other Instructions were given, they all behaved indifferently well, much better than many Others of these unhappy Creatures do, under such dismal Circumstances; they constantly attended in Chapple, and were attentive to Prayers and Exhortations, and such as could read, made regular Responses. Mrs. Wilmshurst was always present, and sat quiet and peaceable, but did not seem so much concerned, as one under her desperate Circumstances ought to have been; she sometimes spoke softly to one or two of them who were about her, but when I reproved them, they were silent. <persName id="OA17430518n18-1">
+                  <interp inst="OA17430518n18-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n18-1" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n18-1" type="given" value="JAMES"/>James Cropp</persName> and <persName id="OA17430518n18-2">
+                  <interp inst="OA17430518n18-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n18-2" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n18-2" type="given" value="GEORGE"/>George Watson</persName>, though both of them very young, were very attentive and decent in their Carriage; the two Women, <persName id="OA17430518n18-3">
+                  <interp inst="OA17430518n18-3" type="gender" value="female"/>
+                  <interp inst="OA17430518n18-3" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n18-3" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, and <persName id="OA17430518n18-4">
+                  <interp inst="OA17430518n18-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n18-4" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n18-4" type="given" value="ANN"/>Ann Ellard</persName>, behaved very well, and appeared serious in their Repentance; Eyres was always very decent, and apparently Devout in his Behaviour; Mr. Tighe and Bulley, constantly attended and behaved in a decent Manner, only Tighe was confined to the Cells for some Days, by reason of a burnt Leg, which he got by Accident, and was always very Submissive and Resign'd.</p>
+            <p>UPON Thursday the 12th of this Instant May, Report was made to their Excellencies the Lords Justices of the Realm, in his Majesties Absence, in Council, when <persName id="OA17430518n19-1">
+                  <interp inst="OA17430518n19-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n19-1" type="surname" value="TIGHE"/>
+                  <interp inst="OA17430518n19-1" type="given" value="JOHN"/>John Tighe</persName>, for publishing a forged Release, received his Majesty's most gracious Pardon; <persName id="OA17430518n19-2">
+                  <interp inst="OA17430518n19-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n19-2" type="surname" value="BULLEY"/>
+                  <interp inst="OA17430518n19-2" type="given" value="HENRY"/>Henry Bulley</persName>, and <persName id="OA17430518n19-3">
+                  <interp inst="OA17430518n19-3" type="gender" value="male"/>
+                  <interp inst="OA17430518n19-3" type="surname" value="EYRES"/>
+                  <interp inst="OA17430518n19-3" type="given" value="JOHN"/>John Eyres</persName> were ordered to be transported for 14 Years; the remaining five, viz. <persName id="OA17430518n19-4">
+                  <interp inst="OA17430518n19-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n19-4" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n19-4" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, <persName id="OA17430518n19-5">
+                  <interp inst="OA17430518n19-5" type="gender" value="male"/>
+                  <interp inst="OA17430518n19-5" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n19-5" type="given" value="JAMES"/>James Cropp</persName>, <persName id="OA17430518n19-6">
+                  <interp inst="OA17430518n19-6" type="gender" value="female"/>
+                  <interp inst="OA17430518n19-6" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n19-6" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, <persName id="OA17430518n19-7">
+                  <interp inst="OA17430518n19-7" type="gender" value="female"/>
+                  <interp inst="OA17430518n19-7" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n19-7" type="given" value="ANN"/>Ann Ellard</persName>, and <persName id="OA17430518n19-8">
+                  <interp inst="OA17430518n19-8" type="gender" value="male"/>
+                  <interp inst="OA17430518n19-8" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n19-8" type="given" value="GEORGE"/>George Watson</persName>, were ordered for Execution.</p>
+            <p>
+               <persName id="OA17430518n20-1">
+                  <interp inst="OA17430518n20-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n20-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n20-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, Wife of <persName id="OA17430518n20-2">
+                  <interp inst="OA17430518n20-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n20-2" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n20-2" type="given" value="STEPHEN"/>Stephen Wilmshurst</persName>, was indicted, for that she, not having the Fear of God before her Eyes, but being moved and seduced by the Instigation of the Devil, on the 4th Day of March, in the 16th Year of his Majesty's Reign, in the Parish of <placeName id="OA17430518-geo-4">
+                  <interp inst="OA17430518-geo-4" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n20-1 OA17430518-geo-4"/>St. Gabriel, <placeName id="OA17430518-geo-5">
+                     <join result="persNamePlace" targOrder="Y" targets="OA17430518n20-1 OA17430518-geo-5"/>Fenchurch</placeName>
+               </placeName>, upon a certain Female Infant, about the Age of three Months, feloniously, wilfully, and of her Malice aforethought, did make an Assault, and the said Female Infant in both her Hands did take, and the said Female Infant, with both her Hands, in an House of Office, belonging to the Dwelling House of <persName id="OA17430518n20-3">
+                  <interp inst="OA17430518n20-3" type="gender" value="male"/>
+                  <interp inst="OA17430518n20-3" type="surname" value="PHILPOT"/>
+                  <interp inst="OA17430518n20-3" type="given" value="LUKE"/>Luke Philpot</persName>, where there was a great Quantity of Filth and Excrement, did cast and throw, by which casting and throwing into the said House of Office, and by reason of the said Filth and Excrement, the said</p>
+            <xptr type="pageFacsimile" doc="OA174305180006"/>
+            <p>Female Infant was choaked and Suffocated; of which Suffocation the said Female Infant instantly died, and that she, the said <persName id="OA17430518n21-1">
+                  <interp inst="OA17430518n21-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n21-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n21-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, the said Female Infant did kill and murther.</p>
+            <p>1. <persName id="OA17430518n22-1">
+                  <interp inst="OA17430518n22-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n22-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n22-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, 36 Years of Age, was the Daughter of creditable Parents in Town, who gave her good Education at School, to read, write, &amp;c. and had her taught what Things are proper to a Gentlewoman, and instructed her in Christian Principles: Above 17 Years ago she married one Wilmshurst, a Painter, in the City, to whom she bare eight or ten Children, beside the unfortunate Bastard murther'd, begotten by another Person; by the Husband, she has only two Sons living, who came to visit her under Sentence, on Sunday the 1st of May in the Press-Yard, and she and they wept and cried most bitterly, a very miserable Spectacle to behold! Mrs. Wilmshurst and her Husband fell into Misfortunes, which obliged him to retire and keep out of the Way some Years ago, and all this Time Sarah liv'd with her Father, as most part of her married Life she chiefly depended upon him, the Husband not much minding to take Care of his Family. During this Time of Separation, Sarah became too intimate with a Man, who haunted pretty much about her Father's House, and got her with Child of the poor Bastard-Infant, barbarously murthered by some Means or other, of which Murther <persName id="OA17430518n22-2">
+                  <interp inst="OA17430518n22-2" type="gender" value="female"/>
+                  <interp inst="OA17430518n22-2" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n22-2" type="given" value="SARAH"/>Sarah Wilmshurst</persName> the unfortunate Mother was convicted, and for it she suffered. Some gave out, that all her Children were of different Fathers, this she denied, saying, that it is an aggravation of the Misery of those under her Misfortunes to alledge any thing of them they please. Her Husband and she had not seen each other for a Year and a half or two Years past; and her being with Child was kept very secret, none knowing of it but her Mother, who died of Grief about Christmas last, and the Father of the Child, so she being brought to Bed very privately, kept the Child the first Month, and then gave it to a Nurse, who was like to starve it to Death. She gave the Child to another <rs id="OA17430518-occupation-3" type="occupation">Nurse</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n22-5 OA17430518-occupation-3"/> 
+               <persName id="OA17430518n22-5">
+                  <interp inst="OA17430518n22-5" type="gender" value="female"/>
+                  <interp inst="OA17430518n22-5" type="surname" value="BALFOUR"/>
+                  <interp inst="OA17430518n22-5" type="given" value="MARY"/>Mary Balfour</persName>, with whom it staid above a Month, and then she took it away. Being not pleased with the Treatment of the Child, or rather intending to dispose of it somewhere else, upon the 4th of March last, towards the Evening, <persName id="OA17430518n22-4">
+                  <interp inst="OA17430518n22-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n22-4" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n22-4" type="given" value="SARAH"/>Sarah Wilmshurst</persName> went to <persName id="OA17430518n22-6">
+                  <interp inst="OA17430518n22-6" type="gender" value="female"/>
+                  <interp inst="OA17430518n22-6" type="surname" value="BALFOUR"/>
+                  <interp inst="OA17430518n22-6" type="given" value="MARY"/>Mary Balfour</persName>, the Nurse, who lived about the Skirts of the Town, and told her, she was to take away the Child, it being the Father's Will to send it to another Place, to Wales, where an Aunt of his was to keep and take Care of it. She past the Time from eight or nine to near twelve at Night, and then took the Child in her Apron, and having a good part of the City to pass through, before she came to her Fathers, and it being a very dark Night, and bad Way, she met with several Affronts in her way homeward, being knock'd down by a Watchman, and struck in the Face, so that her left Eye was near being beat out; she went into an Alehouse for shelter, and there met with still more Abuse; at last she got Home, and her Father's Journeyman came down and let her in; he swore she had not a Child, nor any thing of a Bundle about her; she said she gave the Child to the Father, and that she saw it no more; however, it was prov'd by the Evidence, that the Child in the Night-time was heard crying out most bitterly in the Cellar, where the House of Office was, and likewise, that an intollerable Stench ascended through the House, raised by the Child's being thrown into the Filth; Giles the Evidence, towards the Morning, being in the House, got in a Night-man, and some others, who drew the Child by its Petty-coats out of the House of Office, and found it a Female Child, with eleven punctur'd Wounds in the left Side of his Head, done by a Penknife, Scissars, or some sharp-pointed Instrument; but that was not supposed to be the Cause of its Death, being suffocated by the Ordure; this was certainly an execrable Murder, and most likely that some other Person was con</p>
+            <xptr type="pageFacsimile" doc="OA174305180007"/>
+            <p>cerned with her in making away with it. She always attended and behaved devoutly and penitently, though not with such apparent Seriousness, as was necessary for one in her desolate Condition; she cried and lamented very much, and was much ashamed of her Fate, and gave out that she was with quick Child. She believ'd in Christ our only Saviour, repented of all her Sins, and died in Peace with all the World.</p>
+            <p>
+               <persName id="OA17430518n24-1">
+                  <interp inst="OA17430518n24-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n24-1" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n24-1" type="given" value="GEORGE"/>George Watson</persName>, of <placeName id="OA17430518-geo-6">
+                  <interp inst="OA17430518-geo-6" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n24-1 OA17430518-geo-6"/>St. Giles in the Fields</placeName>, was indicted for breaking and entering the dwelling House of <persName id="OA17430518n24-2">
+                  <interp inst="OA17430518n24-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n24-2" type="surname" value="MECKWOLD"/>
+                  <interp inst="OA17430518n24-2" type="given" value="THOMAS"/>Thomas Meckwold</persName>, about the Hour of Seven in the Night, with an Intent the Goods and Chattels of the said <persName id="OA17430518n24-3">
+                  <interp inst="OA17430518n24-3" type="gender" value="male"/>
+                  <interp inst="OA17430518n24-3" type="surname" value="MECKWOLD"/>
+                  <interp inst="OA17430518n24-3" type="given" value="THOMAS"/>Thomas Meckwold</persName> to steal, take and carry away, February 24.</p>
+            <p>2. <persName id="OA17430518n25-1">
+                  <interp inst="OA17430518n25-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n25-1" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n25-1" type="given" value="GEORGE"/>George Watson</persName>, of honest and reputable Parents in the City of <placeName id="OA17430518-geo-7">
+                  <interp inst="OA17430518-geo-7" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n25-1 OA17430518-geo-7"/>Edinburgh</placeName>, 17 Years of Age, and had good Education at School, but had forgot all, excepting to read a little in the Bible and Prayer-Book. He was a perverse, unruly Child when very young. His Father is a Man who deals in England in Hard-ware Goods, and when his Son George was five or six Years old, he brought him up to <placeName id="OA17430518-geo-8">
+                  <interp inst="OA17430518-geo-8" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n25-1 OA17430518-geo-8"/>Derbyshire</placeName> to his Grandfather by the Mother-side, who was to take Care and Educate him; he was put to School and instructed to read and write, and other Things proper for him; but was of so vile a Nature, that none of these Things he minded, inclining to nothing that's good, but passing his Time in Gaming and Idleness, and very much disposed to thieving, picking Pockets, and breaking of Houses, though his Parents were very desirous of giving him a good Education, and he was as unwilling to receive the same, and to neglect the Cultivation of any Thing that's virtuous or honest. When of Age, George was put out <rs id="OA17430518-occupation-4" type="occupation">Apprentice to a File-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n25-1 OA17430518-occupation-4"/> in the Country where he liv'd, and was pretty much Master of his Business, by which, when he applied to it, he could earn 18 or 20 Shillings per Week; but was of so wicked a Disposition, that he left <placeName id="OA17430518-geo-9">
+                  <interp inst="OA17430518-geo-9" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17430518n25-1 OA17430518-geo-9"/>Derbyshire</placeName> to avoid working, without acquainting his Parents, or any Person whatsoever, and found the Way to London, none of his Relations not knowing where to find him even to this Day, he having willingly and industriously lost himself to all the World. Being in <placeName id="OA17430518-geo-10">
+                  <interp inst="OA17430518-geo-10" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n25-1 OA17430518-geo-10"/>London</placeName>, he associated himself with the vilest Company of Men and Women he could meet with, and they finding him a very wicked Boy fit for their Purpose, trained him up their Works of Darkness, and enouraged him in their pestiferous Ways, though to his own certain and inevitable Destruction. He was reckon'd one of the most dextrous Pick-pockets about the Town, which made him be esteemed a notable Boy in their villainous Courses. He had a Custom in walking the Streets, to throw up Sashes, and at last this Practice brought him to his fatal End. Most of his Father's Business lying in England, he commonly comes to <placeName id="OA17430518-geo-11">
+                  <interp inst="OA17430518-geo-11" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n25-1 OA17430518-geo-11"/>Derbyshire</placeName> and <placeName id="OA17430518-geo-12">
+                  <interp inst="OA17430518-geo-12" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n25-1 OA17430518-geo-12"/>London</placeName> once a Year, as many Scotch Merchants do, and George, since he has been in <placeName id="OA17430518-geo-13">
+                  <interp inst="OA17430518-geo-13" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n25-1 OA17430518-geo-13"/>London</placeName>, used often to see his Father, who was very desirous to see this Prodigal Son, whom he always used to shun, not desiring to be seen by any of his Friends or Countrymen, who were willing and capable to advance his Interest. George used to dress very fine, with Gold or Silver Lace, and a Gold lac'd Hat, and sometimes with a silver hilted Sword; but all Things, since he was in Prison, he lost, pawn'd or sold, and was very naked and miserable while under Sentence; and had no Women nor any Person coming after him; yet when under Sentence, two or three of his Countrymen ordered an honest Woman in the Neighbourhood to give him three-penny-worth of Meat every Day, which she constantly brought him with great Care. Watson never failed to come to Chapple, and behaved indifferently well, but not with that Concern which was requisite: He believed in Christ, repented of his Sins, and was in Peace with all Men.</p>
+            <xptr type="pageFacsimile" doc="OA174305180008"/>
+            <p>
+               <persName id="OA17430518n26-1">
+                  <interp inst="OA17430518n26-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n26-1" type="surname" value="EYRES"/>
+                  <interp inst="OA17430518n26-1" type="given" value="JOHN"/>John Eyres</persName>, and <persName id="OA17430518n26-2">
+                  <interp inst="OA17430518n26-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n26-2" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n26-2" type="given" value="JAMES"/>James Cropp</persName>, of <placeName id="OA17430518-geo-14">
+                  <interp inst="OA17430518-geo-14" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n26-1 n26-2 OA17430518-geo-14"/>St. Leonard <placeName id="OA17430518-geo-15">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17430518n26-1 n26-2 OA17430518-geo-15"/>Shoreditch</placeName>
+               </placeName>, were indicted for assaulting <persName id="OA17430518n26-3">
+                  <interp inst="OA17430518n26-3" type="gender" value="male"/>
+                  <interp inst="OA17430518n26-3" type="surname" value="MEREST BYFIELD"/>
+                  <interp inst="OA17430518n26-3" type="given" value="BERNARD"/>Bernard Merest Byfield</persName>, on the King's Highway, putting him in Fear, and taking from him a Hat, Value 2 s. a Pair of Gloves, Value 6 d. and a Linnen Handkerchief, Value 6 d. and five Shillings in Money, March 31, Eyres transported for 14 Years, Cropp appointed to dye.</p>
+            <p>
+               <persName id="OA17430518n27-1">
+                  <interp inst="OA17430518n27-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n27-1" type="surname" value="CROP"/>
+                  <interp inst="OA17430518n27-1" type="given" value="JAMES"/>James Crop</persName> was a 2d Time indicted for assaulting <persName id="OA17430518n27-2">
+                  <interp inst="OA17430518n27-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n27-2" type="surname" value="BEAUMONT"/>
+                  <interp inst="OA17430518n27-2" type="given" value="JONATHAN"/>Jonathan Beaumont</persName> on the King's Highway, putting him in Fear, and taking from him a Hat, Value 2 s. and a Perriwig, Value 5 s. January the 28th. On this guilty also.</p>
+            <p>3. <persName id="OA17430518n28-1">
+                  <interp inst="OA17430518n28-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n28-1" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n28-1" type="given" value="JAMES"/>James Cropp</persName>, 21 Years of Age, was born of honest Parents in <placeName id="OA17430518-geo-16">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n28-1 OA17430518-geo-16"/>Norton-Falgate</placeName>, who gave him Education at School to read, write, and Accompts, to fit him for Business, and had him instructed in the Christian Faith. When of Age, his Father being a <rs id="OA17430518-occupation-5" type="occupation">Silk-Dyer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n28-1 OA17430518-occupation-5"/>, intended him for his own Business, and he dying his Mother kept on the Business, as she still does, and James wr'ought with her, having served best Part of his Time; but being confined close to his Work, he soon grew tired of an honest Employment. He then took up with idle and wicked Company, whereby in a short Time he was effectually ruin'd. His Trade he no more minded, but followed a Company of young Girls about the Neighbourhood, who led him into all Manner of Extravagancies, so that his Relations knew not what to do with him, but at last judged it necessary to part him from that vile Company, and oblige him to follow some other Business at a Distance where he should not see nor meet with those dangerous Companions.</p>
+            <p>THEY proposed sending him to Sea, which he, with some Reluctancy, consented to; they accordingly provided him in Cloaths and other Necessaries, and then went with him down the River to the Ship, where they had agreed with the Master. He entered into the Ship, and served some Days in it; but finding this a troublesome Employment he was soon wearied, and came up again to London without consulting any Body: Then he found out his old Companions, who very soon drove him to the Highway, and there committed the Robbery for which he died, in Company with <persName id="OA17430518n29-1">
+                  <interp inst="OA17430518n29-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n29-1" type="surname" value="EYRES"/>
+                  <interp inst="OA17430518n29-1" type="given" value="JOHN"/>John Eyres</persName>, who was under Sentence with him, but received his Majesty's most gracious Reprieve for Transportation during Fourteen Years.</p>
+            <p>IN this Robbery Eyres first attacked Mr. Byfield, and took the Money from him after he was knock'd down, when Cropp was absolutely for murdering him, which Proposal Eyres withstood, the Man begging hard for God's Sake that they would spare his Life, which Favour was granted him by the Intercession of Eyres, and it may be presum'd this mov'd the High Powers to save his Life. There was also one Warman concerned in this Robbery, who commenced King's Evidence, and to him they gave Mr. Byfield's Hat to sell in Rag-Fair, which he accordingly did.</p>
+            <p>Cropp was also indicted for assaulting and robbing <persName id="OA17430518n31-1">
+                  <interp inst="OA17430518n31-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n31-1" type="surname" value="BEAUMONT"/>
+                  <interp inst="OA17430518n31-1" type="given" value="JONATHAN"/>Jonathan Beaumont</persName>, and taking his Hat and Perriwig, and 5 s. in Money, as set forth in the 2d Indictment. This Robbery Beaumont himself and Warman the Evidence swore, and clearly prov'd upon him. Cropp confessed no more Robberies, and indeed he was unwilling to confess any Thing at all, being a very obstinate, perverse young Man, but in general owned that he was abundantly wicked in his Life, though he denied Thefts or breaking of Houses. He came always to Chapel, read well, and made regular Responces, sung the Psalms, comply'd with the Worship, and was very attentive to Instructions. He believed in Christ as the Son of God, and only Saviour of Sinners, repented of all hi Sins, and forgave all Men as he expected Forgiveness from God.</p>
+            <xptr type="pageFacsimile" doc="OA174305180009"/>
+            <p>
+               <persName id="OA17430518n32-1">
+                  <interp inst="OA17430518n32-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n32-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n32-1" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName> and <persName id="OA17430518n32-2">
+                  <interp inst="OA17430518n32-2" type="gender" value="female"/>
+                  <interp inst="OA17430518n32-2" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n32-2" type="given" value="ANN"/>Ann Ellard</persName>, of <placeName id="OA17430518-geo-17">
+                  <interp inst="OA17430518-geo-17" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n32-1 n32-2 OA17430518-geo-17"/>St. Botolph, Aldgate</placeName>, <placeName id="OA17430518-geo-18">
+                  <interp inst="OA17430518-geo-18" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n32-1 n32-2 OA17430518-geo-18"/>London</placeName>, were indicted for stealing one Linnen Sheet, Value 2 s. one Apron, Value 3 s. Two Pair of Hose, Value 5 s. one Suit of Pinners, Value 2 s. one Cap, Value 1 s. one Handkerchief, Value 6 d. one Five Moidore Piece of Gold Coin, Value 6 l. 15 s. two Pieces of Portugal Gold Coin of 36 s. each, Value 3 l. 12 s. five Pieces of Gold Coin called Guineas, Value 5 l. 5 s. one Piece of Gold Coin called Half a Guinea, Value 10 s. 6 d. the Goods, Chattels, and Money of <persName id="OA17430518n32-3">
+                  <interp inst="OA17430518n32-3" type="gender" value="female"/>
+                  <interp inst="OA17430518n32-3" type="surname" value="BATES"/>
+                  <interp inst="OA17430518n32-3" type="given" value="MARY"/>Mary Bates</persName>, Widow; one Velvet Hood, Value 6 d. one Handkerchief, Value 6 d. and three Caps, Value 6 d. the Goods of <persName id="OA17430518n32-4">
+                  <interp inst="OA17430518n32-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n32-4" type="surname" value="COLE"/>
+                  <interp inst="OA17430518n32-4" type="given" value="ELIZABETH"/>Elizabeth Cole</persName>, Spinster, in the Dwelling-house of <persName id="OA17430518n32-5">
+                  <interp inst="OA17430518n32-5" type="gender" value="female"/>
+                  <interp inst="OA17430518n32-5" type="surname" value="BATES"/>
+                  <interp inst="OA17430518n32-5" type="given" value="MARY"/>Mary Bates</persName>, Widow, April the 10th.</p>
+            <p>4. <persName id="OA17430518n33-1">
+                  <interp inst="OA17430518n33-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n33-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n33-1" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName> was 15 Years of Age, born of honest, but mean Parents in Town, who gave her a good Education at School to read the Word of God, to sew, and other Things, and had her instructed in our most holy Christian Faith. Her Father was a Painter, but did not agree with his Wife, so they parted, and the poor infirm Woman was put into a Work-house, and he lived by himself, taking no Care either of his Wife or Daughter, which might probably might be the first Occasion of her going astray, having a bad Example of Discord and Animosity set before her, and none to regard her. However her Father put her Apprentice to Mrs. Bates, a <rs id="OA17430518-occupation-6" type="occupation">Stocking-Trimmer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n33-1 OA17430518-occupation-6"/>, (for the robbing of whom she died) after which he had no Manner of Regard to her Conduct and Behaviour, but suffered her to live as she pleased, whilst her indigent Mother was reduced to such Distress, as rendered her altogether incapable of doing, or causing any Thing to be done for her.</p>
+            <p>SHE served the Beginning of her Apprenticeship honestly, but being of a vicious Disposition, had for a considerable Time previous to the actual Commission of the Fact, form'd a Design of robbing her Mistress, being well acquainted with the Place where she usually kept her Money, and with some other Circumstances, as in her Opinion rendered the Design practicable, and now only waited for an Opportunity wherein she might conveniently perpetrate it. Accordingly one <persName id="OA17430518n34-1">
+                  <interp inst="OA17430518n34-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n34-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n34-1" type="given" value="ANN"/>Ann Ellard</persName> (who was tried, convicted, and suffer'd along with her) coming to Town, happened to take Lodgings at Mrs. Bates's, and lay in the Garret along with Betty the Apprentice. After she had contracted some Acquaintance with her, she discovered to her the Intention she had form'd of robbing her Mistress, to which she readily consented. In Order thereto they both went out together and made themselves very fuddled, and then they resolved upon the Execution of their Design which they had before concerted. Cannon being best acquainted with the House, went to the Chest of Drawers, and took out the Money and other Things, as set forth in the Indictment, and delivered them to Ellard. After which they immediately went off, and another Apprentice in the House informed her Mistress that she had been robbed; whereupon a Head-borough and another Man were dispatched in Pursuit of them, and found them in Bed at a Publick House at <placeName id="OA17430518-geo-19">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n34-1 n33-1 OA17430518-geo-19"/>Tottenham-High-Cross</placeName>, and from thence brought directly to Town. For the further Particulars relating to the Manner of their being apprehended, the Reader is desired to refer to the Appendix of their Account.</p>
+            <p>BEFORE this unhappy Affair happened, <persName id="OA17430518n35-1">
+                  <interp inst="OA17430518n35-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n35-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n35-1" type="given" value="ANN"/>Ann Cannon</persName> was reputed to be an honest, industrious young Woman, but now she hereby lost both her Character and Life at once. She behaved well, came always to Chapel, was devout in Prayers, and thankful for Exhortations. Her Mother came to visit her some Days after Sentence, but had nothing to give her; she only cry'd and embrac'd her,</p>
+            <xptr type="pageFacsimile" doc="OA174305180010"/>
+            <p>desiring her for God's Sake to double her Diligence in making her Peace with Almighty God.</p>
+            <p>THE Mother and Grandfather came some other Times to visit her, but being very poor themselves, had nothing to give her to comfort her. The Father came once to see her, but gave her nothing neither, though as she was in great Want of Linnen, he promised to send her some, which however he failed to do, and thereby testified his own Unnaturalness for his Daughter, although she was the only Child he had. She confessed herself to have been a very wicked Girl, and acknowledged the Miseries of her present distressed Circumstance to have been but the unavoidable and just Consequence thereof. She professed her Belief in the Lord Jesus Christ, and that she died in Peace with every one.</p>
+            <p>5. <persName id="OA17430518n38-1">
+                  <interp inst="OA17430518n38-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n38-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n38-1" type="given" value="ANN"/>Ann Ellard</persName>, who suffered as a Partner in the same Crime with <persName id="OA17430518n38-2">
+                  <interp inst="OA17430518n38-2" type="gender" value="female"/>
+                  <interp inst="OA17430518n38-2" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n38-2" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, was about 36 Years of Age, born in Town of very honest Parents, who as their Circumstances admitted, bestowed upon her a decent and commendable Education, of which it appears she made but very little Use or Improvement. Her Knowledge in Matters of a Religious Nature was found to be exceeding weak, having lost all Sense of God, and as an inseperable Consequence thereof, of her own Chiefest Good.</p>
+            <p>HER Father was a Stocking Weaver by Trade and come from the Town of Nottingham: He bred his Daughter to his own Business, that Part of it she said of sowing up and Trimming of Stockings, in which Employment she maintained herself for a considerable Time, with much Comfort and Satisfaction. But at length growing weary of Confinement, she resolved upon going down into the Country, and accordingly set out for <placeName id="OA17430518-geo-20">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n38-1 OA17430518-geo-20"/>Nottingham</placeName>, where she work'd at her own Business; and after continuing there some Time, she left that Place and went to <placeName id="OA17430518-geo-21">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n38-1 OA17430518-geo-21"/>Leicester</placeName>, where she likewise found Business, and followed the same Employment. At last she returned to <placeName id="OA17430518-geo-22">
+                  <interp inst="OA17430518-geo-22" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n38-1 OA17430518-geo-22"/>London</placeName>, and happened to take Lodgings at Mrs. Bates's, who was of the same Business, and there it was that she first became acquainted with her Fellow-Sufferer <persName id="OA17430518n39-1">
+                  <interp inst="OA17430518n39-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n39-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n39-1" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, who was an <rs id="OA17430518-occupation-7" type="occupation">Apprentice</rs> in the House, and with whom she used to lie. Thus in a short Time they both came to the fatal Agreement of robbing Mrs. Bates of her Money, (as express'd in the Indictment) and themselves thereby of their own Lives, as the Event has shewn.</p>
+            <p>SHE behaved very well while under her unhappy Circumstances, and expressed a sensible Concern for her own Eternal Salvation, the which she gave all Diligence to secure. She owned herself guilty with Regard to the Fact for which she was condemned, and said that Drunkenness pav'd her Way to it. Let this then be a Warning to all such in whose wicked Account of Things, Drunkenness is no Sin, least they also, as in the Instance before us, be convinced too late of their Error, at the Expence of their Bodies, and perhaps of their Souls.</p>
+            <p>SHE was very serious in her Behaviour, and no less observant in her Duty, and therein also distinguished herself from the general Conduct of such whose Carriage and Behaviour under the like Circumstances, have been as remarkably insolent and infamous. She professed a Faith in Christ as the anointed Saviour and Friend of lost Sinners, upon the infinite Merit of whose Sacrifice she grounded her Hopes of Everlasting Salvation, and left the World in perfect Peace.</p>
+            <xptr type="pageFacsimile" doc="OA174305180011"/>
+            <p>At the Place of EXECUTION.</p>
+            <p>THE Evening before they suffered, they all received the Sacrament in a devout Manner, and the Morning of their Execution, they all came to Chapel, but before they went up, Mrs. Wilmshurst ask'd me, how her Body was to be dispos'd off? I said, that ought to be the least of her Concern now, and the chiefest was to mind the great work of her Soul's Salvation, and that her Father and Brother would look after her Body, and have it decently interr'd in a Christian Manner: After this, they went up to Chapel, and heard Prayers, a Sermon, and Singing of Psams with great Devotion; after which, they came down, and between eight and nine, were put into two Carts, and in the following Order, were convey'd to the fatal Tree, through a vast Multitude of People, viz.</p>
+            <p>IN the first Cart, were <persName id="OA17430518n44-1">
+                  <interp inst="OA17430518n44-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n44-1" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n44-1" type="given" value="JAMES"/>James Cropp</persName> and <persName id="OA17430518n44-2">
+                  <interp inst="OA17430518n44-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n44-2" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n44-2" type="given" value="GEORGE"/>George Watson</persName>, and in the second, Mrs. <persName id="OA17430518n44-3">
+                  <interp inst="OA17430518n44-3" type="gender" value="female"/>
+                  <interp inst="OA17430518n44-3" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n44-3" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, <persName id="OA17430518n44-4">
+                  <interp inst="OA17430518n44-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n44-4" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n44-4" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, and <persName id="OA17430518n44-5">
+                  <interp inst="OA17430518n44-5" type="gender" value="female"/>
+                  <interp inst="OA17430518n44-5" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n44-5" type="given" value="ANN"/>Ann Ellard</persName>.</p>
+            <p>WHEN they came to the Place of Execution, they comply'd with Prayers and singing of Psalms, to appearance, very devoutly. <persName id="OA17430518n45-1">
+                  <interp inst="OA17430518n45-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n45-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n45-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName> being asked, what she had to say? declared, that she had no Intention to murder the Child, and as for her bringing the Child to her Father's House, it was by Order of the Father, who promis'd to dispose of it, in a proper Way, to be taken Care of, and for Education; and that she deliver'd the Child to a certain Person, who received it, and carried it off, and after that she never saw or knew any thing of it till it was found in the Place the People suppos'd she had flung it into. From this Account she never vary'd, That positively she was not the Person who threw the Child into the Bog-House, but that it was certain done either by that certain Person, or a certain Woman who was in the House at that Time, and that she knew nothing about it; and this she affirmed with some Ardour, putting herself into some Motion. She owned, that she had been a very wicked Person, and been guilty of a great many Vices, but believed, and strongly hoped, that by the Mercy of God, through the Merits of Jesus Christ, she should obtain Pardon.</p>
+            <p>
+               <persName id="OA17430518n46-1">
+                  <interp inst="OA17430518n46-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n46-1" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n46-1" type="given" value="GEORGE"/>George Watson</persName>, confess'd, that he was a most vicious Boy, and suffered most justly for his Rogueries, confessing the Crime for which he died, and beg'd Pardon both of God and Man, hoping for Mercy from God.</p>
+            <p>
+               <persName id="OA17430518n47-1">
+                  <interp inst="OA17430518n47-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n47-1" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n47-1" type="given" value="JAMES"/>James Cropp</persName> acknowledged the Robberies he was convicted of, but otherwise, in Point of Confession, was one of the most uncivil, refractory young Men I have seen, and spoke as if he was not bound to confess his Sins to Men, though he had done very great Injuries to them.</p>
+            <p>
+               <persName id="OA17430518n48-1">
+                  <interp inst="OA17430518n48-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n48-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n48-1" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName> had nothing to confess, only that she was a very wicked Girl, and owned the Robbery she was convicted of, and said, she could not well deny, but that she brought the other young Woman, who was a Country Girl, into that fatal Scrape, by her Perswasions.</p>
+            <p>
+               <persName id="OA17430518n49-1">
+                  <interp inst="OA17430518n49-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n49-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n49-1" type="given" value="ANN"/>Ann Ellard</persName> owned the Fact for which she suffer'd, blamed nobody, and did say, she had been a very vicious, wicked young Woman, and hoped that God would have Mercy upon her Soul for Christ's Sake, she being a sincere penitent. They all appeared very devout in Prayers and singing a Divine Psalm, and Mrs. Wilmshurst wept and shed Tears plentifully, as did also the other two Women, and all of them seem'd highly concerned. Their Devotions being concluded, the Cart was drawn away, and they went off the Stage, crying out, God be merciful to us! Lord Jesus receive our Spirits!</p>
+            <p>This is all the Account given by me,</p>
+            <p>
+               <persName id="OA17430518n51-1">
+                  <interp inst="OA17430518n51-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n51-1" type="surname" value="GUTHRIE"/>
+                  <interp inst="OA17430518n51-1" type="given" value="JAMES"/>JAMES GUTHRIE</persName>,</p>
+            <p>Ordinary of Newgate.</p>
+            <xptr type="pageFacsimile" doc="OA174305180012"/>
+            <p>APPENDIX.</p>
+            <p>An ACCOUNT of <persName id="OA17430518n54-1">
+                  <interp inst="OA17430518n54-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n54-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n54-1" type="given" value="SARAH"/>SARAH WILMSHURST</persName>, taken from her own Mouth, while under Sentence of Death in one of the Cells of Newgate.</p>
+            <p>AS there never was in any Age so absolute a Contempt of the matrimonial Contract as in this, in which both Men and Women look upon themselves as bound rather to conceal their Infidelities with Art, than to avoid them with religious Caution; so there cannot be a more proper Mirrour of the Danger and Infamy of such Courses, than the following Account. In it we see how insensibly vicious Pleasure absolutely corrupts the Mind, effaces all Kind of Principle, and makes the intoxicated Wretch ready to perpetrate the most glaring and horrid Crimes, from so weak and foolish a Motive, as the avoiding the Shame consequent on lesser Follies. This is so strongly and naturally depicted in the Life of this unfortunate Woman, as she herself relates it, that no Skill can give it a better, or a more moving Dress.</p>
+            <p>
+               <persName id="OA17430518n56-1">
+                  <interp inst="OA17430518n56-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n56-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n56-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, 36 Years of Age on the 28th Day of March last, was born in <placeName id="OA17430518-geo-23">
+                  <interp inst="OA17430518-geo-23" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-23"/>Billiter-Lane</placeName> in <placeName id="OA17430518-geo-24">
+                  <interp inst="OA17430518-geo-24" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-24"/>Fenchurch-street</placeName>, of very honest and reputable Parents, her unhappy Father still living, but her Mother died on Christmas Eve last. The Detail she gave of her own Life was in these Words.</p>
+            <p>I went to School when I was at a proper Age to one Mrs. Banks in <placeName id="OA17430518-geo-25">
+                  <interp inst="OA17430518-geo-25" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-25"/>Love-Lane</placeName>, my Brother being at that Time Apprentice to her Husband, who was a <rs id="OA17430518-occupation-8" type="occupation">Watch-Maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n56-1 OA17430518-occupation-8"/>, where I learned to work at my Needle, and likewise to Dance: I continued there about two Years. After I came from that School, I went to <placeName id="OA17430518-geo-26">
+                  <interp inst="OA17430518-geo-26" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-26"/>Poor Jury-Lane</placeName> by <placeName id="OA17430518-geo-27">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-27"/>Aldgate</placeName>, where I learned all Sorts of Plain-Work, and continued there about three Years. The last School I went to was to one Mr. Busking, facing <placeName id="OA17430518-geo-28">
+                  <interp inst="OA17430518-geo-28" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-28"/>
+                  <placeName id="OA17430518-geo-29">
+                     <interp inst="OA17430518-geo-29" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17430518n56-1 OA17430518-geo-29"/>Creed-Church</placeName>, in Leadenhall-street</placeName>, Writing-Master, and I continued with him some considerable Time. After I came from that School I lived with my Parents; and while I was at home, I had several Persons made their Addresses to me; among them was one Mr. <persName id="OA17430518n57-1">
+                  <interp inst="OA17430518n57-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n57-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n57-1" type="given" value="STEPHEN"/>Stephen Wilmshurst</persName>, a <rs id="OA17430518-occupation-9" type="occupation">House-Painter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n57-1 OA17430518-occupation-9"/>, whom I made Choice of for my Husband, when I was about Eighteen Years of Age. We were married at <placeName id="OA17430518-geo-30">
+                  <interp inst="OA17430518-geo-30" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n57-1 n56-1 OA17430518-geo-30"/>
+                  <placeName id="OA17430518-geo-31">
+                     <interp inst="OA17430518-geo-31" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17430518n57-1 n56-1 OA17430518-geo-31"/>St. Margaret Pattens</placeName> in Rood-Lane</placeName>; after we were married, I went to my Husband's Father, a Cooper in <rs id="OA17430518-occupation-10" type="occupation">Rood-Lane</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n56-1 OA17430518-occupation-10"/>, and there we dined, and then went to our House in <placeName id="OA17430518-geo-32">
+                  <interp inst="OA17430518-geo-32" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n57-1 n56-1 OA17430518-geo-32"/>Mansfield-street</placeName>, which we took some Time before we were married. My Husband and I lived very comfortably together for Nine Years, and I have had ten Children by him besides Miscarriages. After that Time he began to neglect his Business, and I frequently used to talk to him, and told him the ill Consequences that would ensue, which too soon, to both our Misfortunes we felt.</p>
+            <p>AFTER I had left <placeName id="OA17430518-geo-33">
+                  <interp inst="OA17430518-geo-33" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n57-1 n56-1 OA17430518-geo-33"/>Mansfield-street</placeName>, my Husband and I went to live at the Corner of <placeName id="OA17430518-geo-34">
+                  <interp inst="OA17430518-geo-34" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n57-1 n56-1 OA17430518-geo-34"/>Mark-Lane</placeName>, at one Mr. Hatfield's, a Carver, whose Wife laid me of five Children. I always did my endeavour to keep up my Husband's Credit; an Instance of it was, that when he owed about 20 l. to his Colourman, and he pressed my Husband very much for the Money, I and another Gentlewoman went to a certain Gentleman in the Temple, and he was so kind as to let me have twenty Guineas, with which I immediately went and paid the Colourman.</p>
+            <xptr type="pageFacsimile" doc="OA174305180013"/>
+            <p>HE would frequently go with me to Plays, on which Occasions I used always to dress gay, and if any Gentleman spoke to me, he would encourage me to go into his Company, which I frequently denied. When I kept House, I had a Gentleman lodged with me, and when he came home, he heard I was up Stairs with the Gentleman, which I frequently used to be, in order to read to him, he being a Foreigner. My Husband used to think that I was very great with the said Gentleman, concerning which, as I am a dying Woman, he charged me wrongfully; I am, as to him, innocent as a Child's unborn; I never knew whether he was Man or Woman. When Misfortunes came on, I was obliged to leave my House, and go to my Father's with three of my Children, where my good Father received me and my three Children very kindly, and have been with him off and on ever since.</p>
+            <p>AFTER I had parted from my Husband, I unfortunately became acquainted with a young Man, who is a Watch-Maker, at my Father's Country Lodgings in <placeName id="OA17430518-geo-35">
+                  <interp inst="OA17430518-geo-35" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n56-1 OA17430518-geo-35"/>Kennington-Lane</placeName>, and disobliged my Friends very much in so doing. I kept him Company about four Years, in which Time we lived together as Man and Wife, at the other End of the Town, at a Perfumer's; my own ******* took the Lodging for him and me, and he went for my Brother, and frequenty use to come and send for me to the Three-Tun-Tavern. This young Man not knowing it was my ******* that sent for me, but thought it was some other Person, therefore one Day he took an Opportunity to watch me to the above Tavern, for I told him it was my *******, and as I said he found it to be true, upon which some Words arose between them, that they were going to fight, but I hindered them from it, and so we parted, and I and the young Man went to our Lodging together, and my ****** went another Way.</p>
+            <p>WE lived in this Lodging about six Weeks, and had not gone away from it, had I not seen a Person I knew, and whom I was afraid would betray me. While I lived with this young Man I had three Children by him, which are all since dead. He and I have been parted about five Years last March, and I never saw him since but twice, and then I shun'd him, for fear I should disoblige my dear Father and Mother, having promised them never to speak to him any more, and to break off all Correspondence, in order to regain the Affections of my Parents; for after this unhappy Affair they took me home again, and I continued three Years with them.</p>
+            <p>THERE is one Thing gives me inexpressible Concern, the Reproach that my ill Conduct, contrary to all Reason, will bring upon my unhappy Father and poor Children. If there be any Remains of Charity, Pity, or Tenderness left in the World, let the last Sighs and Tears, the dying Groans of a departing Woman, prevail on Mankind to wave this hateful Practice, and to avoid confounding the Innocent with the Guilty. Mine has been the Crime, mine must be the Punishment, mine too be the Infamy, let not Reproach, black and groundless Reproach, bring the good old Man's Gray Hairs with Sorrow to the Grave.</p>
+            <p>WHEN the Dead-Warrant came down, and Mrs. Wilmshurst found herself included in it, she gave way to a passionate Fit of Dispair, and declared, that rather than be hanged like a Dog, she would find some other Passage out of the World. An Account of this being given to some who have the Management in the Prison, a Person was sent to search her in her Cell, in order to prevent her having any</p>
+            <xptr type="pageFacsimile" doc="OA174305180014"/>
+            <p>thing about her capable of doing Mischief. This Man found upon her, and took away, a Fork, with which she owned, it was her Intention to have opened a Vein, in order to have bled to Death, and thereby escaped the Scandal of an Execution. She promised, when it was taken away, not to attempt any thing of the like Kind.</p>
+            <p>IT so fell out, that this Circumstance reached the Ears of a Person who was so charitable as sometimes to confer with the Prisoners under Sentence, and who immediately went to her, and discoursed with her upon this Subject. He shewed her, that Infamy did not so much attend the judicial Sentence, as the Guilt of the Crime inducing it, and that therefore it was vain to hope by eluding this, to avoid that. He observed that when Guilt could not be shaken off, it must be attoned: That this was reasonable, and that when attoned, it was in a great Measure wiped away. He further remarked, that the only Way to do this, was to submit patiently to her Sentence, and that without doing this, she could neither expect Favour from the World, nor Mercy from GOD. These Reflections moved her pretty much, and enabled her to resolve against Self Murder; but her Love of Life, and too great Propensity to Worldly Thoughts, perplexed her to the very last.</p>
+            <p>WE may see in this poor Woman the Fault of modern Education, and that general Change which has been made of late in the Maxims of Life: She was always extravagantly fond of Dress, Shew, and Pleasure; these she fancied the great Blessings of this World, and following them with a fashionable Eagerness, brought her to this fatal End: Yet this seemed to affect her more, as it was the Period of all such Views, than any other Way; which shews the Danger of Habit, and what Risque People run, who act upon no Principles.</p>
+            <p>The following is the Copy of a Letter which was sent to Mrs. Wilmshurst during the Time of her Confinement under Sentence.</p>
+            <p>Mrs. WILMSHURST,</p>
+            <p>" OUT of that Charity which every " Christian ought to bear another, whatever Differences there may be in their " Conditions, I think it my Duty to offer " you my Advice under your present melancholly Situation, the rather because the " present Disturbance of your Thoughts may " leave it least in your Power to do what concerns you most.</p>
+            <p>" IN the first Place I shall by Way of " Consolation observe, that our Time upon Earth is but a very small Portion of our " Existence, and therefore the less Merits our " Concern, provided we can but make ourselves secure as to that State into which, " when we leave the Earth, we must enter. " You are extreamly wretched and miserable " at present, and therefore you ought to esteem " it an Alleviation, rather than a heightning " of your Misfortune, that the Time it shall " last will be but short. But the next Business is, how this Time, short as it falls out " to be, must be employ'd, in order to secure " a happy Eternity.</p>
+            <p>" YOU must first cut off your Thoughts " entirely from this World, which the present misery of your Circumstances ought " to make no hard Matter: You can find " nothing in it but Shame, Trouble, and</p>
+            <xptr type="pageFacsimile" doc="OA174305180015"/>
+            <p>" Distress; and this ought to make you willing to leave it. Instead of considering " Death as a Thing to be feared, you ought " to esteem it your only Refuge. In that " State all are equal; the Mourners forget to " Weep, and the Weary are at Rest.</p>
+            <p>" YOU are next to dispose your Mind, " not to a patient only, but to a chearful " enduring of your Sufferings; and with a " View to this, you ought not to look upon " them so much in the Light of a Punishment, " as of an Attonement. You have brought " them upon yourself, therefore they are just, " and it depends upon yourself to make them " efface, even the exceeding Blackness of " your Crime in the Sight of God and Man.</p>
+            <p>" BUT then, you must resolve to do " Justice, if you have any Expectation of " Mercy. You must purge your Mind from " Envy, Hatred and Uncharitableness. You " must speak the Truth in regard to the " Fact, for which you suffer, and not for " the Sake of varnishing your Offence, venture upon the most horrid of all Crimes, " that of entering into the Presence of God " with a Lie in your Right Hand.</p>
+            <p>" WHEN you have brought your Mind " into this Disposition, and consider the Promises made by God to Man through Christ, " you will find it difficult to vanquish all those " Fears that terrify you at present, and to " bring yourself to submit quietly to what the " Law inflicts; which God of his infinite " Mercy grant, and if these few Rules shall " in any Measure contribute thereto, it will " be a great Satisfaction to,</p>
+            <p>" Your Friend, " And Well-wisher,</p>
+            <p>" A. B."</p>
+            <p>May 16, 1743.</p>
+            <p>The following Paper was left by Mrs. <persName id="OA17430518n79-1">
+                  <interp inst="OA17430518n79-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n79-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n79-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName>, and may be seen in her own Hand, at the Printers. It was thought a Point of public Justice to give it a Place as it tends to wipe off Imputations from innocent People, and to set a very dark Fact in a clear Light.</p>
+            <p>I Do declare to Almitty God, as I am a dead Woman, as I may say, that I no more deservef to be in Nugate, than that pore Scoch maid that live with my Father, for I will clear the pore crature before I depart the World, that she was Qite innocent of taking the box, for my ******* tuke it, I do declare to God, thinking theare was a grade dell of monny in it, but thear was none, the ingy bonds he put down my Father's sellar window one night, and the bank note was receded by a Woman; he burnt the Leace of my Father's House, and the Nots that was in the Box, and he tould me that he flung the box over <placeName id="OA17430518-geo-36">
+                  <interp inst="OA17430518-geo-36" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n79-1 OA17430518-geo-36"/>London bridge</placeName>, I did not see him indeed, I know he carred it out of my house. But, for God's Sake, let it be a worning to the World hou pepell sware folx lifes away, for we nare throvef after it. I dont speak this in spite, God noues my Heart, but to he a worning to the World, for my poore Brother went under the scandall of it. I am very sorry to say what I do, but</p>
+            <xptr type="pageFacsimile" doc="OA174305180016"/>
+            <p>thear is no boddy noues what a sad man ******* is, itt was unhappy day for me when I sead his Face, God forgive him, for doue. I nare told this secrett but to 2 foucx, and Mr. Joens the Washmaker was one, and the Woman that I laid in with in <placeName id="OA17430518-geo-37">
+                  <interp inst="OA17430518-geo-37" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n79-1 OA17430518-geo-37"/>fleat-laine</placeName>, Mrs. Harven she well now it.</p>
+            <p>I nd say a grade dell more, but I have sumething else to think of at this time, so God bless my Dear amleay, my dear dear Children, and God Almitty give them grace. I hope Christ Jesus will reseve my pore Soue.</p>
+            <p>
+               <persName id="OA17430518n83-1">
+                  <interp inst="OA17430518n83-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n83-1" type="surname" value="WILMSHURST"/>
+                  <interp inst="OA17430518n83-1" type="given" value="SARAH"/>Sarah Wilmshurst</persName>.</p>
+            <p>The following Account <persName id="OA17430518n84-1">
+                  <interp inst="OA17430518n84-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n84-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n84-1" type="given" value="ANN"/>ANN ELLARD</persName> gave of herself, which was taken from her own Mouth some few Days before she suffered Death.</p>
+            <p>
+               <persName id="OA17430518n85-1">
+                  <interp inst="OA17430518n85-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n85-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n85-1" type="given" value="ANN"/>ANN Ellard</persName> was about thirty-six Years of Age, born in <placeName id="OA17430518-geo-38">
+                  <interp inst="OA17430518-geo-38" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-38"/>
+                  <placeName id="OA17430518-geo-39">
+                     <interp inst="OA17430518-geo-39" type="type" value="street"/>More-Lane</placeName> in Cripplegate Parish</placeName>, of very honest Parents, her Father being a <rs id="OA17430518-occupation-11" type="occupation">Stocking-Weaver</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n85-1 OA17430518-occupation-11"/>. When she was about three Quarters old, her Father and Mother took her down with them to <placeName id="OA17430518-geo-40">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-40"/>Nottingham</placeName>, which was their native Place, and where her Father now lives, her Mother having been dead about two Years. When she was about six Years of Age, they put her to School to one Mr. Johnson, upon the High Pavement in <placeName id="OA17430518-geo-41">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-41"/>Nottingham</placeName>, where she staid about five Years, then her Parents took her from School, and then she went and learned to <rs id="OA17430518-occupation-12" type="occupation">Trim Stockings</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n85-1 OA17430518-occupation-12"/> of one Mrs. Ashley, but she did not continue long with her. After she had left Mrs. Ashley, she went and lived with one Mrs. Garten, in the <placeName id="OA17430518-geo-42">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-42"/>
+                  <placeName id="OA17430518-geo-43">
+                     <interp inst="OA17430518-geo-43" type="type" value="street"/>Back-Lane</placeName> at Nottingham</placeName>. With this Gentlewoman she lived five Years, and behaved herself very well during that Time, which acquired her a Character.</p>
+            <p>BEING tired with living at <placeName id="OA17430518-geo-44">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-44"/>Nottingham</placeName>, she came to <placeName id="OA17430518-geo-45">
+                  <interp inst="OA17430518-geo-45" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-45"/>London</placeName> to see her Mother, for her Father (as she said) proving a very bad Husband, her Mother left him and came to Town. Then she came to her Mother's, and staid sometime at Home with her. At last her Mother got a Place for her, to live with one Mr. Spencer, at the Bowl and Pin, a Publick-House in <placeName id="OA17430518-geo-46">
+                  <interp inst="OA17430518-geo-46" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-46"/>Old-Street-Square</placeName>, where she lived three Years, and had three Pounds a Year Wages. After she came from that Service, she went and lived with her Mother again for about the Space of two Years, and maintained herself in that Time by <rs id="OA17430518-occupation-13" type="occupation">triming of Stockings</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n85-1 OA17430518-occupation-13"/>.</p>
+            <p>SHE not agreeing so well as she ought to have done with her Mother, and having a roving Fancy, went to <placeName id="OA17430518-geo-47">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-47"/>Nottingham</placeName> to see her Father and an Aunt which lived there, where she was very kindly received by both Father and Aunt. After she had staid some Time with her Father, her Aunt being without a Servant, she went and liv'd with her, who kept a Publick-House in the Town, the Sign of the Two Logger-Heads, in the <placeName id="OA17430518-geo-48">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-48"/>Narrow Marsh</placeName>, where she continued for the Space of a Year.</p>
+            <p>SHE went afterwards to <placeName id="OA17430518-geo-49">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-49"/>Leicester</placeName>, and there she unfortunately became acquainted with a young Man, whose Name (she said) was <persName id="OA17430518n88-1">
+                  <interp inst="OA17430518n88-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n88-1" type="surname" value="BRAND"/>
+                  <interp inst="OA17430518n88-1" type="given" value="JOHN"/>John Brand</persName>, a <rs id="OA17430518-occupation-14" type="occupation">Stocking-Weaver</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n88-1 OA17430518-occupation-14"/>; he pretended to make his Addresses to her, and to court her for his Wife, till at last she proved with Child by him. This Brand was her</p>
+            <xptr type="pageFacsimile" doc="OA174305180017"/>
+            <p>Fellow-Servant, and worked in the same House with her. When she found herself with Child, and he would not marry her, she returned again to her Father's at <placeName id="OA17430518-geo-50">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-50"/>Nottingham</placeName>. Her Father quickly perceiving she was with Child, asked her if she was married? She said she was married at <placeName id="OA17430518-geo-51">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-51"/>Leicester</placeName> to the abovesaid <persName id="OA17430518n89-1">
+                  <interp inst="OA17430518n89-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n89-1" type="surname" value="BRAND"/>
+                  <interp inst="OA17430518n89-1" type="given" value="JOHN"/>John Brand</persName>, and told her Father that she expected him in a Month's Time to come to her at <placeName id="OA17430518-geo-52">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-52"/>Nottingham</placeName>, upon which her Father was satisfied. The Month being expired, and no Husband coming, he then was uneasy, and began to mistrust that she imposed on him; so one Day he took her aside, and insisted on her telling him, whether she was married or not. Upon which she fell down on her Knees, and related to him how she was unfortunately drawn aside by <persName id="OA17430518n89-2">
+                  <interp inst="OA17430518n89-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n89-2" type="surname" value="BRAND"/>
+                  <interp inst="OA17430518n89-2" type="given" value="JOHN"/>John Brand</persName>, who pretended to marry her. The Officers of the Parish hearing she was with Child, took her up, and put her into <placeName id="OA17430518-geo-53">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-53"/>
+                  <placeName id="OA17430518-geo-54">
+                     <interp inst="OA17430518-geo-54" type="type" value="site"/>St. Mary's Workhouse</placeName> in Nottingham</placeName>, and there she was brought to Bed of a Boy, which liv'd about Thirteen Weeks.</p>
+            <p>AFTER the Child was dead, she went to <placeName id="OA17430518-geo-55">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-55"/>Leicester</placeName> again, being ashamed to stay in <placeName id="OA17430518-geo-56">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-56"/>Nottingham</placeName>. When she came there she got into Service at one Mr. Freer's, in <placeName id="OA17430518-geo-57">
+                  <interp inst="OA17430518-geo-57" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-57"/>Horse-pool-street</placeName>. She worked with this Gentlewoman about two Years, and her Behaviour in that Time was so honest and just, that her Mistress trusted her with Things of a very considerable Value.</p>
+            <p>HOWEVER she left <placeName id="OA17430518-geo-58">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-58"/>Leicester</placeName>, and came to <placeName id="OA17430518-geo-59">
+                  <interp inst="OA17430518-geo-59" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-59"/>London</placeName> a second Time, and as she came just by <placeName id="OA17430518-geo-60">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-60"/>Islington</placeName>, she met a Stocking-Weaver whom she had formerly work'd with at Leicester, and had left his Wife, and came to London with another Woman. He said if she would go along with him, he would help her to a Place of Work. Accordingly he took her to Mrs. Bates's, in <placeName id="OA17430518-geo-61">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-61"/>
+                  <placeName id="OA17430518-geo-62">
+                     <interp inst="OA17430518-geo-62" type="type" value="street"/>Gravel-Lane</placeName>, Houndsditch</placeName>, the Person she robb'd, and there she took up her Lodging, and Mrs. Bates employed her in trimming of Stockings about a Month.</p>
+            <p>AFTERWARDS she went to work with one Mrs. Taylor, in <placeName id="OA17430518-geo-63">
+                  <interp inst="OA17430518-geo-63" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-63"/>Old-street-square</placeName>, about a Week. She then went from thence, and work'd with Mr. Bradshaw in <placeName id="OA17430518-geo-64">
+                  <interp inst="OA17430518-geo-64" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-64"/>New Bond-street</placeName>, there she continued about a Month, and the last Place she work'd at was with one Mr. Saunders, in <placeName id="OA17430518-geo-65">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n85-1 OA17430518-geo-65"/>
+                  <placeName id="OA17430518-geo-66">
+                     <interp inst="OA17430518-geo-66" type="type" value="street"/>King-street</placeName> near Moorfields</placeName>, where she work'd four Months. She said he was very kind to her, and that he has likewise relieved her several Times while she has been under Condemnation.</p>
+            <p>The following is the Account of the Manner she and her Fellow-Sufferer <persName id="OA17430518n93-1">
+                  <interp inst="OA17430518n93-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n93-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n93-1" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, (who had been an Apprentice to Mrs. Bates about Three Years) committed the Robbery for which they were condemn'd, viz.</p>
+            <p>ONE Saturday Night coming Home to her Lodgings at Mrs. Bates's, very much in Liquor, she sat herself down a little while in the Room, and she had not sat long before she went to Bed. <persName id="OA17430518n94-1">
+                  <interp inst="OA17430518n94-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n94-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n94-1" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName> came up to her soon after, and desired her to give her and the Nurse a Pint of Gin. (Mrs. Bates being Bed-ridden, was obliged to have a Nurse to look after her.) At her Request she gave her Money to fetch it, which accordingly she did, and they made the Nurse drunk, and while she was asleep, Mrs. Bates's Apprentice, <persName id="OA17430518n94-2">
+                  <interp inst="OA17430518n94-2" type="gender" value="female"/>
+                  <interp inst="OA17430518n94-2" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n94-2" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, took the Keys from under her Mistress's Head, and unlock'd a Box, and took out of it 16 l. 2 s. 6 d. and gave it to <persName id="OA17430518n94-3">
+                  <interp inst="OA17430518n94-3" type="gender" value="female"/>
+                  <interp inst="OA17430518n94-3" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n94-3" type="given" value="ANN"/>Ann Ellard</persName>. After she had took the Money, she broke open a Trunk belonging to <persName id="OA17430518n94-4">
+                  <interp inst="OA17430518n94-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n94-4" type="surname" value="COLE"/>
+                  <interp inst="OA17430518n94-4" type="given" value="ELIZABETH"/>Elizabeth Cole</persName>, Cannon's Fellow-Apprentice, and took out of it a Velvet Hood, one Handkerchief, and three Caps. After they had committed the Robbery, Ellard got up</p>
+            <xptr type="pageFacsimile" doc="OA174305180018"/>
+            <p>and dressed herself, and they both went out of the House between 11 and 12 o'Clock at Night, in order to go to <placeName id="OA17430518-geo-67">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n93-1 n85-1 OA17430518-geo-67"/>Enfield</placeName>; but being very drunk; they could reach no further than the Bull at <placeName id="OA17430518-geo-68">Tottenham-High-Cross</placeName>.</p>
+            <p>ABOUT three or four of the Clock the next Morning after the Robbery was committed, Mrs. Bates had Notice given her by the Watch, that the Door of her House was open, and it was found that <persName id="OA17430518n96-1">
+                  <interp inst="OA17430518n96-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n96-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n96-1" type="given" value="ANN"/>Ann Ellard</persName> and <persName id="OA17430518n96-2">
+                  <interp inst="OA17430518n96-2" type="gender" value="female"/>
+                  <interp inst="OA17430518n96-2" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n96-2" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName> were gone, which gave some Suspicion that they had taken something and gone off with it, and Search being made, the above Money and Linnen was missing. Upon which Mrs. Bates, about 9 o'Clock on Sunday Morning, sent a Messenger to Mr. <persName id="OA17430518n96-3">
+                  <interp inst="OA17430518n96-3" type="gender" value="male"/>
+                  <interp inst="OA17430518n96-3" type="surname" value="SAUNDERS"/>
+                  <interp inst="OA17430518n96-3" type="given" value="FRANCIS"/>Francis Saunders</persName>, Ellard's Master, to acquaint him that she had been robb'd by his <rs id="OA17430518-occupation-15" type="occupation">Servant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n94-3 OA17430518-occupation-15"/> Ellard, and that she and her Apprentice, <persName id="OA17430518n96-4">
+                  <interp inst="OA17430518n96-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n96-4" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n96-4" type="given" value="ELIZABETH"/>Elizabeth Cannon</persName>, were both gone off.</p>
+            <p>IT is exceedingly remarkable, that at the very Instant this Messenger came to acquaint Mr. Saunders with the Robbery, there was a Man with him that brought him the following Account, viz. That coming to Town, he called in at the Bull at <placeName id="OA17430518-geo-69">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n97-1 OA17430518-geo-69"/>Tottenham-High-Cross</placeName>, and there he saw <persName id="OA17430518n97-1">
+                  <interp inst="OA17430518n97-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n97-1" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n97-1" type="given" value="ANN"/>Ann Ellard</persName>, who was very well known to him, with a young Woman, very drunk. He asked Ellard how she came there? To which she made no Answer, but asked for a Bed, and to shew she had Money to pay for it, pulled several Pieces of Gold out of her Pocket. The Man immediately suspected that she did not come honestly by them, and doubting whether she had not robb'd her Master, came directly to London to Mr. Saunders, and was telling him the Story, when the Person from Mrs. Bates entered the Room. Mr. Saunders immediately went to the poor Bedrid Woman, desiring her to make herself easy, for he believed he should be able to get her Part of the Money again; upon which, taking one Thompson a Headborough with him, they set out for Tottenham-High-Cross, and reached the Bull about 12 o'Clock on Sunday.</p>
+            <p>AS soon as they came to the House, they went directly up Stairs, according to the Direction the Man had given them, and there they caught the two Women in Bed fast asleep. As soon as they had awaken'd them, Mr. Saunders asked Ellard for the Money, who readily gave him her Pockets, in which there was five Moidores, a 36 s. Piece, two Guineas, and 41 Shillings in Silver. He asked her if that was all? She said it was all she had, but since their being under Sentence of Death, Cannon has owned that she kept a Guinea in the Foot of her Stocking.</p>
+            <p>WHEN they were taken, Ellard expressed great Sorrow and Concern: She said she never did any Thing of that Kind before, and that she had not done it now, if she had not been drunk. All her Misfortunes she ascribes to <persName id="OA17430518n99-1">
+                  <interp inst="OA17430518n99-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n99-1" type="surname" value="BRAND"/>
+                  <interp inst="OA17430518n99-1" type="given" value="JOHN"/>John Brand</persName>, who first seduced her; and the Desire of keeping her Shame out of her Thoughts was, she says, what first taught her to drink. She declared however that notwithstanding this, she heartily and sincerely forgave the said Brand, and every other Person who had injured her in the Course of her Life, as she hoped to be forgiven.</p>
+            <p>N. B. This Account was taken from her own Mouth Verbatim, in the Cells of Newgate, on the 13th Day of May, 1743.</p>
+            <p>The following Account Elizabeth Cannon gave of Herself.</p>
+            <p>
+               <persName id="OA17430518n102-1">
+                  <interp inst="OA17430518n102-1" type="gender" value="female"/>
+                  <interp inst="OA17430518n102-1" type="surname" value="CANNON"/>
+                  <interp inst="OA17430518n102-1" type="given" value="ELIZABETH"/>ELIZABETH Cannon</persName> was 15 Years of Age the 16th of November last, born of honest</p>
+            <xptr type="pageFacsimile" doc="OA174305180019"/>
+            <p>Parents in the Parish of <placeName id="OA17430518-geo-70">
+                  <interp inst="OA17430518-geo-70" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n102-1 OA17430518-geo-70"/>St. Mary, Whitechapel</placeName>, her Father was a Picture Frame-Maker, who for some Time lived in good Repute, and kept a House and Shop in the said Parish, but by Misfortunes was obliged to leave House-keeping, and has since that Time by his Industry saved a little Money, and does now keep a Skop in the Back-Lane, the Corner of Denmark-street.</p>
+            <p>HER Father being under Misfortunes when she was young, sent her to live with her Grandfather, who was a Frame-Work-Knitter in <placeName id="OA17430518-geo-71">
+                  <interp inst="OA17430518-geo-71" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n102-1 OA17430518-geo-71"/>Hooper Square</placeName>, <placeName id="OA17430518-geo-72">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n102-1 OA17430518-geo-72"/>White-Chapel,</placeName> who when she was of a proper Age put her to School, where she learnt to write, read, Cast Accompts, Work at her Needle, &amp;c. and afterwards when of the Age of 12 Years, was by the <placeName id="OA17430518-geo-73">
+                  <interp inst="OA17430518-geo-73" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n102-1 OA17430518-geo-73"/>Parish of St. Mary</placeName> Axe put Apprentice to one Mrs. Bates, <rs id="OA17430518-occupation-16" type="occupation">Frame-Work-Knitter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n102-1 OA17430518-occupation-16"/>, with whom she continued 3 Years very honestly. Her Mistress she said was always very good to her, but the sole Occasion of all her present Troubles was by keeping bad Company, among whom the chiefest was <persName id="OA17430518n104-3">
+                  <interp inst="OA17430518n104-3" type="gender" value="female"/>
+                  <interp inst="OA17430518n104-3" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n104-3" type="given" value="ANN"/>Ann Ellard</persName>, by whose incessant Persuasions she was induced to commit the Fact for which she was convicted. While she was sober she found herself unable to perpetrate her Design, and therefore in order to effect it made herself drunk with Gin, and then immediately proceeded to the Execution of her destructive Intentions, and thereby also made a Way for her own. She said she never committed but one Theft besides this, and that was stealing 3 Pair of Thread and Cotton Stockings, the Property of her said Mistress, which <persName id="OA17430518n104-4">
+                  <interp inst="OA17430518n104-4" type="gender" value="female"/>
+                  <interp inst="OA17430518n104-4" type="surname" value="ELLARD"/>
+                  <interp inst="OA17430518n104-4" type="given" value="ANN"/>Ann Ellard</persName> received and pawn'd for 9 d. a Pair.</p>
+            <p>James Cropp's Account of Himself.</p>
+            <p>
+               <persName id="OA17430518n106-1">
+                  <interp inst="OA17430518n106-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n106-1" type="surname" value="CROPP"/>
+                  <interp inst="OA17430518n106-1" type="given" value="JAMES"/>JAMES Cropp</persName>, 27 Years of Age, born of honest Parents in <placeName id="OA17430518-geo-74">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n106-1 OA17430518-geo-74"/>
+                  <placeName id="OA17430518-geo-75">
+                     <interp inst="OA17430518-geo-75" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17430518n106-1 OA17430518-geo-75"/>White-Lyon-Yard</placeName>, Norton-Falgate</placeName>; when a Youth, he went to School to one Mr. Doobey, in <placeName id="OA17430518-geo-76">
+                  <interp inst="OA17430518-geo-76" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n106-1 OA17430518-geo-76"/>Spittle-Yard</placeName>, where he learnt to Read, Write, &amp;c. as far as his Father's Circumstances could afford; he was brought up in the Christian Religion, and when capable, he followed his Father's Business, which was a <rs id="OA17430518-occupation-17" type="occupation">Dyer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n106-1 OA17430518-occupation-17"/>, who liv'd in a creditable Manner, in the aforesaid Place. James, when young, had a strong Inclination to pilfering, and was never happier, than when in <placeName id="OA17430518-geo-77">
+                  <interp inst="OA17430518-geo-77" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n106-1 OA17430518-geo-77"/>Moorfields</placeName>, and other Places, where such Company as himself frequents; he at length got acquainted with <persName id="OA17430518n106-2">
+                  <interp inst="OA17430518n106-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n106-2" type="surname" value="EYRES"/>
+                  <interp inst="OA17430518n106-2" type="given" value="JOHN"/>John Eyres</persName>, who is since reprieved, and the Evidence, who brought him to this untimely End; by over-persuading him to commit the Fact as mentioned in the Indictment; he said, that he was very much in Liquor when he committed the Theft, otherwise he had not done it, and that it was the first he ever committed. This shews how dangerous the Ring in Moorefields, and such Places are, and how requisite it is, they should be taken away by the Power of the Magistrates, which would prevent many Executions.</p>
+            <p>George Watson's Account of Himself.</p>
+            <p>
+               <persName id="OA17430518n108-1">
+                  <interp inst="OA17430518n108-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n108-1" type="surname" value="WATSON"/>
+                  <interp inst="OA17430518n108-1" type="given" value="GEORGE"/>GEORGE Watson</persName>, 17 Years of Age, born of honest Parents, in the City of <placeName id="OA17430518-geo-78">
+                  <interp inst="OA17430518-geo-78" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n108-1 OA17430518-geo-78"/>Edinburgh</placeName>; when he was of Age, he came to <placeName id="OA17430518-geo-79">
+                  <interp inst="OA17430518-geo-79" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n108-1 OA17430518-geo-79"/>London</placeName>, and went to Service; the first Place he lived in, was with Justice Ladd, with whom he continued three Quarters of a Year, and then the Justice died, otherwise he had not left him; he then served Mr. <persName id="OA17430518n108-2">
+                  <interp inst="OA17430518n108-2" type="gender" value="male"/>
+                  <interp inst="OA17430518n108-2" type="surname" value="LADD"/>
+                  <interp inst="OA17430518n108-2" type="given" value="JOHN"/>John Ladd</persName>, the Justices Nephew, <rs id="OA17430518-occupation-18" type="occupation">a Lieutenant on Board a Man of War</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17430518n108-2 OA17430518-occupation-18"/>, for one Month, but he going to Sea, left his Service, and then fell into these wicked Courses; he has been in several Goals before, and has been got off by his Friends, who are now living, but he was so obstinate as not to let them know of this Misfortune; he said, that one Mrs. Jones who keeps a Case in Newtoner's-Lane, and <persName id="OA17430518n108-3">
+                  <interp inst="OA17430518n108-3" type="gender" value="female"/>
+                  <interp inst="OA17430518n108-3" type="surname" value="JONES"/>
+                  <interp inst="OA17430518n108-3" type="given" value="ANN"/>Ann Jones</persName> her Daughter, with whom he kept Company, were the chief Causes of his Ruin, by encouraging him in his Wickedness, and receiving the Product of his Robberies.</p>
+            <xptr type="pageFacsimile" doc="OA174305180020"/>
+            <p>ADVERTISEMENT.</p>
+            <p>This Day was Published,</p>
+            <p>By J. APPLEBEE, in Bolt-Court, Fleet-street. (Price one Shilling.)</p>
+            <p>THE Life and Adventures of <persName id="OA17430518n112-1">
+                  <interp inst="OA17430518n112-1" type="gender" value="male"/>
+                  <interp inst="OA17430518n112-1" type="surname" value="LANGLEY"/>
+                  <interp inst="OA17430518n112-1" type="given" value="GILBERT"/>Gilbert Langley</persName>, formerly of <placeName id="OA17430518-geo-80">
+                  <interp inst="OA17430518-geo-80" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-80"/>Serle-street</placeName>, near Lincoln's-Inn, <placeName id="OA17430518-geo-81">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-81"/>Goldsmith</placeName>.</p>
+            <p>Containing particularly,</p>
+            <p>His Family, Education, and Accidents in his tender Years.</p>
+            <p>His being sent into Flanders, to the Convent of English Benedictines at Doway, with a curious Detail of their Method in bringing up Youth.</p>
+            <p>His return to England, and his first Slips in point of Honesty and Virtue.</p>
+            <p>His Amours with all Sorts of loose Women, and great Variety of Accidents which happened in Consequence of them.</p>
+            <p>His meeting with a Cheat, who had Address enough to bite him twice.</p>
+            <p>His Marriage and fraudulent Arts to support a broken Fortune.</p>
+            <p>His Contrivance to amass a vast Quantity of Jewels: Watches, rich Toys, &amp;c. to the Amount of 20,000 l.</p>
+            <p>His Flight to <placeName id="OA17430518-geo-82">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-82"/>Holland</placeName>, and strange Adventures there, 'till detected by his Creditors, and best Part of his Effects taken from him.</p>
+            <p>His return to England, Voyage to the <placeName id="OA17430518-geo-83">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-83"/>West-Indies</placeName>, Rogueries there, and miserable Condition when he came back.</p>
+            <p>Imprisoned in the Compter, reduced to want, hangs Himself at a Bailiffs House, escapes from thence, and went a new Trip to Sea.</p>
+            <p>His Travels through <placeName id="OA17430518-geo-84">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-84"/>Spain</placeName>, Adventures in <placeName id="OA17430518-geo-85">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-85"/>the Canaries</placeName>, arrival in <placeName id="OA17430518-geo-86">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-86"/>Italy</placeName>, and return to London.</p>
+            <p>His last Exploit, which brought him within sight of a Halter.</p>
+            <p>Written by Himself in <placeName id="OA17430518-geo-87">
+                  <interp inst="OA17430518-geo-87" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17430518n112-1 OA17430518-geo-87"/>Maidstone-Goal</placeName>, when under Condemnat, for a Robbery committed on the Highway.</p>
+            <p>FINIS.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+{% block title %}Case {{ case_id }} – Old Bailey Case Blog{% endblock %}
+{% block content %}
+{% if case is none %}
+<p>Case not found.</p>
+{% else %}
+<h1>Case {{ case_id }}</h1>
+
+<section class="case-card">
+  <h2>Case details</h2>
+  {% if not card_valid %}
+  <p class="warning">Case card data could not be parsed; showing full text only.</p>
+  {% endif %}
+
+  <dl class="case-meta">
+    <dt>Year</dt><dd>{{ card.year or '—' }}</dd>
+    <dt>Document</dt><dd>{{ card.doc_id or '—' }}</dd>
+  </dl>
+
+  <h3>Offences</h3>
+  {% set offences = card.offences or [] %}
+  {% if offences %}
+  <ul>
+    {% for o in offences %}
+    <li>
+      {{ o.offence_text or o.offenceCategory or o.offenceSubcategory or '—' }}
+      {% if o.offenceCategory or o.offenceSubcategory %}({% if o.offenceCategory %}{{ o.offenceCategory }}{% endif %}{% if o.offenceCategory and o.offenceSubcategory %}, {% endif %}{% if o.offenceSubcategory %}{{ o.offenceSubcategory }}{% endif %}){% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p>—</p>
+  {% endif %}
+
+  <h3>People</h3>
+  <p><strong>Defendants:</strong>
+    {% set defendants = card.defendants or [] %}
+    {% if defendants %}
+      {% for d in defendants %}{{ d.display_name or '—' }}{% if d.gender %} ({{ d.gender }}){% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+    {% else %}—{% endif %}
+  </p>
+  <p><strong>Victims:</strong>
+    {% set victims = card.victims or [] %}
+    {% if victims %}
+      {% for v in victims %}{{ v.display_name or '—' }}{% if v.occupation_labels %}, {{ v.occupation_labels|join(', ') }}{% endif %}{% if v.gender %} ({{ v.gender }}){% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+    {% else %}—{% endif %}
+  </p>
+
+  <h3>Places</h3>
+  {% set places = card.places or [] %}
+  {% if places %}
+  <ul>
+    {% for p in places %}<li>{{ p.place_text or p.place_type or '—' }}</li>{% endfor %}
+  </ul>
+  {% else %}
+  <p>—</p>
+  {% endif %}
+
+  <h3>Outcome</h3>
+  <p><strong>Verdicts:</strong>
+    {% set verdicts = card.verdicts or [] %}
+    {% if verdicts %}
+      {% for v in verdicts %}{{ v.verdict_text or v.verdictCategory or '—' }}{% if not loop.last %}; {% endif %}{% endfor %}
+    {% else %}—{% endif %}
+  </p>
+  <p><strong>Punishments:</strong>
+    {% set punishments = card.punishments or [] %}
+    {% if punishments %}
+      {% for p in punishments %}{{ p.punishment_text or p.punishmentCategory or '—' }}{% if not loop.last %}; {% endif %}{% endfor %}
+    {% else %}—{% endif %}
+  </p>
+
+  <h3>Source pages</h3>
+  {% set pages = card.page_facsimiles or [] %}
+  {% if pages %}
+  <ul>{% for doc in pages %}<li>{{ doc }}</li>{% endfor %}</ul>
+  {% else %}
+  <p>—</p>
+  {% endif %}
+
+  <h3>Full text</h3>
+  <details>
+    <summary>Show full case text</summary>
+    <div class="full-text">{{ case.full_text or '—' }}</div>
+  </details>
+</section>
+
+<section class="generate-form">
+  <h2>Generate Legal Fiction</h2>
+  <form method="post" action="/case/{{ case_id }}/generate">
+    <label>Mode <select name="mode">
+      <option value="dark">dark</option>
+      <option value="sympathetic_defendant">sympathetic_defendant</option>
+      <option value="victim_centered">victim_centered</option>
+      <option value="courtroom_focused" selected>courtroom_focused</option>
+      <option value="pamphlet_style">pamphlet_style</option>
+    </select></label>
+    <label>Length <select name="target_length">
+      <option value="800-1200" selected>800–1200 words</option>
+      <option value="1500-2500">1500–2500 words</option>
+    </select></label>
+    <label>Model override (optional) <input type="text" name="model_override" placeholder="e.g. mistral:7b-instruct"></label>
+    <button type="submit">Generate Legal Fiction</button>
+  </form>
+</section>
+
+{% if latest_story_html %}
+<section class="story-latest">
+  <h2>Latest story</h2>
+  <div class="story-body">{{ latest_story_html|safe }}</div>
+</section>
+{% endif %}
+
+{% if older_stories %}
+<section class="story-older">
+  <h2>Older stories</h2>
+  <ul>
+    {% for s in older_stories %}
+    <li>{{ s.created_at }} — {{ s.model }} — {{ s.mode }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<p class="nav-links"><a href="/">← Back to cases</a></p>
+{% endif %}
+{% endblock %}

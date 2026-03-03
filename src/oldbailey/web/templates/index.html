@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Offences – Old Bailey{% endblock %}
+{% block content %}
+<h1>Offence categories</h1>
+<p>Browse cases by criminal offence (sorted by case count).</p>
+<table>
+  <thead>
+    <tr>
+      <th>Offence category</th>
+      <th>Cases</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in categories %}
+    <tr>
+      <td>{{ item.offence_category or '(unknown)' }}</td>
+      <td>{{ item.case_count }}</td>
+      <td><a href="{{ url_for('cases_for_offence', offence_slug=item.slug) }}">View cases</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% if not categories %}
+<p class="empty-state">No offence data yet. To load data, run from the project directory:</p>
+<pre><code>oldbailey ingest --obo-xml path/to/oldbailey_xml
+# optionally add: --obv2-zip path/to/obv2.zip</code></pre>
+<p class="empty-state">Then refresh this page.</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17621110">
+            <interp inst="OA17621110" type="uri" value="ordinarysAccounts/OA17621110"/>
+            <interp inst="OA17621110" type="date" value="17621110"/>
+            <xptr type="pageFacsimile" doc="OA176211100001"/>
+            <p>THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words OF THREE MALEFACTORS, VIZ.</p>
+            <p>
+               <persName id="OA17621110n3-1">
+                  <interp inst="OA17621110n3-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n3-1" type="surname" value="FARR"/>
+                  <interp inst="OA17621110n3-1" type="given" value="JAMES"/>JAMES FARR</persName>, <persName id="OA17621110n3-2">
+                  <interp inst="OA17621110n3-2" type="gender" value="male"/>
+                  <interp inst="OA17621110n3-2" type="surname" value="BIDDLE"/>
+                  <interp inst="OA17621110n3-2" type="given" value="WILLIAM"/>WILLIAM BIDDLE</persName>, AND <persName id="OA17621110n3-3">
+                  <interp inst="OA17621110n3-3" type="gender" value="male"/>
+                  <interp inst="OA17621110n3-3" type="surname" value="SPARRY"/>
+                  <interp inst="OA17621110n3-3" type="given" value="WILLIAM"/>WILLIAM SPARRY</persName>; For FORGERY; Who were Executed at <placeName id="OA17621110-geo-1">
+                  <interp inst="OA17621110-geo-1" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n3-1 n3-2 n3-3 OA17621110-geo-1"/>Tyburn</placeName> on Wednesday, November 10th 1762.</p>
+            <p>BEING THE NINTH EXECUTION in the MAYORALTY OF THE Rt. Hon. <persName id="OA17621110n4-1">
+                  <interp inst="OA17621110n4-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n4-1" type="surname" value="FLUDYER"/>
+                  <interp inst="OA17621110n4-1" type="given" value="SAMUEL"/>Sir SAMUEL FLUDYER</persName>, Bart.</p>
+            <p>
+               <rs id="OA17621110-occupation-1" type="occupation">LORD-MAYOR of the CITY of LONDON.</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n4-1 OA17621110-occupation-1"/>
+            </p>
+            <p>NUMBER V. for the said YEAR.</p>
+            <p>LONDON:</p>
+            <p>Printed and sold by J. DIXWELL, in St. Martin's-Lane, near Charing-Cross, for the AUTHOR:</p>
+            <p>Also Sold by J. HINXMAN at the Globe in Paternoster-Row.</p>
+            <p>[Price Six PENCE.]</p>
+            <xptr type="pageFacsimile" doc="OA176211100003"/>
+            <p>THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words, &amp;c.</p>
+            <p>BY virtue of the King's commission of the peace, oyer and terminer, and gaol delivery of Newgate, holden for the city of London and county of Middlesex, at <placeName id="OA17621110-geo-2">
+                  <interp inst="OA17621110-geo-2" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17621110n12-1 OA17621110-geo-2"/>
+                  <placeName id="OA17621110-geo-3">
+                     <interp inst="OA17621110-geo-3" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17621110n12-1 OA17621110-geo-3"/>Justice-hall</placeName> in the Old Bailey</placeName>, before the <persName id="OA17621110n12-1">
+                  <interp inst="OA17621110n12-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n12-1" type="surname" value="FLUDYER"/>
+                  <interp inst="OA17621110n12-1" type="given" value="SAMUEL"/>Right Honourable Sir Samuel Fludyer</persName>, Bart. <rs id="OA17621110-occupation-2" type="occupation">Lord Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n12-1 OA17621110-occupation-2"/>; Lord Mansfield, Lord Chief Justice of the court of King's Bench; <persName id="OA17621110n12-2">
+                  <interp inst="OA17621110n12-2" type="gender" value="male"/>
+                  <interp inst="OA17621110n12-2" type="surname" value="CLIVE"/>
+                  <interp inst="OA17621110n12-2" type="given" value="EDWARD"/>Sir Edward Clive</persName>, Knt. one of the <rs id="OA17621110-occupation-3" type="occupation">Judges of the court of Common Pleas</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n12-2 OA17621110-occupation-3"/>; <persName id="OA17621110n12-3">
+                  <interp inst="OA17621110n12-3" type="gender" value="male"/>
+                  <interp inst="OA17621110n12-3" type="surname" value="MORETON"/>
+                  <interp inst="OA17621110n12-3" type="given" value="WILLIAM"/>Sir William Moreton</persName>, Knt. <rs id="OA17621110-occupation-4" type="occupation">Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n12-3 OA17621110-occupation-4"/>; <persName id="OA17621110n12-4">
+                  <interp inst="OA17621110n12-4" type="gender" value="male"/>
+                  <interp inst="OA17621110n12-4" type="surname" value="EYRE"/>
+                  <interp inst="OA17621110n12-4" type="given" value="JAMES"/>James Eyre</persName>, Esq; <rs id="OA17621110-occupation-5" type="occupation">Deputy Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n12-4 OA17621110-occupation-5"/>, and others of his Majesty's Justices of oyer and terminer of the city of London, and Justices of gaol delivery of Newgate, holden for the said city and county, on Wednesday the 20th, Thursday the 21st, and Friday the 22d of October, three prisoners were capitally convicted and received sentence of death, viz.</p>
+            <p>
+               <persName id="OA17621110n13-1">
+                  <interp inst="OA17621110n13-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n13-1" type="surname" value="FARR"/>
+                  <interp inst="OA17621110n13-1" type="given" value="JAMES"/>JAMES FARR</persName>, <persName id="OA17621110n13-2">
+                  <interp inst="OA17621110n13-2" type="gender" value="male"/>
+                  <interp inst="OA17621110n13-2" type="surname" value="BIDDLE"/>
+                  <interp inst="OA17621110n13-2" type="given" value="WILLIAM"/>WILLIAM BIDDLE</persName>, and <persName id="OA17621110n13-3">
+                  <interp inst="OA17621110n13-3" type="gender" value="male"/>
+                  <interp inst="OA17621110n13-3" type="surname" value="SPARRY"/>
+                  <interp inst="OA17621110n13-3" type="given" value="WILLIAM"/>WILLIAM SPARRY</persName>, were indicted, for that they did make, forge, and counterfeit, and cause and procure to be forged and counterfeited, and willingly acted and assisted therein, a certain counterfeit will, purporting to be the last will and testament of <persName id="OA17621110n13-4">
+                  <interp inst="OA17621110n13-4" type="gender" value="male"/>
+                  <interp inst="OA17621110n13-4" type="surname" value="HENVILL"/>
+                  <interp inst="OA17621110n13-4" type="given" value="JEFFERY"/>Jeffery Henvill</persName>, and publishing the same with intent to defraud <persName id="OA17621110n13-5">
+                  <interp inst="OA17621110n13-5" type="gender" value="female"/>
+                  <interp inst="OA17621110n13-5" type="surname" value="FREKE"/>
+                  <interp inst="OA17621110n13-5" type="given" value="ANNA"/>Anna Freke</persName>.</p>
+            <p>It was admitted on the part of the prisoners, that <persName id="OA17621110n14-4">
+                  <interp inst="OA17621110n14-4" type="gender" value="male"/>
+                  <interp inst="OA17621110n14-4" type="surname" value="HENVIL"/>
+                  <interp inst="OA17621110n14-4" type="given" value="JEFFERY"/>Jeffery Henvil</persName>, deceased, had made a will August 20th, 1761, in favour of <persName id="OA17621110n14-1">
+                  <interp inst="OA17621110n14-1" type="gender" value="female"/>
+                  <interp inst="OA17621110n14-1" type="surname" value="FREKE"/>
+                  <interp inst="OA17621110n14-1" type="given" value="ANNA"/>Anna Freke</persName>, who had lived three or four years as <rs id="OA17621110-occupation-6" type="occupation">house-keeper</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n14-1 OA17621110-occupation-6"/> to the testator, and that he died November 23d following. And in order to understand the state of their case it should be premised, that <persName id="OA17621110n14-2">
+                  <interp inst="OA17621110n14-2" type="gender" value="male"/>
+                  <interp inst="OA17621110n14-2" type="surname" value="FARR"/>
+                  <interp inst="OA17621110n14-2" type="given" value="JAMES"/>James Farr</persName> was son in law to the deceased <persName id="OA17621110n14-3">
+                  <interp inst="OA17621110n14-3" type="gender" value="male"/>
+                  <interp inst="OA17621110n14-3" type="surname" value="HENVILL"/>
+                  <interp inst="OA17621110n14-3" type="given" value="JEFFERY"/>Jeffery Henvill</persName>, having married his only daughter; who thinking himself and family injured by the said will, set up this in opposition to it; that Sparry acted as his <rs id="OA17621110-occupation-7" type="occupation">attorney</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n13-3 OA17621110-occupation-7"/> in dictating this second will, which was pen</p>
+            <xptr type="pageFacsimile" doc="OA176211100004"/>
+            <p>ned by Farr; and that Biddle, with one <persName id="OA17621110n15-1">
+                  <interp inst="OA17621110n15-1" type="gender" value="female"/>
+                  <interp inst="OA17621110n15-1" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n15-1" type="given" value="HANNAH"/>Hannah Frankland</persName>, formerly <rs id="OA17621110-occupation-8" type="occupation">servant</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n15-1 OA17621110-occupation-8"/> to Sparry, were subscribing witnesses to it; who, together with Farr, having been sworn at the Prerogative Court in proof of the will, Frankland was induced, by a timely representation of her danger, to revolt and betray her employers, and was admitted a witness against them, by force of which, supported by other witnesses, the charge against the prisoners was proved to the satisfaction of the court and the jury.</p>
+            <p>But because two of them were so long hardened after their conviction, in a denial of their guilt, it may be necessary to review the main force of the evidence against them; first, that of Mr. Heusch, an attorney, who being acquainted with the deceased, and his hand-writing, deposed, that he did not believe the name of <persName id="OA17621110n16-1">
+                  <interp inst="OA17621110n16-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n16-1" type="surname" value="HENVILL"/>
+                  <interp inst="OA17621110n16-1" type="given" value="JEFFERY"/>Jeffery Henvill</persName>, subscribed to this will in question, to be his hand-writing; and in answer to the objection of Sparry to his testimony, asserted, that he was not interested in this cause to the value of one half-penny, - that it was not carried on through anger to any party, but for the sake of justice; - that Frankland had no fee or reward for her evidence.</p>
+            <p>The rise and progress of the will in question was thus. Within a few days after the death of the testator, a letter, written by Mr. Heusch and signed by one Mr. Brown, was sent to Mrs. Farr, then living at Crookhorn in Somersetshire, with her husband, giving an account of her father's death, and a copy of his will. In a fortnight after, about December 10, 1761, Mr. Farr appeared in town, went to Mr. Heusch, at Mr. Brown's in Charles Street, and said his father had made another will in his favour, for he was not so bad a man as the world took him to be; meaning, by leaving his effects from his own family, to Freke, another man's wife, who cohabited with him; and though he was then cautioned not to make things worse, yet he persisted to say, there is another will in the Commons; and to serve citations on those concerned. There the matter rested to the 22d of June last, when Farr and Sparry pushing on the affair, prevailed on Biddle and <persName id="OA17621110n17-2">
+                  <interp inst="OA17621110n17-2" type="gender" value="female"/>
+                  <interp inst="OA17621110n17-2" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n17-2" type="given" value="HANNAH"/>Hannah Frankland</persName> to go to the Commons, in order to prove this will; of which notice being given to M. Heusch, from his Proctor's, Mr. Bellas's, clerk, he enquired after the attorney, and the witnesses. In consequence, after some time, Sparry was apprehended at <placeName id="OA17621110-geo-4">
+                  <interp inst="OA17621110-geo-4" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17621110n13-3 OA17621110-geo-4"/>Greenwich</placeName> (where he then lived) by Mr. Heusch and Hamelen; and on several occasions, both in conversing with them and also before the sitting Alderman, confessed it to be a bad affair and a forgery, and that he would give all the assistance he could to prove it, if they would admit him a witness; he told them Farr was then in custody on another account, at the suit of one Mountstephens, and he had thoughts of giving them notice of it, that he might be secured and brought to justice. He farther acknowledged, that himself, with Farr and Mountstephens, went down into the country to mortgage an estate, which Far had there, in order to carry on this suit; for which they raised 300 l. and that he was to have 100 guineas with Mr. Farr's son as a clerk. These particulars are introduced partly to shew and account for the origin of Farr's obstinacy in pursuit of a favourite point which he had set his heart upon, on the one hand; and Sparry's</p>
+            <xptr type="pageFacsimile" doc="OA176211100005"/>
+            <p>secret and subtile practices both for and against him on the other. Characters and practices which they could scarce ever divest themselves of, till the approach of the last hour.</p>
+            <p>It appears farther, that <persName id="OA17621110n19-1">
+                  <interp inst="OA17621110n19-1" type="gender" value="female"/>
+                  <interp inst="OA17621110n19-1" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n19-1" type="given" value="HANNAH"/>Hannah Frankland</persName> set her mark to this will at the instigation of Sparry, for which she was bribed with a new gown, and a note of 5 l. and that Farr wrote by Sparry's dictating, This is the mark of <persName id="OA17621110n19-2">
+                  <interp inst="OA17621110n19-2" type="gender" value="female"/>
+                  <interp inst="OA17621110n19-2" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n19-2" type="given" value="HANNAH"/>Hannah Frankland</persName>. This was done in <placeName id="OA17621110-geo-5">
+                  <interp inst="OA17621110-geo-5" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n19-2 n13-1 n13-3 OA17621110-geo-5"/>
+                  <placeName id="OA17621110-geo-6">
+                     <interp inst="OA17621110-geo-6" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17621110n19-2 OA17621110-geo-6"/>Water Lane, Blackfriers, at the <placeName id="OA17621110-geo-7">
+                        <interp inst="OA17621110-geo-7" type="type" value="site"/>
+                        <join result="persNamePlace" targOrder="Y" targets="OA17621110n19-2 OA17621110-geo-7"/>Crown and Thistle ale-house</placeName>
+                  </placeName>
+               </placeName>. Afterwards she was sent for to another ale-house, called the <placeName id="OA17621110-geo-8">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n19-2 n13-2 OA17621110-geo-8"/>
+                  <placeName id="OA17621110-geo-9">
+                     <interp inst="OA17621110-geo-9" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n19-2 n13-2 OA17621110-geo-9"/>Cock in the Corner</placeName>, near Ludgate-hill</placeName>, where Biddle signed the will: all which will come out confirmed in the sequel, by the confession of the parties.</p>
+            <p>It should have been mentioned before that the Prisoners had their option from the court, to put off this their trial for life and death, till the issue of the other trial in the commons, concerning the validity of this will against the other should be known; but they chose to be tried at present, for reasons best known to themselves.</p>
+            <p>Mr. Sparry having been an <rs id="OA17621110-occupation-9" type="occupation">attorney</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n13-3 OA17621110-occupation-9"/> of long practice, had taken upon him to manage the defence, by cross examining witnesses, &amp;c. in conjunction with his counsel, he spoke much in his defence, when it came to his turn: but what he offered, tended not to the proof of the only point that could serve him, that the testator made such a will, that it was signed by him, and that there were witnesses to prove it. He was therefore reminded by the court that whatever he said in his own defence, might be used against him, but could not make for him unless proved by other witnesses. He then began to call a number of witnesses, who when examined, said little or nothing to the purpose, and were all remarkably tender of meddling with his character. It was remarked by some of the more judicious part of the audience, that if he had said much less in his own defence, he would have had a better chance of being acquitted: but after a long, candid, and indeed a favourable trial, the jury withdrew to consult about half an hour, and then returned with a verdict, by which they were all found guilty. When brought to receive sentence and demanded what each had to offer why it should not pass upon them, Sparry resumed his apology, and proceeded in a manner much of a piece with his defence; but he was told, that being now found guilty, their application must be to a superior power. At the same time they were all kindly and compassionately warned not to flatter or deceive themselves with vain hopes of pardon for this crime of forgery which has been of late so frequent, and is ever dangerous to the community; but to make it the great object of their thoughts to prepare for eternity, since it seems to be a fixt resolution of his Majesty, and the advice of his counsel not to pardon this crime: a crime fraught with so much mischief and danger to private property, so much malignity and deliberate villany in the contrivers and performers of it, that this resolution in the supreme power seems well founded in wife, just and necessary reasons.</p>
+            <p>After conviction, Sparry and Farr persisted daily to deceive themselves and amuse me by asserting they were lost in the trial for want of money and care for which they mutually blamed each other; Farr was charged by Sparry with</p>
+            <xptr type="pageFacsimile" doc="OA176211100006"/>
+            <p>avarice in refusing to advance money to fee counsel in due time, to peruse their briefs and make a defence, to subpena witnesses, and even to pay the clerks; for that their briefs were pledged at an alehouse, by their quill-drivers, till the morning of their trial. While Farr retorted upon Sparry that he had advanced money enough, in particular six guineas the morning of trial, but that Sparry had embezzled and misapplied it. Thus they endeavoured to hide the true state of their case in a cloud of delusions, falsehood and hypocrisy; for in the mean time these two affected to be very zealous and desirous of frequent visits, particularly of such as Farr called spiritual men, in compliance with their own stile concerning themselves, in opposition to the regular and appointed clergy, whom these methodist visitors brand with the title of carnal men, insufficient for the care and conduct of the souls committed to their charge. Mean time Biddle did not come to chapel but once or twice in eight or nine days after this conviction, being detained or dissuaded by various pretences, which at last came out to be framed by the two other convicts, in order to prevent a clearer detection of their guilt and obduracy by his confession of the conscious forgery; while they determined and agreed to persist in denying it. For this purpose at my first visit after their conviction, a rude message was invented and brought me as from Biddle, who lay in bed in his cell, that he said "he would have nothing to do with me;" but would send for another clergyman, naming Mr. M - - re. By this they plainly aimed at having some stranger who had not heard their trial, and would not search into it, who might be induced by their strong denials of their guilt, to believe them innocent, and so join with them in representing their case as oppressive; that they were convicted by a conspiracy of false witnesses, persons of the worst character, actuated by the most wicked motives and designs. For this was the great point they laboured daily to convince me of whenever I visited them, even to the interruption of the duties in the chapel: insomuch that I was obliged to tell these two, I would hear no more, that I must take it for granted, they were guilty, and could not believe otherwise, and the rather, as all they had to say was little or nothing to the purpose, tending only to blame and blacken each other, and abuse the witnesses; the worst of which, by their own representation, was chosen by themselves, as witness to the will in question. Mean time when after prayers I visited Biddle in his cell I found him in good temper, and unprejudiced with regard to my care of him, when I condoled with him on his sad situation he sighed, and said it is a dreadful thing to be linked in with bad men; he then earnestly stretched out his hand from his bed, to me, assuring me he would come to chapel as soon as he should be able. He came up the day following, and after service ended, being called into the closet, he told me that about a year since Mr. Sparry met him by appointment at a certain beer-house, and would have presuaded him to sign a paper; (which he now supposed to be the will in question) as a witness. This he said happened at the <placeName id="OA17621110-geo-10">
+                  <interp inst="OA17621110-geo-10" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n13-3 n13-2 OA17621110-geo-10"/>
+                  <placeName id="OA17621110-geo-11">
+                     <interp inst="OA17621110-geo-11" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n13-3 n13-2 OA17621110-geo-11"/>
+                     <placeName id="OA17621110-geo-12">
+                        <interp inst="OA17621110-geo-12" type="type" value="site"/>
+                        <join result="persNamePlace" targOrder="Y"
+                              targets="OA17621110n13-3 n13-2 OA17621110-geo-12"/>Grey-hound</placeName> in Red-lion-street</placeName>, Southwark</placeName>, to which Biddle answered, "No Mr. Sparry, I see you are now in liquor, I will sign nothing for you at present. The next</p>
+            <xptr type="pageFacsimile" doc="OA176211100007"/>
+            <p>day Sparry invited him to dine on a shoulder of mutton, and renewed his perswasions to sign the same paper, promising and assuring him with the most dreadful imprecations on himself that there would be no occasion for an affidavit, in consequence of his signing it. This, he believed, was about five days after the death of the testator; though when he signed it, he pretended he did not know it was a will. (But this I much doubt, as he seemed to be too wary and knowing to witness any thing without a sufficient reason to satisfy him) that about five months after, Mark Ol - r, one of the witnesses against them was sent to persuade and thereaten him to make an affidavit at the commons, to prove the will; and when he seemed reluctant, and refused, he abused him as the greatest villain that ever breathed, and deserved to be stoned if he did not go on, and prove the will. In this further attempt upon him, it seems they prevailed; and hence it appears credible that he uttered those expressions of horror and despair, which are charged in the trial against this wretched captive to sin and satan; such as that he had d - d his soul, and sworn himself to the d - l to serve Mr. Farr, and they were to have the quarter part of an estate, and found he could get nothing for it, &amp;c. Biddle farther told me that there was a dispute afterwards between Mark Ol - r, his wife and others, about getting a reward for convicting these prisoners of forgery.</p>
+            <p>After this confession, Biddle did not come daily to chapel, whether dissuaded by the other two, or detained by infirmity, he chose to lie in his cell; when I next visited him, he told me that Farr and Sparry had made him promise to make no confession; being totally ignorant and unapprehensive that he had said so much; but that he would in lieu thereof give me his wife's name and place of abode, who knew the whole affair and would open it to me. To which I answered with some surprize, that it was impossible she should know a transaction of so secret and dangerous a nature as this, so well as himself; and therefore from him I should expect it: assuring him they should know nothing of what passed between us. But as he endeavoured to confound and explain away what he had already confessed, I looked on this as a mere evasion inconsistant with that sincere repentance he had professed, and began to exercise. The next day when he came up to chapel he threw off this disguise and confirmed the truth of what he had before confessed.</p>
+            <p>Sparry a stranger to what Biddle said concerning him, pretended to make some kind of confession, that he suspected Farr had imposed upon him in getting him to make the will, and that as soon as he had reason to suspect this, he had assisted in apprehending him in his own house by help of Mark Ol - r; and that in order to secure him, they had taken away his cloaths after he went to bed; saying that if he escaped, he should escape naked. As this was calculated to insinuate he was drawn in by Farr, tho' it only proved he had been his accomplice, and then betrayed him, it appearto me in in its proper colours; while Farr persisted to assert his innocence in the strongest terms, appealing to heaven (where he said he knew that he could not deceive, nor hide his guilt,) that it was a dark and wicked affair contrived to rob</p>
+            <xptr type="pageFacsimile" doc="OA176211100008"/>
+            <p>him and his family of their right, and to secure it by the murder of him: and then, taking all this for granted, and asking, would any honest man be concerned in such a thing? to give the more colour to this he was not averse to to acknowledge himself a great sinner in other respects which he specified, and for which he professed great sorrow and contrition, and to pray earnestly and constantly for pardon, and to find hope and comfort in his prayers. But as to this forgery, he only wished he was as free from all other sin, as he knew himself to be of this. By such solemn and serious professions daily repeated, a good man, who tookmuch pains to advise and assist him, was for some time induced to believe him innocent; and think it strange if it were possible he could be guilty; and even to think me somewhat hard hearted, for not believing as he did, because I could not at present explain my reasons to him. But instead of giving way to their delusions, means were daily used to eradicate this deep dissimulation and hypocrisy out of the hearts of these two convicts, by setting before them every consideration and spiritual remedy which the word of God so plenteously supplies. But they long resisted, and heard them in vain.</p>
+            <p>As these men were ANTINOMIANS in practice at least, if not in principle, occasion was taken frequently to remind them of, and enforce the obligation of the moral law as delivered in the ten commandments, and the gentle but steady and safe conduct of our church in teaching all who hear them pronounced by her ministers to repent of their past transgressions of these divine laws, and to pray for more grace to keep them for the future, in that humble and earnest petition to be repeated after each law. Lord have mercy upon us, and incline our hearts to keep this law. A petition which if all who profess and call themselves christians would firmly keep in mind, and duly repeat in order to practice; it would preserve them from following those presumptuous and selfwilled men and their errors who despise dominions, and speak evil of dignities; who by attempting to devise new and easier ways to heaven, lose the true path of life, and fall into the broad way to death and destruction.</p>
+            <p>They were taught particularly to apply to their own case the third and ninth commandments, and to humble themselves greatly for their gross, wilful and deliberate transgression of them by acts of forgery and perjury, considering intensely the threats, the thunders and amazing terrors of the law and the gospel, against such as persist in walking contrary to God, to despise his judgments and corrections and to defy his vengeance, by an hardened impenitence.</p>
+            <p>Sometimes on supposition that one of them was erroneous in his judgment and conscience in this matter, a milder course was taken to draw him out of the snare, by representing to him that he might misjudge his case by persuading himself he had a sort of claim on the estate of his deceased father-in-law in right of his wife and children, and that he might do evil that good may come; and so formed and executed this plan in order to obtain what he thought his right. But this Hypothesis he disclaimed with resentment, declaring the will was genuine and signed truly by his father-in-law, in the most posi</p>
+            <xptr type="pageFacsimile" doc="OA176211100009"/>
+            <p>tive terms; and this point he carried so far as to offer to be at some expence to get the will inspected and compared with his father's writing, in order to convince the doubtful. It will appear this experiment was afterwards tried.</p>
+            <p>
+               <persName id="OA17621110n32-1">
+                  <interp inst="OA17621110n32-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n32-1" type="surname" value="FARR"/>
+                  <interp inst="OA17621110n32-1" type="given" value="JAMES"/>James Farr</persName> was born at <placeName id="OA17621110-geo-13">
+                  <interp inst="OA17621110-geo-13" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-13"/>
+                  <placeName id="OA17621110-geo-14">
+                     <interp inst="OA17621110-geo-14" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n32-1 OA17621110-geo-14"/>South-Perrot</placeName>, in Dorsetshire</placeName>, being now arrived to the age of 40 years. His father was a yeoman, possessed of between 60 and 70l. a year, which on his death, about 12 or 15 years ago, fell to his wife, who dying also about a year and half since, left it to this son. He was educated at a country school, and sent <rs id="OA17621110-occupation-10" type="occupation">apprentice to Bristol to a soap-boiler and tallow-chandler</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n32-1 OA17621110-occupation-10"/>, where he served his time out, with a fair character, and then came up to <placeName id="OA17621110-geo-15">
+                  <interp inst="OA17621110-geo-15" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-15"/>London</placeName>; he was received as a kinsman by Mr. Henvill the taylor, who knowing him to be entitled to the little estate before mentioned, in reversion, made up a match between him and his daughter; after which he set up his business near <placeName id="OA17621110-geo-16">
+                  <interp inst="OA17621110-geo-16" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-16"/>
+                  <placeName id="OA17621110-geo-17">
+                     <interp inst="OA17621110-geo-17" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n32-1 OA17621110-geo-17"/>Southampton Street</placeName>, in the Strand</placeName>. Here he kept a shop about two years, till by misconduct in his family, he was hurt, and for non-payment of the excise duty, an extent came out against him, by which he failing, left his wife and one son, and passed over to <placeName id="OA17621110-geo-18">
+                  <interp inst="OA17621110-geo-18" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-18"/>Dublin</placeName>: there he abode about three months; and on his return went as a <rs id="OA17621110-occupation-11" type="occupation">common seaman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n32-1 OA17621110-occupation-11"/> in a merchant ship to <placeName id="OA17621110-geo-19">
+                  <interp inst="OA17621110-geo-19" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-19"/>Lisbon</placeName>, thence up the Straits to <placeName id="OA17621110-geo-20">
+                  <interp inst="OA17621110-geo-20" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-20"/>Leghorn</placeName>, and other places for a year and half. This happened in 1752 and 53. On his return home being weary of the sea, he wrought journey-work at his own trade, first at <placeName id="OA17621110-geo-21">
+                  <interp inst="OA17621110-geo-21" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-21"/>
+                  <placeName id="OA17621110-geo-22">
+                     <interp inst="OA17621110-geo-22" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n32-1 OA17621110-geo-22"/>Orpington</placeName> in Kent</placeName>, for half a year and upwards, being cleared of his debts by the act of insolvency about the year 1755; he then got to work at <placeName id="OA17621110-geo-23">
+                  <interp inst="OA17621110-geo-23" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-23"/>London</placeName> with different masters, after which he fixed at <placeName id="OA17621110-geo-24">
+                  <interp inst="OA17621110-geo-24" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-24"/>St. Albans</placeName> in working for Mr. Treslar about half a year; thence moved to <placeName id="OA17621110-geo-25">
+                  <interp inst="OA17621110-geo-25" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-25"/>Barnet</placeName>, and wrought there near one year; during which his mother dying at <placeName id="OA17621110-geo-26">
+                  <interp inst="OA17621110-geo-26" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-26"/>South-Perrot</placeName>, he returned to <placeName id="OA17621110-geo-27">
+                  <interp inst="OA17621110-geo-27" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-27"/>London</placeName>, flushed with the hopes of enjoying the estate, drew up a letter to the tenant in possession, bespoke mourning of his father Henvill, took his wife to his estate, where he settled, on some terms in favour of his son. But it is reported, his avarice and cruelty to his wife followed by this bad scheme, have proved his bane. He has been known to strike her on the head so violently as to fracture her scull and endanger her life; and even to run away with a loaf which had been given her to relieve that necessity in which he kept her: being so penurious to her and his family, that when he had received 150 guineas on his estate in the country before he came up last, he left but one guinea to support his wife and children.</p>
+            <p>As to his religious conduct heretofore, he said, he sometimes heard Mr. Westly and his people at <placeName id="OA17621110-geo-28">
+                  <interp inst="OA17621110-geo-28" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-28"/>Bristol</placeName>, and elsewhere, but was never closely connected with them, and though he was sometimes serious for a time, he was never stedfast in any sober and regular course. Having thus taken a sketch of his life, let us briefly review that of <persName id="OA17621110n33-1">
+                  <interp inst="OA17621110n33-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n33-1" type="surname" value="SPARRY"/>
+                  <interp inst="OA17621110n33-1" type="given" value="WILLIAM"/>William Sparry</persName>.</p>
+            <p>He was born in the <placeName id="OA17621110-geo-29">
+                  <interp inst="OA17621110-geo-29" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n33-1 OA17621110-geo-29"/>parish of Pattingham</placeName>, in the same house where his father and grandfather were born, in the borders of <placeName id="OA17621110-geo-30">
+                  <interp inst="OA17621110-geo-30" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n33-1 OA17621110-geo-30"/>
+                  <placeName id="OA17621110-geo-31">
+                     <interp inst="OA17621110-geo-31" type="type" value="county"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n33-1 OA17621110-geo-31"/>
+                     <placeName id="OA17621110-geo-32">
+                        <interp inst="OA17621110-geo-32" type="type" value="urban_centre"/>
+                        <join result="persNamePlace" targOrder="Y"
+                              targets="OA17621110n33-1 OA17621110-geo-32"/>Staffordshire and Shropshire</placeName> about four miles from Wolverhampton</placeName>
+               </placeName>; his father being a dissenter, and his mother of the church established, it was agreed at their marriage that the male-issue should follow the father's, but the female the</p>
+            <xptr type="pageFacsimile" doc="OA176211100010"/>
+            <p>mother's persuasion. In consequence he was baptized in the dissenting way, in which no register being kept he could only conjecture himself to be about the 45th or 46th year of his age; though some gave him 10 years more. A dispute rising to a quarrel between his father and mother about the way in which he should be educated, he was sent to her brother about the age of seven years, and was employed by him for the next seven years in <rs id="OA17621110-occupation-12" type="occupation">driving the plow</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n33-1 OA17621110-occupation-12"/>, and <rs id="OA17621110-occupation-13" type="occupation">husbandry</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n33-1 OA17621110-occupation-13"/> work; and during this best period of life for improvement in letters, his progress was proportionably small, so that it appeared from the present abilities he was possessed of, that he was not master either of a tolerable stile, orthography, or command of his pen. Being asked whether the report be true that he was bred a cooper, he denied it, and said he only followed husbandry, till he entered on his <rs id="OA17621110-occupation-14" type="occupation">clerkship</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n33-1 OA17621110-occupation-14"/>, went through it, and was admitted an <rs id="OA17621110-occupation-15" type="occupation">attorney</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n33-1 OA17621110-occupation-15"/>; in which employment, by his smooth oily tongue, and insinuating address, he inveigled many both acquaintance and strangers to commit their business to his care, promising that success which his want of ability defeated, and must otherwise have failed by those evil means he usually employed. For it is said, he always sought to obtain justice by such low cunning and sordid artifice as defeated itself, and the end he aimed at; so that it was a general remark, that whenever Mr. Sparry appeared in any cause, it was stamped with a bad impression, for fear of those wrong practices which by long experience they knew him capable of. He was noted for outwitting himself by endeavouring to over-reach others; of this a remarkable instance is mentioned of his lending the late Sir Edward Sm - th 300 l. and then taking a security for 500 l. by which he lost the whole.</p>
+            <p>His marriages (exclusive of his intrigues) are reckoned to be three; the first to a young person of his own country, by whom he had some fortune, and eight or nine children, of which only two daughters still survive. It is made a doubt by some of his acquaintance, whether this person be yet dead, or voluntarily retired, or spirited away into some retreat, whence she has never returned to claim him: all which may be mere groundless surmise. His second matrimonial adventure was with Mrs. Hollingsworth, mistress of a fortune of about 6000 l. by her he had no children. It was matter of dispute, whether this was a real marriage or not; however, it is said, that by one means or other, (whether by marrying another under her name, a trick that has has been tried in other cases) he proved a marriage after her death, and gained a considerable part of her effects. While she lived with him in the <placeName id="OA17621110-geo-33">
+                  <interp inst="OA17621110-geo-33" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n33-1 OA17621110-geo-33"/>Old-Bailey</placeName>, being known to be given to intemperance and dissipation, so as to be suspected of lunacy, she was demanded by her brother, in order to be put under proper care; to this Sparry answered, if she chose to go of her own accord, he agreed to it; but if not, a pistol, which he then took down, should protect her, in his house, and there she determined to remain. This connection, whatever it was, being dissolved by death, he removed to <placeName id="OA17621110-geo-34">
+                  <interp inst="OA17621110-geo-34" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n33-1 OA17621110-geo-34"/>Greenwich</placeName>; and as he had an easy faculty of recommending himself to the favour of the more elderly ladies, he made his addresses to a gentlewoman there, said to be worth</p>
+            <xptr type="pageFacsimile" doc="OA176211100011"/>
+            <p>5000 l. and by conforming to her particular zeal for Methodism, is reported to have gained her consent. If he did practise such a piece of Hudibrastic guile and gallantry, he has since been well scourged for it by his spouse and her party, if his own report may be credited, for instead of mending his fortune, he has been, by his own account, several hundred pounds the worse: by their means he has been declared a bankrupt, articles of the peace sworn against him, and imprisoned. Her zealous friends of that sect demanded of her, what great sin have you been guilty of, to be seduced into such a marriage? And he repeated it to me, that they deterred her from cohabiting or conversing with him, by telling her, that whenever she eat or drank with him, she eat and drank her own damnation. She was not, however, prevailed upon wholly to desert him, even in this last scene of severe trial; for, besides that she sent, wrote to, and visited him, he acknowledged the receipt of about 10 l. from her, during this period; though he often complained of her neglect of him, on account of the insufficiency of that sum to answer his purposes.</p>
+            <p>After his conviction, several applications were made to him, for papers, in causes wherein he had been concerned; as, from the commissioners of bankrupts, and others; among which the following is remarkable, in a written message, in these words:</p>
+            <p>"About eight years ago, when Mr. <persName id="OA17621110n39-1">
+                  <interp inst="OA17621110n39-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n39-1" type="surname" value="SPARRY"/>
+                  <interp inst="OA17621110n39-1" type="given" value="WILLIAM"/>William Sparry</persName> and his clerk were in <placeName id="OA17621110-geo-35">
+                  <interp inst="OA17621110-geo-35" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n39-1 OA17621110-geo-35"/>Newgate</placeName>, and indicted for forgery, and acquitted, one <persName id="OA17621110n39-2">
+                  <interp inst="OA17621110n39-2" type="gender" value="male"/>
+                  <interp inst="OA17621110n39-2" type="surname" value="PARSONS"/>
+                  <interp inst="OA17621110n39-2" type="given" value="RICHARD"/>Richard Parsons</persName>, a <rs id="OA17621110-occupation-16" type="occupation">smuggler</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n39-2 OA17621110-occupation-16"/>, then in <placeName id="OA17621110-geo-36">
+                  <interp inst="OA17621110-geo-36" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n39-2 OA17621110-geo-36"/>Newgate</placeName>, gave Mr. Sparry a note of 41 l. of one <persName id="OA17621110n39-3">
+                  <interp inst="OA17621110n39-3" type="gender" value="male"/>
+                  <interp inst="OA17621110n39-3" type="surname" value="HEGG"/>
+                  <interp inst="OA17621110n39-3" type="given" value="JOHN"/>John Hegg</persName>, a <rs id="OA17621110-occupation-17" type="occupation">master stage-coachman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n39-3 OA17621110-occupation-17"/>, who then, and yet lives at <placeName id="OA17621110-geo-37">
+                  <interp inst="OA17621110-geo-37" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n39-3 OA17621110-geo-37"/>Hampton town</placeName>, in order to sue him thereon; Mr. Hegg was arrested by one Randal, sheriff's officer and bailed the same, and Mr. Sparry has kept the note ever since in his own custody. Q Whether he will now return the note to <persName id="OA17621110n39-4">
+                  <interp inst="OA17621110n39-4" type="gender" value="male"/>
+                  <interp inst="OA17621110n39-4" type="surname" value="PARSONS"/>
+                  <interp inst="OA17621110n39-4" type="given" value="RICHARD"/>Richard Parsons</persName>, now a prisoner in the <placeName id="OA17621110-geo-38">
+                  <interp inst="OA17621110-geo-38" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n39-4 OA17621110-geo-38"/>Fleet</placeName>, and has a wife and five children there to maintain; and whether any, and what money was ever paid by Hegg to Mr. Sparry, and what end was made of this affair. Mr. Sparry to write down the same.</p>
+            <p>Mr. Sparry answered, that he could not write, but that the note, if any such there be, is in the hands of <persName id="OA17621110n40-1">
+                  <interp inst="OA17621110n40-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n40-1" type="surname" value="FOWLER"/>
+                  <interp inst="OA17621110n40-1" type="given" value="ABRAHAM"/>Abraham Fowler</persName>, <rs id="OA17621110-occupation-18" type="occupation">brewer</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n40-1 OA17621110-occupation-18"/>, in <placeName id="OA17621110-geo-39">
+                  <interp inst="OA17621110-geo-39" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n40-1 OA17621110-geo-39"/>
+                  <placeName id="OA17621110-geo-40">
+                     <interp inst="OA17621110-geo-40" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n40-1 OA17621110-geo-40"/>Mint-street</placeName>, Southwark</placeName>, the only assignee in a commission of bankruptcy awarded against him 1758, that he never received a shilling from Hegg on this note, and desires Mr. Fowler will deliver it to <persName id="OA17621110n40-2">
+                  <interp inst="OA17621110n40-2" type="gender" value="male"/>
+                  <interp inst="OA17621110n40-2" type="surname" value="PARSONS"/>
+                  <interp inst="OA17621110n40-2" type="given" value="RICHARD"/>Richard Parsons</persName>.</p>
+            <p>A cousin german of Sparry's named H - d - k came from Staffordshire, a day or two before he suffered, to make another demand on him for the writings of two causes, in one of which he was a loser of 30 l. a year; to which he got an answer as little satisfactory as the former.</p>
+            <p>This person was asked by me, whether Sparry was akin to <persName id="OA17621110n42-1">
+                  <interp inst="OA17621110n42-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n42-1" type="surname" value="WILD"/>
+                  <interp inst="OA17621110n42-1" type="given" value="JONATHAN"/>Jonathan Wild</persName>, of notorious memory, as has been reported and even published. In answer, he assured me he was no way related to him. There were several such demands of papers, effects, and estates, against Sparry.</p>
+            <p>It remains to give some account of <persName id="OA17621110n43-1">
+                  <interp inst="OA17621110n43-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n43-1" type="surname" value="BIDDLE"/>
+                  <interp inst="OA17621110n43-1" type="given" value="WILLIAM"/>William Biddle</persName>, who told me, he was born and baptized in the <placeName id="OA17621110-geo-41">
+                  <interp inst="OA17621110-geo-41" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n43-1 OA17621110-geo-41"/>
+                  <placeName id="OA17621110-geo-42">
+                     <interp inst="OA17621110-geo-42" type="type" value="parish"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n43-1 OA17621110-geo-42"/>parish of St. Andrew</placeName>, Holborn</placeName>. His father kept the Rose and Crown tavern in Cursitor's</p>
+            <xptr type="pageFacsimile" doc="OA176211100012"/>
+            <p>alley, and after his decease his mother also, 'till being reduced, she kept a chandler's shop in the same neighbourhood. William served his time to Mr. deputy Moulson, in the <rs id="OA17621110-occupation-19" type="occupation">wine-trade</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n43-1 OA17621110-occupation-19"/>. He mentioned it with regret, that the perquisites of apprentices and journeymen in that trade, were so large, as to encourage the youth to spend the Lord's day in pleasure and dissipation, instead of a regular attendance on their duty, to which he had been too much a stranger all his life. While he lived at the <placeName id="OA17621110-geo-43">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n43-1 OA17621110-geo-43"/>shiptavern Temple-bar</placeName>, where a good ordinary is kept every Sunday for the accomodation of the gentlemen of the neighbouring inns of court; he often saw the depraved examples of those who ought to know better, card-playing begun on the Lord's-day afternoon, and continued 'till Monday or Tuesday. This was a house of such resort, that he might have made his fortune there, had he been prudent, but he fell into the excesses of some of his customers, so as to be of a party to the Bagnio, where his club came to 7 or 8 guineas of a night. His wife was a woman of good character and conduct, by whose care three or four reputable ordinaries were kept up in the house, for the students and other gentlemen. But these advantages could not long support his extravagance, so that he became a bankrupt, in so bad circumstances, that I have heard a creditor say, he received not 1 s. out of some hundred pounds due to him. His wife is said to be retired, and still living with a fair character in some village near London; and that she with whom he last lived under that character was deceived by him into a pretended marriage, with whom it is said, he had 500 l. probably devoted to a like fate, with his former possessions. For some time past, this poor prodigal has been reduced to live on the husks arising from the pay and perquisites of a servant to the messenger of the commissioners of bankrupts: small and uncertain at best, not exceeding 14 s. a week, neat money, when employed in keeping the houses or effects of Bankrupts. This pittance with a family to maintain, a want or decay of true principle in his breast, threw him into the snare of coveting and getting more, by such detestable measures, as those to which he now fell a victim.</p>
+            <p>November the 3d, the three convicts attended prayers and had the danger of impenitence opened to them from the psalms of the day, Eccus. the 18th, And from the 2d. lesson St. Luke 19th, the rule of the last judgment by the parable of the talents, and the doctrine of fixing and determining the day of grace and salvation, collected from the words, behaviour, and tears of our blessed Saviour, concerning his own city Jerusalem; Which they were taught to apply to themselves. After which I had much talk with Mr. Sparry, who seemed, at least put on the appearance to be affected with what he heard. Biddle having shewn a more forward and open disposition to an acknowledgement of his guilt than the rest, was first distinguished with the favour of offering him another book, beside The compassionate address to prisoners for crimes; viz. An introduction to the holy sacrament, &amp;c. He accepted it with some expressions of doubt and fear of his own unworthiness, and that he never could be prepared to communicate. But how then can you hope to enter into the kingdom of heaven? On this occasion</p>
+            <xptr type="pageFacsimile" doc="OA176211100013"/>
+            <p>he opened his course of life with great remorse and contrition; and it pleased God, that this bruised reed was not broken, while some words of direction, support, and consolation, were applied to him. He now again assured me, that what he had confessed concerning the will is true; that he would give me the particulars in writing, but that Farr and Sparry used all possible artifice to prevent this, and keep him from seeing or conversing with me, watching and listening while he was in the closet or the cell with me; and, among other contrivances, magnifying the visits of the methodists, as the only spiritual men, with sly squints against the regular minister and his morals; lamenting that these good men were not daily admitted to their cells; while they amused him this day with a new invention, that they heard I was determined to visit them no more, for which they assigned a cause, which, as it was too true, reproached themselves, viz. their daily mutual accusations and quarrels about the blame of their being cast, for want of conduct, or cash, on their defence. Sparry still persisted to say, that their proctors in the Commons were ready to attest, that the hand-writing, in which the two wills of Henvill were signed, were exactly the same, and notwithstanding what he had confessed, he was daily more convinced of Farr's innocence: while Farr strenuously asserted his own innocence, exclaiming against the dark mystery of wickedness among the accusers and witnesses against him. Thus did they shuffle, and play at hazard with their own souls and the concerns of eternity. Biddle bitterly complained of Farr's cruelty, in refusing him any support or assistance under his present sufferings (which he drew him into) even so much as a candle to light him to read in his cell; while others, whom he had wronged, particularly his late master, brought him some present relief, and kindly promised me to admonish, and then forgive him for all his past injuries.</p>
+            <p>When they were visited, Nov. 5th, I found they were all apprised of the death-warrant being sent down the evening before; Farr still persisting to assert that he was injured, was called aside, with Sparry, and told, that I had again read their trial over with care on their account, and could not avoid being more and more confirmed in the opinion of their guilt, and at the same time being also deeply concerned to hear them still denying it. Farr answered, If you have read the trial, you have read a number of perjuries. On this they were pressed with Sparry's confession to the two persons, Mess. Heusch and Hamelen, who apprehended him at <placeName id="OA17621110-geo-44">
+                  <interp inst="OA17621110-geo-44" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n39-1 OA17621110-geo-44"/>Greenwich</placeName>, and brought him to London, and also before the sitting Alderman at <placeName id="OA17621110-geo-45">
+                  <interp inst="OA17621110-geo-45" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n39-1 OA17621110-geo-45"/>Guildhall</placeName>. He endeavoured to explain away the first, and to deny the second, but in a manner so confused and inconsistent, that nothing certain could be concluded from it. And this was his usual way of answering objections; While Farr continued, both here and in the chapel, to appeal to God for his innocence, whom (he said) he knew he could not deceive; and that he is most cruelly wronged in this affair. In answer they were told, I did not hear of any one person who heard or read their trial, nor, could they find one in London, who believed them innocent. Farr, notwithstanding this behaviour, so extremely obdurate, had the face to ask me, some days before, when I would administer the Holy Communion to them? To which it was answered, when I find you penitent, and open to confess your guilt, and not till then. On his pressing the same request again this day, the proper exhortation was read, opened and applied to them in this special point, of making all the satisfaction in their power to the injured; the second rubric also, prefixed to tho communion office, directing the minister's conduct concerning open and notorious evil livers, ' or, whoh avedone any wrong to their neighbours by ' word or deed, being obliged openly to declare ' themselves to have truly repented, &amp;c. and recompensed the parties to whom they have done ' wrong,' was laid before them. Asking them whether they thought it reasonable for me to take their words in opposition to the judgment of a court and a jury? they both again entered into a debate on this question, which I cut short, by desiring them to write what they had to say. Sparry said, his hand trembled so, he could write no more; and Farr still talked on in the same strain, as he had opportunity: he declared, however, that he forgave his prosecutors, and that Sparry and he were now at peace with each other. They were visited twice this day, and henceforward; proper portions of scripture read and applied to them; prayers for obstinate criminals who deny their guilt, were also offered up, not only here, but by some pious and good men in other places.</p>
+            <p>Tho' Farr had hitherto disclaimed any petition for mercy, and Biddle refused to join</p>
+            <xptr type="pageFacsimile" doc="OA176211100014"/>
+            <p>with him, had he desired it, yet each had made a separate application by their own friends. Biddle told me, the very name and character of Sparry had stopped his friends from further application for him; while Sparry had drawn up a long petition for himself, which he gave me to peruse, and have my opinion of. Poor man! it seemed to be as little to the purpose, indeed as prejudicial and aggravating to his charge, as the defence he offered on his trial. But now again, a day or two after the deathwarrant, Farr was very importunate with me to have a petition presented for farther time to prepare for death; pity and compassion moved me to wish, for several reasons, that such a thing could be done in this sad case! but it appeared improper and impracticable for me to attempt, which I explained to him; charging him to make better use of his few remaining hours: however, he desired Sparry to draw up the petition; but when he was applied to for money to get affidavits drawn, such as Sparry told him would be useful for that purpose, Farr would part with none; so the affair dropped.</p>
+            <p>The next day, Nov. 6th, Biddle confessed his having signed the will at <placeName id="OA17621110-geo-46">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n43-1 OA17621110-geo-46"/>
+                  <placeName id="OA17621110-geo-47">
+                     <interp inst="OA17621110-geo-47" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17621110n43-1 OA17621110-geo-47"/>the Cock in the Corner</placeName>, near Ludgate-hill</placeName>, (a particular which he had hitherto disguised and jumbled) and that the evidenee of <persName id="OA17621110n50-1">
+                  <interp inst="OA17621110n50-1" type="gender" value="female"/>
+                  <interp inst="OA17621110n50-1" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n50-1" type="given" value="HANNAH"/>Hannah Frankland</persName>, as to the material parts of it, is true, confirming this in the most solemn manner, but with a caution not to devulge it as yet, which I kept: he said farther, that he had reasons to believe Farr would never confess his guilt, tho' I advised and beseeched him to exhort Farr to it. But a new attempt on Biddle, made this day, expressed an aggravation of their hypocrisy. In coming down from their cells to chapel, they bid him tell me the next time I spoke to him, that he believed another man for Mr. Henvill was imposed on him when he signed the will. What end this lye could answer don't appear to me, except to puzzle and cloud the truth. This afternoon I was prevailed on by Mr. Farr, to go with a friend to the Prerogative office, to see and compare the two wills of Henvill with a genuine writing of his name done by himself; which we did, in presence of 8 or 10 others, most or all of whom agreed that the will in question, tho' an imitation, is a forgery; there is an awkward stiffness in the name, and a similitude to the writing of the will which took my eye at the first cast, and on closer inspection, particularly in the Hen and thee ll, in the name Henvill, and the pen has gone twice over the n on a rasure made with a knife. We also went and found <persName id="OA17621110n50-2">
+                  <interp inst="OA17621110n50-2" type="gender" value="female"/>
+                  <interp inst="OA17621110n50-2" type="surname" value="FRANCKLAND"/>
+                  <interp inst="OA17621110n50-2" type="given" value="HANNAH"/>Hannah Franckland</persName>, and questioned her about her evidence; she confirmed it in a very consistent natural manner, adding several corroborating circumstances, of Farr's describing his father-in-law's person to her, and bidding her stand to the truth as he called it. And as Mr. Farr had often charged her to me with perjury, by saying she had drank tea with Mrs. Farr, at <placeName id="OA17621110-geo-48">
+                  <interp inst="OA17621110-geo-48" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n50-2 OA17621110-geo-48"/>the Crown and Thistle</placeName>, Frankland when asked seemed surprized that such an expression is in the trial; and whoever reads the ques. and ans. may observe, that the name of Mrs. Farr not being in the question, has no business in the answer, and seems to be a slip of the pen, or error of the press, for she owned she never had drank tea with Mrs. Farr, nor meant to say so, nor is it any thing to the purpose; all which was fairly and fully represented to Mr. Farr at my next visit, Sunday morning, Nov. 7th, when after prayers and exhortation, a sermon was preached to them on St. Luke, 12 ch. 5 v.</p>
+            <p>Farr had given me a manuscript before prayers, which he said he would abide by as his last words, and desired to be asked no more questions. After prayers, I had some conference with Biddle apart, and the two others together. Biddle being asked if he would write, or speak any thing by way of warning, he answered, I can't do it; I know I am guilty of the fact, and what can I say more. He told me that Farr and Sparry had yesterday sent for a popish priest or Moravian, as Biddle judged by his manner of praying, which he over heard in their cells, to which he was introduced unknown to me. Being asked how he came to think of a Moravian? he answered, that when Farr and his wife kept house in or near <placeName id="OA17621110-geo-49">
+                  <interp inst="OA17621110-geo-49" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-49"/>Fleet-street</placeName>, they both frequented the Moravian meeting in <placeName id="OA17621110-geo-50">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n32-1 OA17621110-geo-50"/>Fetter lane</placeName>.</p>
+            <p>Sparry being asked whether he would speak with me in private? he answered, in a submissive manner, that he acquiesced in what I told him before prayers; namely, that the will is a forgery, and that he was privy to it and active in it; of which I was convinced, not only by the trial, and examining the will, but by the account given me yesterday by <persName id="OA17621110n52-1">
+                  <interp inst="OA17621110n52-1" type="gender" value="female"/>
+                  <interp inst="OA17621110n52-1" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n52-1" type="given" value="HANNAH"/>Hannah Frankland</persName>. All this he assented to, and then exhorted Farr to acknowledge his guilt and be at peace. But he refused to confess his sins except to God only. Absurd and wicked pre</p>
+            <xptr type="pageFacsimile" doc="OA176211100015"/>
+            <p>tence! at the same time that he was appealing to God for his innocence and truth, while he had guilt in his heart, and deceit in his tongue. And because he now again referred me to the manuscript he delivered to me this morning, the reader is here presented with an abstract of it. 1st. It compares Hannah Fr - k - d's deposition at the Commons with her evidence at the <placeName id="OA17621110-geo-51">
+                  <interp inst="OA17621110-geo-51" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n52-1 OA17621110-geo-51"/>Old Bailey</placeName>, in order to expose the inconsistency of them. Then a stricture on Mr. H - ch for deposing that the prosecution was carried on at Mrs. Fr - ke's expence, with this "N. B. She was on the " town of <placeName id="OA17621110-geo-52">
+                  <interp inst="OA17621110-geo-52" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17621110n52-1 OA17621110-geo-52"/>Shaftsbury</placeName> when Mr. Henvill took " up with her, where should the money cum from?".</p>
+            <p>He then draws malicious and scandalosu characters of three of the witnesses, viz. Mr. H - ch, H - m - n and M - k Ol - r, adding another N. B. This is an iniquity's transaction supported by perjury and subornation " of perjury to deprive my faithful wife and " her dear children of their lawful and just " right, but this is not done without robbing " her husband and their parent of his life." He concludes with this,</p>
+            <p>" Praised be thy name who keepest truth for ever, who wilt not suffer thy faithfulness to fail nor alter the thing that is gone out of thy mouth; heaven and earth shall pass away, but thy word shall not pass away till all things shall be fulfilled. Thou art a God of truth, without iniquity and deceit; no deceitful person shall rest upon thy holy hill, he that telleth lies shall not tarry in my sight."</p>
+            <p>Is not this truly astonishing! how far men may be carried into a profane and impious abuse of God's holy name, and his word, by a sear'd conscience and deluded imagination, who have traded in forgery, perjury and hypocrisy; who have set up the unrighteous mammon as the object of their devotion, and like not to retain God in their knowledge except in words, while in works they deny him. Will it not be said to such a man - Out of thine own mouth will I judge thee. Beware rash mortals, of forgery or perjury! they are sins that most harden the heart against repentance: they are sins most deceitful and desperately wicked. Tremendous proofs of this have occured to me in most, if not all, whom I ever knew convicted of these crimes.</p>
+            <p>Notwithstanding all the remonstrances I could make to Farr against this paper as injurious and profane, he continued to refuse to acknowledge the justice of his sentence with repeated appeals to God; while he was as often warned not to take his name in vain. He was told, I knew it was impossible he could be innocent, while the other two acknowledged their guilt. He demanded with amazing effrontery and a threatening brow, "what they had said to me?" He was answered that was no concern of his. - It was his part to acknowledge the justice of his sentence before he could be admited to the holy sacrament. He bid me ask him no more questions. Then I can be of no more service to you. At the same time he told Biddle privately in the chapel, that he never would confess; though Sparry now exhorted him to it with great earnestness, both in public and in private, but he seemed to grow more hardned and even abussive.</p>
+            <p>On the 9th, the day appointed for administring the holy communion, the proper lessons read and applied to them, were Josh. 7th. ch. and St. Jo. 19, Farr would have insisted to stay and receive, but was not permitted; he might have remained to see it administred, but would not be silent, but asked in an insulting tone, do you know better than I? adding, you are a wicked man. On this Biddle turned and told him plainly it was your obstinate wickedness which brought me to this; Farr looked terribly fierce, and to prevent farther mischief or disturbance, he was removed out of chapel, while the two other convicts with three or four pious friends, stayed and communicated. After which the two prisoners declared they were now weaned from the world. Sparry owned he believed it much better for him to die than to live, lest he should never be so well prepared and resigned, and lest new scenes of iniquity should again entangle him; of which he had felt a heavy load for 20 years past, but now found himself light, easy and free. He and Biddle desired the assistance of a gentleman who communicated with us to read and pray with them this afternoon; and as he offered his service, saying he had brought Drelincourt on death with him for that purpose, his pious and charitable assistance was accepted. Biddle told me that Sparry had made good use of what little supplies he had, in helping to relieve him, while Farr refused to assist him. His whole behaviour in the chapel this day was quite shocking to those who were witnesses of it. It was the behaviour of a man seduced by enthusiastic phrensy and misrule.</p>
+            <p>Morning of EXECUTION.</p>
+            <p>THE three prisoners were brought from their cells; about a quarter of an hour after I went in to visit them; two of them were composed and resigned. Mr. T - , a</p>
+            <xptr type="pageFacsimile" doc="OA176211100016"/>
+            <p>clergyman who sometimes visited Farr, told me, he had been with him the evening before, and this morning; - that he had acknowledged all his guilt before witness, and promised he would confess it to me. When called to the closet for that purpose, he would not come, but said he would not be questioned nor disturbed: thus he continued disputing, evading and contradicting, when spoke to at intervals, till prayers were ended and the communion administered to the other two. In answer, Biddle had said to him again this morning, I know you are guilty, and you know you are; to which Farr made no reply; he attempted to draw near and kneel at the table; but least he should offer any indecent violence, as his temper seemed to portend, he was ordered to a distant form, where he still continued disturbing the service, till ordered to be moved out of chapel; he then promised to be silent, on which we let him remain. Before the administration, he acknowledged, saying, I am a very great sinner, and repent of all my sins; to which I required him to add, - and "of " that in particular for which I am to die." He turned away in anger and desired I would not disturb him. After the communion service ended, and he found himself excluded, he remained only with one pious man in the chapel. He began to lament and cry, what a cruel thing it was to refuse him the sacrament; to which he was answered, Mr. R - does no more than his duty, and cannot do otherwise. He has come down as low as he can to meet you, requiring you only to acknowledge the justice of your sentence: at that moment he fell on his knees, and said, "I do acknowledge the justice of my sentence, "Oh, for God's sake let me have the Blessed Sacrament. Mr. B - then came to me to intreat for him; the elements being all distributed, the table uncovered, and messenger after messenger from the Sheriff's officers demanding the prisoners. On Mr. B - 's reminding him how ill he had behaved, he said, I will ask Mr. R - 's pardon and your's too; I hope you will forgive me.</p>
+            <p>While the elements were preparing, he kneeled down at the table, repeating with an audible voice, "I do here, O Lord, repent me truly of all my sins, I do stedfastly purpose to lead a new life, and thou knowest, O Lord, that if it should please thee to give me time I would do so, and therefore hast given me some hope of thy mercy toward me, having a lively faith in thy mercy thro' Christ, of whose precious death I have a thankful remembrance, and am in charity with all men, forgiving all, as I hope to be forgiven." He then received with great contrition and devotion, and departed with renewed vivacity and spirit, resigning himself to his sufferings, now at hand: these interruptions, and the very rainy morning occasioned a delay, so that it was near ten, when they were all carried out in one cart, and brought to the place of execution a little before eleven. They were observed, both there, and in the way, to behave with great devotion, composure, and resignation. Proper prayers, the creed, and a litany were used, in which a great part of the surrounding crowd joined with them. Farr being asked, whether he would say any thing by way of warning to the people, answered, this sight is warning enough; and what more can I do? Sparry said, he hoped none would reflect on his family or friends on his account, which would be cruel; cleared himself of the imputation of having married <persName id="OA17621110n62-1">
+                  <interp inst="OA17621110n62-1" type="gender" value="female"/>
+                  <interp inst="OA17621110n62-1" type="surname" value="FRANKLAND"/>
+                  <interp inst="OA17621110n62-1" type="given" value="HANNAH"/>Hannah Frankland</persName>, as she had threatned to swear against him; said he had been greatly injured in a cause long depending between Fitsgerald and Sparry; he mentioned two other causes, one in the Crown-office, the other at Hicks's-hall, for perjury, if I mistake not. As for the prosecution which ended in the present suffering, he feared and believed there is a just foundation for it; tho' the prosecutors and witnesses had gone great lengths. On the whole he acknowledged his guilt in this and several other respects, particularly in sins of omission, and a slothful reluctance to prosecute the guilty and bring them to punishment, * for all which he hoped for pardon and mercy, and desired the prayers of the people.</p>
+            <p>Being again recommended to the divine mercy and protection, they calmly took leave, and were turned off about half an hour past eleven.</p>
+            <p>By their last behaviour, there seemed no doubt of their mutual reconciliation, whatever the News-writers have said to the contrary.</p>
+            <p>* It is thought remarkable by some who knew the fact to be true, that H - h F - k - d, the chief witness against them, was rescued from a prosecution for receiving stolen goods within a year past, by the interposition of Mr. Sparry.</p>
+            <p>This is all the Account given by me</p>
+            <p>
+               <persName id="OA17621110n67-1">
+                  <interp inst="OA17621110n67-1" type="gender" value="male"/>
+                  <interp inst="OA17621110n67-1" type="surname" value="ROE"/>
+                  <interp inst="OA17621110n67-1" type="given" value="STEPHEN"/>STEPHEN ROE</persName>,</p>
+            <p>
+               <rs id="OA17621110-occupation-20" type="occupation">Ordinary of Newgate.</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17621110n67-1 OA17621110-occupation-20"/>
+            </p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

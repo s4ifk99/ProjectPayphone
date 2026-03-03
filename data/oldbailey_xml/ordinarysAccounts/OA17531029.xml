@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI.2>
+   <text>
+      <body>
+         <div0 type="ordinarysAccount" id="OA17531029">
+            <interp inst="OA17531029" type="uri" value="ordinarysAccounts/OA17531029"/>
+            <interp inst="OA17531029" type="date" value="17531029"/>
+            <xptr type="pageFacsimile" doc="OA175310290001"/>
+            <p>
+               THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, and Dying Words, OF <persName id="OA17531029n1-1">
+                  <interp inst="OA17531029n1-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n1-1" type="surname" value="HAYLER"/>
+                  <interp inst="OA17531029n1-1" type="given" value="JAMES"/>James Hayler</persName> and <persName id="OA17531029n1-2">
+                  <interp inst="OA17531029n1-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n1-2" type="surname" value="GALLAKER"/>
+                  <interp inst="OA17531029n1-2" type="given" value="JAMES"/>James Gallaker</persName>, Who were executed at <placeName id="OA17531029-geo-1">
+                  <interp inst="OA17531029-geo-1" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n1-1 n1-2 OA17531029-geo-1"/>TYBURN</placeName> On Monday the 29th of October, for MURDER: BEING THE Ninth EXECUTION in the Mayoralty OF THE Rt. Hon. <persName id="OA17531029n1-3">
+                  <interp inst="OA17531029n1-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n1-3" type="surname" value="GASCOYNE"/>
+                  <interp inst="OA17531029n1-3" type="given" value="CRISP"/>Sir Crisp Gascoyne</persName>, <rs id="OA17531029-occupation-1" type="occupation">Knt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n1-3 OA17531029-occupation-1"/>. And of the SEVEN MALEFACTORS, Who were Executed on Monday the Third of December, 1753,</p>
+            <p>BEING THE First EXECUTION in the Mayoralty OF THE Right Hon. <persName id="OA17531029n2-1">
+                  <interp inst="OA17531029n2-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n2-1" type="surname" value="RAWLINSON"/>
+                  <interp inst="OA17531029n2-1" type="given" value="THOMAS"/>Thomas Rawlinson</persName>, <rs id="OA17531029-occupation-2" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n2-1 OA17531029-occupation-2"/>. <rs id="OA17531029-occupation-3" type="occupation">LORD-MAYOR</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n2-1 OA17531029-occupation-3"/> of the <rs id="OA17531029-occupation-4" type="occupation">CITY of LONDON</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n2-1 OA17531029-occupation-4"/>.</p>
+            <p>NUMBER 1. for the said YEAR.</p>
+            <p>LONDON:</p>
+            <p>Printed for, and sold by T. PARKER, in Jewin-street, and C. CORBETT, over-against St. Dunstan's Church, in Fleet-street, the only authorised Printers of the Dying Speeches.</p>
+            <p>M.DCC.LIII.</p>
+            <p>[Price Six-pence.]</p>
+            <xptr type="pageFacsimile" doc="OA175310290002"/>
+            <p>
+            THE ORDINARY of NEWGATE'S ACCOUNT of the Behaviour, Confession, &amp;c.</p>
+            <p>BY Virtue of the King's Commission of the Peace, Oyer and Terminer, and Jail-delivery of Newgate, held before the Right Honourable Sir 
+                   
+                  <persName id="OA17531029n9-1">
+                  <interp inst="OA17531029n9-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-1" type="surname" value="Gascoyne"/>
+                  <interp inst="OA17531029n9-1" type="given" value="Crisp"/>Crisp Gascoyne</persName>
+               , <rs id="OA17531029-occupation-5" type="occupation">Knt</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n9-1 OA17531029-occupation-5"/>. <rs id="OA17531029-occupation-6" type="occupation">Lord-Mayor</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n9-1 OA17531029-occupation-6"/> of the <placeName id="OA17531029-geo-2">
+                  <interp inst="OA17531029-geo-2" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17531029n9-1 OA17531029-geo-2"/>City of London</placeName>, Lord Chief Justice Willes, Mr. Baron Legge, 
+                   
+                  <persName id="OA17531029n9-2">
+                  <interp inst="OA17531029n9-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-2" type="surname" value="Moreton"/>
+                  <interp inst="OA17531029n9-2" type="given" value="William"/>William Moreton</persName>
+               , <rs id="OA17531029-occupation-7" type="occupation">Esq</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n9-2 OA17531029-occupation-7"/>; <rs id="OA17531029-occupation-8" type="occupation">Recorder</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n9-2 OA17531029-occupation-8"/>, and others of His Majesty's Justices of Oyer and Terminer of the City of London, and Justices of Jail delivery of Newgate, holden for the said City and County of Middlesex, held at Justice-hall in the <placeName id="OA17531029-geo-3">
+                  <interp inst="OA17531029-geo-3" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n9-1 n9-2 n9-3 n9-4 n9-5 n9-6 n9-7 n9-8 n9-9 n9-10 n9-11 n9-12 n9-12 n22-2 OA17531029-geo-3"/>Old Bailey</placeName>, on Wednesday the 24th, Thursday the 25th, Friday the 26th, Saturday the 27th, Monday the 29th, and Tuesday the 30th of October, in the 27th Year of His Majesty's Reign, <persName id="OA17531029n9-3">
+                  <interp inst="OA17531029n9-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-3" type="surname" value="HAYLER"/>
+                  <interp inst="OA17531029n9-3" type="given" value="JAMES"/>James Hayler</persName>, <persName id="OA17531029n9-4">
+                  <interp inst="OA17531029n9-4" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-4" type="surname" value="GALLAKER"/>
+                  <interp inst="OA17531029n9-4" type="given" value="JAMES"/>James Gallaker</persName>, <persName id="OA17531029n9-5">
+                  <interp inst="OA17531029n9-5" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-5" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17531029n9-5" type="given" value="JAMES"/>James Fair<lb/>brother</persName>, <persName id="OA17531029n9-6">
+                  <interp inst="OA17531029n9-6" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-6" type="surname" value="HORNIBLOW"/>
+                  <interp inst="OA17531029n9-6" type="given" value="JOB"/>Job Horniblow</persName>, <persName id="OA17531029n9-7">
+                  <interp inst="OA17531029n9-7" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-7" type="surname" value="SHIELDS"/>
+                  <interp inst="OA17531029n9-7" type="given" value="MARK"/>Mark Shields</persName>, <persName id="OA17531029n9-8">
+                  <interp inst="OA17531029n9-8" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-8" type="surname" value="HAILEY"/>
+                  <interp inst="OA17531029n9-8" type="given" value="GEORGE"/>George Hailey</persName>, <persName id="OA17531029n9-9">
+                  <interp inst="OA17531029n9-9" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-9" type="surname" value="CLARKE"/>
+                  <interp inst="OA17531029n9-9" type="given" value="ISAAC"/>Isaac Clarke</persName>, <persName id="OA17531029n9-10">
+                  <interp inst="OA17531029n9-10" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-10" type="surname" value="JACKSON"/>
+                  <interp inst="OA17531029n9-10" type="given" value="JAMES"/>James Jackson</persName>, <persName id="OA17531029n9-11">
+                  <interp inst="OA17531029n9-11" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-11" type="surname" value="FRENCH"/>
+                  <interp inst="OA17531029n9-11" type="given" value="GEORGE"/>George French</persName>, <persName id="OA17531029n9-12">
+                  <interp inst="OA17531029n9-12" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-12" type="surname" value="EDGILL"/>
+                  <interp inst="OA17531029n9-12" type="given" value="WILLIAM"/>William Edgill</persName>, otherwise <persName id="OA17531029n9-14">
+                  <interp inst="OA17531029n9-14" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-14" type="surname" value="ELFORD"/>
+                  <interp inst="OA17531029n9-14" type="given" value="JAMES"/>Elford</persName>, and <persName id="OA17531029n9-13">
+                  <interp inst="OA17531029n9-13" type="gender" value="male"/>
+                  <interp inst="OA17531029n9-13" type="surname" value="SULLIVAN"/>
+                  <interp inst="OA17531029n9-13" type="given" value="MARTIN"/>Martin Sullivan</persName>, were capitally convicted, and received Sentence of Death accordingly.</p>
+            <p>The Behaviour of these unhappy Convicts has been quiet and peaceable, and their Attendance at Chapel constant, unless hindered by Sickness, where they behaved as became People in their sad Circumstances, praying fervently.</p>
+            <p>Sullivan, Shields, and Hailey, being <rs id="OA17531029-occupation-9" type="occupation">Roman Catholicks</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n9-13 n9-8 n9-8 OA17531029-occupation-9"/>, were attended as usual.</p>
+            <p>
+            
+               <persName id="OA17531029n12-1" type="defendantName">
+                  <interp inst="OA17531029n12-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n12-1" type="age" value="34"/>
+                  <interp inst="OA17531029n12-1" type="surname" value="Hayler"/>
+                  <interp inst="OA17531029n12-1" type="given" value="JAMES"/>Hayler</persName>
+             and 
+               <persName id="OA17531029n12-2" type="defendantName">
+                  <interp inst="OA17531029n12-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n12-2" type="age" value="40"/>
+                  <interp inst="OA17531029n12-2" type="surname" value="Gallaker"/>
+                  <interp inst="OA17531029n12-2" type="given" value="JAMES"/>Gallaker</persName>
+             were executed pursuant to their Sentence, on Monday the 29th of October last; their Bodies being afterward carried to Surgeon's</p>
+            <xptr type="pageFacsimile" doc="OA175310290003"/>
+            <p>Hall, as the late Act to prevent Murders has directed.</p>
+            <p>On Tuesday the 29th of November last, Mr. Recorder made a Report of the other nine Malefactors to His Majesty; when he was pleased to order <persName id="OA17531029n13-1">
+                  <interp inst="OA17531029n13-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-1" type="surname" value="FAIRBROTHER"/>
+                  <interp inst="OA17531029n13-1" type="given" value="JAMES"/>James Fairbrother</persName>, <persName id="OA17531029n13-2">
+                  <interp inst="OA17531029n13-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-2" type="surname" value="HORNIBLOW"/>
+                  <interp inst="OA17531029n13-2" type="given" value="JOB"/>Job Horniblow</persName>, <persName id="OA17531029n13-3">
+                  <interp inst="OA17531029n13-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-3" type="surname" value="SHIELDS"/>
+                  <interp inst="OA17531029n13-3" type="given" value="MARK"/>Mark Shields</persName>, <persName id="OA17531029n13-4">
+                  <interp inst="OA17531029n13-4" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-4" type="surname" value="HAILEY"/>
+                  <interp inst="OA17531029n13-4" type="given" value="GEORGE"/>George Hailey</persName>, <persName id="OA17531029n13-5">
+                  <interp inst="OA17531029n13-5" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-5" type="surname" value="CLARKE"/>
+                  <interp inst="OA17531029n13-5" type="given" value="ISAAC"/>Isaac Clarke</persName>, <persName id="OA17531029n13-6">
+                  <interp inst="OA17531029n13-6" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-6" type="surname" value="FRENCH"/>
+                  <interp inst="OA17531029n13-6" type="given" value="GEORGE"/>George French</persName>, and <persName id="OA17531029n13-7">
+                  <interp inst="OA17531029n13-7" type="gender" value="male"/>
+                  <interp inst="OA17531029n13-7" type="surname" value="SULLIVAN"/>
+                  <interp inst="OA17531029n13-7" type="given" value="MARTIN"/>Martin Sullivan</persName>, for Execution, on Monday the 3d Instant.</p>
+            <p>
+               <persName id="OA17531029n14-1">
+                  <interp inst="OA17531029n14-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n14-1" type="surname" value="JACKSON"/>
+                  <interp inst="OA17531029n14-1" type="given" value="JAMES"/>James Jackson</persName>, and <persName id="OA17531029n14-2">
+                  <interp inst="OA17531029n14-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n14-2" type="surname" value="EDGILL"/>
+                  <interp inst="OA17531029n14-2" type="given" value="WILLIAM"/>William Edgill</persName>, were respited till His Majesty's Pleasure might further be known.</p>
+            <p>1. 
+                
+               <persName id="OA17531029n15-1" type="defendantName">
+                  <interp inst="OA17531029n15-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n15-1" type="age" value="34"/>
+                  <interp inst="OA17531029n15-1" type="surname" value="Hayler"/>
+                  <interp inst="OA17531029n15-1" type="given" value="James"/>James Hayler</persName>
+            , was indicted for the 
+               wilful Murder of 
+                      
+                     <persName id="OA17531029n15-2" type="victimName">
+                  <interp inst="OA17531029n15-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n15-2" type="surname" value="Proby"/>
+                  <interp inst="OA17531029n15-2" type="given" value="John"/>John Proby</persName>
+                  , September the 26th: He stood also charged on the Coroner's Inquest for the said Murder
+            .</p>
+            <p>2. 
+                
+               <persName id="OA17531029n16-1" type="defendantName">
+                  <interp inst="OA17531029n16-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n16-1" type="age" value="40"/>
+                  <interp inst="OA17531029n16-1" type="surname" value="Gallaker"/>
+                  <interp inst="OA17531029n16-1" type="given" value="James"/>James Gallaker</persName>
+            , was indicted for the 
+               wilful Murder of 
+                      
+                     <persName id="OA17531029n16-2" type="victimName">
+                  <interp inst="OA17531029n16-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n16-2" type="surname" value="Turney"/>
+                  <interp inst="OA17531029n16-2" type="given" value="AEneas"/>AEneas Turney</persName>
+                  , October the 26th: He also stood charg'd on the Coroner's Inquest for the said Murder
+            .</p>
+            <p>3. 
+                
+               <persName id="OA17531029n17-1" type="defendantName">
+                  <interp inst="OA17531029n17-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n17-1" type="age" value="25"/>
+                  <interp inst="OA17531029n17-1" type="surname" value="Fairbrother"/>
+                  <interp inst="OA17531029n17-1" type="given" value="James"/>James Fairbrother</persName>
+            , was indicted for 
+               breaking and entering the Dwelling-House of 
+                      
+                     <persName id="OA17531029n17-2" type="victimName">
+                  <interp inst="OA17531029n17-2" type="gender" value="female"/>
+                  <interp inst="OA17531029n17-2" type="surname" value="Snelling"/>
+                  <interp inst="OA17531029n17-2" type="given" value="Mary"/>Mary Snelling</persName>
+                  , and stealing 3 lb. Weight of Butter, Value 20 d. five Loaves of Bread, Value 15 d. one Earthen Dish, and a Stone Jarr, Value 3 d. one Pair of Gloves, one Dozen of pickled Cucumbers, the Goods of the said Mary, October the 20th
+               
+            .</p>
+            <p>4. 
+                
+               <persName id="OA17531029n18-1" type="defendantName">
+                  <interp inst="OA17531029n18-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n18-1" type="age" value="21"/>
+                  <interp inst="OA17531029n18-1" type="surname" value="French"/>
+                  <interp inst="OA17531029n18-1" type="given" value="George"/>George French</persName>
+            , was indicted, for that he, 
+               in a certain Field, or open Place, near the King's Highway, upon 
+                      
+                     <persName id="OA17531029n18-2" type="victimName">
+                  <interp inst="OA17531029n18-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n18-2" type="surname" value="Ripping"/>
+                  <interp inst="OA17531029n18-2" type="given" value="Henry"/>Henry Ripping</persName>
+                   did make an Assault, putting him in corporal Fear, and Danger of his Life, and one Hat, Value 2 s. the Property of the said Henry, from his Person did steal, take, and carry away, October the 4th
+               
+            .</p>
+            <p>5. 
+                
+               <persName id="OA17531029n19-1" type="defendantName">
+                  <interp inst="OA17531029n19-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n19-1" type="age" value="26"/>
+                  <interp inst="OA17531029n19-1" type="surname" value="Clarke"/>
+                  <interp inst="OA17531029n19-1" type="given" value="Isaac"/>Isaac Clarke</persName>
+            , was indicted, for that they, 
+               in a certain Field, or open Place, near the King's Highway, on 
+                      
+                     <persName id="OA17531029n19-2" type="victimName">
+                  <interp inst="OA17531029n19-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n19-2" type="surname" value="Moreton"/>
+                  <interp inst="OA17531029n19-2" type="given" value="Edward"/>Edward Moreton</persName>
+                   did make an Assault, putting him in corporal Fear, and Danger of his Life, 38 Pair of Stockings, Value 40 s. 3 Worsted Caps, Value 4 s. and a Linen Bag, Value 4 d. the Goods of the said Edward, did steal, &amp;c. September the 26th
+               
+            .</p>
+            <p>6. 
+                
+               <persName id="OA17531029n20-1" type="defendantName">
+                  <interp inst="OA17531029n20-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n20-1" type="age" value="30"/>
+                  <interp inst="OA17531029n20-1" type="surname" value="Sullivan"/>
+                  <interp inst="OA17531029n20-1" type="given" value="Martin"/>Martin Sullivan</persName>
+            , was indicted for 
+               returning from Transportation before his Time
+            .</p>
+            <p>7. 
+                
+               <persName id="OA17531029n21-1" type="defendantName">
+                  <interp inst="OA17531029n21-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n21-1" type="age" value="21"/>
+                  <interp inst="OA17531029n21-1" type="surname" value="Horniblow"/>
+                  <interp inst="OA17531029n21-1" type="given" value="Job"/>Job Horniblow</persName>
+            , was indicted, for that he, 
+               together with 
+                      
+                     <persName id="OA17531029n21-2">
+                  <interp inst="OA17531029n21-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n21-2" type="surname" value="Neal"/>
+                  <interp inst="OA17531029n21-2" type="given" value="Dennis"/>Dennis Neal</persName>
+                  , in a certain Field, or open Place, near the King's Highway, on 
+                      
+                     <persName id="OA17531029n21-3" type="victimName">
+                  <interp inst="OA17531029n21-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n21-3" type="surname" value="Rixton"/>
+                  <interp inst="OA17531029n21-3" type="given" value="Jos."/>Jos. Rixton</persName>
+                   did make an Assault, putting him in corporal Fear, and Danger of his Life, and taking from him one Steel Tobacco-box, Value 6 d. one Clasp-knife, one Iron Key, and 4 s. and 6 d. in Monies numbered, September the 17th
+               
+            .</p>
+            <p>8, 9. 
+                
+               <persName id="OA17531029n22-1" type="defendantName">
+                  <interp inst="OA17531029n22-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n22-1" type="age" value="28"/>
+                  <interp inst="OA17531029n22-1" type="surname" value="Shields"/>
+                  <interp inst="OA17531029n22-1" type="given" value="Mark"/>Mark Shields</persName>, otherwise <persName id="OA17531029n22-2">
+                  <interp inst="OA17531029n22-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n22-2" type="surname" value="CHAILES"/>
+                  <interp inst="OA17531029n22-2" type="given" value="MARK"/>Chailes</persName>
+            , and 
+                
+               <persName id="OA17531029n22-3" type="defendantName">
+                  <interp inst="OA17531029n22-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n22-3" type="age" value="38"/>
+                  <interp inst="OA17531029n22-3" type="surname" value="Hailey"/>
+                  <interp inst="OA17531029n22-3" type="given" value="George"/>George Hailey</persName>
+            , were indicted, for that they, 
+               on the King's Highway, on 
+                      
+                     <persName id="OA17531029n22-4" type="victimName">
+                  <interp inst="OA17531029n22-4" type="gender" value="male"/>
+                  <interp inst="OA17531029n22-4" type="surname" value="Beddew"/>
+                  <interp inst="OA17531029n22-4" type="given" value="Henry"/>Henry Beddew</persName>
+                   did make an Assault, putting him in corporal Fear, and Danger of his Life, and stealing from his Person one Hat, Value 2 s. his Property, September the 29th
+               
+            .</p>
+            <xptr type="pageFacsimile" doc="OA175310290004"/>
+            <p>
+            1. 
+                
+               <persName id="OA17531029n23-1" type="defendantName">
+                  <interp inst="OA17531029n23-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n23-1" type="age" value="34"/>
+                  <interp inst="OA17531029n23-1" type="surname" value="Hayler"/>
+                  <interp inst="OA17531029n23-1" type="given" value="James"/>James Hayler</persName>
+            , aged 34, was born in <placeName id="OA17531029-geo-4">
+                  <interp inst="OA17531029-geo-4" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17531029n23-1 OA17531029-geo-4"/>
+                  <placeName id="OA17531029-geo-5">
+                     <interp inst="OA17531029-geo-5" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y" targets="OA17531029n23-1 OA17531029-geo-5"/>Hoxton-Market</placeName>, in the Parish of Shoreditch</placeName>. He was bred a <rs id="OA17531029-occupation-10" type="occupation">Weaver</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n23-1 OA17531029-occupation-10"/>, to which Trade he served seven Years Apprenticeship in <placeName id="OA17531029-geo-6">
+                  <interp inst="OA17531029-geo-6" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17531029n23-1 OA17531029-geo-6"/>Spittle-fields</placeName>, was Journeyman after, and reputed a good Workman. By a Disorder in his Head he was rendered incapable of sticking close to Business, or he might have lived very well. In the hard Winter some Years since, he had some very fine Work put into his Hands, but the Severity of the Weather, he says, hindered him from going on with it, and he chose rather to enter himself on board an East-India Ship, in which he went abroad, and was a <rs id="OA17531029-occupation-11" type="occupation">Soldier</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n23-1 OA17531029-occupation-11"/> in the Service of the Company for five Years: His Absence from England was seven or eight Years, and he has been at Home again two Years, during which Time, he says, he has been much better in his Mind, and stuck closer to his Business, as a <rs id="OA17531029-occupation-12" type="occupation">Journeyman Weaver</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n23-1 OA17531029-occupation-12"/>, than ever he had done in his Life before. So that tho' he had formerly been somewhat out of his right Senses, he did not alledge any Thing of that Kind in alleviation of what he had done to deserve the Sentence of the Law, which he suffered for uncurbed Passion, but owned himself highly to blame, and said, were the Matter to be disputed between him, and the Murdered again, he would have gone another way to Work with him, and instead of murdering him, would have sought Redress from the Law.</p>
+            <p>The Murdered, he said, was a bad Man, and frequently pilfered from him, and others in the same House, where several lived together. And besides, he said, opprobrious and bad Language was the Consequence of his being accused and reproached by them, for such unjustifiable Behaviour towards them. And their Quarrels upon that Account was the Cause of that Resentment which proved the Ruin of both.</p>
+            <p>It happened once, upon a Time of their Quarrelling, and having high Words, that Hayler kicked Proby, the Person whom he murdered so barbarously, by giving him several Blows with a Hammer; upon which, a Warrant of Assault and Battery was obtained against him. This occasion'd a continual Grudge between them, so that they were at Enmity between each other for the rest of their days.</p>
+            <p>They worked together, and lodged in the same House, so that they had too frequent Opportunities of being together. It seems by Hayler's own Account, that they were both unhappy ignorant People; their Passions were too strong for their Reason. And, in their way of Life, being too frequently addicted to unman themselves by excessive Drinking, was the fatal Cause of this Murder.</p>
+            <xptr type="pageFacsimile" doc="OA175310290005"/>
+            <p>The Day the Murder was perpetrated, he said, the Devil and Gin were very strong and powerful in them. They fell out, and had many provoking Words passed between them; and in order to get the better of him, Hayler took the Advantage of a Hammer which lay in the Room, gave him several Blows, and killed him. He owned the Justice of his Suffering, and said he was heartily sorry for what he haddone. As he had taken away a poor Man's Life in the Midst of his Sins, he dreaded the fatal Consequence. As he had Reason to think the Load of his own was too great to bear, the other added to it, he feared, was more than he could sufficiently lament; tho' he died in Hope of God's Mercy through Christ's Merits.</p>
+            <p>His Behaviour, upon Tryal, was indeed somewhat shocking to behold. For, though he knew his Guilt, he seemed to smile at what was said against him. But this, I believe, was owing rather to a Want of Sense to apprehend the calamitous Circumstances he had brought himself to; because, tho' not mad, or out of his Senses, he was so excessively ignorant, as one would think no Person in human Shape could be. However, he died not without a Sense of suffering very deservedly for so enormous a Crime as Murder.</p>
+            <p>2. 
+                
+               <persName id="OA17531029n29-1" type="defendantName">
+                  <interp inst="OA17531029n29-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n29-1" type="age" value="40"/>
+                  <interp inst="OA17531029n29-1" type="surname" value="Gallaker"/>
+                  <interp inst="OA17531029n29-1" type="given" value="James"/>James Gallaker</persName>
+            , aged 40, was born in the <placeName id="OA17531029-geo-7">
+                  <interp inst="OA17531029-geo-7" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17531029n29-1 OA17531029-geo-7"/>north of Ireland</placeName>; was bred in the <rs id="OA17531029-occupation-13" type="occupation">Roman catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n29-1 OA17531029-occupation-13"/> persuasion, and followed the labouring business in <rs id="OA17531029-occupation-14" type="occupation">husbandry</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n29-1 OA17531029-occupation-14"/> affairs at his setting out in life. But that occupation not agreeing with his constitution and temper, he chose rather to go to <rs id="OA17531029-occupation-15" type="occupation">sea</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n29-1 OA17531029-occupation-15"/>; which he did for some years. About four years ago, he said, he came to <placeName id="OA17531029-geo-8">
+                  <interp inst="OA17531029-geo-8" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y" targets="OA17531029n29-1 OA17531029-geo-8"/>London</placeName>, where he has lived to the time of this unaccountable murder, by <rs id="OA17531029-occupation-16" type="occupation">hawking goods</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n29-1 OA17531029-occupation-16"/> about the town, according to the seasons of the year.</p>
+            <p>Gallaker to the last denied using the knife for the purpose of murder. God only knows the truth of the matter; but the evidence was such against him, that his conviction, I presume, was satisfactory to the court and the jury; and the circumstances of the case appeared so clear, that scarce any other verdict could have been expected.</p>
+            <p>The case, upon testimony given, stood thus; viz. Gallaker came into the <placeName id="OA17531029-geo-9">
+                  <interp inst="OA17531029-geo-9" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n29-1 n16-2 OA17531029-geo-9"/>
+                  <placeName id="OA17531029-geo-10">
+                     <interp inst="OA17531029-geo-10" type="type" value="street"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n29-1 n16-2 OA17531029-geo-10"/>
+                     <placeName id="OA17531029-geo-11">
+                        <interp inst="OA17531029-geo-11" type="type" value="site"/>
+                        <join result="persNamePlace" targOrder="Y"
+                              targets="OA17531029n29-1 n16-2 OA17531029-geo-11"/>Green Man</placeName> in Highstreet</placeName>, St. Giles's</placeName>, to sell oysters, upon the unhappy night this murder was perpetrated. Some oysters he sold to one, but refusing to sell to another person who would have bought, under pretence of charging him with a debt of a penny, Turney (who died by a stab in the heart, in consequence of a scuffle, which ensued upon his refusal) resented it. Words passed between Gallaker and Turney, and after a blow from the former to the latter, they engaged, and both came to the ground. The whole evidence agree in the first blow, that it was given by Gallaker; and one of them describes particularly the position they both were in at the time he apprehends the wound was given, and swears positively to the motion of Gallaker's arm, while he observed the situation in which they lay. From which evidence any one might conclude how Turney came by his death.</p>
+            <xptr type="pageFacsimile" doc="OA175310290006"/>
+            <p>He denied the fact, 'tis true, to the last; for I asked him with respect to it just before he was turned off. But what can be more circumstantial proof of murder than what the evidence already mentioned, who observed the motion of the arm as they lay on theground, and the hollow between them, made by Turney's endeavour to rise, while Gallaker held him by the collar? Add to this, his offering his knife to a person to whom he refused to sell oysters, who told him, he deserved to be lick'd for refusing. What was his reply? Why, the evidence says, he took up his knife in his hand, and asked him,</p>
+            <p>'How would you like to have this in</p>
+            <p>'your guts?' An expression that favours strong of a wicked and revengful mind. And, even when it was discovered that Turney was wounded, and Gallaker was about to escape, what did he say when he was brought back? Why, when he was told he had murdered the man, he offered his knife again at the person who told him so, saying,</p>
+            <p>'What is that to you? I don't care if I do the same by you.' Nor would Gallaker part with the fatal weapon, till it was by violence cut off from his side, where it hung by his apron-string. Are these indications of a mind free from malicious and revengeful designs? Could a knife run itself three or four inches deep through the ribs into the heart? But, with God there is mercy; therefore every one would charitably hope, that even the perpetrator of so rash and barbarous an act as this seems to carry the face and appearance of, may have some reliance on infinite degrees of goodness.</p>
+            <p>Gallaker called one to prove the contrary; but the man happened to have so much modesty as not to proceed so far as to contradict what had before been given in evidence against him.</p>
+            <p>3. 
+                
+               <persName id="OA17531029n37-1" type="defendantName">
+                  <interp inst="OA17531029n37-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n37-1" type="age" value="25"/>
+                  <interp inst="OA17531029n37-1" type="surname" value="Fairbrother"/>
+                  <interp inst="OA17531029n37-1" type="given" value="James"/>James Fairbrother</persName>
+            , aged 25, was born at <placeName id="OA17531029-geo-12">
+                  <interp inst="OA17531029-geo-12" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-12"/>
+                  <placeName id="OA17531029-geo-13">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n37-1 OA17531029-geo-13"/>the Barrs</placeName>, in the parish of St. Andrew's, Holborn</placeName>. He was put to school, where he learned to read, and was afterwards bound <rs id="OA17531029-occupation-17" type="occupation">apprentice to a cabinet-maker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n37-1 OA17531029-occupation-17"/>, he says, in <placeName id="OA17531029-geo-14">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-14"/>Baldwin's Gardens</placeName>; but an unsettled temper of mind, after serving about three years, inclined him to leave his master and business, which, before he understood it, grew irksome and disagreeable to him.</p>
+            <p>After this, he says, he took it into his head to go to sea; the method often pursued by an untoward disposition, once taking an aversion to industry. He says he entered upon naval expeditions in the beginning of the late Spanish war; that he has been on board and sailed in several-ships, both in the <rs id="OA17531029-occupation-18" type="occupation">merchants employ</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n37-1 OA17531029-occupation-18"/> and in the <rs id="OA17531029-occupation-19" type="occupation">navy</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n37-1 OA17531029-occupation-19"/>. But, the grand concern of all was, as he tells his story, he had been seven years in the <placeName id="OA17531029-geo-15">
+                  <interp inst="OA17531029-geo-15" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-15"/>Swallow man of war</placeName>, and was one of the small number that returned to <placeName id="OA17531029-geo-16">
+                  <interp inst="OA17531029-geo-16" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-16"/>England</placeName>, after having sailed all over the <placeName id="OA17531029-geo-17">
+                  <interp inst="OA17531029-geo-17" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-17"/>East-Indies</placeName>, left out of a great number that went abroad in her when she first set sail for that part of the globe.</p>
+            <p>He says he came home in January last to <placeName id="OA17531029-geo-18">
+                  <interp inst="OA17531029-geo-18" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-18"/>London</placeName>, and had a good deal of money due, which he received, and spent as fast as he could among loose women, and other bad company. <placeName id="OA17531029-geo-19">
+                  <interp inst="OA17531029-geo-19" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-19"/>Black-boy-Alley</placeName>, <placeName id="OA17531029-geo-20">
+                  <interp inst="OA17531029-geo-20" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-20"/>George-Alley</placeName>, and <placeName id="OA17531029-geo-21">
+                  <interp inst="OA17531029-geo-21" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-21"/>Field-Lane</placeName>, were the places of his general rendezvouz, and he was become very remarkable in the neighbourhood, and was expected every day to do some mischief or other which might put him out of the way.</p>
+            <xptr type="pageFacsimile" doc="OA175310290007"/>
+            <p>
+            Having spent all his money, he betook himself, he says, to attend the market, and bought potatoes and other garden-stuff, which he <rs id="OA17531029-occupation-20" type="occupation">hawked about the streets</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n37-1 OA17531029-occupation-20"/>, and sometimes went out of town with such things as far as <placeName id="OA17531029-geo-22">
+                  <interp inst="OA17531029-geo-22" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-22"/>Hammersmith</placeName> and <placeName id="OA17531029-geo-23">
+                  <interp inst="OA17531029-geo-23" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-23"/>Brentford</placeName>. And now and then, if any thing lay in his way, which he could conveniently and privately carry off the ground, he failed not to embrace the opportunity.</p>
+            <p>During last <placeName id="OA17531029-geo-24">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-24"/>Croydon fair</placeName>, he says, he was there, and having bought a large parcel of potatoes, he sold them off very well, and with the money he went to gaming, in hopes to increase his stock. But, to his great disappointment, he lost all, and then went out upon the lay. He picked several pockets one day, he says, in the fair, and next day took an opportunity to rob a man of about 5 s. not far from <placeName id="OA17531029-geo-25">
+                  <interp inst="OA17531029-geo-25" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n37-1 OA17531029-geo-25"/>Croydon</placeName> town.</p>
+            <p>This was the first robbery, he says, that ever he did; but afterwards he owns he did several more; but none were remaining in his memory. They were bad deeds, he said, and therefore he was willing to forget them. He said he would endeavour to make his peace with God, and hoped to be forgiven.</p>
+            <p>He was indicted for robbing a cobler's stall or shop, in company with one Degen, who was evidence against him, and his own wife. He owns he took the goods, and was deservedly found guilty, for which he was to have been transported; but there was another indictment against him for a burglary, which was clearly proved against him, and he was found guilty. He owned the justice of his suffering; behaved very penitently under his conviction; read a good deal, and frequently sung psalms in his cell of nights; and said, he hoped to reconcile God to him, and by true repentance to cast himself on the merits of Christ Jesus.</p>
+            <p>4. 
+                
+               <persName id="OA17531029n44-1" type="defendantName">
+                  <interp inst="OA17531029n44-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n44-1" type="age" value="21"/>
+                  <interp inst="OA17531029n44-1" type="surname" value="French"/>
+                  <interp inst="OA17531029n44-1" type="given" value="George"/>George French</persName>
+             says he is 21 years of age, was born in the city of <placeName id="OA17531029-geo-26">
+                  <interp inst="OA17531029-geo-26" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n44-1 OA17531029-geo-26"/>York</placeName>, of parents that lived in reputation, and gave him education to qualify him for sea; taught him to read and write; and he had some knowledge of the theoretic as well as the practical part of navigation. At 11 years of age, he says, he was bound <rs id="OA17531029-occupation-21" type="occupation">apprentice to a captain of a ship</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n44-1 OA17531029-occupation-21"/>, that used the trade up the Straits, whom he served 7 years, and has since sailed before the mast in several ships, till about the middle of last September.</p>
+            <p>He says, he never before this time wronged man, woman, nor child. He says, he was acquainted with Holmes, who was tried with him, but acquitted, by seeing him on board a ship in the river Thames; but he never was with him in any robbery before, nor ever suspected that to be his practice. He says, they had been out together that day the robbery, for which he suffered, was committed, upon the ramble; and having drank pretty freely, had spent all their money. He says, he was then in liquor, and Holmes proposed to him to rob the first man that came by, which happened to be <persName id="OA17531029n45-1">
+                  <interp inst="OA17531029n45-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n45-1" type="surname" value="RIPPEN"/>
+                  <interp inst="OA17531029n45-1" type="given" value="HENRY"/>Henry Rippen</persName>; whom, he owns, he struck, and robbed of his hat; but utterly denies</p>
+            <xptr type="pageFacsimile" doc="OA175310290008"/>
+            <p>any design to cut his throat with a knife, as Holmes told the prosecutor; and he swore in court upon the tryal.</p>
+            <p>French behaved very penitently after conviction, and to the last wept, and prayed heartily for forgiveness and the favour of God through Christ.</p>
+            <p>5. 
+                
+               <persName id="OA17531029n47-1" type="defendantName">
+                  <interp inst="OA17531029n47-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n47-1" type="age" value="21"/>
+                  <interp inst="OA17531029n47-1" type="surname" value="Horniblow"/>
+                  <interp inst="OA17531029n47-1" type="given" value="Job"/>Job Horniblow</persName>
+            , aged 21, was born in <placeName id="OA17531029-geo-27">
+                  <interp inst="OA17531029-geo-27" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-27"/>
+                  <placeName id="OA17531029-geo-28">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n47-1 OA17531029-geo-28"/>Cold-Bath Fields</placeName>, in the parish of St. Andrew's, Holborn</placeName>; was bred up with his parents, who gave him education at a school in the neighbourhood of <placeName id="OA17531029-geo-29">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-29"/>Hatton-Garden</placeName>, where he learned to read and write. He afterwards work'd a little at his father's business, who is a <rs id="OA17531029-occupation-22" type="occupation">baker</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n47-1 OA17531029-occupation-22"/>; but owns he was not very industrious at it. For four years past he has been a gentleman's servant in the capacity of a <rs id="OA17531029-occupation-23" type="occupation">coachman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n47-1 OA17531029-occupation-23"/> or <rs id="OA17531029-occupation-24" type="occupation">footman</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n47-1 OA17531029-occupation-24"/>, sometimes one, and sometimes the other, according as opportunity presented; and says he left his last place but in February last; for what reason he did not choose to say; but, by his silence, one would imagine it was not for his good behaviour, especially as things have turned out with him in the end.</p>
+            <p>Ever since, he owns, he has led a profligate life; gaming, and all kinds of debauchery have been his favourite entertainments; and none but thieves and lewd women had any share in his affections. He had forsaken all duty, and God gave him up to his heart's lust, and let him follow his own imaginations, which being evil continually have betimes worked his destruction in this life.</p>
+            <p>He has been exceeding ill ever since his conviction. It pleased God to afflict him with a heavy hand, we hope, to punish him a while here, that he might escape punishment everlasting hereafter.</p>
+            <p>If ever it might be said of any person, that he sought his own ruin, and was determined to run headlong into it, it surely might be of this unhappy youth. It was in February last, as aforesaid, that he left the service, wherein he was employed as under coachman. And he has been four times since taken up, and apprehended, as himself could not but acknowledge.</p>
+            <p>At <placeName id="OA17531029-geo-30">
+                  <interp inst="OA17531029-geo-30" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-30"/>Epsom</placeName> races last, he was taken amongst a parcel of gamblers at a gaming-table. Being examined as to the occasion of his being there, and required to give account of himself, he pretended, it was only curiosity led him to the races, and for his amusement. But, upon being searched, and a pistol found upon him, there was great suspicion of his being a bad person. Being further searched, several handkerchiefs were found upon him, which the owners present at his examination before a justice laid claim to, and then he owned, he came down upon that lay, to pick pockets, and to go on the highway, or any other mischief that came in his way, he was ripe for. To extricate himself from this share, he impeached two persons, who were taken up upon his information. But, no particular accusation being brought against them, both they, and he were let go.</p>
+            <p>In the session of July last, Horniblow was evidence against one 
+                
+               <persName id="OA17531029n52-1">
+                  <interp inst="OA17531029n52-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n52-1" type="surname" value="Rowland"/>
+                  <interp inst="OA17531029n52-1" type="given" value="Thomas"/>Thomas Rowland</persName>
+            , who was indicted for stealing two bit-halters, and a pair of</p>
+            <xptr type="pageFacsimile" doc="OA175310290009"/>
+            <p>butt-ropes. In this robbery, which was done done in <placeName id="OA17531029-geo-31">
+                  <interp inst="OA17531029-geo-31" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 n52-1 OA17531029-geo-31"/>Bread-street</placeName>, he was concerned, and being taken up, he informed where the things were to be found in Rowland's house. Upon his information the things were found, and Rowland being committed, Horniblow was admitted evidence against him; but, his testimony not being strengthened by any other, as to the fact, the jury thought proper to acquit Rowland, and Horniblow once more got his enlargement, which he made a very bad use of.</p>
+            <p>For, in September sessions, he had the favour granted him to appear again as an evidence against a person, who was then tried for robbing the Blanford stage-coach. Here Horniblow swore, that he and another went from the <placeName id="OA17531029-geo-32">
+                  <interp inst="OA17531029-geo-32" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-32"/>
+                  <placeName id="OA17531029-geo-33">
+                     <interp inst="OA17531029-geo-33" type="type" value="site"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n47-1 OA17531029-geo-33"/>Two Brewers</placeName>, the bottom of Little Saffron-Hill</placeName>, one night at 10 o'clock, and taking bridles and saddles with them, from that house, went to a field in <placeName id="OA17531029-geo-34">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-34"/>Black-Mary's-Hole</placeName>, from whence they stole two horses. From thence they went to <placeName id="OA17531029-geo-35">
+                  <interp inst="OA17531029-geo-35" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-35"/>Hide-Park-Corner</placeName>, in order to rob the Blandford coach, which they did. This was the nature of his evidence; but again he wanted confirmation; and having proved himself in open court a wicked fellow, the jury did not judge it fit to believe him, and so acquitted the prisoner.</p>
+            <p>Thus three times he escaped, by accusing others for what himself had been guilty of. All this had no effect upon him, but he resolved to go on in his wickedness in spite of all warning.</p>
+            <p>The sessions of September did not end till Monday the 10th, and on the 17th he committed the robbery for which he suffered. After it was done, he and his comrades went to <placeName id="OA17531029-geo-36">
+                  <interp inst="OA17531029-geo-36" type="type" value="parish"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n47-1 OA17531029-geo-36"/>Highgate</placeName>, where they spent their money, and thought to have got more; but returned to their old quarters without success; where they were taken in bed, with two brace of pistols loaded in their pillow-cases. Horniblow, being committed, said, he supposed he should be hang'd, but could not help it; 'twas too late now to recall what he had done.</p>
+            <p>After conviction, upon full proof of the fact, he not denying, he behaved as one sorry for his mispent life. He said, extravagance had brought him to it, for which himself was not more to blame than somebody else, but said not whom he meant. He was very ill, but spent what time he could in prayer for forgiveness thro' Christ's merits.</p>
+            <p>6. 
+                
+               <persName id="OA17531029n57-1" type="defendantName">
+                  <interp inst="OA17531029n57-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n57-1" type="age" value="26"/>
+                  <interp inst="OA17531029n57-1" type="surname" value="Clarke"/>
+                  <interp inst="OA17531029n57-1" type="given" value="Isaac"/>Isaac Clarke</persName>
+            , aged 26, says, he was born at <placeName id="OA17531029-geo-37">
+                  <interp inst="OA17531029-geo-37" type="type" value="county"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n57-1 OA17531029-geo-37"/>
+                  <placeName id="OA17531029-geo-38">
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n57-1 OA17531029-geo-38"/>Wanington</placeName> in Lancashire</placeName>, that he was brought to <placeName id="OA17531029-geo-39">
+                  <interp inst="OA17531029-geo-39" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n57-1 OA17531029-geo-39"/>London</placeName> by his parents when he was about six years of age, who put him to school, though he was not much advantaged by it, by means of his disinclination to confinement, being of an untoward disposition, and regardless of chastisement or advice. He says, had he given heed to his father's directions, it had been better for him; but, to his misfortune, he always run retrograde to all the advice given him, both by parents and others.</p>
+            <p>At about 16 years of age he was bound apprentice to a person that hir'd</p>
+            <xptr type="pageFacsimile" doc="OA175310290010"/>
+            <p>out carts; though as the custom, he says, among <rs id="OA17531029-occupation-25" type="occupation">carmen</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n57-1 OA17531029-occupation-25"/>, is, not to let a boy drive a cart till 18 years of age, he was not to drive for 12 months after he was bound.</p>
+            <p>During the 12 months, a person who was not much his friend, persuaded him to leave his mistress, he says, which he refused for some time; but, after a while, he was unluckily prevailed on to behave in such a manner as he was directed, which might reasonably be productive of complaints, and be the occasion of her being glad to get rid of him. In pursuance of such bad advice, he accustomed himself to lay out of nights, which occasioned uneasiness to her; and, after some time, thus transgressing against the good order of her family and house; she was willing to give up his indentures, and he was at liberty to be turned over.</p>
+            <p>Accordingly, he says, he was turn'd over to a master, and he served out seven years, and was reckoned a useful fellow in his way. But, when his time was out, having perhaps not been so very diligent as expected, he was sued and arrested for 20 l. loss of time-money, during his apprenticeship. He says, this was about last Christmas was twelve months. After some time he had his liberty again, upon condition of paying so much a week. He did so, he says, for some time; but afterwards neglecting, for some weeks, to pay, he was again arrested in April last, as he was passing the <placeName id="OA17531029-geo-40">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n57-1 OA17531029-geo-40"/>Poultry</placeName>, driving a cart, and put into the Compter. I think, he says, he raised some money, and paid more of this 20 l. debt, and gave a note for the rest, and was again admitted to his liberty.</p>
+            <p>However, finding himself thus harrassed, and not liking the usage he had met with, he forsook his industry, and resolved to get a livelihood some how, and in time fixed upon one no way justificable, such as generally produces the utter ruin of the person exercised thereby. He got into bad company of both sexes, and having taken to idleness, and cast himself out of all honest employment, he became a prey to villany and wickedness. Being of a robust constitution, and daring spirit, he was a match for any undertaking however desperate, and had strength to oppose almost any single man's arms.</p>
+            <p>His character seemed to stand pretty well in his neighbourhood, till some few months past. He was liable to drinking, and when in liquor was turbulent and troublesome; but as to labour, till he came to be linked in his last company's service, he was generally looked upon as a useful fellow.</p>
+            <p>He owns he has been guilty of several robberies, and concerned with several people, and was frequently upon the pick-pocket lay, but had the good luck to escape till last October sessions.</p>
+            <p>On the 26th of September he was concerned in the robbery for which he suffered, and was a principal actor in it. After which he met with a wench a day or two after, with whom he used to keep company, and promised to meet her again at night in <placeName id="OA17531029-geo-41">
+                  <interp inst="OA17531029-geo-41" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n57-1 OA17531029-geo-41"/>Shoe-Lane</placeName>;</p>
+            <xptr type="pageFacsimile" doc="OA175310290011"/>
+            <p>but instead of coming herself, she sent people to apprehend him; which they did.</p>
+            <p>He owned the fact, and the justice of his suffering, behaved very quiet and patiently under his unhappy fate, but would not say what other particular robbery, he had been concerned in, though he said he had been too much concerned in such evil practices. He said further, he was very sorry for what he had done, but that he was drove to it by ill usage. He hoped those whom he injured would forgive him, and trusted in the Lord for pardon of all his sins upon his repentance, and strength in Christ's merits.</p>
+            <p>7. 
+                
+               <persName id="OA17531029n66-1" type="defendantName">
+                  <interp inst="OA17531029n66-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n66-1" type="age" value="30"/>
+                  <interp inst="OA17531029n66-1" type="surname" value="Sullivan"/>
+                  <interp inst="OA17531029n66-1" type="given" value="Martin"/>Martin Sullivan</persName>
+            , aged 30, was born, I think, I was told, at <placeName id="OA17531029-geo-42">
+                  <interp inst="OA17531029-geo-42" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n66-1 OA17531029-geo-42"/>
+                  <placeName id="OA17531029-geo-43">
+                     <interp inst="OA17531029-geo-43" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n66-1 OA17531029-geo-43"/>Cork</placeName> in the kingdom of Ireland</placeName>, and was bred to the <rs id="OA17531029-occupation-26" type="occupation">sea</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n66-1 OA17531029-occupation-26"/>, which he followed while at liberty to do for himself. But that way of life not answering his extravagances we may presume, he was induced by his own bad inclinations and bad company, to go a thieving: For, he was one of a gang, which was once very numerous and notorious.</p>
+            <p>In August 1749, he was committed on oath of 
+                
+               <persName id="OA17531029n67-1">
+                  <interp inst="OA17531029n67-1" type="gender" value="female"/>
+                  <interp inst="OA17531029n67-1" type="surname" value="Bricker"/>
+                  <interp inst="OA17531029n67-1" type="given" value="Ann"/>Ann Bricker</persName>
+            , and others for stealing a great coat; of which he was convicted at the September sessions following, and of course transported.</p>
+            <p>At the last sessions in October, he was tried for returning from transportation. And a person appeared and swore he was an evidence on the trial for the offence committed in 1749, when <persName id="OA17531029n68-1">
+                  <interp inst="OA17531029n68-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n68-1" type="surname" value="SULLIVAN"/>
+                  <interp inst="OA17531029n68-1" type="given" value="MARTIN"/>Martin Sullivan</persName>, whom he knew very well, to be the same person that was convicted, and cast for transportation; and further, he swore, he saw him, when he received sentence. The identity of person thus proved, he was capitally convicted, and received sentence of death.</p>
+            <p>As he was a <rs id="OA17531029-occupation-27" type="occupation">Roman Catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n22-1 OA17531029-occupation-27"/>, I could learn nothing further of him, and can only say, of him, that, as far as I could understand, he behaved quietly. He was a stout, robust man, and seemed equal to any labour. He appeared with seeming undauntedness to the last, and dy'd a <rs id="OA17531029-occupation-28" type="occupation">Roman Catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n22-1 OA17531029-occupation-28"/>.</p>
+            <p>8. 
+                
+               <persName id="OA17531029n70-1" type="defendantName">
+                  <interp inst="OA17531029n70-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n70-1" type="age" value="38"/>
+                  <interp inst="OA17531029n70-1" type="surname" value="Hailey"/>
+                  <interp inst="OA17531029n70-1" type="given" value="George"/>George Hailey</persName>
+            , aged 38, was born also at <placeName id="OA17531029-geo-44">
+                  <interp inst="OA17531029-geo-44" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n70-1 OA17531029-geo-44"/>
+                  <placeName id="OA17531029-geo-45">
+                     <interp inst="OA17531029-geo-45" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n70-1 OA17531029-geo-45"/>Dublin</placeName> in Ireland</placeName>, of reputable parents, who brought him up well, and he might have provided honestly for himself. He was bred a <rs id="OA17531029-occupation-29" type="occupation">carpenter</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n70-1 OA17531029-occupation-29"/>, which being a business of extensive use, an industrious man might surely get an honest livelihood, if not an estate. And, he did own, that he might have lived very well, had it not been for some hindrance, which, we presume, was for want of inclination to industry, and propensity to idleness and bad company. He was a <rs id="OA17531029-occupation-30" type="occupation">Roman Catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n70-1 OA17531029-occupation-30"/> too, and therefore, I had no opportunity to know scarce any thing of his life and conversation in the world. But what I did see, and hear, would convince any one of his being a wretch of an untoward disposition, and malicious cast of mind; and such was his behaviour to the end.</p>
+            <xptr type="pageFacsimile" doc="OA175310290012"/>
+            <p>The woman that was with the chairman, when he was robbed, and thus barbarously treated by them, accordingto their usual custom, swore positively to Hailey's black beard, and large eyebrows, which were plain enough to be seen. And Shields told Preston, he believed Hailey had cut off the chairman's arm. So that the justice of his suffering can scarce be doubted. He died a <rs id="OA17531029-occupation-31" type="occupation">Roman catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n70-1 OA17531029-occupation-31"/>, and to the last endeavoured to put on an undaunted and hardened appearance.</p>
+            <p>9. 
+                
+               <persName id="OA17531029n72-1" type="defendantName">
+                  <interp inst="OA17531029n72-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n72-1" type="age" value="28"/>
+                  <interp inst="OA17531029n72-1" type="surname" value="Shields"/>
+                  <interp inst="OA17531029n72-1" type="given" value="Mark"/>Mark Shields</persName>, otherwise <persName id="OA17531029n72-2">
+                  <interp inst="OA17531029n72-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n72-2" type="surname" value="CHAILES"/>
+                  <interp inst="OA17531029n72-2" type="given" value="MARK"/>Chailes</persName>
+            , aged 28, was born at <placeName id="OA17531029-geo-46">
+                  <interp inst="OA17531029-geo-46" type="type" value="region"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n72-1 n72-2 OA17531029-geo-46"/>
+                  <placeName id="OA17531029-geo-47">
+                     <interp inst="OA17531029-geo-47" type="type" value="urban_centre"/>
+                     <join result="persNamePlace" targOrder="Y"
+                           targets="OA17531029n72-1 n72-2 OA17531029-geo-47"/>Dublin</placeName> in Ireland</placeName>, and bred to no business. What method he took from his childhood I cannot take upon me to say; being also a <rs id="OA17531029-occupation-32" type="occupation">Roman catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n72-1 n72-2 OA17531029-occupation-32"/>, no question or enquiry was admitted from me. How long he has been in England we know not, but for some years he has been known to be both a thief, and a thief-taker.</p>
+            <p>I understood, that he had wrote out a vast number of tricks, which he had played in his time, in both these capacities, which he intended to have sent into the world, and to have made publick, if his life had been spared, as he entertained great hopes of it; but was resolved to destroy them if he was executed. Some stir was made to save him, but the notoriety of his life was a barr to all those hopes or attempts succeeding, as may be very reasonably presumed. He boasted of having encouraged, and sent people a thieving, that he might have opportunity of taking them afterwards.</p>
+            <p>One instance of which occurs to my mind upon reflection, and looking back to memorandums; viz. In July sessions 1751, he was evidence at the <placeName id="OA17531029-geo-48">
+                  <interp inst="OA17531029-geo-48" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n72-1 n72-2 n74-1 n74-2 OA17531029-geo-48"/>Old Bailey</placeName> against 
+                
+               <persName id="OA17531029n74-1">
+                  <interp inst="OA17531029n74-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n74-1" type="surname" value="Holland"/>
+                  <interp inst="OA17531029n74-1" type="given" value="Richard"/>Richard Holland</persName>
+             and 
+                
+               <persName id="OA17531029n74-2">
+                  <interp inst="OA17531029n74-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n74-2" type="surname" value="Thorowgood"/>
+                  <interp inst="OA17531029n74-2" type="given" value="Daniel"/>Daniel Thorowgood</persName>
+            , for a robbery committed on 
+                
+               <persName id="OA17531029n74-3">
+                  <interp inst="OA17531029n74-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n74-3" type="surname" value="Dobbins"/>
+                  <interp inst="OA17531029n74-3" type="given" value="Henry"/>Henry Dobbins</persName>
+            , near <placeName id="OA17531029-geo-49">
+                  <interp inst="OA17531029-geo-49" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n72-1 n72-2 n74-1 n74-2 n74-3 OA17531029-geo-49"/>Fenchurch-street</placeName>, on June 11, 1749. Shields was the promoter of this robbery, as they both said at that time. He set them upon it, and stood at a distance himself, while they robbed the gentleman; and when he saw there was danger, he ran away. And afterwards, as they further said, he was instrumental in their being taken, being the main evidence to convict them; and they were both executed.</p>
+            <p>Also in the year 1751, Sheilds and Penpraise (a most notorious stealer of goods upon the river Thames, transported) gave evidence against a poor cobler at <placeName id="OA17531029-geo-50">
+                  <interp inst="OA17531029-geo-50" type="type" value="urban_centre"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n72-1 n72-2 OA17531029-geo-50"/>Kingston</placeName> assizes, for a robbery in St. George's Fields; but, the poor fellow's good character, which was given him by all his neighbours of credit and reputation, was an over-balance for all their hard swearing, which appeared to be for the reward only; nay, many people at that time believed that themselves had committed the very robbery.</p>
+            <p>Shields did rob in <placeName id="OA17531029-geo-51">
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n72-1 n72-2 OA17531029-geo-51"/>St. George's Fields</placeName>, as appeared in some measure from what Hailey said at the time of their tryal, where he mentions, indeed, only himself, and Preston the evidence against him; but afterwards Hailey made no scruple of owning that Shields cut Mr. Day, and Preston Mr. Townsend, in a barbarous manner.</p>
+            <xptr type="pageFacsimile" doc="OA175310290013"/>
+            <p>The chairman whom they barbarously treated, swore positively to Shields, who owned to Preston, the evidence, that he had cut a chairman in<placeName id="OA17531029-geo-52">
+                  <interp inst="OA17531029-geo-52" type="type" value="street"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n72-1 n72-2 OA17531029-geo-52"/>Soho-square</placeName>; so it is pretty certain he suffered justly. He was a stout-made young fellow, fit for any enterprize; and I can say no more of him, but that after conviction he seemed to behave very quietly. He died a <rs id="OA17531029-occupation-33" type="occupation">Roman catholick</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n72-1 n72-2 OA17531029-occupation-33"/>, and seemed to leave the world with a calm and composed mind.</p>
+            <p>Note, At the sessions in September last, Hailey was so wicked as to charge a poor widow woman with picking his pocket of the Sum of a guinea and an half. Accordingly he swore, and went before the grand-jury to give his evidence upon the pretended case; but the grand-jury saw into the villany, and that it was a malicious and wicked attempt, and threw out his bill of indictment against her. However, the affair was attended with great expence and inconveniency to the poor woman, who is upwards of 60 years of age; whereby she is much injured, though he missed of his design of taking away her life, upon account of some private pique and resentment he had entertained against her.</p>
+            <p>At the Place of EXECUTION.</p>
+            <p>ON Monday the 3d instant, about nine o'clock in the morning, 
+                
+               <persName id="OA17531029n80-1" type="defendantName">
+                  <interp inst="OA17531029n80-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-1" type="age" value="25"/>
+                  <interp inst="OA17531029n80-1" type="surname" value="Fairbrother"/>
+                  <interp inst="OA17531029n80-1" type="given" value="James"/>James Fairbrother</persName>
+             and 
+                
+               <persName id="OA17531029n80-2" type="defendantName">
+                  <interp inst="OA17531029n80-2" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-2" type="age" value="26"/>
+                  <interp inst="OA17531029n80-2" type="surname" value="Clarke"/>
+                  <interp inst="OA17531029n80-2" type="given" value="Isaac"/>Isaac Clarke</persName>
+            , in one cart; 
+                
+               <persName id="OA17531029n80-3" type="defendantName">
+                  <interp inst="OA17531029n80-3" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-3" type="age" value="28"/>
+                  <interp inst="OA17531029n80-3" type="surname" value="Shields"/>
+                  <interp inst="OA17531029n80-3" type="given" value="Mark"/>Mark Shields</persName>
+            , 
+                
+               <persName id="OA17531029n80-4" type="defendantName">
+                  <interp inst="OA17531029n80-4" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-4" type="age" value="38"/>
+                  <interp inst="OA17531029n80-4" type="surname" value="Hailey"/>
+                  <interp inst="OA17531029n80-4" type="given" value="George"/>George Hailey</persName>
+            , and 
+                
+               <persName id="OA17531029n80-5" type="defendantName">
+                  <interp inst="OA17531029n80-5" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-5" type="age" value="30"/>
+                  <interp inst="OA17531029n80-5" type="surname" value="Sullivan"/>
+                  <interp inst="OA17531029n80-5" type="given" value="Martin"/>Martin Sullivan</persName>
+            , in a second; 
+                
+               <persName id="OA17531029n80-6" type="defendantName">
+                  <interp inst="OA17531029n80-6" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-6" type="age" value="21"/>
+                  <interp inst="OA17531029n80-6" type="surname" value="Horniblow"/>
+                  <interp inst="OA17531029n80-6" type="given" value="Job"/>Job Horniblow</persName>
+            , and 
+                
+               <persName id="OA17531029n80-7" type="defendantName">
+                  <interp inst="OA17531029n80-7" type="gender" value="male"/>
+                  <interp inst="OA17531029n80-7" type="age" value="21"/>
+                  <interp inst="OA17531029n80-7" type="surname" value="French"/>
+                  <interp inst="OA17531029n80-7" type="given" value="William"/>William French</persName>
+            , in a third; were carried to the place of execution, through a vast crowd of spectators. When they were come there, they were all put into one cart, and the halter being about their several necks, they were tied up to the fatal tree. Then some time was spent in prayer, recommending their souls to the Almighty's protection. After which, the four protestants desired time to sing a psalm, and they did sing two or three verses of the 104th psalm. Shields was reading his own book. Sullivan could not read; and Hailey endeavoured to behave with a most uncommon assureance and undauntedness, such as amazed all the beholders of this sad fate. When the caps were drawn over their eyes, they uttered repeated callings on the Lord Jesus Christ to have mercy on them, and to receive their fouls, before the cart drew from under them. The dismal scene went on without any interruption or disturbance; and their bodies were delivered to the care of their friends.</p>
+            <p>This is all the Account given by me, 
+                
+               <persName id="OA17531029n81-1">
+                  <interp inst="OA17531029n81-1" type="gender" value="male"/>
+                  <interp inst="OA17531029n81-1" type="surname" value="TAYLOR"/>
+                  <interp inst="OA17531029n81-1" type="given" value="JOHN"/>JOHN TAYLOR</persName>
+            , <rs id="OA17531029-occupation-34" type="occupation">Ordinary</rs>
+               <join result="persNameOccupation" targOrder="Y"
+                     targets="OA17531029n81-1 OA17531029-occupation-34"/> of <placeName id="OA17531029-geo-53">
+                  <interp inst="OA17531029-geo-53" type="type" value="site"/>
+                  <join result="persNamePlace" targOrder="Y"
+                        targets="OA17531029n81-1 OA17531029-geo-53"/>Newgate</placeName>.</p>
+         </div0>
+      </body>
+   </text>
+</TEI.2>

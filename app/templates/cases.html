@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Cases – Old Bailey Case Blog{% endblock %}
+{% block content %}
+<h1>Cases</h1>
+<form method="get" action="/" class="search-form">
+  <input type="search" name="q" value="{{ search_query }}" placeholder="Search by case ID, year, offence, or name…" aria-label="Search cases">
+  <button type="submit">Search</button>
+</form>
+<table class="cases-table">
+  <thead>
+    <tr>
+      <th>Case ID</th>
+      <th>Year</th>
+      <th>Offence</th>
+      <th>Verdict</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for c in cases %}
+    <tr>
+      <td><a href="/case/{{ c.case_id }}">{{ c.case_id }}</a></td>
+      <td>{{ c.year or '—' }}</td>
+      <td>{{ c.primary_offence_label }}</td>
+      <td>{{ c.verdict_category }}</td>
+    </tr>
+    {% else %}
+    <tr>
+      <td colspan="4">No cases found.</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
