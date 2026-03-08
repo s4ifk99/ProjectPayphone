@@ -8,6 +8,9 @@ __pycache__/
 dist/
 build/
 
+# Generated stories (output folder for legal fiction)
+generated/
+
 # Database and data (optional: remove *.db if you want to track small fixtures)
 *.sqlite
 *.db

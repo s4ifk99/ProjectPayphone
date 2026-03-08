@@ -95,3 +95,81 @@ pre code { font-size: 0.9rem; }
 .similar-cases { margin: 0.5rem 0 1rem; }
 .case-nav { margin-bottom: 1.5rem; }
 .case-nav a { margin-right: 0.5rem; }
+
+/* Generate Legal Fiction form */
+.generate-form {
+  background: #171717;
+  padding: 1.25rem;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+  border: 1px solid #404040;
+}
+.generate-form h2 { margin-top: 0; }
+.generate-form label { display: block; margin-bottom: 0.5rem; color: #e5e5e5; }
+.generate-form select,
+.generate-form input[type="text"] {
+  margin-left: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #404040;
+  border-radius: 4px;
+  background: #262626;
+  color: #e5e5e5;
+}
+.generate-form button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #93c5fd;
+  color: #0a0a0a;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+.generate-form button:hover { opacity: 0.9; }
+.generate-form button:disabled { opacity: 0.6; cursor: not-allowed; }
+
+/* Progress block (inline) */
+.progress-inline {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #171717;
+  border-radius: 6px;
+  border: 1px solid #404040;
+}
+.progress-inline[hidden] { display: none !important; }
+.progress-inline p { margin: 0 0 0.5rem; color: #e5e5e5; }
+
+/* Progress bar (indeterminate animation) - scoped to avoid nav .status-bar */
+.progress-inline .generate-progress-bar {
+  height: 8px;
+  background: #262626;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+.progress-inline .generate-progress-bar-fill {
+  height: 100%;
+  width: 30%;
+  background: #93c5fd;
+  border-radius: 4px;
+  animation: status-bar-indeterminate 1.5s ease-in-out infinite;
+}
+@keyframes status-bar-indeterminate {
+  0% { transform: translateX(-100%); }
+  50% { transform: translateX(330%); }
+  100% { transform: translateX(-100%); }
+}
+.status-error {
+  color: #f87171;
+  margin: 0.5rem 0 0;
+}
+.modal-btn-continue {
+  padding: 0.5rem 1rem;
+  background: #93c5fd;
+  color: #0a0a0a;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+.modal-btn-continue:hover { opacity: 0.9; }

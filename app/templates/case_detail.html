@@ -85,9 +85,16 @@
   </details>
 </section>
 
+{% if latest_story_html %}
+<section class="story-latest">
+  <h2>Generated story</h2>
+  <div class="story-body">{{ latest_story_html|safe }}</div>
+</section>
+{% endif %}
+
 <section class="generate-form">
   <h2>Generate Legal Fiction</h2>
-  <form method="post" action="/case/{{ case_id }}/generate">
+  <form id="generate-form" method="post" action="/case/{{ case_id }}/generate">
     <label>Mode <select name="mode">
       <option value="dark">dark</option>
       <option value="sympathetic_defendant">sympathetic_defendant</option>
@@ -100,16 +107,17 @@
       <option value="1500-2500">1500–2500 words</option>
     </select></label>
     <label>Model override (optional) <input type="text" name="model_override" placeholder="e.g. mistral:7b-instruct"></label>
-    <button type="submit">Generate Legal Fiction</button>
+    <button type="button" id="generate-btn">Generate Legal Fiction</button>
   </form>
+  <div id="progress-block" class="progress-inline" aria-live="polite" hidden>
+    <p id="progress-text">Generating your legal fiction… This may take 2–5 minutes.</p>
+    <div class="status-bar" role="progressbar" aria-valuetext="Generating...">
+      <div class="status-bar-fill"></div>
+    </div>
+    <p id="progress-error" class="status-error" style="display: none;"></p>
+    <button id="progress-retry" type="button" class="modal-btn modal-btn-continue" style="display: none;">Try again</button>
+  </div>
 </section>
-
-{% if latest_story_html %}
-<section class="story-latest">
-  <h2>Latest story</h2>
-  <div class="story-body">{{ latest_story_html|safe }}</div>
-</section>
-{% endif %}
 
 {% if older_stories %}
 <section class="story-older">
@@ -122,6 +130,65 @@
 </section>
 {% endif %}
 
-<p class="nav-links"><a href="/">← Back to cases</a></p>
+<p class="nav-links">
+  {% if prev_case_id %}<a href="/case/{{ prev_case_id }}">← Previous case</a>{% endif %}
+  {% if prev_case_id and next_case_id %} | {% endif %}
+  {% if next_case_id %}<a href="/case/{{ next_case_id }}">Next case →</a>{% endif %}
+  {% if offence_slug %}{% if prev_case_id or next_case_id %} | {% endif %}<a href="/offences/{{ offence_slug }}/cases">Similar cases ({{ offence_display }})</a>{% endif %}
+  | <a href="/">← Home</a>
+</p>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var form = document.getElementById('generate-form');
+  var btn = document.getElementById('generate-btn');
+  var progressBlock = document.getElementById('progress-block');
+  var progressText = document.getElementById('progress-text');
+  var progressError = document.getElementById('progress-error');
+  var progressRetry = document.getElementById('progress-retry');
+  if (!form || !btn || !progressBlock) return;
+
+  form.addEventListener('submit', function(e) { e.preventDefault(); e.stopPropagation(); return false; });
+
+  function showProgress() {
+    progressBlock.hidden = false;
+    progressBlock.removeAttribute('hidden');
+    if (progressError) progressError.style.display = 'none';
+    if (progressRetry) progressRetry.style.display = 'none';
+    if (progressText) {
+      progressText.style.display = '';
+      progressText.textContent = 'Generating your legal fiction… This may take 2–5 minutes.';
+    }
+    btn.disabled = true;
+  }
+
+  function hideProgress() {
+    btn.disabled = false;
+  }
+
+  function showError(msg) {
+    if (progressText) progressText.style.display = 'none';
+    if (progressError) {
+      progressError.style.display = 'block';
+      progressError.textContent = msg;
+    }
+    if (progressRetry) progressRetry.style.display = 'inline-block';
+    btn.disabled = false;
+  }
+
+  function doGenerate() {
+    showProgress();
+    var formData = new FormData(form);
+    fetch(form.action, { method: 'POST', body: formData, redirect: 'follow' })
+      .then(function(res) { window.location.href = res.url; })
+      .catch(function(err) {
+        showError('Something went wrong: ' + (err.message || 'network error') + '. Please try again.');
+      });
+  }
+
+  btn.addEventListener('click', function() { doGenerate(); });
+  if (progressRetry) progressRetry.addEventListener('click', function() { doGenerate(); });
+});
+</script>
 {% endif %}
 {% endblock %}

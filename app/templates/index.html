@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Old Bailey Case Blog{% endblock %}
+{% block content %}
+<h1>Old Bailey Case Blog</h1>
+<p>Browse cases by criminal offence, or view all cases. Click a case to read it and generate legal fiction.</p>
+
+<p class="nav-links"><a href="/cases">Browse all cases</a></p>
+
+<h2>Offence categories</h2>
+<table class="cases-table">
+  <thead>
+    <tr>
+      <th>Offence category</th>
+      <th>Cases</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in categories %}
+    <tr>
+      <td>{{ item.offence_category or '(unknown)' }}</td>
+      <td>{{ item.case_count }}</td>
+      <td><a href="/offences/{{ item.slug }}/cases">View cases</a></td>
+    </tr>
+    {% else %}
+    <tr>
+      <td colspan="3">No offence data. Run <code>python ingest_old_bailey.py</code> to load data.</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

@@ -8,6 +8,7 @@ One SQLite connection per request.
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 from flask import Flask, abort, jsonify, render_template, request
@@ -26,7 +27,7 @@ from oldbailey.db.sqlite import (
 OFFENCE_NONE_SLUG = "_none"
 
 
-def create_app(db_path: str | Path) -> Flask:
+def create_app(db_path: str | Path, backend_url: str | None = None) -> Flask:
     """Create Flask app with db_path stored in config."""
     app = Flask(
         __name__,
@@ -35,6 +36,10 @@ def create_app(db_path: str | Path) -> Flask:
         static_url_path="/static",
     )
     app.config["DB_PATH"] = str(Path(db_path).resolve())
+    app.config["GENERATE_BACKEND_URL"] = (
+        (backend_url or "").strip()
+        or os.environ.get("GENERATE_BACKEND_URL", "http://127.0.0.1:8000").strip()
+    )
 
     @app.after_request
     def _cors_headers(response):
@@ -299,6 +304,7 @@ def create_app(db_path: str | Path) -> Flask:
                 offence_display_name=offence_display_name,
                 prev_case_id=prev_case_id,
                 next_case_id=next_case_id,
+                generate_backend_url=app.config.get("GENERATE_BACKEND_URL", ""),
             )
         finally:
             conn.close()

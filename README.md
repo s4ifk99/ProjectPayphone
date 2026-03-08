@@ -73,6 +73,18 @@ Then open http://127.0.0.1:5000/
 - **Home**: lists offence categories with case counts (sorted by frequency).
 - Click **View cases** for an offence to see cases (sorted by year/date).
 - Click **View** on a case to see its metadata and ordered speeches.
+- **Generate Legal Fiction**: on each case page (top and bottom). Requires the FastAPI backend on port 8000.
+
+**If the Generate Legal Fiction button doesn't appear**, the app may be using cached templates from an installed package. Use the run script instead:
+
+```bash
+./run_flask.sh
+# or: ./run_flask.sh path/to/oldbailey.sqlite
+```
+
+This forces use of the local source templates.
+
+**Remote generation**: To run the case browser on a weak computer and the LLM on a more powerful machine, see [REMOTE_GENERATION.md](REMOTE_GENERATION.md). Use `./run_flask_remote.sh` with `GENERATE_BACKEND_URL` pointing to the powerful machine.
 
 Optional: `--host` and `--port` to change bind address and port.
 
@@ -105,8 +117,11 @@ pip install -r requirements.txt
 ### Run Ollama
 
 1. Install [Ollama](https://ollama.com) and start the server: `ollama serve`
-2. Pull a model, e.g.: `ollama pull mistral:7b-instruct`
-3. Optional: set `OLLAMA_MODEL=mistral:7b-instruct` (default) or another model name.
+2. Pull a model. Default is `smollm2:360m` (optimised for 8 GB RAM); for 16 GB see below:
+   ```bash
+   ollama pull smollm2:360m
+   ```
+3. Optional env vars: `OLLAMA_MODEL`, `OLLAMA_NUM_CTX`, `PROMPT_FULL_TEXT_TRUNCATE` (see below).
 
 ### Run the app
 
@@ -116,17 +131,47 @@ From the project root (where `old_bailey.db` and `app/` live):
 uvicorn app.main:app --reload
 ```
 
+For 8 GB RAM (e.g. Surface Book, i5):
+
+```bash
+OLLAMA_MODEL=smollm2:360m OLLAMA_NUM_CTX=2048 uvicorn app.main:app --reload
+```
+
 Then open http://127.0.0.1:8000/
 
 - **/** — Searchable cases list (case_id, year, offence, verdict).
-- **/case/{case_id}** — Case card (offences, people, places, outcome, full text) and “Generate Legal Fiction” form. Stories are stored in SQLite and shown on the same page.
+- **/case/{case_id}** — Case card (offences, people, places, outcome, full text) and “Generate Legal Fiction” form. Stories are stored in SQLite and shown on the same page. **V0 frontend:** If the button does nothing, see [V0_INTEGRATION.md](V0_INTEGRATION.md) to wire it up.
 
-### Suggested models (Intel i7, 16GB RAM)
+### Suggested models
 
-- Mistral 7B Instruct (GGUF Q4_K_M)
-- Qwen2.5 7B Instruct (GGUF Q4_K_M)
-- Llama 3.1 8B Instruct (GGUF Q4_K_M)
-- Faster fallback: Phi-3.5 Mini or Qwen2.5 3B
+**8 GB RAM (e.g. Surface Book, i5):**
+
+- SmolLM2-360M (default)
+- Qwen2.5-1.5B
+- TinyLlama
+- Phi-3.5 Mini
+
+**16 GB RAM:**
+
+- Mistral 7B Instruct
+- Qwen2.5 7B Instruct
+- Llama 3.1 8B Instruct
+
+### Environment variables
+
+| Variable | Default | Description |
+|----------|---------|--------------|
+| `OLLAMA_MODEL` | `smollm2:360m` | Model name for generation |
+| `OLLAMA_NUM_CTX` | (unset) | Context window size; use `2048` on 8 GB to reduce RAM |
+| `PROMPT_FULL_TEXT_TRUNCATE` | `5000` | Max case text chars in prompt; raise to `8000` on 16 GB |
+| `OLD_BAILEY_DB_PATH` | `./old_bailey.db` | Database path |
+| `VERCEL_DEPLOY_HOOK_URL` | (unset) | Vercel deploy hook; pinged after each story to rebuild your V0 site |
+
+### Optional: Vercel deploy hook (for V0 frontend)
+
+After each successful story generation, the app writes the story to `generated/stories/` and can trigger a Vercel rebuild so your V0 site picks up new content. See **[DEPLOY_HOOK_SETUP.md](DEPLOY_HOOK_SETUP.md)** for step-by-step instructions.
+
+The app supports `VERCEL_DEPLOY_HOOK_URL` or `DEPLOY_HOOK_URL`; both work the same.
 
 ### Optional: llama.cpp server
 
@@ -135,10 +180,11 @@ If `LLAMA_CPP_BASE_URL` is set (e.g. `http://localhost:8080`), the app uses that
 ### Troubleshooting
 
 - **Ollama not reachable**: Start the daemon with `ollama serve`.
-- **Model not found**: Run `ollama pull <model>` (e.g. `ollama pull mistral:7b-instruct`).
+- **Model not found**: Run `ollama pull <model>` (e.g. `ollama pull smollm2:360m`).
+- **8 GB RAM / slow or OOM**: Use `OLLAMA_MODEL=smollm2:360m`, `OLLAMA_NUM_CTX=2048`, close other apps.
 - Test Ollama from the command line:
   ```bash
-  curl http://localhost:11434/api/generate -d '{"model":"mistral:7b-instruct","prompt":"Hello","stream":false}'
+  curl http://localhost:11434/api/generate -d '{"model":"smollm2:360m","prompt":"Hello","stream":false}'
   ```
 
 Database path defaults to `./old_bailey.db`; override with `OLD_BAILEY_DB_PATH`.

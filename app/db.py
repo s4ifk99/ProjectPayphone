@@ -116,7 +116,12 @@ def list_cases(
     rows = conn.execute(sql, (fetch_limit,)).fetchall()
 
     if not search or not search.strip():
-        return [_row_to_case_dict(row, columns) for row in rows]
+        out = []
+        for row in rows:
+            rec = _row_to_case_dict(row, columns)
+            rec["card"] = _parse_card_json(rec.get("card_json"))
+            out.append(rec)
+        return out
 
     q = search.strip()
     out: list[dict[str, Any]] = []
@@ -164,17 +169,21 @@ def insert_story(
     target_length: str,
     prompt: str,
     story_markdown: str,
-) -> int:
+    created_at: str | None = None,
+) -> tuple[int, str]:
+    """Insert a story; returns (story_id, created_at)."""
     from datetime import datetime, timezone
     init_stories_table(conn)
-    created_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    if not created_at:
+        created_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     cur = conn.execute(
         """INSERT INTO stories (case_id, created_at, model, mode, target_length, prompt, story_markdown)
            VALUES (?, ?, ?, ?, ?, ?, ?)""",
         (case_id, created_at, model, mode, target_length, prompt, story_markdown),
     )
     conn.commit()
-    return cur.lastrowid or 0
+    story_id = cur.lastrowid or 0
+    return (story_id, created_at)
 
 
 def list_stories_for_case(
@@ -188,3 +197,104 @@ def list_stories_for_case(
         (case_id,),
     ).fetchall()
     return [dict(row) for row in rows]
+
+
+def list_all_stories(
+    conn: sqlite3.Connection,
+    limit: int = 100,
+    offset: int = 0,
+) -> list[dict[str, Any]]:
+    """List stories across all cases, newest first. For API."""
+    init_stories_table(conn)
+    rows = conn.execute(
+        """SELECT story_id, case_id, created_at, model, mode, target_length, prompt, story_markdown
+           FROM stories ORDER BY created_at DESC LIMIT ? OFFSET ?""",
+        (limit, offset),
+    ).fetchall()
+    return [dict(row) for row in rows]
+
+
+def get_story(conn: sqlite3.Connection, story_id: int) -> dict[str, Any] | None:
+    """Get one story by story_id."""
+    init_stories_table(conn)
+    row = conn.execute(
+        """SELECT story_id, case_id, created_at, model, mode, target_length, prompt, story_markdown
+           FROM stories WHERE story_id = ?""",
+        (story_id,),
+    ).fetchone()
+    return dict(row) if row else None
+
+
+def _offence_from_card(card: dict[str, Any]) -> str:
+    """Extract primary offence category from card for grouping."""
+    offences = card.get("offences") or []
+    if not offences:
+        return "(unknown)"
+    first = offences[0] if isinstance(offences[0], dict) else {}
+    cat = first.get("offenceCategory") or first.get("offenceSubcategory") or first.get("offence_text")
+    if isinstance(cat, list):
+        cat = cat[0] if cat else None
+    return str(cat).strip() if cat else "(unknown)"
+
+
+def _slugify(s: str) -> str:
+    """URL-safe slug from offence name."""
+    import re
+    s = re.sub(r"[^\w\s-]", "", s)
+    s = re.sub(r"[-\s]+", "-", s).strip("-").lower()
+    return s or "_unknown"
+
+
+def offence_slug_for_card(card: dict[str, Any]) -> str:
+    """Get URL slug for a case's offence category."""
+    return _slugify(_offence_from_card(card))
+
+
+def offences_summary(conn: sqlite3.Connection, limit: int | None = None) -> list[dict[str, Any]]:
+    """List offence categories with case counts, sorted by count descending."""
+    columns = _get_cases_columns(conn)
+    init_stories_table(conn)
+    select_cols = ["case_id", "card_json"]
+    cols_str = ", ".join(select_cols)
+    rows = conn.execute(f"SELECT {cols_str} FROM cases").fetchall()
+    counts: dict[str, int] = {}
+    for row in rows:
+        rec = _row_to_case_dict(row, columns)
+        card = _parse_card_json(rec.get("card_json"))
+        cat = _offence_from_card(card)
+        counts[cat] = counts.get(cat, 0) + 1
+    out = [
+        {"offence_category": cat, "case_count": n, "slug": _slugify(cat)}
+        for cat, n in sorted(counts.items(), key=lambda x: -x[1])
+    ]
+    if limit:
+        out = out[:limit]
+    return out
+
+
+def list_cases_by_offence(
+    conn: sqlite3.Connection,
+    offence_category: str,
+    limit: int | None = None,
+) -> list[dict[str, Any]]:
+    """List cases matching offence category. Use slug to look up; (unknown) for empty."""
+    columns = _get_cases_columns(conn)
+    init_stories_table(conn)
+    select_cols = ["case_id", "doc_id", "sequence_in_doc", "full_text", "card_json"]
+    if "page_facsimiles" in columns:
+        select_cols.append("page_facsimiles")
+    cols_str = ", ".join(select_cols)
+    rows = conn.execute(f"SELECT {cols_str} FROM cases ORDER BY case_id").fetchall()
+    out: list[dict[str, Any]] = []
+    for row in rows:
+        rec = _row_to_case_dict(row, columns)
+        card = _parse_card_json(rec.get("card_json"))
+        rec["card"] = card
+        cat = _offence_from_card(card)
+        if _slugify(cat) == _slugify(offence_category) or (
+            offence_category in ("_unknown", "(unknown)") and cat == "(unknown)"
+        ):
+            out.append(rec)
+            if limit and len(out) >= limit:
+                break
+    return out

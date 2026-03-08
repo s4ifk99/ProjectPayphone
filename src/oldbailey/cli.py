@@ -75,9 +75,12 @@ def serve_cmd(
     db: Path = typer.Option(..., "--db", help="SQLite database path."),
     host: str = typer.Option("127.0.0.1", "--host", help="Bind host."),
     port: int = typer.Option(5000, "--port", help="Bind port."),
+    backend_url: str | None = typer.Option(
+        None, "--backend-url", help="FastAPI backend URL for Generate Legal Fiction (default: http://127.0.0.1:8000)."
+    ),
 ) -> None:
     """Start web interface to browse cases by offence."""
-    flask_app = create_app(db)
+    flask_app = create_app(db, backend_url=backend_url)
     init_db(connect(db))
     console.print(f"Starting server at http://{host}:{port}/")
     flask_app.run(host=host, port=port, debug=False)

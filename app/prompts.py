@@ -4,6 +4,7 @@ Strict prompt builder for legal fiction with Joseph Campbell 12-stage structure.
 from __future__ import annotations
 
 import json
+import os
 import re
 from typing import Any
 
@@ -40,7 +41,7 @@ MODE_BLOCKS = {
     "pamphlet_style": "Use a 17th-century moralizing pamphlet voice with occasional direct address to the Reader.",
 }
 
-FULL_TEXT_TRUNCATE = 8000
+FULL_TEXT_TRUNCATE = int(os.environ.get("PROMPT_FULL_TEXT_TRUNCATE", "5000"))
 
 
 def build_story_prompt(

@@ -2,12 +2,13 @@
 """
 TEI XML ingestion pipeline for Old Bailey sessions papers.
 
-Recursively scans ./xml_files for TEI XML, extracts document and case data
+Recursively scans XML dir for TEI XML, extracts document and case data
 from div0/div1, inserts into old_bailey.db, and writes case_cards.jsonl.
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import logging
 import re
@@ -269,12 +270,12 @@ def _skip_path(p: Path) -> bool:
     return False
 
 
-def _iter_xml_files() -> list[Path]:
-    """Recursively find XML files in xml_files, excluding skip paths."""
-    if not XML_DIR.exists():
+def _iter_xml_files(xml_dir: Path) -> list[Path]:
+    """Recursively find XML files in xml_dir, excluding skip paths."""
+    if not xml_dir.exists():
         return []
     out: list[Path] = []
-    for p in sorted(XML_DIR.rglob("*.xml")):
+    for p in sorted(xml_dir.rglob("*.xml")):
         if _skip_path(p):
             continue
         out.append(p)
@@ -308,13 +309,17 @@ def _init_db(conn: sqlite3.Connection) -> None:
     """)
 
 
-def main() -> None:
-    xml_files = _iter_xml_files()
+def main(xml_dir: Path | None = None, db_path: Path | None = None, jsonl_path: Path | None = None) -> None:
+    xml_dir = xml_dir or XML_DIR
+    db_path = db_path or DB_PATH
+    jsonl_path = jsonl_path or JSONL_PATH
+
+    xml_files = _iter_xml_files(xml_dir)
     if not xml_files:
-        logger.warning("No XML files found in %s", XML_DIR.resolve())
+        logger.warning("No XML files found in %s", xml_dir.resolve())
         return
 
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(db_path)
     _init_db(conn)
     documents: list[tuple] = []
     cases: list[tuple] = []
@@ -331,7 +336,7 @@ def main() -> None:
             logger.warning("Parse error %s: %s", xml_path, e)
             continue
 
-        rel_path = str(xml_path.relative_to(XML_DIR)) if xml_path.is_relative_to(XML_DIR) else str(xml_path)
+        rel_path = str(xml_path.relative_to(xml_dir)) if xml_path.is_relative_to(xml_dir) else str(xml_path)
 
         for div0 in _iter_div0_sessions(root):
             doc = _extract_document(div0, rel_path)
@@ -373,14 +378,19 @@ def main() -> None:
             row,
         )
     conn.commit()
+    conn.close()
 
-    with open(JSONL_PATH, "w", encoding="utf-8") as f:
+    with open(jsonl_path, "w", encoding="utf-8") as f:
         for card in cards:
             f.write(json.dumps(card, ensure_ascii=False) + "\n")
 
-    conn.close()
-    logger.info("Ingested %d documents, %d cases -> %s, %s", len(documents), len(cases), DB_PATH, JSONL_PATH)
+    logger.info("Ingested %d documents, %d cases -> %s, %s", len(documents), len(cases), db_path, jsonl_path)
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Ingest Old Bailey XML into old_bailey.db")
+    parser.add_argument("--xml-dir", type=Path, default=XML_DIR, help="Directory containing TEI XML files")
+    parser.add_argument("--db", type=Path, default=DB_PATH, help="Output SQLite database path")
+    parser.add_argument("--jsonl", type=Path, default=JSONL_PATH, help="Output case_cards.jsonl path")
+    args = parser.parse_args()
+    main(xml_dir=args.xml_dir, db_path=args.db, jsonl_path=args.jsonl)

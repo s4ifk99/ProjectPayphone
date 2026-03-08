@@ -136,6 +136,9 @@ details summary { cursor: pointer; font-weight: 500; }
   cursor: pointer;
 }
 .generate-form button:hover { opacity: 0.9; }
+.generate-form button:disabled { opacity: 0.6; cursor: not-allowed; }
+.progress-inline { margin-top: 1rem; padding: 1rem; background: var(--page-bg); border-radius: 8px; }
+.progress-inline[hidden] { display: none !important; }
 
 .story-latest { margin-top: 1.5rem; }
 .story-body {
@@ -155,3 +158,86 @@ details summary { cursor: pointer; font-weight: 500; }
 .nav-links { margin-top: 1.5rem; }
 .nav-links a { color: var(--link); text-decoration: none; }
 .nav-links a:hover { text-decoration: underline; }
+
+/* Modal overlay */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  align-items: center;
+  justify-content: center;
+  z-index: 99999;
+}
+.modal-overlay[aria-hidden="false"] {
+  display: flex;
+}
+.modal-content {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 8px;
+  max-width: 420px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+.modal-content h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+.modal-content code {
+  background: var(--page-bg);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.modal-actions {
+  margin-top: 1.25rem;
+  display: flex;
+  gap: 0.75rem;
+}
+.modal-btn {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+.modal-btn-cancel {
+  background: var(--page-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+.modal-btn-cancel:hover {
+  background: var(--border);
+}
+.modal-btn-continue {
+  background: var(--link);
+  color: #fff;
+}
+.modal-btn-continue:hover {
+  opacity: 0.9;
+}
+
+/* Status bar */
+.status-bar {
+  height: 8px;
+  background: var(--page-bg);
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+.status-bar-fill {
+  height: 100%;
+  width: 30%;
+  background: var(--link);
+  border-radius: 4px;
+  animation: status-bar-indeterminate 1.5s ease-in-out infinite;
+}
+@keyframes status-bar-indeterminate {
+  0% { transform: translateX(-100%); }
+  50% { transform: translateX(330%); }
+  100% { transform: translateX(-100%); }
+}
+.status-error {
+  color: var(--error);
+  margin: 0.5rem 0 0;
+}

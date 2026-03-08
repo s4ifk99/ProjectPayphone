@@ -9,7 +9,7 @@ from typing import Any
 import httpx
 
 OLLAMA_BASE_URL = os.environ.get("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "mistral:7b-instruct")
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "smollm2:360m")
 LLAMA_CPP_BASE_URL = os.environ.get("LLAMA_CPP_BASE_URL", "")
 GENERATE_TIMEOUT = 300.0
 
@@ -20,13 +20,17 @@ class LLMError(Exception):
 
 def _ollama_generate(prompt: str, model: str, options: dict[str, Any] | None = None) -> str:
     url = f"{OLLAMA_BASE_URL.rstrip('/')}/api/generate"
+    opts = dict(options) if options else {}
+    num_ctx = os.environ.get("OLLAMA_NUM_CTX")
+    if num_ctx:
+        opts["num_ctx"] = int(num_ctx)
     payload: dict[str, Any] = {
         "model": model,
         "prompt": prompt,
         "stream": False,
     }
-    if options:
-        payload["options"] = options
+    if opts:
+        payload["options"] = opts
     with httpx.Client(timeout=GENERATE_TIMEOUT) as client:
         try:
             r = client.post(url, json=payload)

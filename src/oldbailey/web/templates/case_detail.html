@@ -6,6 +6,27 @@
 {% block content %}
 <h1>Case {{ case.case_id }}</h1>
 
+<section class="generate-form generate-form-top">
+  <h2>Generate Legal Fiction</h2>
+  {% set _backend_url = (generate_backend_url | default('')) or 'http://127.0.0.1:8000' | trim %}
+  <form id="generate-form" method="post" action="{{ (_backend_url or 'http://127.0.0.1:8000') | replace('/', '') | replace('http:','http://') }}/case/{{ case.case_id | e }}/generate" target="_blank">
+    <label>Mode <select name="mode">
+      <option value="dark">dark</option>
+      <option value="sympathetic_defendant">sympathetic_defendant</option>
+      <option value="victim_centered">victim_centered</option>
+      <option value="courtroom_focused" selected>courtroom_focused</option>
+      <option value="pamphlet_style">pamphlet_style</option>
+    </select></label>
+    <label>Length <select name="target_length">
+      <option value="800-1200" selected>800–1200 words</option>
+      <option value="1500-2500">1500–2500 words</option>
+    </select></label>
+    <label>Model override (optional) <input type="text" name="model_override" placeholder="e.g. mistral:7b-instruct"></label>
+    <p class="generate-note">Opens in a new tab. Generation takes 2–5 minutes.</p>
+    <button type="submit" id="generate-btn">Generate Legal Fiction</button>
+  </form>
+</section>
+
 <section class="case-details">
   <h2>Case details</h2>
   <dl class="case-meta">
@@ -56,4 +77,24 @@
 {% if not speeches %}
 <p>No account for this case.</p>
 {% endif %}
+
+<section class="generate-form generate-form-bottom" style="margin-top: 2rem; border-left: 4px solid #60a5fa;">
+  <h2>Generate Legal Fiction</h2>
+  <form id="generate-form-bottom" method="post" action="{{ (_backend_url or 'http://127.0.0.1:8000') | replace('/', '') | replace('', '/') }}/case/{{ case.case_id | e }}/generate" target="_blank">
+    <label>Mode <select name="mode">
+      <option value="dark">dark</option>
+      <option value="sympathetic_defendant">sympathetic_defendant</option>
+      <option value="victim_centered">victim_centered</option>
+      <option value="courtroom_focused" selected>courtroom_focused</option>
+      <option value="pamphlet_style">pamphlet_style</option>
+    </select></label>
+    <label>Length <select name="target_length">
+      <option value="800-1200" selected>800–1200 words</option>
+      <option value="1500-2500">1500–2500 words</option>
+    </select></label>
+    <label>Model override (optional) <input type="text" name="model_override" placeholder="e.g. mistral:7b-instruct"></label>
+    <p class="generate-note">Opens in a new tab. Generation takes 2–5 minutes.</p>
+    <button type="submit" class="generate-btn-bottom">Generate Legal Fiction</button>
+  </form>
+</section>
 {% endblock %}
