@@ -369,12 +369,12 @@ def main(xml_dir: Path | None = None, db_path: Path | None = None, jsonl_path: P
 
     for row in documents:
         conn.execute(
-            "INSERT INTO documents (doc_id, collection, year, uri, date_raw, source_file) VALUES (?, ?, ?, ?, ?, ?)",
+            "INSERT OR REPLACE INTO documents (doc_id, collection, year, uri, date_raw, source_file) VALUES (?, ?, ?, ?, ?, ?)",
             row,
         )
     for row in cases:
         conn.execute(
-            "INSERT INTO cases (case_id, doc_id, sequence_in_doc, full_text, page_facsimiles, card_json) VALUES (?, ?, ?, ?, ?, ?)",
+            "INSERT OR REPLACE INTO cases (case_id, doc_id, sequence_in_doc, full_text, page_facsimiles, card_json) VALUES (?, ?, ?, ?, ?, ?)",
             row,
         )
     conn.commit()

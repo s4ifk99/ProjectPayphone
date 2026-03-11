@@ -236,6 +236,7 @@ def generate(request: Request, case_id: str, mode: str = Form("courtroom_focused
             "primary_offence": models.primary_offence_label(card),
             "verdict": models.verdict_category_label(card),
         }
+        provenance = story_export.extract_provenance(card, full_text)
         try:
             story_export.write_story_to_folder(
                 story_id=story_id,
@@ -246,6 +247,7 @@ def generate(request: Request, case_id: str, mode: str = Form("courtroom_focused
                 target_length=target_length,
                 story_markdown=story_markdown,
                 case_summary=case_summary,
+                provenance=provenance,
             )
             story_export.trigger_deploy_hook()
         except Exception:
@@ -305,6 +307,7 @@ def api_generate(case_id: str, body: GenerateRequestBody | None = None):
             "primary_offence": models.primary_offence_label(card),
             "verdict": models.verdict_category_label(card),
         }
+        provenance = story_export.extract_provenance(card, full_text)
         try:
             story_export.write_story_to_folder(
                 story_id=story_id,
@@ -315,6 +318,7 @@ def api_generate(case_id: str, body: GenerateRequestBody | None = None):
                 target_length=target_length,
                 story_markdown=story_markdown,
                 case_summary=case_summary,
+                provenance=provenance,
             )
             story_export.trigger_deploy_hook()
         except Exception:
@@ -325,7 +329,7 @@ def api_generate(case_id: str, body: GenerateRequestBody | None = None):
             "case_id": case_id,
             "created_at": created_at,
             "compliant": compliant,
-            "message": "Story generated." if compliant else "Story saved (some Hero's Journey headings missing).",
+            "message": "Story generated." if compliant else "Story saved.",
         })
     finally:
         conn.close()

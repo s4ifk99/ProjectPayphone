@@ -127,6 +127,10 @@ pre code { font-size: 0.9rem; }
 }
 .generate-form button:hover { opacity: 0.9; }
 .generate-form button:disabled { opacity: 0.6; cursor: not-allowed; }
+.generate-status { padding: 0.5rem; border-radius: 4px; }
+.generate-status-pending { background: #262626; color: #93c5fd; }
+.generate-status-ok { background: #14532d; color: #86efac; }
+.generate-status-error { background: #7f1d1d; color: #fca5a5; }
 
 /* Progress block (inline) */
 .progress-inline {

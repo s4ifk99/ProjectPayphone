@@ -75,16 +75,7 @@ Then open http://127.0.0.1:5000/
 - Click **View** on a case to see its metadata and ordered speeches.
 - **Generate Legal Fiction**: on each case page (top and bottom). Requires the FastAPI backend on port 8000.
 
-**If the Generate Legal Fiction button doesn't appear**, the app may be using cached templates from an installed package. Use the run script instead:
-
-```bash
-./run_flask.sh
-# or: ./run_flask.sh path/to/oldbailey.sqlite
-```
-
-This forces use of the local source templates.
-
-**Remote generation**: To run the case browser on a weak computer and the LLM on a more powerful machine, see [REMOTE_GENERATION.md](REMOTE_GENERATION.md). Use `./run_flask_remote.sh` with `GENERATE_BACKEND_URL` pointing to the powerful machine.
+**If the Generate Legal Fiction button doesn't appear**, the app may be using cached templates from an installed package. Use the run script instead: `./run_flask.sh` (see below).
 
 Optional: `--host` and `--port` to change bind address and port.
 
@@ -113,6 +104,36 @@ python -m venv .venv
 source .venv/bin/activate   # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
+
+### Run everything (single machine)
+
+Run the full stack (Flask case browser + FastAPI + LLM) on one computer:
+
+1. **Data setup** — both databases must exist:
+   - **Both at once** (stop servers first): `./scripts/ingest_all.sh`
+   - Or individually:
+     - `old_bailey.db` (FastAPI, Generate Legal Fiction): `./scripts/ingest_fastapi_data.sh`
+     - `oldbailey.sqlite` (Flask browse): `./scripts/ingest_flask_data.sh` — **stop servers first**
+   If migrating from a remote setup: copy `old_bailey.db` and `oldbailey.sqlite` from the other machine.
+
+2. **Start Ollama** (in a separate terminal):
+   ```bash
+   ollama serve
+   ollama pull smollm2:360m   # or your preferred model
+   ```
+
+3. **Start Flask + FastAPI**:
+   ```bash
+   ./run_local.sh
+   # or: ./run_both.sh   (run_local.sh checks that Ollama is running first)
+   ```
+
+   - Flask (case browser): http://127.0.0.1:5000/
+   - FastAPI (stories, generate): http://127.0.0.1:8000/
+
+No `GENERATE_BACKEND_URL` needed — Flask uses `http://127.0.0.1:8000` by default.
+
+**Split across two computers?** See [REMOTE_GENERATION.md](REMOTE_GENERATION.md).
 
 ### Run Ollama
 

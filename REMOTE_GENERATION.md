@@ -1,5 +1,9 @@
 # Remote Legal Fiction Generator Setup
 
+**Single machine?** Use `./run_local.sh` or `./run_both.sh` instead; see [README.md](README.md).
+
+---
+
 Split the workload so your weak computer runs the UI and commands, while your powerful computer runs the LLM and handles story generation + blog upload.
 
 ## Architecture

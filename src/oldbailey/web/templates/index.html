@@ -22,9 +22,10 @@
   </tbody>
 </table>
 {% if not categories %}
-<p class="empty-state">No offence data yet. To load data, run from the project directory:</p>
-<pre><code>oldbailey ingest --obo-xml path/to/oldbailey_xml
-# optionally add: --obv2-zip path/to/obv2.zip</code></pre>
-<p class="empty-state">Then refresh this page.</p>
+<p class="empty-state">No offence data yet. Stop the servers (Ctrl+C), then from the project directory run:</p>
+<pre><code>./scripts/ingest_flask_data.sh</code></pre>
+<p class="empty-state">Or manually:</p>
+<pre><code>python3 -m oldbailey.cli ingest --obo-xml data/oldbailey_xml/sessionsPapers --db oldbailey.sqlite</code></pre>
+<p class="empty-state">Then restart <code>./run_local.sh</code> and refresh this page. The ingest takes a few minutes (~60k cases).</p>
 {% endif %}
 {% endblock %}

@@ -11,7 +11,8 @@ import json
 import os
 from pathlib import Path
 
-from flask import Flask, abort, jsonify, render_template, request
+import httpx
+from flask import Flask, abort, jsonify, render_template, request, Response
 
 from oldbailey.db.sqlite import (
     cases_by_offence,
@@ -44,9 +45,36 @@ def create_app(db_path: str | Path, backend_url: str | None = None) -> Flask:
     @app.after_request
     def _cors_headers(response):
         response.headers["Access-Control-Allow-Origin"] = "*"
-        response.headers["Access-Control-Allow-Methods"] = "GET, OPTIONS"
+        response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
         response.headers["Access-Control-Allow-Headers"] = "Content-Type"
         return response
+
+    @app.route("/api/generate/<path:case_id>", methods=["POST"])
+    def api_generate_proxy(case_id: str):
+        """Proxy generate requests to FastAPI. Same-origin avoids CORS and connection issues."""
+        backend = (app.config.get("GENERATE_BACKEND_URL") or "http://127.0.0.1:8000").rstrip("/")
+        url = f"{backend}/api/case/{case_id}/generate"
+        try:
+            body = request.get_json(force=True, silent=True) or {}
+            with httpx.Client(timeout=1200.0) as client:
+                r = client.post(url, json=body)
+            return Response(
+                r.content,
+                status=r.status_code,
+                headers={"Content-Type": "application/json"},
+            )
+        except httpx.ConnectError as e:
+            return jsonify({
+                "success": False,
+                "error": "FastAPI backend not reachable. Is run_local.sh running?",
+            }), 502
+        except httpx.TimeoutException as e:
+            return jsonify({
+                "success": False,
+                "error": "Generation timed out. Try a shorter length.",
+            }), 504
+        except Exception as e:
+            return jsonify({"success": False, "error": str(e)}), 502
 
     @app.route("/api/offences", methods=["GET"])
     def api_offences():

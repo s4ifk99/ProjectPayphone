@@ -32,3 +32,10 @@ htmlcov/
 # Environment
 .env
 .env.local
+
+# Local tools and artifacts
+ngrok
+ngrok.tgz
+*ingest_progress.json
+*.sqlite-shm
+*.sqlite-wal

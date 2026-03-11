@@ -8,8 +8,8 @@
 
 <section class="generate-form generate-form-top">
   <h2>Generate Legal Fiction</h2>
-  {% set _backend_url = (generate_backend_url | default('')) or 'http://127.0.0.1:8000' | trim %}
-  <form id="generate-form" method="post" action="{{ (_backend_url or 'http://127.0.0.1:8000') | replace('/', '') | replace('http:','http://') }}/case/{{ case.case_id | e }}/generate" target="_blank">
+  {% set _open_base = (generate_backend_url | default('')) or 'http://127.0.0.1:8000' %}
+  <form id="generate-form" data-case-id="{{ case.case_id | e }}" data-open-base="{{ _open_base | trim }}">
     <label>Mode <select name="mode">
       <option value="dark">dark</option>
       <option value="sympathetic_defendant">sympathetic_defendant</option>
@@ -18,13 +18,15 @@
       <option value="pamphlet_style">pamphlet_style</option>
     </select></label>
     <label>Length <select name="target_length">
+      <option value="400-600">400–600 words (fastest)</option>
       <option value="800-1200" selected>800–1200 words</option>
       <option value="1500-2500">1500–2500 words</option>
     </select></label>
     <label>Model override (optional) <input type="text" name="model_override" placeholder="e.g. mistral:7b-instruct"></label>
-    <p class="generate-note">Opens in a new tab. Generation takes 2–5 minutes.</p>
+    <p class="generate-note">400–600 words: ~2–4 min. 800–1200: ~5–15 min. Stays on this page.</p>
     <button type="submit" id="generate-btn">Generate Legal Fiction</button>
   </form>
+  <div id="generate-status" class="generate-status" style="display:none; margin-top:0.5rem;"></div>
 </section>
 
 <section class="case-details">
@@ -80,7 +82,7 @@
 
 <section class="generate-form generate-form-bottom" style="margin-top: 2rem; border-left: 4px solid #60a5fa;">
   <h2>Generate Legal Fiction</h2>
-  <form id="generate-form-bottom" method="post" action="{{ (_backend_url or 'http://127.0.0.1:8000') | replace('/', '') | replace('', '/') }}/case/{{ case.case_id | e }}/generate" target="_blank">
+  <form id="generate-form-bottom" data-case-id="{{ case.case_id | e }}" data-open-base="{{ _open_base | trim }}">
     <label>Mode <select name="mode">
       <option value="dark">dark</option>
       <option value="sympathetic_defendant">sympathetic_defendant</option>
@@ -89,12 +91,70 @@
       <option value="pamphlet_style">pamphlet_style</option>
     </select></label>
     <label>Length <select name="target_length">
+      <option value="400-600">400–600 words (fastest)</option>
       <option value="800-1200" selected>800–1200 words</option>
       <option value="1500-2500">1500–2500 words</option>
     </select></label>
     <label>Model override (optional) <input type="text" name="model_override" placeholder="e.g. mistral:7b-instruct"></label>
-    <p class="generate-note">Opens in a new tab. Generation takes 2–5 minutes.</p>
+    <p class="generate-note">400–600 words: ~2–4 min. 800–1200: ~5–15 min. Stays on this page.</p>
     <button type="submit" class="generate-btn-bottom">Generate Legal Fiction</button>
   </form>
+  <div id="generate-status-bottom" class="generate-status" style="display:none; margin-top:0.5rem;"></div>
 </section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function() {
+  var TIMEOUT_MS = 1200000;
+  function setupForm(formId, statusId) {
+    var form = document.getElementById(formId);
+    var status = document.getElementById(statusId);
+    if (!form || !status) return;
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var caseId = form.dataset.caseId;
+      var openBase = (form.dataset.openBase || 'http://127.0.0.1:8000').replace(/\/$/, '');
+      var mode = form.querySelector('[name="mode"]').value;
+      var targetLength = form.querySelector('[name="target_length"]').value;
+      var modelOverride = form.querySelector('[name="model_override"]').value || null;
+      var btn = form.querySelector('button[type="submit"]');
+      btn.disabled = true;
+      status.style.display = 'block';
+      status.textContent = 'Generating… (2–15 min for Mistral 7B)';
+      status.className = 'generate-status generate-status-pending';
+      var controller = new AbortController();
+      var timeout = setTimeout(function() { controller.abort(); }, TIMEOUT_MS);
+      fetch('/api/generate/' + encodeURIComponent(caseId), {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ mode: mode, target_length: targetLength, model_override: modelOverride }),
+        signal: controller.signal
+      })
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        clearTimeout(timeout);
+        if (data.success) {
+          status.textContent = 'Done! Opening story…';
+          status.className = 'generate-status generate-status-ok';
+          window.open(openBase + '/case/' + encodeURIComponent(caseId) + '?message=Story+generated.', '_blank');
+        } else {
+          status.textContent = 'Error: ' + (data.error || 'Unknown');
+          status.className = 'generate-status generate-status-error';
+        }
+      })
+      .catch(function(err) {
+        clearTimeout(timeout);
+        status.textContent = err.name === 'AbortError' ? 'Timeout (20 min). Try 400–600 words, or use smollm2:360m for speed.' : ('Error: ' + (err.message || 'Request failed'));
+        status.className = 'generate-status generate-status-error';
+      })
+      .finally(function() {
+        btn.disabled = false;
+      });
+    });
+  }
+  setupForm('generate-form', 'generate-status');
+  setupForm('generate-form-bottom', 'generate-status-bottom');
+})();
+</script>
 {% endblock %}
