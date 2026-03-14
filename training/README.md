@@ -1,8 +1,14 @@
 # Project Payphone – LoRA Fine-tuning
 
-Fine-tune Mistral-7B or Qwen2.5-7B for Old Bailey legal fiction generation.
+Fine-tune Qwen2.5-7B-Instruct for Old Bailey legal fiction generation using QLoRA (Unsloth).
 
-## Prerequisites
+## No GPU? Use Google Colab
+
+If you have **16GB RAM, no GPU** (e.g. Intel i7 laptop): train in the cloud with the free Colab T4 GPU.
+
+See **[TRAINING_COLAB.md](../TRAINING_COLAB.md)** and `notebooks/train_payphone_colab.ipynb`.
+
+## Prerequisites (local training)
 
 - Python 3.10+
 - GPU with ~16GB VRAM (e.g. RTX 4080, A100)
@@ -15,36 +21,80 @@ cd training
 pip install -r requirements.txt
 ```
 
-## Prepare Training Data
+## Payphone Storytelling Pipeline
 
-First, generate stories using the app (or ensure `old_bailey.db` has case-story pairs). Then export:
+### 1. Validate and clean dataset
 
 ```bash
-python ../scripts/export_training_pairs.py --output ../data/training/case_story_pairs.jsonl
+python scripts/validate_training_dataset.py
+# Output: training_data_1/stories_dataset_cleaned.csv (~400 examples)
 ```
 
-Optional filters:
-- `--target-length 400-600` – only 400–600 word stories
-- `--format instruction` – HuggingFace-style instruction/input/output
-- `--limit 1000` – cap number of pairs
-
-## Train
+### 2. Convert to JSONL (chat format)
 
 ```bash
-python train.py --data ../data/training/case_story_pairs.jsonl --output output/payphone-storyteller-lora
+python scripts/convert_training_dataset.py
+# Requires: old_bailey.db
+# Output: training_data_1/training_payphone.jsonl
+```
+
+### 3. Train (QLoRA)
+
+```bash
+python scripts/train_payphone_model.py --data training_data_1/training_payphone.jsonl --output training/output/payphone-storyteller-lora
 ```
 
 Options:
-- `--model Qwen/Qwen2.5-7B-Instruct` – use Qwen instead of Mistral
-- `--epochs 5` – more epochs
-- `--batch-size 1` – reduce if OOM
+- `--model Qwen/Qwen2.5-7B-Instruct` – base model
+- `--epochs 3` – training epochs
+- `--batch-size 2` – reduce to 1 if OOM
 
-## Use the Fine-tuned Model
+### 4. Test
 
-After training, the adapter is saved to `output/payphone-storyteller-lora`. To use with Ollama:
+```bash
+python scripts/test_payphone_model.py
+# Saves outputs to training_data_1/test_outputs/
+```
 
-1. Merge the LoRA adapter with the base model (use `merge_and_unload()` or export to GGUF)
-2. Create an Ollama Modelfile or convert to GGUF and import
-3. Set `OLLAMA_MODEL=payphone-storyteller` in your `.env`
+## Export for Ollama
 
-See HuggingFace PEFT and Ollama docs for merging/import steps.
+After training, the LoRA adapter is saved to `training/output/payphone-storyteller-lora`. To use with Ollama:
+
+1. **Merge** LoRA adapter into base model:
+   ```python
+   from unsloth import FastLanguageModel
+   from peft import PeftModel
+   model, tokenizer = FastLanguageModel.from_pretrained("Qwen/Qwen2.5-7B-Instruct", load_in_4bit=False)
+   model = PeftModel.from_pretrained(model, "training/output/payphone-storyteller-lora")
+   model = model.merge_and_unload()
+   model.save_pretrained("merged_payphone")
+   tokenizer.save_pretrained("merged_payphone")
+   ```
+
+2. **Convert to GGUF** using `llama.cpp` or `ctranslate2`:
+   ```bash
+   python -m transformers.convert_hf_to_gguf merged_payphone --outfile payphone-story.Q4_K_M.gguf
+   ```
+
+3. **Create Ollama Modelfile**:
+   ```
+   FROM ./payphone-story.Q4_K_M.gguf
+   PARAMETER temperature 0.85
+   PARAMETER top_p 0.9
+   PARAMETER repeat_penalty 1.1
+   ```
+
+4. **Create model**: `ollama create payphone-story -f Modelfile`
+
+5. **Set** `OLLAMA_MODEL=payphone-story` in `.env` or run script
+
+## Legacy: app-generated stories
+
+For case-story pairs from the app's stories table:
+
+```bash
+python scripts/export_training_pairs.py --output data/training/case_story_pairs.jsonl
+python train.py --data data/training/case_story_pairs.jsonl
+```
+
+See [TRAINING_ITERATION.md](../TRAINING_ITERATION.md) for the iterative improvement pipeline.

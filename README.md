@@ -178,6 +178,10 @@ Then open http://127.0.0.1:8000/
 - Qwen2.5 7B Instruct
 - Llama 3.1 8B Instruct
 
+**Fine-tuned (after training):**
+
+- `payphone-story` — custom QLoRA model for 400–600 word dark legal fiction. Set `OLLAMA_MODEL=payphone-story`. See [training/README.md](training/README.md) for export steps.
+
 ### Environment variables
 
 | Variable | Default | Description |

@@ -4,3 +4,5 @@ datasets>=2.16.0
 trl>=0.7.0
 accelerate>=0.25.0
 torch>=2.0.0
+unsloth
+bitsandbytes

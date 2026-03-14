@@ -36,6 +36,9 @@ htmlcov/
 # Editor lock files
 .~lock.*
 
+# Notebook outputs
+notebooks/*.zip
+
 # Local tools and artifacts
 ngrok
 ngrok.tgz
