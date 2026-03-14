@@ -33,6 +33,9 @@ htmlcov/
 .env
 .env.local
 
+# Editor lock files
+.~lock.*
+
 # Local tools and artifacts
 ngrok
 ngrok.tgz
