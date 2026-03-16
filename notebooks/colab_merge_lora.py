@@ -14,6 +14,7 @@ import os
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
 
+!pip install -q --upgrade pyarrow
 !pip install -q unsloth transformers peft bitsandbytes accelerate
 
 # -------- CELL 2 --------
@@ -37,11 +38,11 @@ if not os.path.exists(ADAPTER_PATH):
 print(f"Adapter at: {ADAPTER_PATH}")
 
 # -------- CELL 3 --------
+import unsloth  # Must be before transformers, peft
+from unsloth import FastLanguageModel
 import torch
 if torch.cuda.is_available():
     torch.cuda.empty_cache()
-
-from unsloth import FastLanguageModel
 from peft import PeftModel
 
 BASE = "Qwen/Qwen2.5-7B-Instruct"
