@@ -14,7 +14,7 @@ import os
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
 
-!pip install -q transformers peft bitsandbytes accelerate
+!pip install -q unsloth transformers peft bitsandbytes accelerate
 
 # -------- CELL 2 --------
 from google.colab import files
@@ -41,22 +41,19 @@ import torch
 if torch.cuda.is_available():
     torch.cuda.empty_cache()
 
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from unsloth import FastLanguageModel
 from peft import PeftModel
 
 BASE = "Qwen/Qwen2.5-7B-Instruct"
-OUTPUT = "/content/merged_payphone"
-os.makedirs(OUTPUT, exist_ok=True)
+GGUF_DIR = "/content/gguf_output"
+os.makedirs(GGUF_DIR, exist_ok=True)
 
 print("Loading base model (4-bit)...")
-bnb = BitsAndBytesConfig(load_in_4bit=True)
-model = AutoModelForCausalLM.from_pretrained(
-    BASE,
-    quantization_config=bnb,
-    device_map="auto",
-    trust_remote_code=True,
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name=BASE,
+    max_seq_length=512,
+    load_in_4bit=True,
 )
-tokenizer = AutoTokenizer.from_pretrained(BASE, trust_remote_code=True)
 
 print("Loading LoRA adapter...")
 model = PeftModel.from_pretrained(model, ADAPTER_PATH)
@@ -64,32 +61,19 @@ model = PeftModel.from_pretrained(model, ADAPTER_PATH)
 print("Merging...")
 model = model.merge_and_unload()
 
-print("Saving...")
-model.save_pretrained(OUTPUT)
-tokenizer.save_pretrained(OUTPUT)
+print("Saving to GGUF (q8_0) via Unsloth - handles bitsandbytes...")
+model.save_pretrained_gguf(GGUF_DIR, tokenizer, quantization_method="q8_0")
 print("Done.")
 
 # -------- CELL 4 --------
-# Clone llama.cpp (script only; avoid pip deps that conflict with Colab)
-!git clone -q --depth 1 https://github.com/ggerganov/llama.cpp /content/llama.cpp
-# Use PyPI gguf to avoid Colab package conflicts; skip llama.cpp requirements.txt
-!pip install -q gguf
-
-# -------- CELL 5 --------
-# Convert merged model to GGUF (q8_0 ~7.5GB)
-# NO_LOCAL_GGUF=1 uses PyPI gguf instead of gguf-py (avoids dep conflicts)
-import os
-os.environ["NO_LOCAL_GGUF"] = "1"
-!cd /content/llama.cpp && python convert_hf_to_gguf.py /content/merged_payphone \
-  --outfile /content/payphone-story.gguf \
-  --outtype q8_0
-
-# -------- CELL 6 --------
+# Download GGUF (Unsloth saved it in Cell 3; no llama.cpp needed)
 from google.colab import files
-import os
-GGUF_PATH = "/content/payphone-story.gguf"
-if os.path.exists(GGUF_PATH):
-    files.download(GGUF_PATH)
+import glob
+import shutil
+gguf_files = glob.glob("/content/gguf_output/*.gguf")
+if gguf_files:
+    shutil.copy(gguf_files[0], "/content/payphone-story.gguf")
+    files.download("/content/payphone-story.gguf")
     print("Download started. Place in project root, then: ollama create payphone-story -f Modelfile")
 else:
-    print("ERROR: GGUF file not created. Check Cell 5 for errors. Merged model at: /content/merged_payphone")
+    print("ERROR: GGUF not found in /content/gguf_output. Check Cell 3 for errors.")
