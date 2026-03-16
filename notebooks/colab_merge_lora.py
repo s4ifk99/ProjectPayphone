@@ -61,18 +61,26 @@ tokenizer.save_pretrained(OUTPUT)
 print("Done.")
 
 # -------- CELL 4 --------
-# Clone llama.cpp for GGUF conversion
-!git clone -q https://github.com/ggerganov/llama.cpp /content/llama.cpp
-%cd /content/llama.cpp
-!pip install -q -r requirements.txt
+# Clone llama.cpp (script only; avoid pip deps that conflict with Colab)
+!git clone -q --depth 1 https://github.com/ggerganov/llama.cpp /content/llama.cpp
+# Use PyPI gguf to avoid Colab package conflicts; skip llama.cpp requirements.txt
+!pip install -q gguf
 
 # -------- CELL 5 --------
 # Convert merged model to GGUF (q8_0 ~7.5GB)
-!python convert_hf_to_gguf.py /content/merged_payphone \
+# NO_LOCAL_GGUF=1 uses PyPI gguf instead of gguf-py (avoids dep conflicts)
+import os
+os.environ["NO_LOCAL_GGUF"] = "1"
+!cd /content/llama.cpp && python convert_hf_to_gguf.py /content/merged_payphone \
   --outfile /content/payphone-story.gguf \
   --outtype q8_0
 
 # -------- CELL 6 --------
 from google.colab import files
-files.download("/content/payphone-story.gguf")
-print("Download started. Place in project root, then: ollama create payphone-story -f Modelfile")
+import os
+GGUF_PATH = "/content/payphone-story.gguf"
+if os.path.exists(GGUF_PATH):
+    files.download(GGUF_PATH)
+    print("Download started. Place in project root, then: ollama create payphone-story -f Modelfile")
+else:
+    print("ERROR: GGUF file not created. Check Cell 5 for errors. Merged model at: /content/merged_payphone")
