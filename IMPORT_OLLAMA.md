@@ -7,11 +7,12 @@ Use your trained LoRA adapter with Ollama. **For 16GB RAM / no GPU:** Use the Co
 Merge and convert entirely on Colab. Download a single **payphone-story.gguf** file (~7.5GB).
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. **Runtime → Change runtime type → T4 GPU**
-3. **File → Upload notebook** → select `notebooks/colab_full_import.ipynb`  
+2. **If you had OOM before:** Runtime → Restart session (clears GPU), then run all from top
+3. **Runtime → Change runtime type → T4 GPU**
+4. **File → Upload notebook** → select `notebooks/colab_full_import.ipynb`  
    - Or copy the cells from `notebooks/colab_merge_lora.py` into a new notebook
-4. Run all cells. When prompted, upload `payphone-storyteller-lora.zip` (from training download)
-5. Download `payphone-story.gguf` when the last cell finishes
+5. Run all cells. When prompted, upload `payphone-storyteller-lora.zip` (from training download)
+6. Download `payphone-story.gguf` when the last cell finishes
 
 ## Local Steps (after download)
 

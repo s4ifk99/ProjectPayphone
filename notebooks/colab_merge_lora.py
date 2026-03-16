@@ -9,6 +9,11 @@ No heavy work on your 16GB machine.
 """
 
 # -------- CELL 1 --------
+# Reduce CUDA fragmentation; run FIRST, then Runtime → Restart if you had OOM
+import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
+
 !pip install -q transformers peft bitsandbytes accelerate
 
 # -------- CELL 2 --------
@@ -32,6 +37,10 @@ if not os.path.exists(ADAPTER_PATH):
 print(f"Adapter at: {ADAPTER_PATH}")
 
 # -------- CELL 3 --------
+import torch
+if torch.cuda.is_available():
+    torch.cuda.empty_cache()
+
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from peft import PeftModel
 
