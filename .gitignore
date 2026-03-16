@@ -39,6 +39,10 @@ htmlcov/
 # Notebook outputs
 notebooks/*.zip
 
+# Merged model and GGUF (large, generated)
+merged_payphone/
+*.gguf
+
 # Local tools and artifacts
 ngrok
 ngrok.tgz

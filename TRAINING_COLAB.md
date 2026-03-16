@@ -27,67 +27,19 @@ python scripts/convert_training_dataset.py
 
 Training takes ~2–4 hours on T4. When done, `payphone-storyteller-lora.zip` downloads automatically.
 
-## Step 4: Import to Ollama locally
+## Step 4: Import to Ollama (Colab T4 full pipeline)
 
-### Option A: Merge in Colab first (recommended)
+**Recommended:** Use the [**colab_full_import.ipynb**](notebooks/colab_full_import.ipynb) notebook. It merges your LoRA and converts to GGUF entirely on Colab T4, then downloads a ready-to-use `payphone-story.gguf` file. No heavy work on your machine.
 
-Add this cell **before** the zip cell in the notebook (after `trainer.save_model()`):
+1. Upload `notebooks/colab_full_import.ipynb` to Colab (or copy cells from `notebooks/colab_merge_lora.py`)
+2. **Runtime → T4 GPU**, run all cells, upload `payphone-storyteller-lora.zip` when prompted
+3. Download `payphone-story.gguf`
+4. Locally: `ollama create payphone-story -f Modelfile` then `OLLAMA_MODEL=payphone-story ./run_local.sh`
 
-```python
-# Merge LoRA into base model (requires ~16GB RAM in Colab)
-model = model.merge_and_unload()
-model.save_pretrained("/content/merged_payphone")
-tokenizer.save_pretrained("/content/merged_payphone")
-!cd /content && zip -r merged_payphone.zip merged_payphone
-files.download("/content/merged_payphone.zip")
-```
-
-Then convert to GGUF locally (see Option A below).
-
-### Option B: Download LoRA adapter only
-
-If you download just the LoRA zip, you need a machine with enough RAM (~16GB) to merge. You can do the merge in a second Colab session:
-
-1. Upload `payphone-storyteller-lora.zip` to Colab
-2. Run merge script (load base + adapter, merge, save)
-3. Download merged model
-4. Convert to GGUF locally
-
-### Convert to GGUF (local)
-
-```bash
-# Extract the adapter or merged model
-unzip payphone-storyteller-lora.zip -d payphone-lora
-
-# Convert to GGUF (requires llama.cpp or convert_hf_to_gguf)
-# See: https://github.com/ggerganov/llama.cpp#convert-hugging-face-models
-python -m llama_cpp.convert payphone-lora --outfile payphone-story.Q4_K_M.gguf
-# Or use convert_hf_to_gguf from transformers/llama.cpp
-```
-
-### Create Ollama model
-
-Create `Modelfile`:
-
-```
-FROM ./payphone-story.Q4_K_M.gguf
-PARAMETER temperature 0.85
-PARAMETER top_p 0.9
-PARAMETER repeat_penalty 1.1
-```
-
-```bash
-ollama create payphone-story -f Modelfile
-```
-
-### Run Project Payphone
-
-```bash
-OLLAMA_MODEL=payphone-story ./run_local.sh
-```
+See [IMPORT_OLLAMA.md](IMPORT_OLLAMA.md) for full details.
 
 ## Troubleshooting
 
 - **Out of memory in Colab**: The notebook uses `MAX_SEQ_LENGTH=512`, `BATCH_SIZE=1`, `r=4`, attention-only LoRA for T4 15GB. If still OOM: try `MAX_SEQ_LENGTH=256`, or request **A100** (Runtime → Change runtime type → A100, if available).
 - **Colab disconnects**: Save the adapter to Drive periodically; Colab free tier may disconnect after ~12 hours
-- **Merge OOM locally**: Do the merge in Colab (or another GPU machine) and download the merged model
+- **Merge OOM locally**: Use [colab_full_import.ipynb](notebooks/colab_full_import.ipynb) – merge + GGUF conversion on Colab T4, download GGUF directly

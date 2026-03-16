@@ -1,0 +1,7 @@
+# Payphone storytelling model – dark Old Bailey legal fiction (400–600 words)
+# Create with: ollama create payphone-story -f Modelfile
+
+FROM ./payphone-story.gguf
+PARAMETER temperature 0.85
+PARAMETER top_p 0.9
+PARAMETER repeat_penalty 1.1
