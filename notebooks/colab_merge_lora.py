@@ -62,7 +62,11 @@ model = PeftModel.from_pretrained(model, ADAPTER_PATH)
 print("Merging...")
 model = model.merge_and_unload()
 
-print("Saving to GGUF (q8_0) via Unsloth - handles bitsandbytes...")
+print("Saving merged model (HF format, needed for GGUF conversion)...")
+model.save_pretrained(GGUF_DIR)
+tokenizer.save_pretrained(GGUF_DIR)
+
+print("Converting to GGUF (q8_0) via Unsloth...")
 model.save_pretrained_gguf(GGUF_DIR, tokenizer, quantization_method="q8_0")
 print("Done.")
 
