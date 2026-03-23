@@ -180,7 +180,7 @@ Then open http://127.0.0.1:8000/
 
 **Fine-tuned (after training):**
 
-- `payphone-story` — custom QLoRA model for 400–600 word dark legal fiction. Set `OLLAMA_MODEL=payphone-story`. See [training/README.md](training/README.md) for export steps.
+- `payphone-story` — custom QLoRA model for 400–600 word dark legal fiction. Set `OLLAMA_MODEL=payphone-story`. Train and merge on **Colab T4**: [TRAINING_COLAB.md](TRAINING_COLAB.md), [IMPORT_OLLAMA.md](IMPORT_OLLAMA.md); overview in [training/README.md](training/README.md).
 
 ### Environment variables
 
