@@ -45,6 +45,8 @@ payphone-storyteller-lora*.zip
 
 # Merged model and GGUF (large, generated)
 merged_payphone/
+merged_payphone_v2/
+llama.cpp/
 *.gguf
 
 # Local tools and artifacts

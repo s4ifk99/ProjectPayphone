@@ -54,13 +54,27 @@ OLLAMA_MODEL=payphone-story ./run_local.sh
 
 ---
 
-## Appendix: Other platforms (unsupported)
+## Appendix: Other platforms
 
-These are **not** part of the documented workflow; kept for advanced users or if Colab is unavailable.
+**Primary import** remains **Colab T4** above. **Kaggle** is supported for **merge-only** (HF zip); **local** scripts are for maintainers or offline conversion.
 
-### Kaggle
+### Kaggle (merge only → download zip)
 
-Some users run merge + GGUF on Kaggle (more RAM, different stack). See [notebooks/kaggle_full_import.ipynb](notebooks/kaggle_full_import.ipynb)—marked legacy; no guarantee it matches current training exports. The Kaggle notebook mirrors the Colab **install** cell: **`PYTORCH_CUDA_ALLOC_CONF` / `PYTORCH_ALLOC_CONF`** with **`expandable_segments:True`**, plus **Session → Restart** if you hit GPU OOM. Merge uses **`max_memory` + `offload_folder`** and **`PeftModelForCausalLM`**, then **llama.cpp** `convert_hf_to_gguf.py` (not Unsloth). **Internet** must be ON in notebook settings.
+Use [notebooks/kaggle_full_import.ipynb](notebooks/kaggle_full_import.ipynb) when you want **Kaggle’s GPU** only to **merge LoRA into a Hugging Face checkpoint** and download **`payphone-merged-hf.zip`**. The notebook **does not** run **llama.cpp** on Kaggle (that combo caused most failures).
+
+**Do not run `colab_full_import.ipynb` on Kaggle** — it uses **`google.colab.files`** and **`/content/`**, which Kaggle does not provide. Attach your LoRA as a **Kaggle dataset** (**Add data**), then use **`kaggle_full_import.ipynb`** Section 2 to scan **`/kaggle/input`** (no upload widget).
+
+**Two-step workflow:**
+
+1. **Kaggle:** Run all cells → download **`payphone-merged-hf.zip`** (unzip to a folder with `config.json`, tokenizer files, and `model*.safetensors`).
+2. **GGUF:** Either use [colab_full_import.ipynb](notebooks/colab_full_import.ipynb) with your original **`payphone-storyteller-lora.zip`** for a **one-shot** `payphone-story.gguf`, **or** unzip the merged folder locally and run **`convert_hf_to_gguf.py`** (see [scripts/convert_to_gguf.sh](scripts/convert_to_gguf.sh)).
+
+Requirements: **Internet** ON, **GPU** accelerator. Install cell sets **`PYTORCH_CUDA_ALLOC_CONF` / `PYTORCH_ALLOC_CONF`** to **`expandable_segments:True`**; **Session → Restart** after GPU OOM.
+
+- **Kaggle pip red `dependency conflict`:** Ignore if **`OK: transformers …`** prints after install.
+- **Kaggle stderr (cuFFT/cuDNN / computation placer):** Harmless if shard load completes.
+- **Merge / save:** The notebook **`delattr`s `quantization_config` / `pre_quantization_dtype`** before **`save_pretrained`** and removes them from **`config.json`** (do not set those fields to **`None`**).
+- **`TypeError: Object of type dtype is not JSON serializable`** on `model.save_pretrained(...)`: merged configs can still contain dtype objects (`torch.dtype` / numpy dtype). The Kaggle merge cell now sanitizes dtype values in `model.config.__dict__` before save and removes `_pre_quantization_dtype` from `config.json`.
 
 ### Local merge (CPU or GPU)
 

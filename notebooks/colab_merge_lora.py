@@ -132,22 +132,10 @@ def resolve_merged_checkpoint(root):
 MERGED_LOAD_DIR = resolve_merged_checkpoint(MERGED_DIR)
 
 if MERGED_LOAD_DIR is None:
-    # Only config/tokenizer on disk (or nested layout we did not match) — common if disk filled mid-save.
-    print(
-        "WARNING: No model.safetensors / sharded weights under "
-        f"{MERGED_DIR!r} after save_pretrained_merged.\n"
-        "Trying GGUF export directly from the in-memory PEFT model (Unsloth merges inside "
-        "save_pretrained_gguf when is_peft_model is True).\n"
-        "If this fails with NotImplementedError, free Colab disk (!df -h /content) and re-run."
+    raise RuntimeError(
+        f"No merged HF weights found under {MERGED_DIR}. "
+        "Merge did not complete to disk; check free space with `!df -h /content` and re-run Section 3."
     )
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-    print("Converting to GGUF (q8_0) from PEFT+4bit...")
-    model.save_pretrained_gguf(
-        GGUF_DIR, tokenizer, quantization_method="q8_0", maximum_memory_usage=0.5
-    )
-    print("Done.")
 else:
     print(f"Merged checkpoint for reload: {MERGED_LOAD_DIR}")
 
