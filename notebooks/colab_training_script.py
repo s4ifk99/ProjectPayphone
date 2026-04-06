@@ -16,7 +16,20 @@ import os
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
 
-!pip install -q unsloth bitsandbytes transformers datasets trl accelerate peft
+!pip install -q "unsloth==2025.11.1" "unsloth_zoo==2025.11.2" bitsandbytes transformers datasets accelerate peft
+!pip install -q --upgrade --no-deps "torchvision>=0.26.0"
+import importlib.metadata as im
+import torch, torchvision
+
+
+def _pkg_ver(distribution_name):
+    try:
+        return im.version(distribution_name)
+    except im.PackageNotFoundError:
+        return "not installed"
+
+
+print("torch", torch.__version__, "torchvision", torchvision.__version__, "trl", _pkg_ver("trl"))
 
 # -------- CELL 2 --------
 import torch
@@ -50,7 +63,17 @@ if not DATA_PATH:
 print(f"Using {DATA_PATH}")
 
 # -------- CELL 4 --------
+import glob
 import json
+import os
+import site
+
+_nv = []
+for _root in site.getsitepackages():
+    _nv.extend(glob.glob(os.path.join(_root, "nvidia", "*", "lib")))
+if _nv:
+    os.environ["LD_LIBRARY_PATH"] = ":".join(_nv) + ":" + os.environ.get("LD_LIBRARY_PATH", "")
+
 from unsloth import FastLanguageModel
 from datasets import Dataset
 from trl import SFTTrainer

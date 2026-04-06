@@ -10,7 +10,7 @@ Uses Unsloth save_pretrained_merged (not merge_and_unload + save_pretrained) to 
 transformers NotImplementedError (reverse_op) on offloaded 4-bit models. After merge, the
 checkpoint is reloaded from disk before save_pretrained_gguf (GGUF path calls save_pretrained
 on the live model; PEFT/offloaded 4-bit objects break that).
-Pinned: transformers==4.47.1, accelerate==1.1.1 (4.47.2 may be missing on PyPI for some indices; see CELL 1 if pip conflicts).
+Pinned: unsloth==2025.11.1, unsloth_zoo==2025.11.2, then transformers==4.47.1, accelerate==1.1.1, then trl==0.10.1 (--no-deps; not same pip line as unsloth).
 """
 
 # -------- CELL 1 --------
@@ -20,9 +20,32 @@ os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
 
 !pip install -q --upgrade pyarrow
-# Pin HF stack; 4.47.2 may be unavailable on some PyPI mirrors — use 4.47.1. If pip conflicts with unsloth, try >=4.47.0 / >=1.1.0.
-!pip install -q "transformers==4.47.1" "accelerate==1.1.1"
-!pip install -q unsloth peft bitsandbytes
+!pip install -q "unsloth==2025.11.1" "unsloth_zoo==2025.11.2" peft bitsandbytes
+!pip install -q --force-reinstall "transformers==4.47.1" "accelerate==1.1.1"
+!pip install -q --force-reinstall --no-deps "trl==0.10.1"
+!pip install -q --upgrade --no-deps "torchvision>=0.26.0"
+import importlib.metadata as im
+import torch, torchvision
+
+
+def _pkg_ver(distribution_name):
+    try:
+        return im.version(distribution_name)
+    except im.PackageNotFoundError:
+        return "not installed"
+
+
+print(
+    "torch",
+    torch.__version__,
+    "torchvision",
+    torchvision.__version__,
+    "transformers",
+    _pkg_ver("transformers"),
+    "trl",
+    _pkg_ver("trl"),
+)
+# Do not import transformers here — CELL 3 must import unsloth first.
 
 # -------- CELL 2 --------
 from google.colab import files
@@ -46,7 +69,16 @@ print(f"Adapter at: {ADAPTER_PATH}")
 
 # -------- CELL 3 --------
 import gc
+import glob
 import os
+import site
+
+_nv = []
+for _root in site.getsitepackages():
+    _nv.extend(glob.glob(os.path.join(_root, "nvidia", "*", "lib")))
+if _nv:
+    os.environ["LD_LIBRARY_PATH"] = ":".join(_nv) + ":" + os.environ.get("LD_LIBRARY_PATH", "")
+
 import unsloth  # Must be before transformers, peft
 from unsloth import FastLanguageModel
 import torch
